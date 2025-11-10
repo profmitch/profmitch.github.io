@@ -10,24 +10,36 @@ permissions:
   id-token: write
 
 jobs:
+  # JOB 1: Uploads the static content artifact
   deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout source
         uses: actions/checkout@v4
 
+      - name: Setup environment (e.g., node, build steps, if needed)
+        # Add any necessary steps here (e.g., npm install, npm run build)
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./docs # Adjust this to your static site root (e.g., './site' or './public')
+          # This MUST point to the root directory of your finished static files
+          path: ./docs 
 
+  # ---
+  
+  # JOB 2: Deploys the artifact to GitHub Pages
   deploy-to-pages:
     needs: deploy
     runs-on: ubuntu-latest
+    
+    # Define the deployment environment and URL here
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.deployment.outputs.page_url }} 
+      
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
+        # This is the dedicated action to take the uploaded artifact and publish it
         uses: actions/deploy-pages@v4
