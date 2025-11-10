@@ -17,7 +17,7 @@ jobs:
       - name: Checkout source
         uses: actions/checkout@v4
 
-      - name: Setup environment (e.g., node, build steps, if needed)
+     # - name: Setup environment (e.g., node, build steps, if needed)
         # Add any necessary steps here (e.g., npm install, npm run build)
 
       - name: Upload artifact
