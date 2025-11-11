@@ -24,6 +24,18 @@ jobs:
      # - name: Setup environment (e.g., node, build steps, if needed)
         # Add any necessary steps here (e.g., npm install, npm run build)
 
+      - name: Resolve Symbolic Links in Docs Directory
+        run: |
+          # Create a temporary directory for the final content
+          mkdir -p final_static_content
+          
+          # Copy the contents of your source directory (e.g., './docs')
+          # The -a (archive) preserves permissions, and -L (copy-links) resolves symlinks.
+          rsync -aL --delete ./docs/ final_static_content/
+          
+          # OPTIONAL: You may want to delete the original directory now if you use a build step later
+          # rm -rf ./docs
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
