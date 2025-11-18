@@ -1,0 +1,19 @@
+I am giving a midterm examination in a course (Introductory General Chemistry) that is given to students who must get an introduction to chemistry but are not students whose majors are in chemistry or chemical engineering or which require a high level introduction.
+
+I have four chapters to cover. I am showing a study guide below with the backticks of the concepts and points covered for one of the chapters at this time. Examine the concepts below. I would like ten multiple choice questions: at least four choices a,b,c,d, possibly one or two questions that justify use of five choices a,b,c,d,e. At least two, possibly three of the questions should involve calculation questions within the concepts, and the others are not calculations. Feel free to consult any testbanks you have access to.
+
+```
+=== CHAPTER 11: Stoichiometry, Yields, Changes in Enthalpy ===
+• Stoichiometry conversions and keeping track of reactions ratios: how many moles of reactant A produce how many moles of product B
+• Keeping track of grams to moles to grams using molar mass
+• Solutions stoichiometry (concentration, volume to moles) from reactant A to product B
+• Stoichiometry of gases from moles reactant A to moles product B using P, V, T, and R on both sides of equation
+• Volume of n = 1 mol of ideal gas at STP is 22.4 L
+• Titration: what is it? Definition. Use of laboratory buret for accurate volume measurement and determination concentrations. Use of color indicators to determine “equivalence point” or “end point”
+• Limiting and Excess Reactant: concept, definition
+• What is “Reactant Mole Ratio Method” and “Product Method”?
+• Theoretical yield, actual yield, percent yield, reasons for difference between actual and theoretical yield (why is percent yield less or more than 100% and what is reasonable?)
+• Energies in Reactions: changes in enthalpy (DH) between reactants and products. Review of endothermic and exothermic, system and surroundings, law of conservation of energy. Condition for calculation of enthalpy: constant pressure
+• What’s a thermochemical equation and the meaning of the energy value on the left and right side of the reaction arrow.
+• Changes in the energy value of thermochemical equation when stoichiometry changes: if X is energy for 1 mole of reactant, then 2X is the energy for 2 moles of reactant
+```

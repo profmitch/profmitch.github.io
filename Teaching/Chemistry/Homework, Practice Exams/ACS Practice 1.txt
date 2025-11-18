@@ -1,0 +1,105 @@
+
+1. A student is asked to precisely dispense 24. 70 mL of a solution. Which item glassware could be used for this task?
+a) 50 mL beaker
+b) 50 mL buret
+c) 50 mL Erlenmeyer flask
+*d) 50 mL graduated cylinder
+2. The solubility of KClO<sub>3</sub> at several temperatures is shown in the accompanying diagram.
+This requires a plot here
+If a student mixes 10.0 g of KClO<sub>3</sub> with 45.0 g of H<sub>2O</sub> at 70°C. Which statement about the final solution is correct?
+a) It is a saturated solution.
+b) It is a supersaturated solution.
+c) It is an unsaturated solution.
+d) It is impossible to determine.
+3. Cigarette lighters are generally filled with butane. When butane burns in air, heat is given off to the surroundings. Which of the following is true?
+a) The reaction is endothermic.
+*b) The reaction is exothermic.
+c) The reaction is a precipitation reaction.
+d) The reaction is an acid-base reaction.
+4. The phase transition from solid to liquid is called
+a) condensation.
+*b) melting/fusion.
+c) evaporation.
+d) sublimation.
+5. In the Lewis structure for NH3, how many lone pairs of electrons are there?
+a) 0 
+*b) 1 
+c) 2 
+d) 4
+6. What is the concentration of nitric acid in a solution made by diluting 100 mL of a 0.200 M HNO<sub>3</sub> solution to a final volume of 200 mL?
+a) 0.133 M
+b) 0.150 M
+c) 0.167 M
+*d) 0.100 M
+7. Typical grocery store bags are made of polyethylene, which are linked molecules of ethylene (C<sub>2</sub>H<sub>4</sub>). If a bag weighs 12.4 g, how many molecules of ethylene (C<sub>2</sub>H<sub>4</sub>) are in this bag?
+a) 1.36 X 10<sup>24</sup>
+b) 6.02 x 10<sup>23</sup>
+c) 5.33 X 10<sup>23</sup>
+d) 2.66 X 10<sup>23</sup>
+8. A sulfide ion ( S<sup>2-</sup>) contains ...?
+a) 16 electrons
+b) 32 protons
+c) 32 neutrons
+*d) 18 electrons
+9. What is the oxidation number of Chromium in Cr(SO<sub>4</sub>)<sub>2</sub>?
+a) +1
+b) +2
+c) +4
+d) +6
+10. How many Liters is 122 mL?
+a) 0.122 L
+b) 1.22 X 10<sup>5</sup> L
+c) 1.22 L
+d) 1.22 X 10<sup>-3</sup> L
+11. How many protons and neutrons are in <sup>59</sup>Ni?
+a) 59 protons and 47 neutrons
+b) 28 protons and 59 neutrons
+c) 59 protons and 28 neutrons
+d) 28 protons and 31 neutrons
+12. For the following reaction at equilibrium, addition of CO (<i>g</i>) would cause _.
+CO(g) + 2 H<sub>2</sub>(g)  CH<sub>3</sub>OH(g)
+a) a shift left (more reactants formed).
+b) a shift right (more products formed).
+c) No change.
+d) The reaction to slow down.
+13. What volume of a 1.50 M KOH solution would contain 0.750 moles of potassium?
+a) 2 L
+b) 0.250 L
+c) 500 mL
+d) 1 gal
+14. Put the following in order of increasing strength of intermolecular forces: CO, CH<sub>3</sub>OH, H<sub>2</sub>
+a) CO < CH<sub>3</sub>OH < H<sub>2</sub>
+b) CH<sub>3</sub>OH < H<sub>2</sub> < CO
+*c) H<sub>2</sub> < CO < CH<sub>3</sub>OH
+d) CO < H<sub>2</sub> < CH<sub>3</sub>OH
+15. What is the molecular shape of phophorus in PH<sub>3</sub>?
+a) tetrahedral
+b) trigonal planar
+*c) trigonal pyramidal
+d) linear
+16. What is the correct formula for Iron (III) Oxide?
+(A) Fe<sub>3</sub>O
+(B) Fe<sub>2</sub>O<sub>3</sub>
+(C) Fe<sub>3</sub>O<sub>2</sub>
+(D) FeO
+17. Which of the following is the ground state electron configuration of a magnesium atom?
+(A) ls<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>
+(B) ls<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>
+(C) 2p<sup>6</sup>3s<sup>1</sup>
+(D) ls<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>4s<sup>1</sup>
+18. A sample of oxygen gas has a pressure of 1.05 atm and a volume of 22 L. What pressure would be required to compress the gas to 9.0 L?
+a) 2.6 atm
+b) 11.6 atm
+c) 0.43 atm
+d) 297 torr
+19. How many significant digits are in 0.0219 g?
+a) 2
+*b) 3
+c) 4
+d) 5
+20. What insoluble product would be formed by the following reaction?
+(NH<sub>4</sub>)<sub>2</sub>S (<i>aq</i>) + Pb(NO<sub>3</sub>)<sub>2</sub> (<i>aq</i>)
+a) N<sub>2</sub>H<sub>8</sub> (<i>s</i>)
+b) (NH<sub>4</sub>)<sub>2</sub>(NO<sub>3</sub>)<sub>2</sub>) (<i>s</i>
+*c) PbS (<i>s</i>)
+d) All products are soluble
