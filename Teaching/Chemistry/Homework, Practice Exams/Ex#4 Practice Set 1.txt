@@ -15,8 +15,8 @@ d) The point where the reaction mixture begins to change color.
 3. A chemical reaction that releases heat into the surroundings is classified as **exothermic**. What is the sign of the **change in enthalpy** ($\Delta H$) for such a reaction?
 a) Positive ($\Delta H > 0$)
 *b) Negative ($\Delta H < 0$)
-c. Zero ($\Delta H = 0$)
-d. The sign depends on the pressure, not the temperature change.
+c) Zero ($\Delta H = 0$)
+d) The sign depends on the pressure, not the temperature change.
 ... A negative $\Delta H$ signifies that the chemical system is losing energy (releasing heat) to the surroundings, which is the definition of an exothermic process.
 
 4. Consider the thermochemical equation:
@@ -121,17 +121,17 @@ a) The reaction produced more product than theoretically possible.
 *b) The product was impure or contained contaminants.  
 c) The limiting reactant was miscalculated.  
 d) The molar mass of the product was underestimated.  
-e) The reaction was endothermic.
+e) The reaction was endothermic)
 
 17. Which of the following correctly describes an **exothermic reaction**?  
 a) Heat flows from surroundings into the system.  
-b) ΔH is positive.  
+b) Δ*H* is positive.  
 *c) Heat flows from system into surroundings.  
 d) The reaction absorbs energy.
 
 18. In a thermochemical equation, the energy value written on the product side indicates:  
-a) The reaction is endothermic.  
-*b) The reaction is exothermic.  
+a) The reaction is endothermic)  
+*b) The reaction is exothermic)  
 c) The reaction occurs at constant volume.  
 d) The reaction requires a catalyst.
 
@@ -151,739 +151,972 @@ c) 44.8 L
 d) 2.0 L  
 ... Work: 2 mol H₂ requires 1 mol O₂ → 22.4 L at STP
 
-
-
-Of course. Here are the 10 practice questions from the Acids and Bases chapter, presented in a standard multiple-choice format.
-
-***
-
-### 📝 Acids and Bases Midterm Practice Questions
-
-#### **Question 1**
-According to the Brønsted-Lowry theory, what is the **conjugate acid** of the bicarbonate ion, $\text{HCO}_3^-$, which can act as a base?
-A. $\text{CO}_3^{2-}$
-B. $\text{H}_2\text{CO}_3$
-C. $\text{OH}^-$
-D. $\text{H}_3\text{O}^+$
-
-* **Correct Answer:** B. The conjugate acid of a base is formed by the base accepting a proton, which converts $\text{HCO}_3^-$ to $\text{H}_2\text{CO}_3$.
-
-***
-
-#### **Question 2**
-What is the essential difference between a **strong acid** and a **weak acid**?
-A. Strong acids have a much higher concentration than weak acids.
-B. Strong acids react with metals to produce $\text{H}_2$ gas, but weak acids do not.
-C. Strong acids ionize or dissociate completely in water, while weak acids only ionize partially.
-D. Weak acids are always monoprotic, and strong acids are always polyprotic.
-
-* **Correct Answer:** C. The strength of an acid is defined by its degree of ionization: strong acids completely dissociate, while weak acids establish an equilibrium.
-
-***
-
-#### **Question 3**
-Which of the following pairs of substances would form an effective **buffer solution** in aqueous solution?
-A. $\text{HCl}$ (a strong acid) and $\text{NaCl}$
-B. $\text{HCN}$ (a weak acid) and $\text{NaCN}$
-C. $\text{HNO}_3$ (a strong acid) and $\text{KNO}_3$
-D. $\text{NH}_3$ (a weak base) and $\text{NaOH}$ (a strong base)
-E. $\text{H}_2\text{O}$ and $\text{H}_3\text{O}^+$
-
-* **Correct Answer:** B. An effective buffer consists of a weak acid and a salt containing its conjugate base ($\text{CN}^-$), which this pair provides.
-
-***
-
-#### **Question 4**
-The concentration of hydrogen ions in an aqueous solution is typically represented as the concentration of the hydronium ion, $[\text{H}_3\text{O}^+]$, rather than $[\text{H}^+]$. What is the primary reason for this preference?
-A. The $\text{H}^+$ ion is larger and its concentration is harder to measure experimentally.
-B. The $\text{H}^+$ ion is highly reactive and exists only in a solvated form, $\text{H}^+(\text{H}_2\text{O})_n$, most simply written as $\text{H}_3\text{O}^+$.
-C. The $\text{H}_3\text{O}^+$ ion is a weak acid, whereas the $\text{H}^+$ ion is a strong acid.
-D. Using $\text{H}_3\text{O}^+$ ensures that the charges are always balanced in the equilibrium expressions.
-
-* **Correct Answer:** B. A bare proton ($\text{H}^+$) does not exist free in water, but is immediately bonded to a water molecule to form $\text{H}_3\text{O}^+$.
-
-***
-
-#### **Question 5**
-Which of the following acids is correctly classified as a **polyprotic acid**?
-A. Hydrochloric acid ($\text{HCl}$)
-B. Acetic acid ($\text{CH}_3\text{COOH}$)
-C. Phosphoric acid ($\text{H}_3\text{PO}_4$)
-D. Nitric acid ($\text{HNO}_3$)
-
-* **Correct Answer:** C. $\text{H}_3\text{PO}_4$ is a triprotic acid, meaning it is capable of donating three protons per molecule, which is a polyprotic classification.
-
-***
-
-#### **Question 6 (Calculation)**
-A solution of strong acid has a hydronium ion concentration, $[\text{H}_3\text{O}^+]$, of $2.0 \times 10^{-4}\text{ M}$. What is the concentration of the hydroxide ion, $[\text{OH}^-]$, in this solution at $25^\circ\text{C}$?
-A. $5.0 \times 10^{-10}\text{ M}$
-B. $5.0 \times 10^{-11}\text{ M}$
-C. $2.0 \times 10^{-14}\text{ M}$
-D. $2.0 \times 10^{10}\text{ M}$
-
-* **Correct Answer:** B. Using $K_{\text{w}} = [\text{H}_3\text{O}^+][\text{OH}^-]$, where $K_{\text{w}} = 1.0 \times 10^{-14}$, the calculation is $[\text{OH}^-] = (1.0 \times 10^{-14}) / (2.0 \times 10^{-4}) = 5.0 \times 10^{-11}\text{ M}$.
-
-***
-
-#### **Question 7 (Calculation)**
-What is the $\text{pH}$ of a $0.0050\text{ M}$ solution of sodium hydroxide ($\text{NaOH}$)?
-A. $2.30$
-B. $11.70$
-C. $5.00$
-D. $9.00$
-
-* **Correct Answer:** B. For a strong base, $[\text{OH}^-] = 0.0050\text{ M}$. $\text{pOH} = -\log(0.0050) = 2.30$. The $\text{pH}$ is $14.00 - 2.30 = 11.70$.
-
-***
-
-#### **Question 8**
-Which of the following is a general property of an acid?
-A. Feels slippery to the touch.
-B. Turns red litmus paper blue.
-C. Tastes bitter.
-D. Reacts with active metals to produce hydrogen gas, $\text{H}_2$.
-E. Has a $\text{pH}$ value greater than $7.00$.
-
-* **Correct Answer:** D. A general property of acids is that they can dissolve active metals and produce $\text{H}_2$ gas.
-
-***
-
-#### **Question 9**
-The **amphoteric** nature of water ($\text{H}_2\text{O}$) is best demonstrated by which of the following reactions?
-A. $\text{H}_2\text{O} (l) \rightarrow \text{H}_2\text{O} (g)$
-B. $\text{HCl} (aq) + \text{NaOH} (aq) \rightarrow \text{NaCl} (aq) + \text{H}_2\text{O} (l)$
-C. $\text{H}_2\text{O} (l) + \text{H}_2\text{O} (l) \rightleftharpoons \text{H}_3\text{O}^+ (aq) + \text{OH}^- (aq)$
-D. $2\text{H}_2\text{O} (l) + 2\text{K} (s) \rightarrow 2\text{KOH} (aq) + \text{H}_2 (g)$
-
-* **Correct Answer:** C. This autoionization reaction shows one water molecule acting as an acid (proton donor) and the other as a base (proton acceptor).
-
-***
-
-#### **Question 10 (Calculation)**
-A solution has a $\text{pH}$ of $3.52$. What is the corresponding $\text{pOH}$ of this solution at $25^\circ\text{C}$?
-A. $3.52$
-B. $10.48$
-C. $7.00$
-D. $1.0 \times 10^{-14}$
-
-* **Correct Answer:** B. Since $\text{pH} + \text{pOH} = 14.00$, the $\text{pOH} = 14.00 - 3.52 = 10.48$.
-
-
-
-Perfect — thanks for laying out the study guide so clearly. I’ll draft **10 multiple-choice exam questions** aligned with your Chapter 12 outline. I’ll balance conceptual and calculation-based items, include at least two calculation questions (I’ll give you three), and vary the number of answer choices (with one five-choice item).  
-
----
-
-## 📘 Midterm Exam Questions – Chapter 12: Acids and Bases
-
-### **Conceptual Questions**
-1. **Which of the following is a general property of acids?**  
-   a) Bitter taste  
-   b) Slippery feel  
-   c) React with metals to produce H₂ gas  
-   d) Turn red litmus paper blue  
-   **Answer:** c) React with metals to produce H₂ gas  
-   **Explanation:** Acids react with active metals to release hydrogen gas.
-
----
-
-2. **Which of the following acids is diprotic?**  
-   a) HCl  
-   b) H₂SO₄  
-   c) HNO₃  
-   d) CH₃COOH  
-   **Answer:** b) H₂SO₄  
-   **Explanation:** Sulfuric acid can donate two protons, making it diprotic.
-
----
-
-3. **According to the Brønsted–Lowry definition, which statement is correct?**  
-   a) An acid is an electron pair donor.  
-   b) A base is a proton donor.  
-   c) An acid is a proton donor.  
-   d) A base is a proton acceptor.  
-   **Answer:** c) An acid is a proton donor; d) A base is a proton acceptor.  
-   **Explanation:** Brønsted–Lowry acids donate protons, bases accept them.
-
----
-
-4. **Which of the following best explains why [H₃O⁺] is preferred over [H⁺]?**  
-   a) H⁺ does not exist in solution.  
-   b) H⁺ is unstable and associates with water molecules.  
-   c) H₃O⁺ better represents the actual species present.  
-   d) All of the above.  
-   **Answer:** d) All of the above  
-   **Explanation:** Free protons do not exist in solution; they bind to water forming hydronium.
-
----
-
-5. **Which of the following pairs are conjugates?**  
-   a) HCl / Cl⁻  
-   b) NH₃ / NH₂⁻  
-   c) H₂O / OH⁻  
-   d) H₂SO₄ / HSO₄⁻  
-   e) All of the above  
-   **Answer:** e) All of the above  
-   **Explanation:** Each acid has a conjugate base formed by losing a proton.
-
----
-
-6. **Which of the following is a strong base?**  
-   a) NH₃  
-   b) NaOH  
-   c) Ca(OH)₂  
-   d) CH₃NH₂  
-   **Answer:** b) NaOH and c) Ca(OH)₂  
-   **Explanation:** Strong bases fully dissociate in water; NaOH and Ca(OH)₂ are examples.
-
----
-
-7. **Which statement explains why water is amphoteric?**  
-   a) It can donate a proton to form OH⁻.  
-   b) It can accept a proton to form H₃O⁺.  
-   c) It can act as both acid and base depending on the reaction partner.  
-   d) All of the above.  
-   **Answer:** d) All of the above  
-   **Explanation:** Water can act as either acid or base depending on the situation.
-
----
-
-### **Calculation Questions**
-8. **If [H₃O⁺] = 1.0 × 10⁻³ M, what is the pH?**  
-   a) 1.0  
-   b) 3.0  
-   c) 11.0  
-   d) 14.0  
-   **Answer:** b) 3.0  
-   **Explanation:** pH = –log[H₃O⁺] = –log(1.0 × 10⁻³) = 3.
-
----
-
-9. **In pure water at 25 °C, [H₃O⁺] = 1.0 × 10⁻⁷ M. What is [OH⁻]?**  
-   a) 1.0 × 10⁻⁷ M  
-   b) 1.0 × 10⁻¹⁴ M  
-   c) 1.0 × 10⁷ M  
-   d) 1.0 × 10⁻⁶ M  
-   **Answer:** a) 1.0 × 10⁻⁷ M  
-   **Explanation:** Kw = [H₃O⁺][OH⁻] = 1.0 × 10⁻¹⁴ → [OH⁻] = 1.0 × 10⁻⁷ M.
-
----
-
-10. **A solution has [OH⁻] = 2.0 × 10⁻⁵ M. What is the pH?**  
-   a) 4.7  
-   b) 5.3  
-   c) 9.3  
-   d) 9.7  
-   **Answer:** c) 9.3  
-   **Explanation:** pOH = –log(2.0 × 10⁻⁵) ≈ 4.7 → pH = 14 – 4.7 = 9.3.
-
----
-
-## ✅ Structure Recap
-- 7 conceptual questions (definitions, properties, conjugates, amphoterism, strong/weak acids/bases).  
-- 3 calculation questions (pH, Kw, pOH conversions).  
-- One five-choice item (#5).  
-- All questions have clear answers and explanations for study reinforcement.  
-
----
-
-Would you like me to **reformat these into a clean exam-ready document** (with answer key separated at the end), or keep them in this annotated style for teaching/study purposes?
-
-
-## 🧪 Chapter 13: Chemical Kinetics and Equilibrium Practice Quiz
-
-Here are 10 questions covering the concepts from your Chapter 13 study guide, including three calculation-based questions and two questions with five answer choices.
-
-***
-
-#### **Question 1: Collision Theory (Conceptual)**
-For a chemical reaction to be successful and convert reactants to products, collision theory requires that the colliding particles satisfy which two criteria?
-A. High concentration and high temperature.
-B. Equal kinetic energy and opposite charges.
-C. Sufficient energy and correct geometric orientation.
-D. Low activation energy and the presence of a catalyst.
-
-* **Correct Answer:** C. A successful reaction requires the colliding particles to have energy greater than or equal to the **activation energy** ($E_a$) and to be oriented correctly to allow bond breaking and formation.
-
-***
-
-#### **Question 2: Potential Energy Diagram (Conceptual)**
-A potential energy diagram (Reaction Progress Curve) shows that the **products** have a **lower** potential energy than the **reactants**. Which statement is true regarding this reaction?
-A. The activation energy ($E_a$) is very large.
-B. The reaction is **endothermic**, and $\Delta H$ is positive.
-C. The reaction is **exothermic**, and $\Delta H$ is negative.
-D. The reaction rate will be slow regardless of the temperature.
-
-* **Correct Answer:** C. Since the potential energy decreases from reactants to products, energy is released into the surroundings, meaning the reaction is **exothermic** ($\Delta H < 0$). 
-
-[Image of a potential energy diagram for an exothermic reaction showing reactants higher than products and the activation energy hump]
-
-
-***
-
-#### **Question 3: Activated Complex (Conceptual)**
-In a potential energy diagram, the peak of the "hump" represents the **activated complex**. Which of the following best describes this species?
-A. It is the final product of the reaction.
-B. It is a stable, unreactive intermediate that must be consumed before products form.
-C. It is the catalyst for the reaction, which is not consumed.
-D. It is an unstable, energetically excited **transition state** structure that either proceeds to products or reverts to reactants.
-E. It is the substance whose concentration determines the reaction rate.
-
-* **Correct Answer:** D. The activated complex is the highest-energy point along the reaction coordinate, representing a transient, unstable structure in the process of forming or breaking bonds.
-
-***
-
-#### **Question 4: Reaction Rate Factors (Conceptual)**
-Increasing the **concentration** of reactants in an aqueous solution will generally increase the reaction rate. This is primarily due to an increase in which factor?
-A. The number of moles of products being formed.
-B. The **collision frequency** between reactant particles.
-C. The potential energy of the products.
-D. The activation energy ($E_a$).
-
-* **Correct Answer:** B. Higher concentration means more particles are packed into the same volume, which increases the likelihood (frequency) of successful collisions.
-
-***
-
-#### **Question 5: Catalysis (Conceptual)**
-A catalyst affects the rate of a chemical reaction by:
-A. Increasing the potential energy ($\Delta H$) between reactants and products.
-B. Increasing the average kinetic energy of the reactant molecules.
-C. Providing an alternative reaction pathway with a **lower activation energy** ($E_a$).
-D. Being consumed in the reaction to provide the necessary energy.
-E. Increasing the overall yield (equilibrium constant, $K$) of the products.
-
-* **Correct Answer:** C. Catalysts speed up reactions by lowering the energy barrier ($E_a$), allowing more collisions to be successful without being permanently consumed or affecting $\Delta H$.
-
-***
-
-#### **Question 6: Equilibrium Expression ($K$) Calculation (Calculation)**
-Write the equilibrium constant expression ($K_c$) for the following reversible reaction, and calculate the value of $K_c$ given the equilibrium concentrations:
-
-$$2\text{SO}_2 (g) + \text{O}_2 (g) \rightleftharpoons 2\text{SO}_3 (g)$$
-
-Given equilibrium concentrations: $[\text{SO}_2] = 0.50\text{ M}$, $[\text{O}_2] = 0.050\text{ M}$, $[\text{SO}_3] = 0.25\text{ M}$.
-
-A. $K_c = \frac{[2\text{SO}_3]^2}{[2\text{SO}_2]^2[\text{O}_2]} \text{, } K_c = 5.0$
-B. $K_c = \frac{[\text{SO}_3]}{[\text{SO}_2][\text{O}_2]} \text{, } K_c = 10$
-C. $K_c = \frac{[\text{SO}_3]^2}{[\text{SO}_2]^2[\text{O}_2]} \text{, } K_c = 5.0$
-D. $K_c = \frac{[\text{SO}_3]^2}{[\text{SO}_2]^2[\text{O}_2]} \text{, } K_c = 2.5$
-
-* **Correct Answer:** C.
-    * **Expression:** $K_c = \frac{[\text{SO}_3]^2}{[\text{SO}_2]^2[\text{O}_2]}$ (products over reactants, raised to stoichiometric coefficients).
-    * **Calculation:** $K_c = \frac{(0.25)^2}{(0.50)^2(0.050)} = \frac{0.0625}{(0.25)(0.050)} = \frac{0.0625}{0.0125} = 5.0$
-
-***
-
-#### **Question 7: Le Chatelier’s Principle (Concentration Stress) (Conceptual)**
-Consider the following equilibrium:
-$$\text{PCl}_3 (g) + \text{Cl}_2 (g) \rightleftharpoons \text{PCl}_5 (g)$$
-If a large amount of $\text{PCl}_5 (g)$ (product) is suddenly added to the container, in which direction will the equilibrium shift to restore balance?
-A. Shift to the right (forward reaction) to produce more $\text{PCl}_5$.
-B. Shift to the left (reverse reaction) to consume the added $\text{PCl}_5$.
-C. There will be no shift, as adding a product does not affect the equilibrium.
-D. The equilibrium constant ($K$) will increase.
-
-* **Correct Answer:** B. Increasing the concentration of a product is a **stress**. The system counteracts this by favoring the **reverse reaction** to consume the excess product and produce reactants ($\text{PCl}_3$ and $\text{Cl}_2$).
-
-***
-
-#### **Question 8: Le Chatelier’s Principle (Pressure Stress) (Conceptual)**
-Consider the exothermic reaction:
-$$\text{N}_2 (g) + 3\text{H}_2 (g) \rightleftharpoons 2\text{NH}_3 (g)$$
-If the **pressure** in the reaction vessel is **increased** by decreasing the volume, which statement describes the resulting equilibrium shift?
-A. The equilibrium shifts to the left, favoring the side with 4 total moles of gas.
-B. The equilibrium shifts to the right, favoring the side with 2 total moles of gas.
-C. The equilibrium shifts to the right, and the $\Delta H$ becomes positive.
-D. No shift occurs because there are gases on both sides of the reaction.
-E. The equilibrium shifts to the left, which lowers the temperature of the system.
-
-* **Correct Answer:** B. Increasing pressure favors the side of the reaction with the **fewest total moles of gas**. The reactant side has $(1+3) = 4$ moles of gas, while the product side has $2$ moles. The shift will be **to the right** (product side).
-
-***
-
-#### **Question 9: Acid Dissociation Constant ($K_a$) (Calculation)**
-Hydrofluoric acid ($\text{HF}$) dissociates in water according to the reaction:
-$$\text{HF} (aq) + \text{H}_2\text{O} (l) \rightleftharpoons \text{H}_3\text{O}^+ (aq) + \text{F}^- (aq)$$
-Given that the equilibrium constant for this reaction is $K_a = 7.2 \times 10^{-4}$, and the ion product of water is $K_w = 1.0 \times 10^{-14}$, what is the value of the base ionization constant ($K_b$) for its conjugate base, the fluoride ion ($\text{F}^-$)?
-A. $7.2 \times 10^{-4}$
-B. $1.0 \times 10^{-14}$
-C. $1.4 \times 10^{-11}$
-D. $7.2 \times 10^{10}$
-
-* **Correct Answer:** C. The relationship between an acid ($K_a$) and its conjugate base ($K_b$) is $K_w = K_a \cdot K_b$.
-$$K_b = \frac{K_w}{K_a} = \frac{1.0 \times 10^{-14}}{7.2 \times 10^{-4}} \approx 1.4 \times 10^{-11}$$
-
-***
-
-#### **Question 10: Solubility Product ($K_{sp}$) (Calculation)**
-Write the $K_{sp}$ expression for the sparingly soluble solid, lead(II) chloride, $\text{PbCl}_2 (s)$, and calculate its $K_{sp}$ value if the equilibrium concentration of $\text{Pb}^{2+}$ is $0.0159\text{ M}$.
-$$\text{PbCl}_2 (s) \rightleftharpoons \text{Pb}^{2+} (aq) + 2\text{Cl}^- (aq)$$
-A. $K_{sp} = [\text{Pb}^{2+}][\text{Cl}^-] \text{, } K_{sp} = 2.53 \times 10^{-4}$
-B. $K_{sp} = [\text{Pb}^{2+}][\text{Cl}^-]^2 \text{, } K_{sp} = 1.60 \times 10^{-5}$
-C. $K_{sp} = [\text{Pb}^{2+}][\text{Cl}^-]^2 \text{, } K_{sp} = 4.02 \times 10^{-5}$
-D. $K_{sp} = [\text{Pb}^{2+}][2\text{Cl}^-] \text{, } K_{sp} = 7.56 \times 10^{-5}$
-
-* **Correct Answer:** B.
-    * **Expression:** $K_{sp} = [\text{Pb}^{2+}][\text{Cl}^-]^2$ (solids are omitted).
-    * **Concentrations:** If $[\text{Pb}^{2+}] = 0.0159\text{ M}$, then $[\text{Cl}^-] = 2 \times 0.0159\text{ M} = 0.0318\text{ M}$.
-    * **Calculation:** $K_{sp} = (0.0159)(0.0318)^2 \approx 1.60 \times 10^{-5}$.
+21. According to the Brønsted-Lowry theory, what is the **conjugate acid** of the bicarbonate ion, $\text{HCO}_3^-$, which can act as a base?
+a) $\text{CO}_3^{2-}$
+*b) $\text{H}_2\text{CO}_3$
+c) $\text{OH}^-$
+d) $\text{H}_3\text{O}^+$
+... The conjugate acid of a base is formed by the base accepting a proton, which converts $\text{HCO}_3^-$ to $\text{H}_2\text{CO}_3$.
+
+22. What is the essential difference between a **strong acid** and a **weak acid**?
+a). Strong acids have a much higher concentration than weak acids.
+b) Strong acids react with metals to produce $\text{H}_2$ gas, but weak acids do not.
+*c) Strong acids ionize or dissociate completely in water, while weak acids only ionize partially.
+d) Weak acids are always monoprotic, and strong acids are always polyprotic)
+... The strength of an acid is defined by its degree of ionization: strong acids completely dissociate, while weak acids establish an equilibrium.
+
+23. Which of the following pairs of substances would form an effective **buffer solution** in aqueous solution?
+a) $\text{HCl}$ (a strong acid) and $\text{NaCl}$
+*b) $\text{HCN}$ (a weak acid) and $\text{NaCN}$
+c) $\text{HNO}_3$ (a strong acid) and $\text{KNO}_3$
+d) $\text{NH}_3$ (a weak base) and $\text{NaOH}$ (a strong base)
+e) $\text{H}_2\text{O}$ and $\text{H}_3\text{O}^+$
+... An effective buffer consists of a weak acid and a salt containing its conjugate base ($\text{CN}^-$), which this pair provides.
+
+24. The concentration of hydrogen ions in an aqueous solution is typically represented as the concentration of the hydronium ion, $[\text{H}_3\text{O}^+]$, rather than $[\text{H}^+]$. What is the primary reason for this preference?
+a) The $\text{H}^+$ ion is larger and its concentration is harder to measure experimentally.
+*b) The $\text{H}^+$ ion is highly reactive and exists only in a solvated form, $\text{H}^+(\text{H}_2\text{O})_n$, most simply written as $\text{H}_3\text{O}^+$.
+c) The $\text{H}_3\text{O}^+$ ion is a weak acid, whereas the $\text{H}^+$ ion is a strong acid.
+d) Using $\text{H}_3\text{O}^+$ ensures that the charges are always balanced in the equilibrium expressions.
+... A bare proton ($\text{H}^+$) does not exist free in water, but is immediately bonded to a water molecule to form $\text{H}_3\text{O}^+$.
+
+25. Which of the following acids is correctly classified as a **polyprotic acid**?
+a) Hydrochloric acid ($\text{HCl}$)
+b) Acetic acid ($\text{CH}_3\text{COOH}$)
+*c) Phosphoric acid ($\text{H}_3\text{PO}_4$)
+d) Nitric acid ($\text{HNO}_3$)
+... $\text{H}_3\text{PO}_4$ is a triprotic acid, meaning it is capable of donating three protons per molecule, which is a polyprotic classification.
+
+26. A solution of strong acid has a hydronium ion concentration, $[\text{H}_3\text{O}^+]$, of $2.0 \times 10^{-4}\text{ M}$. What is the concentration of the hydroxide ion, $[\text{OH}^-]$, in this solution at $25^\circ\text{C}$?
+a) $5.0 \times 10^{-10}\text{ M}$
+*b) $5.0 \times 10^{-11}\text{ M}$
+c) $2.0 \times 10^{-14}\text{ M}$
+d) $2.0 \times 10^{10}\text{ M}$
+... Using $K_{\text{w}} = [\text{H}_3\text{O}^+][\text{OH}^-]$, where $K_{\text{w}} = 1.0 \times 10^{-14}$, the calculation is $[\text{OH}^-] = (1.0 \times 10^{-14}) / (2.0 \times 10^{-4}) = 5.0 \times 10^{-11}\text{ M}$.
+
+27. What is the $\text{pH}$ of a $0.0050\text{ M}$ solution of sodium hydroxide ($\text{NaOH}$)?
+a) $2.30$
+*b) $11.70$
+c) $5.00$
+d) $9.00$
+... For a strong base, $[\text{OH}^-] = 0.0050\text{ M}$. $\text{pOH} = -\log(0.0050) = 2.30$. The $\text{pH}$ is $14.00 - 2.30 = 11.70$.
+
+28. Which of the following is a general property of an acid?
+a) Feels slippery to the touch.
+b) Turns red litmus paper blue.
+c) Tastes bitter.
+*d) Reacts with active metals to produce hydrogen gas, $\text{H}_2$.
+e) Has a $\text{pH}$ value greater than $7.00$.
+... A general property of acids is that they can dissolve active metals and produce $\text{H}_2$ gas.
+
+29. The **amphoteric** nature of water ($\text{H}_2\text{O}$) is best demonstrated by which of the following reactions?
+a) $\text{H}_2\text{O} (l) \rightarrow \text{H}_2\text{O} (g)$
+b) $\text{HCl} (aq) + \text{NaOH} (aq) \rightarrow \text{NaCl} (aq) + \text{H}_2\text{O} (l)$
+*c) $\text{H}_2\text{O} (l) + \text{H}_2\text{O} (l) \rightleftharpoons \text{H}_3\text{O}^+ (aq) + \text{OH}^- (aq)$
+d) $2\text{H}_2\text{O} (l) + 2\text{K} (s) \rightarrow 2\text{KOH} (aq) + \text{H}_2 (g)$
+... This autoionization reaction shows one water molecule acting as an acid (proton donor) and the other as a base (proton acceptor).
+
+30. A solution has a $\text{pH}$ of $3.52$. What is the corresponding $\text{pOH}$ of this solution at $25^\circ\text{C}$?
+a) $3.52$
+*b) $10.48$
+c) $7.00$
+d) $1.0 \times 10^{-14}$
+... Since $\text{pH} + \text{pOH} = 14.00$, the $\text{pOH} = 14.00 - 3.52 = 10.48$.
+
+31. Which of the following is a general property of acids?  
+a) Bitter taste  
+b) Slippery feel  
+*c) React with metals to produce H₂ gas  
+d) Turn red litmus paper blue  
+... Acids react with active metals to release hydrogen gas.
+
+32. Which of the following acids is diprotic?
+a) HCl  
+*b) H₂SO₄  
+c) HNO₃  
+d) CH₃COOH  
+... Sulfuric acid can donate two protons, making it diprotic
+
+33. According to the Brønsted–Lowry definition, which statement is correct?
+a) An acid is an electron pair donor.  
+b) A base is a proton donor.  
+*c) An acid is a proton donor.  
+d) A base is a proton acceptor.  
+... Brønsted–Lowry acids donate protons, bases accept them.
+
+34. Which of the following best explains why [H₃O⁺] is preferred over [H⁺]?
+a) H⁺ does not exist in solution.  
+b) H⁺ is unstable and associates with water molecules.  
+c) H₃O⁺ better represents the actual species present.  
+*d) All of the above.  
+... Free protons do not exist in solution; they bind to water forming hydronium.
+
+35. Which of the following pairs are conjugates?
+a) HCl / Cl⁻  
+b) NH₃ / NH₂⁻  
+c) H₂O / OH⁻  
+d) H₂SO₄ / HSO₄⁻  
+*e) All of the above  
+... Each acid has a conjugate base formed by losing a proton.
+
+36. Which of the following is a strong base?
+a) NH₃  
+*b) NaOH  
+c) Ca(OH)₂  
+d) CH₃NH₂  
+... Strong bases fully dissociate in water; NaOH and Ca(OH)₂ are examples.
+
+37. Which statement explains why water is amphoteric?
+a) It can donate a proton to form OH⁻.  
+b) It can accept a proton to form H₃O⁺.  
+c) It can act as both acid and base depending on the reaction partner.  
+*d) All of the above.  
+... Water can act as either acid or base depending on the situation.
+
+38. If [H₃O⁺] = 1.0 × 10⁻³ M, what is the pH?
+a) 1.0  
+*b) 3.0  
+c) 11.0  
+d) 14.0  
+... pH = –log[H₃O⁺] = –log(1.0 × 10⁻³) = 3.
+
+39. In pure water at 25 °C, [H₃O⁺] = 1.0 × 10⁻⁷ M. What is [OH⁻]?
+*a) 1.0 × 10⁻⁷ M
+b) 1.0 × 10⁻¹⁴ M  
+c) 1.0 × 10⁷ M  
+d) 1.0 × 10⁻⁶ M  
+... Kw = [H₃O⁺][OH⁻] = 1.0 × 10⁻¹⁴ → [OH⁻] = 1.0 × 10⁻⁷ M.
+
+40. **A solution has [OH⁻] = 2.0 × 10⁻⁵ M. What is the pH?**  
+a) 4.7
+b) 5.3  
+*c) 9.3  
+d) 9.7  
+... pOH = –log(2.0 × 10⁻⁵) ≈ 4.7 → pH = 14 – 4.7 = 9.3.
+
+41. For a chemical reaction to be successful and convert reactants to products, collision theory requires that the colliding particles satisfy which two criteria?
+a) High concentration and high temperature.
+b) Equal kinetic energy and opposite charges.
+*c) Sufficient energy and correct geometric orientation.
+d) Low activation energy and the presence of a catalyst.
+... A successful reaction requires the colliding particles to have energy greater than or equal to the **activation energy** ($E_a$) and to be oriented correctly to allow bond breaking and formation.
+
+42. A potential energy diagram (Reaction Progress Curve) shows that the **products** have a **lower** potential energy than the **reactants**. Which statement is true regarding this reaction?
+a) The activation energy ($E_a$) is very large.
+b) The reaction is **endothermic**, and $\Delta H$ is positive.
+*c) The reaction is **exothermic**, and $\Delta H$ is negative.
+d) The reaction rate will be slow regardless of the temperature.
+... Since the potential energy decreases from reactants to products, energy is released into the surroundings, meaning the reaction is **exothermic** ($\Delta H < 0$).  [Image of a potential energy diagram for an exothermic reaction showing reactants higher than products and the activation energy hump]
+
+43. In a potential energy diagram, the peak of the "hump" represents the **activated complex**. Which of the following best describes this species?
+a) It is the final product of the reaction.
+b) It is a stable, unreactive intermediate that must be consumed before products form.
+c) It is the catalyst for the reaction, which is not consumed.
+*d) It is an unstable, energetically excited **transition state** structure that either proceeds to products or reverts to reactants.
+e) It is the substance whose concentration determines the reaction rate.
+... The activated complex is the highest-energy point along the reaction coordinate, representing a transient, unstable structure in the process of forming or breaking bonds.
+
+44. Increasing the **concentration** of reactants in an aqueous solution will generally increase the reaction rate. This is primarily due to an increase in which factor?
+a) The number of moles of products being formed.
+*b) The **collision frequency** between reactant particles.
+c) The potential energy of the products.
+d) The activation energy ($E_a$).
+... Higher concentration means more particles are packed into the same volume, which increases the likelihood (frequency) of successful collisions.
+
+45. A catalyst affects the rate of a chemical reaction by:
+a) Increasing the potential energy ($\Delta H$) between reactants and products.
+b) Increasing the average kinetic energy of the reactant molecules.
+*c) Providing an alternative reaction pathway with a **lower activation energy** ($E_a$).
+d) Being consumed in the reaction to provide the necessary energy.
+e) Increasing the overall yield (equilibrium constant, $K$) of the products.
+... Catalysts speed up reactions by lowering the energy barrier ($E_a$), allowing more collisions to be successful without being permanently consumed or affecting $\Delta H$.
+
+46. Write the equilibrium constant expression ($K_c$) for the following reversible reaction, and calculate the value of $K_c$ given the equilibrium concentrations:
+    $$2\text{SO}_2 (g) + \text{O}_2 (g) \rightleftharpoons 2\text{SO}_3 (g)$$
+    Given equilibrium concentrations: $[\text{SO}_2] = 0.50\text{ M}$, $[\text{O}_2] = 0.050\text{ M}$, $[\text{SO}_3] = 0.25\text{ M}$.
+a) $K_c = \frac{[2\text{SO}_3]^2}{[2\text{SO}_2]^2[\text{O}_2]} \text{, } K_c = 5.0$
+b) $K_c = \frac{[\text{SO}_3]}{[\text{SO}_2][\text{O}_2]} \text{, } K_c = 10$
+*c) $K_c = \frac{[\text{SO}_3]^2}{[\text{SO}_2]^2[\text{O}_2]} \text{, } K_c = 5.0$
+d) $K_c = \frac{[\text{SO}_3]^2}{[\text{SO}_2]^2[\text{O}_2]} \text{, } K_c = 2.5$
+... **Expression:** $K_c = \frac{[\text{SO}_3]^2}{[\text{SO}_2]^2[\text{O}_2]}$ (products over reactants, raised to stoichiometric coefficients).
+    **Calculation:** $K_c = \frac{(0.25)^2}{(0.50)^2(0.050)} = \frac{0.0625}{(0.25)(0.050)} = \frac{0.0625}{0.0125} = 5.0$
+
+47. Consider the following equilibrium:
+    $$\text{PCl}_3 (g) + \text{Cl}_2 (g) \rightleftharpoons \text{PCl}_5 (g)$$
+    If a large amount of $\text{PCl}_5 (g)$ (product) is suddenly added to the container, in which direction will the equilibrium shift to restore balance?
+a) Shift to the right (forward reaction) to produce more $\text{PCl}_5$.
+*b) Shift to the left (reverse reaction) to consume the added $\text{PCl}_5$.
+c) There will be no shift, as adding a product does not affect the equilibrium.
+d) The equilibrium constant ($K$) will increase.
+... Increasing the concentration of a product is a **stress**. The system counteracts this by favoring the **reverse reaction** to consume the excess product and produce reactants ($\text{PCl}_3$ and $\text{Cl}_2$).
+
+48. Consider the exothermic reaction:
+    $$\text{N}_2 (g) + 3\text{H}_2 (g) \rightleftharpoons 2\text{NH}_3 (g)$$
+    If the **pressure** in the reaction vessel is **increased** by decreasing the volume, which statement describes the resulting equilibrium shift?
+a) The equilibrium shifts to the left, favoring the side with 4 total moles of gas.
+*b) The equilibrium shifts to the right, favoring the side with 2 total moles of gas.
+c) The equilibrium shifts to the right, and the $\Delta H$ becomes positive.
+d) No shift occurs because there are gases on both sides of the reaction.
+e) The equilibrium shifts to the left, which lowers the temperature of the system.
+... Increasing pressure favors the side of the reaction with the **fewest total moles of gas**. The reactant side has $(1+3) = 4$ moles of gas, while the product side has $2$ moles. The shift will be **to the right** (product side).
+
+49. Hydrofluoric acid ($\text{HF}$) dissociates in water according to the reaction:
+    $$\text{HF} (aq) + \text{H}_2\text{O} (l) \rightleftharpoons \text{H}_3\text{O}^+ (aq) + \text{F}^- (aq)$$
+    Given that the equilibrium constant for this reaction is $K_a = 7.2 \times 10^{-4}$, and the ion product of water is $K_w = 1.0 \times 10^{-14}$, what is the value of the base ionization constant ($K_b$) for its conjugate base, the fluoride ion ($\text{F}^-$)?
+a) $7.2 \times 10^{-4}$
+b) $1.0 \times 10^{-14}$
+*c) $1.4 \times 10^{-11}$
+d) $7.2 \times 10^{10}$
+... The relationship between an acid ($K_a$) and its conjugate base ($K_b$) is $K_w = K_a \cdot K_b$.
+    $$K_b = \frac{K_w}{K_a} = \frac{1.0 \times 10^{-14}}{7.2 \times 10^{-4}} \approx 1.4 \times 10^{-11}$$
 	 
-	 
-	 
-Excellent — Chapter 13 gives us a rich mix of conceptual and quantitative material. I’ll draft **10 multiple-choice questions** (with at least three calculation-based items), following the same format as before: clear options (a–d, sometimes a–e), answers, and concise explanations.  
-
----
-
-## 📘 Midterm Exam Questions – Chapter 13: Chemical Kinetics and Equilibrium
-
-### **Conceptual Questions**
-1. **According to Collision Theory, which two conditions must be met for a successful reaction?**  
-   a) Correct orientation and sufficient energy  
-   b) High concentration and low temperature  
-   c) Presence of a catalyst and correct orientation  
-   d) Low activation energy and high pressure  
-   **Answer:** a) Correct orientation and sufficient energy  
-   **Explanation:** Particles must collide with proper orientation and enough energy to overcome activation energy.
-
----
-
-2. **On a potential energy diagram, if the products are lower in energy than the reactants, the reaction is:**  
-   a) Endothermic, ΔH > 0  
-   b) Exothermic, ΔH < 0  
-   c) Endothermic, ΔH < 0  
-   d) Exothermic, ΔH > 0  
-   **Answer:** b) Exothermic, ΔH < 0  
-   **Explanation:** Lower product energy means energy was released, so ΔH is negative.
-
----
-
-3. **What does the “hump” in a reaction progress curve represent?**  
-   a) Reaction enthalpy (ΔH)  
-   b) Activation energy (Ea)  
-   c) Equilibrium constant (K)  
-   d) Collision frequency  
-   **Answer:** b) Activation energy (Ea)  
-   **Explanation:** The hump corresponds to the energy barrier that must be overcome for reaction to proceed.
-
----
-
-4. **Which of the following statements about catalysts is correct?**  
-   a) Catalysts lower ΔH of the reaction.  
-   b) Catalysts increase activation energy.  
-   c) Catalysts are consumed during the reaction.  
-   d) Catalysts lower activation energy but do not change ΔH.  
-   **Answer:** d) Catalysts lower activation energy but do not change ΔH.  
-   **Explanation:** Catalysts speed up reactions by lowering Ea, but they do not alter enthalpy change.
-
----
-
-5. **Which of the following factors does *not* affect reaction rate?**  
-   a) Temperature  
-   b) Concentration  
-   c) Orientation of collisions  
-   d) Color of reactants  
-   **Answer:** d) Color of reactants  
-   **Explanation:** Reaction rate depends on collision frequency, energy, and orientation, not physical color.
-
----
-
-6. **Which of the following stresses would shift equilibrium according to Le Chatelier’s Principle?**  
-   a) Changing concentration of reactants or products  
-   b) Changing temperature  
-   c) Changing pressure (for gases)  
-   d) All of the above  
-   **Answer:** d) All of the above  
-   **Explanation:** All three stresses can perturb equilibrium, prompting the system to restore balance.
-
----
-
-### **Calculation Questions**
-7. **For the equilibrium reaction N₂O₄ (g) ⇌ 2 NO₂ (g), the equilibrium constant expression is:**  
-   a) K = [N₂O₄]/[NO₂]²  
-   b) K = [NO₂]²/[N₂O₄]  
-   c) K = [NO₂]/[N₂O₄]²  
-   d) K = [N₂O₄][NO₂]²  
-   **Answer:** b) K = [NO₂]²/[N₂O₄]  
-   **Explanation:** Products over reactants, with coefficients as exponents.
-
----
-
-8. **At equilibrium, [N₂O₄] = 0.20 M and [NO₂] = 0.40 M. What is K?**  
-   a) 0.80  
-   b) 0.40  
-   c) 0.80/0.20 = 4.0  
-   d) (0.40)² / 0.20 = 0.80  
-   **Answer:** d) 0.80  
-   **Explanation:** K = [NO₂]²/[N₂O₄] = (0.40)² / 0.20 = 0.16 / 0.20 = 0.80.
-
----
-
-9. **For BaSO₄ (s) ⇌ Ba²⁺ (aq) + SO₄²⁻ (aq), if [Ba²⁺] = 1.0 × 10⁻⁵ M and [SO₄²⁻] = 1.0 × 10⁻⁵ M, what is Ksp?**  
-   a) 1.0 × 10⁻¹⁰  
-   b) 1.0 × 10⁻⁵  
-   c) 1.0 × 10⁻²⁰  
-   d) 2.0 × 10⁻⁵  
-   **Answer:** a) 1.0 × 10⁻¹⁰  
-   **Explanation:** Ksp = [Ba²⁺][SO₄²⁻] = (1.0 × 10⁻⁵)(1.0 × 10⁻⁵) = 1.0 × 10⁻¹⁰.
-
----
-
-10. **For the acid dissociation HA ⇌ H⁺ + A⁻, if [HA] = 0.10 M, [H⁺] = 1.0 × 10⁻³ M, and [A⁻] = 1.0 × 10⁻³ M, what is Ka?**  
-   a) 1.0 × 10⁻²  
-   b) 1.0 × 10⁻³  
-   c) 1.0 × 10⁻⁵  
-   d) 1.0 × 10⁻⁶  
-   **Answer:** c) 1.0 × 10⁻⁵  
-   **Explanation:** Ka = [H⁺][A⁻]/[HA] = (1.0 × 10⁻³)(1.0 × 10⁻³)/(0.10) = 1.0 × 10⁻⁶ / 0.10 = 1.0 × 10⁻⁵.
-
----
-
-## ✅ Structure Recap
-- 6 conceptual questions (collision theory, PE diagrams, catalysts, equilibrium stresses).  
-- 4 calculation questions (K expressions, equilibrium constant, Ksp, Ka).  
-- One five-choice item (#6).  
-- All questions include answers and explanations for reinforcement.  
-
----
-
-Would you like me to **compile Chapters 12 and 13 together into a single midterm set** (20 questions, exam-ready with answer key at the end), or keep them as separate chapter modules for flexibility?
-
-
-Here is the final question set for Chapter 14, presented in markdown format with the correct answers and brief rationales.
-
-***
-
-### ☢️ Chapter 14: Radioactivity and Nuclear Chemistry Practice Questions
-
-#### **Question 1 (Calculation)**
-The isotope $\text{Lead}-210$ ($^{210}_{82}\text{Pb}$) undergoes beta ($\beta$) decay. What is the resulting daughter nucleus?
-A. $^{210}_{81}\text{Tl}$ (Thallium)
-B. $^{206}_{80}\text{Hg}$ (Mercury)
-C. $^{210}_{83}\text{Bi}$ (Bismuth)
-D. $^{211}_{82}\text{Pb}$ (Lead)
-
-* **Correct Answer:** **C. $^{210}_{83}\text{Bi}$ (Bismuth)**. In $\beta$ decay, a neutron converts to a proton and an electron. The mass number (A) remains the same, but the atomic number (Z) increases by one ($82 + 1 = 83$).
-
-***
-
-#### **Question 2 (Calculation)**
-A medical dose contains $80.0\text{ mg}$ of the radioisotope $\text{Technetium}-99\text{m}$ ($^{99\text{m}}_{43}\text{Tc}$), which has a half-life of $6.0$ hours. What mass of the radioisotope will remain after $24.0$ hours?
-A. $20.0\text{ mg}$
-B. $10.0\text{ mg}$
-C. $5.00\text{ mg}$
-D. $2.50\text{ mg}$
-
-* **Correct Answer:** **C. $5.00\text{ mg}$**. The number of half-lives ($n$) is $24.0\text{ hr} / 6.0\text{ hr} = 4$. The remaining mass is $80.0\text{ mg} \times (1/2)^4 = 5.00\text{ mg}$.
-
-***
-
-#### **Question 3 (Conceptual)**
-Which of the following ranks the three main types of radiation in order of **increasing penetrating power** (from least penetrating to most penetrating)?
-A. Gamma ($\gamma$), Beta ($\beta$), Alpha ($\alpha$)
-B. Alpha ($\alpha$), Gamma ($\gamma$), Beta ($\beta$)
-C. Beta ($\beta$), Alpha ($\alpha$), Gamma ($\gamma$)
-D. Alpha ($\alpha$), Beta ($\beta$), Gamma ($\gamma$)
-E. Beta ($\beta$), Gamma ($\gamma$), Alpha ($\alpha$)
-
-* **Correct Answer:** **D. Alpha ($\alpha$), Beta ($\beta$), Gamma ($\gamma$)**. Alpha particles, being massive and charged, are the least penetrating. Gamma rays are highly energetic photons and are the most penetrating. 
-
-[Image of shielding requirements for alpha, beta, and gamma radiation]
-
-
-***
-
-#### **Question 4 (Conceptual)**
-In a nuclear fission reactor using $\text{U}-235$ as fuel, what is the primary function of the **control rods**?
-A. To increase the energy of the neutrons to speed up the fission reaction.
-B. To serve as the fuel source that sustains the chain reaction.
-C. To absorb excess **neutrons** to prevent an out-of-control fission event (nuclear explosion).
-D. To boil water and convert it into steam for the turbines.
-
-* **Correct Answer:** **C. To absorb excess neutrons to prevent an out-of-control fission event (nuclear explosion)**. Control rods contain materials (like cadmium or boron) that are excellent neutron absorbers, thereby regulating the rate of the chain reaction.
-
-***
-
-#### **Question 5 (Conceptual)**
-How is electrical power ultimately generated in a conventional nuclear power plant?
-A. Neutrons from the fission reaction are directly converted into an electric current.
-B. The potential energy of the control rods is converted into electrical energy.
-C. The heat from the nuclear disintegration is used to **boil water**, creating steam that turns a turbine connected to a generator.
-D. Gamma rays are captured and immediately converted into direct current (DC) electricity.
-
-* **Correct Answer:** **C. The heat from the nuclear disintegration is used to boil water, creating steam that turns a turbine connected to a generator**. The nuclear reaction's heat is used to generate steam, which drives a conventional electric turbine.
-
-***
-
-#### **Question 6 (Conceptual)**
-Ionizing radiation can damage biomolecules like $\text{DNA}$ in living organisms. Which process represents the **indirect** damage mechanism of this radiation?
-A. The high-energy radiation particle directly colliding with and breaking the $\text{DNA}$ backbone.
-B. The radiation knocking an electron off a nearby water ($\text{H}_2\text{O}$) molecule, creating highly reactive, damaging chemical species.
-C. The heat generated by the radiation increasing the temperature of the tissue.
-D. Neutrons being absorbed by the $\text{DNA}$ molecule, making it radioactive.
-
-* **Correct Answer:** **B. The radiation knocking an electron off a nearby water ($\text{H}_2\text{O}$) molecule, creating highly reactive, damaging chemical species**. Indirect damage occurs when radiation ionizes surrounding water, which then chemically attacks the $\text{DNA}$.
-
-***
-
-#### **Question 7 (Calculation)**
-A scientist measures a sample and finds it has absorbed $0.05\text{ J}$ of radiation energy per kilogram of tissue mass. What is this dose in terms of **rad**?
-A. $50\text{ rad}$
-B. $5\text{ rad}$
-C. $0.05\text{ rad}$
-D. $0.5\text{ rad}$
-
-* **Correct Answer:** **B. $5\text{ rad}$**. The dose is $0.05\text{ J/kg}$, which equals $0.05\text{ Gy}$ (Gray). Since $1\text{ rad} = 0.01\text{ Gy}$, the dose is $0.05\text{ Gy} / 0.01\text{ Gy/rad} = 5\text{ rad}$.
-
-***
-
-#### **Question 8 (Conceptual)**
-The primary cause of an unstable atomic nucleus undergoing radioactive decay is related to which fundamental concept?
-A. The $\text{pH}$ of the surrounding solution.
-B. The lack of sufficient **nuclear binding energy** (the 'glue') to hold the protons and neutrons together in the correct ratio.
-C. The loss of electrons from the outer valence shell.
-D. The surrounding temperature, which lowers the activation energy for decay.
-
-* **Correct Answer:** **B. The lack of sufficient nuclear binding energy (the 'glue') to hold the protons and neutrons together in the correct ratio**. Unstable nuclei decay because the ratio of protons to neutrons is incorrect, resulting in insufficient binding energy.
-
-***
-
-#### **Question 9 (Conceptual)**
-What is the principle behind using **radiometric dating** to determine the age of a fossil or ancient artifact?
-A. Measuring the total number of protons in the sample and comparing it to modern standards.
-B. Calculating the time it takes for an atom to fuse with another atom.
-C. Determining the ratio of a parent radioisotope to its stable daughter product, using the radioisotope's known **half-life**.
-D. Exposing the sample to $\text{X-rays}$ to observe how the energy affects the photographic film.
-
-* **Correct Answer:** **C. Determining the ratio of a parent radioisotope to its stable daughter product, using the radioisotope's known half-life**. The constant rate of decay (half-life) allows scientists to calculate the time since the radioactive material was fixed within the sample.
-
-***
-
-#### **Question 10 (Conceptual)**
-Which statement correctly describes a key difference between **nuclear fission** (used in current power plants) and **nuclear fusion** (the process in the sun)?
-A. Fission involves light nuclei combining, while fusion involves heavy nuclei splitting.
-B. Fission is controlled by magnetic fields, while fusion uses mechanical control rods.
-C. Fusion requires incredibly high temperatures (millions of degrees), whereas fission operates at or near room temperature.
-D. Fission produces less radioactive waste than fusion.
-E. Fusion is currently used globally for commercial electricity generation, while fission remains experimental.
-
-* **Correct Answer:** **C. Fusion requires incredibly high temperatures (millions of degrees), whereas fission operates at or near room temperature**. Fusion requires millions of degrees Celsius to overcome the electrostatic repulsion of the positive nuclei.
-
-Perfect — Chapter 14 is a rich blend of history, physics, biology, and applied nuclear chemistry. I’ll create **10 multiple-choice questions** (with at least three calculation-based items), following the same style as before: clear options, answers, and concise explanations.  
-
----
-
-## 📘 Midterm Exam Questions – Chapter 14: Radioactivity and Nuclear Chemistry
-
-### **Conceptual Questions**
-1. **Which scientist’s work first revealed that uranium salts could expose photographic film, leading to the discovery of radioactivity?**  
-   a) Wilhelm Röntgen  
-   b) Henri Becquerel  
-   c) Marie Curie  
-   d) Ernest Rutherford  
-   **Answer:** b) Henri Becquerel  
-   **Explanation:** Becquerel discovered radioactivity when uranium salts fogged photographic plates.
-
----
-
-2. **Which type of radiation is most damaging biologically but least penetrating?**  
-   a) Alpha particles  
-   b) Beta particles  
-   c) Gamma rays  
-   d) Neutrons  
-   **Answer:** a) Alpha particles  
-   **Explanation:** Alpha particles are highly ionizing but can be stopped by paper or skin.
-
----
-
-3. **Which principle ensures that nuclear decay equations are correctly balanced?**  
-   a) Conservation of energy  
-   b) Conservation of mass and charge  
-   c) Conservation of momentum  
-   d) Conservation of binding energy  
-   **Answer:** b) Conservation of mass and charge  
-   **Explanation:** Both atomic number (charge) and mass number must balance across the decay arrow.
-
----
-
-4. **Which device is commonly used to detect radioactivity by counting ionizing events?**  
-   a) Mass spectrometer  
-   b) Geiger-Müller tube  
-   c) Calorimeter  
-   d) Electroscope  
-   **Answer:** b) Geiger-Müller tube  
-   **Explanation:** The Geiger-Müller tube detects radiation by ionization pulses.
-
----
-
-5. **Which nuclear process powers the Sun?**  
-   a) Fission of U-235  
-   b) Fusion of hydrogen isotopes  
-   c) Fusion of uranium isotopes  
-   d) Chain reaction of neutrons  
-   **Answer:** b) Fusion of hydrogen isotopes  
-   **Explanation:** The Sun’s energy comes from hydrogen nuclei fusing into helium.
-
----
-
-6. **Which radioactive gas can accumulate in homes and increase lung cancer risk?**  
-   a) Radon-222  
-   b) Krypton-85  
-   c) Xenon-133  
-   d) Carbon-14  
-   **Answer:** a) Radon-222  
-   **Explanation:** Radon-222 is a naturally occurring radioactive gas that can accumulate indoors.
-
----
-
-### **Calculation Questions**
-7. **A sample of a radioisotope has a half-life of 10 years. If the initial mass is 80 g, how much remains after 30 years?**  
-   a) 40 g  
-   b) 20 g  
-   c) 10 g  
-   d) 5 g  
-   **Answer:** c) 10 g  
-   **Explanation:** 30 years = 3 half-lives → 80 g → 40 g → 20 g → 10 g.
-
----
-
-8. **Convert 2.0 Gy of radiation dose into rad.**  
-   a) 200 rad  
-   b) 20 rad  
-   c) 2 rad  
-   d) 0.02 rad  
-   **Answer:** a) 200 rad  
-   **Explanation:** 1 Gy = 100 rad → 2 Gy = 200 rad.
-
----
-
-9. **If a tissue absorbs 0.5 Gy of radiation with RBE = 2, what is the dose in sieverts (Sv)?**  
-   a) 0.25 Sv  
-   b) 0.5 Sv  
-   c) 1.0 Sv  
-   d) 2.0 Sv  
-   **Answer:** c) 1.0 Sv  
-   **Explanation:** Sv = RBE × Gy = 2 × 0.5 = 1.0 Sv.
-
----
-
-10. **Carbon-14 has a half-life of 5730 years. A fossil bone contains 25% of its original C-14. Approximately how old is the fossil?**  
-   a) 5730 years  
-   b) 11,460 years  
-   c) 17,190 years  
-   d) 22,920 years  
-   **Answer:** b) 11,460 years  
-   **Explanation:** 25% = 2 half-lives → 2 × 5730 = 11,460 years.
-
----
-
-## ✅ Structure Recap
-- 6 conceptual questions (history, radiation types, conservation, detection, fission/fusion, radon).  
-- 4 calculation questions (half-life, Gy → rad, Sv dose, radiocarbon dating).  
-- Balanced mix of definitions, applications, and quantitative practice.  
-
----
-
-Would you like me to **compile all three chapters (12–14) into a single midterm exam set with 30 questions and a clean answer key at the end**, so you have a ready-to-use exam document?
-
-
+50. Write the $K_{sp}$ expression for the sparingly soluble solid, lead(II) chloride, $\text{PbCl}_2 (s)$, and calculate its $K_{sp}$ value if the equilibrium concentration of $\text{Pb}^{2+}$ is $0.0159\text{ M}$.
+    $$\text{PbCl}_2 (s) \rightleftharpoons \text{Pb}^{2+} (aq) + 2\text{Cl}^- (aq)$$
+a) $K_{sp} = [\text{Pb}^{2+}][\text{Cl}^-] \text{, } K_{sp} = 2.53 \times 10^{-4}$
+*b) $K_{sp} = [\text{Pb}^{2+}][\text{Cl}^-]^2 \text{, } K_{sp} = 1.60 \times 10^{-5}$
+c) $K_{sp} = [\text{Pb}^{2+}][\text{Cl}^-]^2 \text{, } K_{sp} = 4.02 \times 10^{-5}$
+d) $K_{sp} = [\text{Pb}^{2+}][2\text{Cl}^-] \text{, } K_{sp} = 7.56 \times 10^{-5}$
+... **Expression:** $K_{sp} = [\text{Pb}^{2+}][\text{Cl}^-]^2$ (solids are omitted).
+    **Concentrations:** If $[\text{Pb}^{2+}] = 0.0159\text{ M}$, then $[\text{Cl}^-] = 2 \times 0.0159\text{ M} = 0.0318\text{ M}$.
+    **Calculation:** $K_{sp} = (0.0159)(0.0318)^2 \approx 1.60 \times 10^{-5}$.
+51. According to Collision Theory, which two conditions must be met for a successful reaction?
+*a) Correct orientation and sufficient energy  
+b) High concentration and low temperature  
+c) Presence of a catalyst and correct orientation  
+d) Low activation energy and high pressure  
+... Particles must collide with proper orientation and enough energy to overcome activation energy.
+
+52. On a potential energy diagram, if the products are lower in energy than the reactants, the reaction is:
+a) Endothermic, Δ*H* > 0  
+*b) Exothermic, Δ*H* < 0  
+c) Endothermic, Δ*H* < 0  
+d) Exothermic, Δ*H* > 0  
+... Lower product energy means energy was released, so Δ*H* is negative.
+
+53. What does the “hump” in a reaction progress curve represent?
+a) Reaction enthalpy (Δ*H*)
+*b) Activation energy (\(E_a\))  
+c) Equilibrium constant (*K*)  
+d) Collision frequency  
+... The hump corresponds to the energy barrier that must be overcome for reaction to proceed.
+
+54. Which of the following statements about catalysts is correct?
+a) Catalysts lower Δ*H* of the reaction.  
+b) Catalysts increase activation energy.  
+c) Catalysts are consumed during the reaction.  
+*d) Catalysts lower activation energy but do not change Δ*H*.  
+... Catalysts speed up reactions by lowering Ea, but they do not alter enthalpy change.
+
+55. Which of the following factors does *not* affect reaction rate?
+a) Temperature
+b) Concentration  
+c) Orientation of collisions  
+*d) Color of reactants  
+... Reaction rate depends on collision frequency, energy, and orientation, not physical color.
+
+56. Which of the following stresses would shift equilibrium according to Le Chatelier’s Principle?
+a) Changing concentration of reactants or products
+b) Changing temperature  
+c) Changing pressure (for gases)  
+*d) All of the above  
+... All three stresses can perturb equilibrium, prompting the system to restore balance.
+
+57. For the equilibrium reaction N₂O₄ (g) ⇌ 2 NO₂ (g), the equilibrium constant expression is:
+a) *K* = [N₂O₄]/[NO₂]²  
+*b) *K* = [NO₂]²/[N₂O₄]  
+c) *K* = [NO₂]/[N₂O₄]²  
+d) *K* = [N₂O₄][NO₂]²  
+... Products over reactants, with coefficients as exponents.
+
+58. At equilibrium, [N₂O₄] = 0.20 M and [NO₂] = 0.40 M. What is K?
+a) 0.80  
+b) 0.40  
+c) 0.80/0.20 = 4.0  
+*d) (0.40)² / 0.20 = 0.80  
+... *K* = [NO₂]²/[N₂O₄] = (0.40)² / 0.20 = 0.16 / 0.20 = 0.80.
+
+59. For BaSO₄ (s) ⇌ Ba²⁺ (aq) + SO₄²⁻ (aq), if [Ba²⁺] = 1.0 × 10⁻⁵ M and [SO₄²⁻] = 1.0 × 10⁻⁵ M, what is \(*K*_{sp}\)?
+*a) 1.0 × 10⁻¹⁰  
+b) 1.0 × 10⁻⁵  
+c) 1.0 × 10⁻²⁰  
+d) 2.0 × 10⁻⁵  
+... \(*K*_{sp}\) = [Ba²⁺][SO₄²⁻] = (1.0 × 10⁻⁵)(1.0 × 10⁻⁵) = 1.0 × 10⁻¹⁰.
+
+60. For the acid dissociation HA ⇌ H⁺ + A⁻, if [HA] = 0.10 M, [H⁺] = 1.0 × 10⁻³ M, and [A⁻] = 1.0 × 10⁻³ M, what is Ka?  
+a) 1.0 × 10⁻²  
+b) 1.0 × 10⁻³  
+*c) 1.0 × 10⁻⁵  
+d) 1.0 × 10⁻⁶  
+... Ka = [H⁺][A⁻]/[HA] = (1.0 × 10⁻³)(1.0 × 10⁻³)/(0.10) = 1.0 × 10⁻⁶ / 0.10 = 1.0 × 10⁻⁵.
+
+61. The isotope $\text{Lead}-210$ ($^{210}_{82}\text{Pb}$) undergoes beta ($\beta$) decay. What is the resulting daughter nucleus?
+a) $^{210}_{81}\text{Tl}$ (Thallium)
+b) $^{206}_{80}\text{Hg}$ (Mercury)
+*c) $^{210}_{83}\text{Bi}$ (Bismuth)
+d) $^{211}_{82}\text{Pb}$ (Lead)
+... $^{210}_{83}\text{Bi}$ (Bismuth)**. In $\beta$ decay, a neutron converts to a proton and an electron. The mass number (A) remains the same, but the atomic number (Z) increases by one ($82 + 1 = 83$).
+
+62. A medical dose contains $80.0\text{ mg}$ of the radioisotope $\text{Technetium}-99\text{m}$ ($^{99\text{m}}_{43}\text{Tc}$), which has a half-life of $6.0$ hours. What mass of the radioisotope will remain after $24.0$ hours?
+a) $20.0\text{ mg}$
+b) $10.0\text{ mg}$
+*c) $5.00\text{ mg}$
+d) $2.50\text{ mg}$
+... $5.00\text{ mg}$**. The number of half-lives ($n$) is $24.0\text{ hr} / 6.0\text{ hr} = 4$. The remaining mass is $80.0\text{ mg} \times (1/2)^4 = 5.00\text{ mg}$.
+
+63. Which of the following ranks the three main types of radiation in order of **increasing penetrating power** (from least penetrating to most penetrating)?
+a) Gamma ($\gamma$), Beta ($\beta$), Alpha ($\alpha$)
+b) Alpha ($\alpha$), Gamma ($\gamma$), Beta ($\beta$)
+c) Beta ($\beta$), Alpha ($\alpha$), Gamma ($\gamma$)
+*d) Alpha ($\alpha$), Beta ($\beta$), Gamma ($\gamma$)
+e) Beta ($\beta$), Gamma ($\gamma$), Alpha ($\alpha$)
+... Alpha ($\alpha$), Beta ($\beta$), Gamma ($\gamma$)**. Alpha particles, being massive and charged, are the least penetrating. Gamma rays are highly energetic photons and are the most penetrating. 
+   [Image of shielding requirements for alpha, beta, and gamma radiation]
+64. In a nuclear fission reactor using $\text{U}-235$ as fuel, what is the primary function of the **control rods**?
+a) To increase the energy of the neutrons to speed up the fission reaction.
+b) To serve as the fuel source that sustains the chain reaction.
+*c) To absorb excess **neutrons** to prevent an out-of-control fission event (nuclear explosion).
+d) To boil water and convert it into steam for the turbines.
+
+65. To absorb excess neutrons to prevent an out-of-control fission event (nuclear explosion)**. Control rods contain materials (like cadmium or boron) that are excellent neutron absorbers, thereby regulating the rate of the chain reaction.
+    How is electrical power ultimately generated in a conventional nuclear power plant?
+a) Neutrons from the fission reaction are directly converted into an electric current.
+b) The potential energy of the control rods is converted into electrical energy.
+*c) The heat from the nuclear disintegration is used to **boil water**, creating steam that turns a turbine connected to a generator.
+d) Gamma rays are captured and immediately converted into direct current (DC) electricity.
+... The heat from the nuclear disintegration is used to boil water, creating steam that turns a turbine connected to a generator**. The nuclear reaction's heat is used to generate steam, which drives a conventional electric turbine.
+
+66. Ionizing radiation can damage biomolecules like $\text{DNA}$ in living organisms. Which process represents the **indirect** damage mechanism of this radiation?
+a) The high-energy radiation particle directly colliding with and breaking the $\text{DNA}$ backbone.
+*b) The radiation knocking an electron off a nearby water ($\text{H}_2\text{O}$) molecule, creating highly reactive, damaging chemical species.
+c) The heat generated by the radiation increasing the temperature of the tissue.
+d) Neutrons being absorbed by the $\text{DNA}$ molecule, making it radioactive.
+... The radiation knocking an electron off a nearby water ($\text{H}_2\text{O}$) molecule, creating highly reactive, damaging chemical species**. Indirect damage occurs when radiation ionizes surrounding water, which then chemically attacks the $\text{DNA}$.
+
+67. A scientist measures a sample and finds it has absorbed $0.05\text{ J}$ of radiation energy per kilogram of tissue mass. What is this dose in terms of **rad**?
+a) $50\text{ rad}$
+*b) $5\text{ rad}$
+c) $0.05\text{ rad}$
+d) $0.5\text{ rad}$
+... $5\text{ rad}$**. The dose is $0.05\text{ J/kg}$, which equals $0.05\text{ Gy}$ (Gray). Since $1\text{ rad} = 0.01\text{ Gy}$, the dose is $0.05\text{ Gy} / 0.01\text{ Gy/rad} = 5\text{ rad}$.
+
+68. The primary cause of an unstable atomic nucleus undergoing radioactive decay is related to which fundamental concept?
+a) The $\text{pH}$ of the surrounding solution.
+*b) The lack of sufficient **nuclear binding energy** (the 'glue') to hold the protons and neutrons together in the correct ratio.
+c) The loss of electrons from the outer valence shell.
+d) The surrounding temperature, which lowers the activation energy for decay.
+... The lack of sufficient nuclear binding energy (the 'glue') to hold the protons and neutrons together in the correct ratio**. Unstable nuclei decay because the ratio of protons to neutrons is incorrect, resulting in insufficient binding energy.
+
+69. What is the principle behind using **radiometric dating** to determine the age of a fossil or ancient artifact?
+a) Measuring the total number of protons in the sample and comparing it to modern standards.
+b) Calculating the time it takes for an atom to fuse with another atom.
+*c) Determining the ratio of a parent radioisotope to its stable daughter product, using the radioisotope's known **half-life**.
+d) Exposing the sample to $\text{X-rays}$ to observe how the energy affects the photographic film.
+... Determining the ratio of a parent radioisotope to its stable daughter product, using the radioisotope's known half-life**. The constant rate of decay (half-life) allows scientists to calculate the time since the radioactive material was fixed within the sample.
+
+70. Which statement correctly describes a key difference between **nuclear fission** (used in current power plants) and **nuclear fusion** (the process in the sun)?
+a) Fission involves light nuclei combining, while fusion involves heavy nuclei splitting.
+b) Fission is controlled by magnetic fields, while fusion uses mechanical control rods.
+*c) Fusion requires incredibly high temperatures (millions of degrees), whereas fission operates at or near room temperature.
+d) Fission produces less radioactive waste than fusion.
+e) Fusion is currently used globally for commercial electricity generation, while fission remains experimental.
+... Fusion requires incredibly high temperatures (millions of degrees), whereas fission operates at or near room temperature**. Fusion requires millions of degrees Celsius to overcome the electrostatic repulsion of the positive nuclei.
+
+71. Which scientist’s work first revealed that uranium salts could expose photographic film, leading to the discovery of radioactivity?
+a) Wilhelm Röntgen  
+*b) Henri Becquerel  
+c) Marie Curie  
+d) Ernest Rutherford  
+... Becquerel discovered radioactivity when uranium salts fogged photographic plates.
+
+72. Which type of radiation is most damaging biologically but least penetrating?
+*a) Alpha particles
+b) Beta particles  
+c) Gamma rays  
+d) Neutrons  
+... Alpha particles are highly ionizing but can be stopped by paper or skin.
+
+73. Which principle ensures that nuclear decay equations are correctly balanced?
+a) Conservation of energy  
+*b) Conservation of mass and charge  
+c) Conservation of momentum  
+d) Conservation of binding energy  
+... Both atomic number (charge) and mass number must balance across the decay arrow.
+
+74. Which device is commonly used to detect radioactivity by counting ionizing events?
+a) Mass spectrometer  
+*b) Geiger-Müller tube  
+c) Calorimeter  
+d) Electroscope  
+... The Geiger-Müller tube detects radiation by ionization pulses.
+
+75. Which nuclear process powers the Sun?
+a) Fission of U-235  
+*b) Fusion of hydrogen isotopes  
+c) Fusion of uranium isotopes  
+d) Chain reaction of neutrons  
+... The Sun’s energy comes from hydrogen nuclei fusing into helium.
+
+76. Which radioactive gas can accumulate in homes and increase lung cancer risk?
+*a) Radon-222  
+b) Krypton-85  
+c) Xenon-133  
+d) Carbon-14  
+... Radon-222 is a naturally occurring radioactive gas that can accumulate indoors.
+
+77. A sample of a radioisotope has a half-life of 10 years. If the initial mass is 80 g, how much remains after 30 years?
+a) 40 g  
+b) 20 g  
+*c) 10 g  
+d) 5 g  
+... 30 years = 3 half-lives → 80 g → 40 g → 20 g → 10 g.
+
+78. Convert 2.0 Gy of radiation dose into rad
+*a) 200 rad  
+b) 20 rad  
+c) 2 rad  
+d) 0.02 rad  
+... 1 Gy = 100 rad → 2 Gy = 200 rad.
+
+79. If a tissue absorbs 0.5 Gy of radiation with RBE = 2, what is the dose in sieverts (Sv)?
+a) 0.25 Sv  
+b) 0.5 Sv  
+*c) 1.0 Sv  
+d) 2.0 Sv  
+... Sv = RBE × Gy = 2 × 0.5 = 1.0 Sv.
+
+80. Carbon-14 has a half-life of 5730 years. A fossil bone contains 25% of its original C-14. Approximately how old is the fossil?
+a) 5730 years  
+*b) 11,460 years  
+c) 17,190 years  
+d) 22,920 years  
+... 25% = 2 half-lives → 2 × 5730 = 11,460 years.
+
+
+##No_shuffle
+1. Balance the chemical equation: \(\text{__ Na (s)} + \text{__ H}_2\text{O (l)} \rightarrow \text{__ NaOH (aq)} + \text{__ H}_2 \text{(g)}\), where the choices are the coefficients of the four values in order.
+a) 3, 3, 3, 1
+b) 1, 2, 2, 1
+c) 2, 3, 2, 2
+*d) 2, 2, 2, 1
+
+2. How many molecules of \(H_2\) are produced when 332 atoms of Na react in the reaction \(\text{__ Na (s)} + \text{__ H}_2\text{O (l)} \rightarrow \text{__ NaOH (aq)} + \text{__ H}_2 \text{(g)}\), which you balanced in the previous question?
+*a) 166
+b) 332
+c) 664
+d) \(2.75 \times 10^(-22)\)
+... In the balanced reaction you determined, 2 moles of Na atoms will produce 1 mole of \(H_2\) molecules. So \(332 \text{ atoms Na} \times \left(\frac{1 \text{ molecule H}_2}{2 \text{ atoms Na}} \right) = 166 \text{ molecules H}_2 \)
+
+3. Balance the chemical equation: \(\text{__ S (s)} + \text{__ O}_2 \text{ (g)} \rightarrow \text{__ SO}_3 \text{ (g)}\), where the choices are the coefficients of the three values in order.
+a) 1, 1, 1
+b) 2, 2, 3
+*c) 2, 3, 2
+d) 3, 1, 1
+
+4. How many molecules of \(O_2\) are needed when 38 atoms of S react in the reaction
+    \(\text{__ S (s)} + \text{__ O}_2 \text{ (g)} \rightarrow \text{__ SO}_3 \text{ (g)}\), which you balanced in the previous question?
+a) 38
+*b) 57
+c) 76
+d) \(6.022 \times 10^(23)\)
+... In the balanced reaction you determined, 2 moles of S atoms and 3 moles of \(O_2\) molecules. So \(38 \text{ atoms S} \times \left(\frac{3 \text{ molecules O}_2}{2 \text{2 atoms S}} \right) = 57 \text{ molecules O}_2 \)
+
+5. What mass of HgO is required to produce 0.692 mol of \(O_2\) for the reaction
+    \( 2 \text{ HgO (s)} \rightarrow 2 \text{ Hg (ℓ)} + \text{O}_2 \text{ (g)}\)?
+a) 150 g
+b) 225 g
+*c) 300 g
+d) 450 g
+... 0.692 \text{ mol O}_2 \times \frac{2 \text{ mol HgO}}{1 \text{ mol O}_2} \times \frac{216.59 \text{ g HgO}}{1 \text{ mol HgO}} \approx 300 \text{ g HgO}
+
+6. How many moles of Al can be produced from 10.87 g of Ag in this reaction
+   \( \text{Al(NO}_3\text{)}_3 \text{ (aq)} + 3 \text{ Ag (s)} \rightarrow \text{Al (s)} + 3 \text{ AgNO}_3 \text{ (aq)}\)?
+a) 0.010 mol
+*b) 0.034 mol
+c) 0.11 mol
+d) 0.33 mol
+... \( 10.87 \text( g Ag) \times \frac{1 \text{ mol Ag}}{107.78 \text{g Ag}} \times \frac{1 \text{ mol Al}}{3 \text{ mol Ag}} \approx 0.0336 \text{ mol Al}\)
+
+7. How many moles of HCl can be produced from 0.226 g of $\text{SOCl}_2$ for the reaction
+    $\text{SOCl}_2 (\ell) + \text{H}_2\text{O} (\ell) \rightarrow \text{SO}_2 (g) + 2\text{ HCl} (g)$
+... **Calculation:**  Moles of $\text{SOCl}_2$ = $$\text{Moles}_{\text{SOCl}_2} = \frac{0.226\text{ g}}{118.97\text{ g/mol}} \approx 0.0018997\text{ mol}$$. Moles of $\text{HCl}$ (Mole Ratio: $\text{SOCl}_2 : \text{HCl} = 1:2$):
+    $$\text{Moles}_{\text{HCl}} = 0.0018997\text{ mol } \text{SOCl}_2 \times \frac{2\text{ mol } \text{HCl}}{1\text{ mol } \text{SOCl}_2} \approx 0.00380\text{ mol }$$
+a) $0.00190\text{ mol}$ 
+-   (Mistake: Used a $1:1$ ratio)
+*b) $0.00380\text{ mol}$
+c) $0.452\text{ mol}$
+-   (Mistake: Multiplied mass by ratio)
+d) $0.00095\text{ mol}$
+-   (Mistake: Used a $2:1$ ratio inversely)
+
+8. How many moles of $\text{O}_2$ are needed to prepare $1.00\text{ g}$ of $\text{Ca}(\text{NO}_3)_2$ for the reaction 
+    $\text{Ca} (s) + \text{N}_2 (g) + 3\text{ O}_2 (g) \rightarrow \text{Ca}(\text{NO}_3)_2 (s)$
+... **Calculation:**
+    1. $$\text{Moles}_{\text{Ca}(\text{NO}_3)_2} = \frac{1.00\text{ g}}{164.10\text{ g/mol}} \approx 0.006093\text{ mol}$$
+	 2.  Moles of $\text{O}_2$ (Mole Ratio: $\text{O}_2 : \text{Ca}(\text{NO}_3)_2 = 3:1$):
+    $$\text{Moles}_{\text{O}_2} = 0.006093\text{ mol } \text{Ca}(\text{NO}_3)_2 \times \frac{3\text{ mol } \text{O}_2}{1\text{ mol } \text{Ca}(\text{NO}_3)_2} \approx 0.0183\text{ mol }$$
+a) $0.00609\text{ mol}$
+-   (Mistake: Used a $1:1$ ratio)
+*b) $0.0183\text{ mol}$
+c) $0.0549\text{ mol}$
+-   (Mistake: Used a $9:1$ ratio)
+d) $0.00203\text{ mol}$
+-   (Mistake: Used a $1:3$ ratio)
+
+9. How many moles of $\text{C}_2\text{H}_5\text{OH}$ are needed to generate $106.7\text{ g}$ of $\text{H}_2\text{O}$?
+   $\text{C}_2\text{H}_5\text{OH} (\ell) + 3\text{ O}_2 (g) \rightarrow 2\text{ CO}_2 (g) + 3\text{ H}_2\text{O} (\ell)$
+... **Calculation:**
+    1.  Moles of $\text{H}_2\text{O}$:
+    $$\text{Moles}_{\text{H}_2\text{O}} = \frac{106.7\text{ g}}{18.02\text{ g/mol}} \approx 5.921\text{ mol}$$
+    2.  Moles of $\text{C}_2\text{H}_5\text{OH}$ (Mole Ratio: $\text{C}_2\text{H}_5\text{OH} : \text{H}_2\text{O} = 1:3$):
+    $$\text{Moles}_{\text{C}_2\text{H}_5\text{OH}} = 5.921\text{ mol } \text{H}_2\text{O} \times \frac{1\text{ mol } \text{C}_2\text{H}_5\text{OH}}{3\text{ mol } \text{H}_2\text{O}} \approx 1.974\text{ mol }$$
+A. $17.78\text{ mol}$
+-   (Mistake: Used the $\text{MM}$ of $\text{C}_2\text{H}_5\text{OH}$ in the first step)
+B. $5.92\text{ mol}$
+-   (Mistake: Used a $1:1$ ratio, ignoring the $3\text{H}_2\text{O}$)
+*c) $1.974\text{ mol}$
+d) $2.96\text{ mol}$
+-   (Mistake: Used an inverse ratio of $3:2$)
+
+10. What mass of $\text{O}_2$ can be generated by the decomposition of $100.0\text{ g}$ of $\text{NaClO}_3$?
+    $2\text{ NaClO}_3 \rightarrow 2\text{ NaCl} (s) + 3\text{ O}_2 (g)$
+	 **Calculation:**
+    1.  Moles of $\text{NaClO}_3$:
+      $$\text{Moles}_{\text{NaClO}_3} = \frac{100.0\text{ g}}{106.44\text{ g/mol}} \approx 0.9395\text{ mol}$$
+    2.  Moles of $\text{O}_2$ (Mole Ratio: $\text{NaClO}_3 : \text{O}_2 = 2:3$):
+      $$\text{Moles}_{\text{O}_2} = 0.9395\text{ mol } \text{NaClO}_3 \times \frac{3\text{ mol } \text{O}_2}{2\text{ mol } \text{NaClO}_3} \approx 1.4093\text{ mol }$$
+    3.  Mass of $\text{O}_2$:
+      $$\text{Mass}_{\text{O}_2} = 1.4093\text{ mol} \times 32.00\text{ g/mol} \approx 45.10\text{ g }$$
+a) $30.13\text{ g}$
+-    Used a $2:2$ ratio
+*b) $45.10\text{ g}$
+c) $32.00\text{ g}$
+-    Used a $3:2$ ratio, but $1\text{ mol}$ of $\text{NaClO}_3$
+d) $67.57\text{ g}$
+-    Used an inverse ratio of $3:2$ with $\text{MM}$
+
+11. What mass of $\text{Fe}_2\text{O}_3$ must be reacted to generate $324\text{ g}$ of $\text{Al}_2\text{O}_3$?
+    $\text{Fe}_2\text{O}_3 (s) + 2\text{Al} (s) \rightarrow 2\text{Fe} (s) + \text{Al}_2\text{O}_3 (s)$
+... **Calculation:**
+    1.  Moles of $\text{Al}_2\text{O}_3$:
+     $$\text{Moles}_{\text{Al}_2\text{O}_3} = \frac{324\text{ g}}{101.96\text{ g/mol}} \approx 3.177\text{ mol}$$
+    2.  Moles of $\text{Fe}_2\text{O}_3$ (Mole Ratio: $\text{Fe}_2\text{O}_3 : \text{Al}_2\text{O}_3 = 1:1$):
+     $$\text{Moles}_{\text{Fe}_2\text{O}_3} = 3.177\text{ mol } \text{Al}_2\text{O}_3 \times \frac{1\text{ mol } \text{Fe}_2\text{O}_3}{1\text{ mol } \text{Al}_2\text{O}_3} \approx 3.177\text{ mol }$$
+    3.  Mass of $\text{Fe}_2\text{O}_3$:
+     $$\text{Mass}_{\text{Fe}_2\text{O}_3} = 3.177\text{ mol} \times 159.69\text{ g/mol} \approx 507\text{ g }$$
+a) $206\text{ g}$
+-   Used the $\text{MM}$ of $\text{Fe}_2\text{O}_3$ in the denominator
+*b) $507\text{ g}$
+c) $324\text{ g}$
+-   assumed the masses are equal
+d) $464\text{ g}$
+-   Used the wrong mole ratio, $2:1$ or $1:2$
+
+12. What mass of $\text{Fe}$ is generated when $100.0\text{ g}$ of $\text{Al}$ are reacted?
+    $\text{Fe}_2\text{O}_3 (s) + 2\text{ Al} (s) \rightarrow 2\text{ Fe} (s) + \text{Al}_2\text{O}_3 (s)$
+... **Calculation:**
+    1.  Moles of $\text{Al}$:
+     $$\text{Moles}_{\text{Al}} = \frac{100.0\text{ g}}{26.98\text{ g/mol}} \approx 3.706\text{ mol}$$
+    2.  Moles of $\text{Fe}$ (Mole Ratio: $\text{Al} : \text{Fe} = 2:2$ or $1:1$):
+     $$\text{Moles}_{\text{Fe}} = 3.706\text{ mol } \text{Al} \times \frac{2\text{ mol } \text{Fe}}{2\text{ mol } \text{Al}} = 3.706\text{ mol }$$
+    3.  Mass of $\text{Fe}$:
+     $$\text{Mass}_{\text{Fe}} = 3.706\text{ mol} \times 55.85\text{ g/mol} \approx 207.0\text{ g }$$
+a) $55.85\text{ g}$
+-   Assumed $1\text{ mol}$ of $\text{Fe}$ is produced
+*b) $207.0\text{ g}$
+c) $100.0\text{ g}$
+-   Assumed the masses are equal
+d) $103.5\text{ g}$
+-   Used a $2:1$ ratio
+
+13. What mass of $\text{MnO}_2$ is produced when $445\text{ g}$ of $\text{H}_2\text{O}$ are reacted?
+    $\text{H}_2\text{O} (\ell) + 2\text{MnO}_4^- (aq) + \text{Br}^- (aq) \rightarrow \text{BrO}_3^- (aq) + 2\text{MnO}_2 (s) + 2\text{OH}^- (aq)$
+... **Calculation:**
+    1.  Moles of $\text{H}_2\text{O}$:
+     $$\text{Moles}_{\text{H}_2\text{O}} = \frac{445\text{ g}}{18.02\text{ g/mol}} \approx 24.695\text{ mol}$$
+    2.  Moles of $\text{MnO}_2$ (Mole Ratio: $\text{H}_2\text{O} : \text{MnO}_2 = 1:2$):
+     $$\text{Moles}_{\text{MnO}_2} = 24.695\text{ mol } \text{H}_2\text{O} \times \frac{2\text{ mol } \text{MnO}_2}{1\text{ mol } \text{H}_2\text{O}} \approx 49.39\text{ mol }$$
+    3.  Mass of $\text{MnO}_2$:
+     $$\text{Mass}_{\text{MnO}_2} = 49.39\text{ mol} \times 86.94\text{ g/mol} \approx 4294\text{ g }$$
+*a) $4294\text{ g}$
+b) $2147\text{ g}$
+-   Used a $1:1$ ratio
+c) $49.39\text{ g}$
+-   Answered in moles instead of mass
+d) $98.78\text{ g}$
+-   Used an incorrect $\text{MM}$ for $\text{MnO}_2$
+
+14. For reaction \(\text{Pb (s)} + \text{PbO}_2 \text{ (s)} + 2\text{ H}_2\text{SO}_4 \text{ (aq)} \rightarrow 2\text{ PbSO}_4 \text{ (s)} + 2 \text{ H}_2\text{O} \text{ (}\ell\text{)}\), what mass of $$\text{PbSO}_4$$ is produced with 29.6 g $$\text{H}_2\text{SO}_4$$?
+... $$29.6 \text{ g H}_2\text{SO}_4 \times \frac{1 \text{ mol H}_2\text{SO}_4}{98.08 \text{ g H}_2\text{SO}_4} \times \frac{2 \text{ mol PbSO}_4}{2 \text{ mol H}_2\text{SO}_4} \times \frac{303.26 \text{ mol PbSO}_4}{1 \text{ mol PbSO}_4} = 91.5 \text{ g PbSO}_4$$
+a) 76.3 g  
+*b) 91.6 g
+c) 108.4 g  
+d) 152.9 g
+
+15. What volume of 0.779 M NaCl will react with 40.8 mol of Pb(NO3)2 if the reaction is below?
+   $$\text{Pb(NO}_3\text{)}_2 + 2\text{ NaCl} \rightarrow \text{PbCl}_2 + 2\text{ NaNO}_3$$
+... $$40.8 \text{ mol Pb(NO}_3\text{)}_2 \times \frac{2 \text{ mol NaCl}}{1 \text{ mol Pb(NO}_3\text{)}_2} \times \frac{1 \text{ L solution}}{0.779 \text{ mol NaCl}}$$
+a) 78.5 L  
+b) 92.3 L  
+*c) 104.8 L
+d) 122.1 L
+
+16. What volume of 0.905 M $$\text{H}_2\text{SO}_4$$ reacts with 26.7 mL of 0.554 M NaOH?
+    \text{H}_2\text{SO}_4 + 2\text{ NaOH} \rightarrow \text{Na}_2\text{SO}_4 + 2 \text{ H}_2\text{O}
+... $$26.7 \text{ mL NaOH} \times \frac{1 \text{ L NaOH}}{1000 \text{ mL NaOH}} \times \frac{0.554 \text{ mol NaOH}}{1 \text{ L NaOH}} \times \frac{1 \text{ mol H}_2\text{SO}_4}{2 \text{ mol NaOH}} \times \frac{1 \text{ L H}_2\text{SO}_4}{0.905 \text{ mol H}_2\text{SO}_4} \times \frac{1000 \text{ mL H}_2\text{SO}_4}{\text{ mL H}_2\text{SO}_4}$$
+a) 6.13 mL  
+b) 7.35 mL  
+*c) 8.17 mL
+d) 9.72 mL
+
+17. A lab technician mixes a solution of 0.015 M $$Mg(OH)_2$$. What is \([\text{OH}^−]\) assuming complete dissocation in aqueous solution?
+a) \([\text{OH}^−]\) is less than 0.015 M 
+b) \([\text{OH}^−]\) is equal to 0.015 M
+c) \([\text{OH}^−]\) is greater than 0.015 M 
+d) not enough information is available to determine \([\text{OH}^−]\)
+
+18. Of the statements below, select the best that is true of $$\text{^{56}Fe}$$?
+a) It has 56 neutrons
+b) It has 56 protons
+*c) It has 56 protons and neutrons
+d) It has 26 neutrons according to Periodic Table
+
+19. Of the statements below, select the best that is true of $$\text{^{27}_{13}Al}$$?
+a) It has 40 neutrons and protons
+b) It has 13 protons 
+c) It has 27 neutrons
+*d) all of the above
+e) none of the above
+
+20. Which of the statements below is true and most correct of gamma decay events?
+a) It produces gamma particles
+b) It produces beta particles
+*c) It produces gamma rays (photons)
+d) It produces radiation that can NOT penetrate a sheet of paper
+e) none of the above 
+
+21. Francium has an atomic number of 87. Which nuclear equation below represents alpha particle emission of francium-212?
+... Alpha decay involves the emission of an **alpha particle** ($^4_2\text{He}$), which decreases the mass number ($A$) by 4 and the atomic number ($Z$) by 2.
+     $212 - 4 = 208$ (Mass Number) and $87 - 2 = 85$ (Atomic Number). Element 85 is Astatine ($\text{At}$).
+a) $^212_{87}\text{Fr} \rightarrow ^212_{88}\text{Ra} + ^0_{-1}e$
+-   shows $\beta$ decay
+*b) $^212_{87}\text{Fr} \rightarrow ^208_{85}\text{At} + ^4_2\text{He}$
+c) $^212_{87}\text{Fr} \rightarrow ^208_{87}\text{Fr} + ^4_0\gamma$
+-   incorrect mass/charge conservation)
+d) $^216_{89}\text{Ac} \rightarrow ^212_{87}\text{Fr} + ^4_2\text{He}$
+-   reactant/product inverted)
+
+22. Tin has an atomic number of 50. It undergoes decay with beta particle emission of tin-121. Which of the isotopes below is the daughter isotope?
+... Beta decay involves the emission of a **beta particle** ($^0_{-1}e$), which keeps the mass number ($A$) the same but increases the atomic number ($Z$) by 1.
+    $121 + 0 = 121$ (Mass Number) and $50 + 1 = 51$ (Atomic Number). Element 51 is Antimony ($\text{Sb}$).
+a) $^{120}_{51}\text{Sb}$
+-   incorrect mass number change
+b) $^{121}_{49}\text{In}$
+-   incorrect atomic number change
+*c). $^{121}_{51}\text{Sb}$
+d) $^{125}_{52}\text{Te}$
+-   incorrect $\beta$ decay result
+
+23. Technetium has an atomic number of 43. Which nuclear equation below represents beta particle emission of technetium-99?
+... Beta decay involves the emission of a **beta particle** ($^0_{-1}e$), which increases the atomic number ($Z$) by 1 while conserving the mass number ($A$).
+    $99 + 0 = 99$ (Mass Number) and $43 + 1 = 44$ (Atomic Number). Element 44 is Ruthenium ($\text{Ru}$).
+a) $^99_{43}\text{Tc} \rightarrow ^99_{43}\text{Tc} + ^0_0\gamma$
+-   $\gamma$ emission
+b) $^99_{43}\text{Tc} \rightarrow ^95_{41}\text{Nb} + ^4_2\text{He}$
+-   $\alpha$ emission
+*c) $^99_{43}\text{Tc} \rightarrow ^99_{44}\text{Ru} + ^0_{-1}e$
+d) $^99_{44}\text{Ru} \rightarrow ^99_{43}\text{Tc} + ^0_{+1}e$
+-   Positron emission
+
+24. A sample from an asteroid is found to contain 1 g of technetium-99 (half-life = 210,000 y) for every 3 g of ruthenium-99, its daughter isotope. How old is the asteroid if initially it has no $$^{99}Ru$$
+... Fraction of parent remaining \(= \frac{1}{1+3} = \frac{1}{4} = 2^{-2}\). Thus \(t = 2 \times 210{,}000 = 420{,}000\,\text{y}\).
+a) \(105{,}000\,\text{y}\)
+b) \(210{,}000\,\text{y}\)
+*c) \(420{,}000\,\text{y}\)
+d) \(630{,}000\,\text{y}\)
+
+25. How many moles of $\text{HCl}$ can be produced from $0.226\text{ g}$ of $\text{SOCl}_2$ for given reaction?
+    $\text{SOCl}_2 (\ell) + \text{H}_2\text{O} (\ell) \rightarrow \text{SO}_2 (g) + 2\text{HCl} (g)$
+... **Calculation:**
+    1.  Moles of $\text{SOCl}_2$:
+      $$\text{Moles}_{\text{SOCl}_2} = \frac{0.226\text{ g}}{118.97\text{ g/mol}} \approx 0.0018997\text{ mol}$$
+    2.  Moles of $\text{HCl}$ (Mole Ratio: $\text{SOCl}_2 : \text{HCl} = 1:2$):
+      $$\text{Moles}_{\text{HCl}} = 0.0018997\text{ mol } \text{SOCl}_2 \times \frac{2\text{ mol } \text{HCl}}{1\text{ mol } \text{SOCl}_2} \approx 0.00380\text{ mol }$$
+a) $0.00190\text{ mol}$
+-   Used a $1:1$ ratio
+*b) $0.00380\text{ mol}$
+c) $0.452\text{ mol}$
+-   Multiplied mass by ratio
+d) $0.00095\text{ mol}$
+-   Used a $2:1$ ratio inversely
+
+26. How many moles of $\text{O}_2$ are needed to prepare $1.00\text{ g}$ of $\text{Ca}(\text{NO}_3)_2$?
+    $\text{Ca} (s) + \text{N}_2 (g) + 3\text{O}_2 (g) \rightarrow \text{Ca}(\text{NO}_3)_2 (s)$
+... **Calculation:**
+    1.  Moles of $\text{Ca}(\text{NO}_3)_2$:
+      $$\text{Moles}_{\text{Ca}(\text{NO}_3)_2} = \frac{1.00\text{ g}}{164.10\text{ g/mol}} \approx 0.006093\text{ mol}$$
+    2.  Moles of $\text{O}_2$ (Mole Ratio: $\text{O}_2 : \text{Ca}(\text{NO}_3)_2 = 3:1$):
+      $$\text{Moles}_{\text{O}_2} = 0.006093\text{ mol } \text{Ca}(\text{NO}_3)_2 \times \frac{3\text{ mol } \text{O}_2}{1\text{ mol } \text{Ca}(\text{NO}_3)_2} \approx 0.0183\text{ mol }$$
+a) $0.00609\text{ mol}$ (Mistake: Used a $1:1$ ratio)
+*b) $0.0183\text{ mol}$ (**Correct Answer**)
+c) $0.0549\text{ mol}$ (Mistake: Used a $9:1$ ratio)
+d) $0.00203\text{ mol}$ (Mistake: Used a $1:3$ ratio)
+
+27. How many moles of $\text{C}_2\text{H}_5\text{OH}$ are needed to generate $106.7\text{ g}$ of $\text{H}_2\text{O}$?
+    $\text{C}_2\text{H}_5\text{OH} (\ell) + 3\text{O}_2 (g) \rightarrow 2\text{CO}_2 (g) + 3\text{H}_2\text{O} (\ell)$
+... **Calculation:**
+    1.  Moles of $\text{H}_2\text{O}$:
+     $$\text{Moles}_{\text{H}_2\text{O}} = \frac{106.7\text{ g}}{18.02\text{ g/mol}} \approx 5.921\text{ mol}$$
+    2.  Moles of $\text{C}_2\text{H}_5\text{OH}$ (Mole Ratio: $\text{C}_2\text{H}_5\text{OH} : \text{H}_2\text{O} = 1:3$):
+     $$\text{Moles}_{\text{C}_2\text{H}_5\text{OH}} = 5.921\text{ mol } \text{H}_2\text{O} \times \frac{1\text{ mol } \text{C}_2\text{H}_5\text{OH}}{3\text{ mol } \text{H}_2\text{O}} \approx 1.974\text{ mol }$$
+a) $17.78\text{ mol}$
+-   Used the $\text{MM}$ of $\text{C}_2\text{H}_5\text{OH}$ in the first step
+b) $5.92\text{ mol}$
+-   Used a $1:1$ ratio, ignoring the $3\text{H}_2\text{O}$
+*c) $1.974\text{ mol}$
+d) $2.96\text{ mol}$
+-   Used an inverse ratio of $3:2$
+
+28. What mass of $\text{O}_2$ can be generated by the decomposition of $100.0\text{ g}$ of $\text{NaClO}_3$?
+    $2\text{NaClO}_3 \rightarrow 2\text{NaCl} (s) + 3\text{O}_2 (g)$
+... **Calculation:**
+    1.  Moles of $\text{NaClO}_3$:
+     $$\text{Moles}_{\text{NaClO}_3} = \frac{100.0\text{ g}}{106.44\text{ g/mol}} \approx 0.9395\text{ mol}$$
+    2.  Moles of $\text{O}_2$ (Mole Ratio: $\text{NaClO}_3 : \text{O}_2 = 2:3$):
+     $$\text{Moles}_{\text{O}_2} = 0.9395\text{ mol } \text{NaClO}_3 \times \frac{3\text{ mol } \text{O}_2}{2\text{ mol } \text{NaClO}_3} \approx 1.4093\text{ mol }$$
+    3.  Mass of $\text{O}_2$:
+     $$\text{Mass}_{\text{O}_2} = 1.4093\text{ mol} \times 32.00\text{ g/mol} \approx 45.10\text{ g }$$
+a) $30.13\text{ g}$
+-   Mistake: Used a $2:2$ ratio
+*b) $45.10\text{ g}$
+c) $32.00\text{ g}$
+-   Used a $3:2$ ratio, but $1\text{ mol}$ of $\text{NaClO}_3$
+d) $67.57\text{ g}$
+-   Used an inverse ratio of $3:2$ with $\text{MM}$
+
+29. What mass of $\text{Fe}_2\text{O}_3$ must be reacted to generate $324\text{ g}$ of $\text{Al}_2\text{O}_3$?
+    $\text{Fe}_2\text{O}_3 (s) + 2\text{Al} (s) \rightarrow 2\text{Fe} (s) + \text{Al}_2\text{O}_3 (s)$
+... **Calculation:**
+    1.  Moles of $\text{Al}_2\text{O}_3$:
+     $$\text{Moles}_{\text{Al}_2\text{O}_3} = \frac{324\text{ g}}{101.96\text{ g/mol}} \approx 3.177\text{ mol}$$
+    2.  Moles of $\text{Fe}_2\text{O}_3$ (Mole Ratio: $\text{Fe}_2\text{O}_3 : \text{Al}_2\text{O}_3 = 1:1$):
+     $$\text{Moles}_{\text{Fe}_2\text{O}_3} = 3.177\text{ mol } \text{Al}_2\text{O}_3 \times \frac{1\text{ mol } \text{Fe}_2\text{O}_3}{1\text{ mol } \text{Al}_2\text{O}_3} \approx 3.177\text{ mol }$$
+    3.  Mass of $\text{Fe}_2\text{O}_3$:
+     $$\text{Mass}_{\text{Fe}_2\text{O}_3} = 3.177\text{ mol} \times 159.69\text{ g/mol} \approx 507\text{ g }$$
+a) $206\text{ g}$
+-  Used the $\text{MM}$ of $\text{Fe}_2\text{O}_3$ in the denominator
+*b) $507\text{ g}$
+c) $324\text{ g}$
+-  assumed the masses are equal
+d) $464\text{ g}$
+-  used the wrong mole ratio, $2:1$ or $1:2$
+
+30. What mass of $\text{Fe}$ is generated when $100.0\text{ g}$ of $\text{Al}$ are reacted?
+   $\text{Fe}_2\text{O}_3 (s) + 2\text{Al} (s) \rightarrow 2\text{Fe} (s) + \text{Al}_2\text{O}_3 (s)$
+... **Calculation:**
+    1.  Moles of $\text{Al}$:
+      $$\text{Moles}_{\text{Al}} = \frac{100.0\text{ g}}{26.98\text{ g/mol}} \approx 3.706\text{ mol}$$
+    2.  Moles of $\text{Fe}$ (Mole Ratio: $\text{Al} : \text{Fe} = 2:2$ or $1:1$):
+      $$\text{Moles}_{\text{Fe}} = 3.706\text{ mol } \text{Al} \times \frac{2\text{ mol } \text{Fe}}{2\text{ mol } \text{Al}} = 3.706\text{ mol }$$
+    3.  Mass of $\text{Fe}$:
+      $$\text{Mass}_{\text{Fe}} = 3.706\text{ mol} \times 55.85\text{ g/mol} \approx 207.0\text{ g }$$
+a) $55.85\text{ g}$
+-   assumed $1\text{ mol}$ of $\text{Fe}$ is produced
+*b) $207.0\text{ g}$ 
+c) $100.0\text{ g}$
+-   assumed the masses are equal
+d) $103.5\text{ g}$
+-   used a $2:1$ ratio
+
+31. What mass of $\text{MnO}_2$ is produced when $445\text{ g}$ of $\text{H}_2\text{O}$ are reacted?
+    $\text{H}_2\text{O} (\ell) + 2\text{MnO}_4^- (aq) + \text{Br}^- (aq) \rightarrow \text{BrO}_3^- (aq) + 2\text{MnO}_2 (s) + 2\text{OH}^- (aq)$
+... **Calculation:**
+    1.  Moles of $\text{H}_2\text{O}$:
+      $$\text{Moles}_{\text{H}_2\text{O}} = \frac{445\text{ g}}{18.02\text{ g/mol}} \approx 24.695\text{ mol}$$
+    2.  Moles of $\text{MnO}_2$ (Mole Ratio: $\text{H}_2\text{O} : \text{MnO}_2 = 1:2$):
+      $$\text{Moles}_{\text{MnO}_2} = 24.695\text{ mol } \text{H}_2\text{O} \times \frac{2\text{ mol } \text{MnO}_2}{1\text{ mol } \text{H}_2\text{O}} \approx 49.39\text{ mol }$$
+    3.  Mass of $\text{MnO}_2$:
+      $$\text{Mass}_{\text{MnO}_2} = 49.39\text{ mol} \times 86.94\text{ g/mol} \approx 4294\text{ g }$$
+*a) $4294\text{ g}$
+b) $2147\text{ g}$
+-   Used a $1:1$ ratio
+c) $49.39\text{ g}$
+-   Answered in moles instead of mass
+d) $98.78\text{ g}$
+-   Used an incorrect $\text{MM}$ for $\text{MnO}_2$
+
+32.  Which of the reactions below are correctly written to show the dissolution of NaCl in water?
+a) $$\text{NaCl (s)} \;\rightarrow\; \text{NaCl (aq)}$$
+-   shows NaCl simply becoming aqueous without dissociation
+*b) $$\text{NaCl (s)} \;\rightarrow\; \text{Na}^+ (aq) + \text{Cl}^- (aq)$$
++   NaCl dissociates into sodium and chloride ions in water
+c) $$\text{NaCl (aq)} \;\rightarrow\; \text{Na}^+ (s) + \text{Cl}^- (s)$$
+-   ions are not solids.
+d) $$\text{NaCl (s)} + \text{H}_2\text{O (ℓ)} \;\rightarrow\; \text{NaOH (aq)} + \text{HCl (aq)}$$
+-   NaCl does not hydrolyze to NaOH and HCl in water.
+
+33.  Which of the reactions below are correctly written to show the dissolution of CaHCO₃ in water?
+*a) $$\text{CaHCO}_3 (s) \;\rightarrow\; \text{Ca}^{2+} (aq) + \text{HCO}_3^- (aq)$$
++   calcium bicarbonate dissolves to give calcium ions and bicarbonate ions.
+b) $$\text{CaHCO}_3 (s) \;\rightarrow\; \text{CaHCO}_3 (aq)$$
+-   does not show ionic dissociation.
+c) $$\text{CaHCO}_3 (s) \;\rightarrow\; \text{Ca}^{2+} (aq) + \text{CO}_3^{2-} (aq) + \text{H}^+ (aq)$$
+-   over‑dissociation; bicarbonate does not fully split into carbonate and proton in simple dissolution.
+d) $$\text{CaHCO}_3 (s) + \text{H}_2\text{O (ℓ)} \;\rightarrow\; \text{Ca(OH)}_2 (aq) + \text{CO}_2 (g)$$
+-   this represents a decomposition reaction, not dissolution.
+
+34. What is the pH range for an acidic solution?
+... Acidic solutions have hydrogen ion concentrations greater than neutral, giving pH values below 7.
+*a) pH < 7
+b) pH = 7
+c) pH > 7
+d) Both (a) and (b)
+e) None of the above
+
+35. What is the pH range for a basic solution?
+... Basic (alkaline) solutions have lower hydrogen ion concentrations than neutral, giving pH values above 7.
+a) pH < 7  
+b) pH = 7  
+*c) pH > 7
+d) Both (b) and (c)  
+e) None of the above  
+
+36. What is \([H^+]\) for a neutral solution at 25 °C?
+... In pure water at 25 °C, \([H^+] = [OH^-] = 1.0 \times 10^{-7}\,\text{M}\).
+*a) \(1.0 \times 10^{-7}\,\text{M}\)
+b) \(1.0 \times 10^{-14}\,\text{M}\)  
+c) \(1.0 \times 10^{7}\,\text{M}\)  
+d) None of the above  
+
+37. What is \([OH^-]\) for a neutral solution at 25 °C?
+... Neutral water has equal concentrations of hydrogen and hydroxide ions, each \(1.0 \times 10^{-7}\,\text{M}\).
+a) \(1.0 \times 10^{-7}\,\text{M}\)
+b) \(1.0 \times 10^{-14}\,\text{M}\)  
+c) \(1.0 \times 10^{7}\,\text{M}\)  
+d) Both (a) and (b)  
+e) None of the above  
+
+
+81. At STP, one mole of an ideal gas occupies 22.4 L.
+*a) true
+b) false 
+
+82. The limiting reactant is the substance that is present in excess and remains after the reaction is complete.
+a) true
+*b) false 
+
+83. Percent yield is calculated as (actual yield ÷ theoretical yield) × 100%.
+*a) true
+b) false 
+
+84. In a thermochemical equation, the energy value changes proportionally with the number of moles of reactant.
+*a) true
+b) false 
+
+85. A Brønsted–Lowry acid is defined as a proton acceptor.
+a) true
+*b) false
+
+86. Water (H₂O) can act as both an acid and a base depending on the reaction partner.
+*a) true
+b) false
+
+87. Strong acids completely dissociate in water, while weak acids only partially dissociate.
+*a) true
+b) false 
+
+88. The ion [H⁺] is preferred over [H₃O⁺] when describing acidity in aqueous solution.
+a) true
+*b) false 
+
+89. For a chemical reaction to occur, particles must collide with correct orientation and sufficient energy.
+*a) true
+b) false 
+
+90. A catalyst lowers the activation energy of a reaction but does not change ΔH.
+*a) true
+b) false 
+
+91. If the products of a reaction have higher potential energy than the reactants, the reaction is exothermic.
+a) true
+*b) false 
+
+92. Increasing the concentration of reactants generally increases the rate of reaction.
+*a) true
+b) false 
+
+93. Alpha particles are highly penetrating and can pass through thick lead shielding.
+a) true
+*b) false 
+
+94. The half-life of a radioisotope is the time required for half of the sample to decay.
+*a) true
+b) false 
+
+95. The sievert (Sv) is a radiation unit that accounts for biological effectiveness of radiation exposure.
+*a) true
+b) false 
+
+96. In a stoichiometry calculation involving solutions, the pathway often requires converting volume and concentration ($V \times C$) to find the mole amount.
+*a) true
+b) false 
+
+97. The **theoretical yield** is the maximum amount of product that can be formed from the initial amounts of reactants, while the **actual yield** is always greater than the theoretical yield
+a) true
+*b) false 
+... The actual yield is typically less than or equal to the theoretical yield; it should not be more than $100\%$ due to experimental error
+
+98. If a chemical reaction is **exothermic**, the potential energy ($\text{PE}$) of the products will be lower than the $\text{PE}$ of the reactants, resulting in a negative change in enthalpy ($\Delta H$)
+*a) true
+b) false 
+
+99. Changing the stoichiometric coefficients in a thermochemical equation requires a proportional change in the energy value ($\Delta H$) associated with the reaction
+*a) true
+b) false 
+
+100. $\text{H}_2\text{O}$ is considered **amphoteric** because it can undergo an acid-base reaction with itself, acting as both a proton donor (acid) and a proton acceptor (base)
+*a) true
+b) false 
+
+101. The **hydronium ion** concentration $[\text{H}_3\text{O}^+]$ is often preferred over the hydrogen ion concentration $[\text{H}^+]$ because $\text{H}^+$ is a highly reactive bare proton that is always solvated by a water molecule in aqueous solution
+*a) true
+b) false 
+
+102. A strong acid differs from a weak acid primarily because the strong acid is present at a higher concentration
+a) true
+*b) false
+... The essential difference is the **degree of ionization** or dissociation, not the concentration
+
+103. If the $\text{pH}$ of a solution is $3.00$, the corresponding $\text{pOH}$ of the solution must be $10.00$ because $\text{pH} + \text{pOH} = 14.00$
+*a) true
+b) false 
+
+104. According to **Collision Theory**, a successful chemical reaction requires colliding molecules to have sufficient kinetic energy **and** the correct geometric orientation.
+*a) true
+b) false 
+
+105. A **catalyst** increases the rate of a chemical reaction by changing the potential energy ($\Delta H$) of the reactants and products
+a) true
+*b) false
+... A catalyst increases the rate by lowering the **activation energy** ($E_a$) but **does not change** the potential energy of the reactants or products ($\Delta H$)
+
+106. If the temperature of an endothermic reaction at equilibrium is raised, Le Chatelier's Principle predicts the equilibrium will shift to favor the reverse reaction (exothermic direction)
+a) true
+*b) false 
+... Higher temperatures favor the direction where compounds have higher enthalpy (the **endothermic** direction)
+
+107. When writing the equilibrium constant expression ($K$), the concentrations of pure liquids (like $\text{H}_2\text{O}$ in an aqueous reaction) and pure solids (like precipitates) are **omitted** from the expression
+*a) true
+b) false 
+
+108. **Alpha particles** are the most penetrating type of common radiation and require thick concrete or lead shielding
+a) true
+*b) false
+... **Gamma rays** are the most penetrating[cite: 136, 137]. [cite_start]Alpha particles are the least penetrating
+
+109. A nuclear fission **chain reaction** is controlled in a power reactor by using special materials in control rods to capture the excess neutrons emitted by the fuel
+*a) true
+b) false 
+
+110. The measurement unit **sievert ($\text{Sv}$)** assesses tissue damage by combining the energy dose (Gray, $\text{Gy}$) with a factor for the type of radiation (Relative Biological Effectiveness, $\text{RBE}$)
+*a) true
+b) false 

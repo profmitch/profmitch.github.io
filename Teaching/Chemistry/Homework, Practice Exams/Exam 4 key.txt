@@ -1,0 +1,156 @@
+Exam key
+# Exam analysis and notes
+
+Below are targeted notes on correctness, clarity, and potential pitfalls for each item. I flag ambiguous wording, miskeys, formatting issues, and any science/chemistry inaccuracies. I also suggest minor edits where they enhance fairness or precision.
+
+---
+
+## Multiple choice items
+
+### Limiting reactant and STP basics (Q1–Q2)
+- **Q1 — Correct key:** b  
+  - **Notes:**  
+    - **a (Incorrect):** Describes excess reactant, not limiting.  
+    - **c (Incorrect):** Coefficients don’t determine limiting status; available moles do.  
+    - **d (Incorrect):** Molar mass is irrelevant to limiting status unless combined with amount.  
+- **Q2 — Correct key:** b  
+  - **Notes:**  
+    - **a (Incorrect):** 1 L is wrong.  
+    - **b (Correct):** 22.4 L/mol at STP for ideal gases.  
+    - **c (Incorrect):** 8.314 is \(R\) with units \( \text{L} \cdot \text{atm} / (\text{mol} \cdot \text{K})\), not a molar volume.  
+    - **d (Incorrect):** Avogadro’s number is a count, not volume; unit shown “L” makes it doubly incorrect.
+
+### Thermochemistry and acid properties (Q3–Q4)
+- **Q3 — Correct key:** c  
+  - **Notes:**  
+    - **a (Incorrect):** Endothermic would place energy on reactant side.  
+    - **b (Incorrect):** Catalyst not indicated by energy term placement.  
+    - **d (Incorrect):** Constant volume relates to \( \Delta U \), not indicated by arrow-side energy.  
+- **Q4 — Correct key:** c  
+  - **Notes:**  
+    - **a (Incorrect):** Slippery is a base property.  
+    - **b (Incorrect):** Base property (turns red litmus blue).  
+    - **d (Incorrect):** pH > 7 is basic.
+
+### Conjugate pairs and water amphoterism (Q5–Q6)
+- **Q5 — Intended key likely:** e (but options have notation/chemistry issues)  
+  - **Concerns:**  
+    - **a “HCI / CL-”** appears to be mis-typed; should be **HCl / Cl⁻**.  
+    - **b “NH3 / NH2”** should be **NH₃ / NH₂⁻** (missing charge).  
+    - **c “H2O / OH-”** is a valid conjugate pair (acid-base pair differs by one proton).  
+    - **d “H2SO4 / HSO4”** should be **H₂SO₄ / HSO₄⁻** (missing charge).  
+  - **Action:** Fix subscripts and charges. With corrections, **e** becomes correct. As written, errors could confuse students.  
+- **Q6 — Correct key:** d  
+  - **Notes:**  
+    - **a (Partial truth):** Should read “donate a proton to form \( \text{H}_3\text{O}^+ \)” or “donation leaves \( \text{OH}^- \)” — wording “donate a proton to form OH⁻” is awkward (donation by water produces \( \text{OH}^- \) when water acts as acid to another base).  
+    - **b (Correct):** Accept a proton to form \( \text{H}_3\text{O}^+ \).  
+    - **c (Correct):** Amphoteric summary.  
+  - **Action:** Consider rewording **a** to “It can donate a proton, forming \( \text{OH}^- \).”
+
+### Isotopic notation and pH (Q7–Q9)
+- **Q7 — Intended content unclear (“22Al”)**  
+  - **Issues:**  
+    - “22Al” is ambiguous; proper nuclide notation is \(^{22}\text{Al}\) (Z=13, A=22 → neutrons = 9).  
+    - **b “It has 13 protons.”** would be the only correct statement for aluminum generally (Z=13), but for “22Al”, **c “27 neutrons”** is wrong; 22-13=9 neutrons.  
+    - **a “It has 40 neutrons and protons.”** unclear phrasing; total nucleons would be 22 for \(^{22}\text{Al}\).  
+  - **Action:** Clarify to “\(^{22}\text{Al}\)” and adjust distractors: e.g., “It has 13 protons (correct)”, “It has 9 neutrons”, etc. As written, best key is **b**, but the rest are misleading.  
+- **Q8 — Correct key:** b  
+  - **Notes:** \( \text{pH} = -\log(1.0 \times 10^{-5}) = 5.00 \).  
+- **Q9 — Correct key:** a  
+  - **Notes:**  
+    - **a KOH (Correct):** Strong base.  
+    - **b NH₃:** Weak base.  
+    - **c HCL:** Should be **HCl**, acid not base.  
+    - **d NaCl:** Neutral salt.  
+    - **e CO₂:** Acidic oxide; forms carbonic acid in water.  
+  - **Action:** Fix case “HCL” → “HCl”.
+
+### Equilibrium constant and conjugate base (Q10–Q11)
+- **Q10 — Correct key:** b  
+  - **Notes:** \(K = [\text{HCl}]^2 /([\text{H}_2][\text{Cl}_2]) = (2500)^2 /(10^{-4}\cdot 10^{-4}) = 6.25 \times 10^{14}\).  
+  - **Formatting:** Use \( \rightleftharpoons \) and consistent case “HCl”.  
+- **Q11 — Correct key:** b  
+  - **Notes:** \(K_b = K_w / K_a = 10^{-14} / (2 \times 10^{-2}) = 5.0 \times 10^{-13}\).  
+  - **But choices list both 5.0×10⁻¹² and 5.0×10⁻¹³; correct is \(5.0 \times 10^{-13}\) → choice **c**.  
+  - **Action:** The correct key should be **c**, not **b**. This appears to be a miskey.
+
+### Le Chatelier, titration, radiation detector (Q12–Q14)
+- **Q12 — Correct key:** b  
+  - **Notes:** Adding product shifts left; **d** incorrect as \(K\) is constant at fixed T.  
+- **Q13 — Correct key:** c  
+  - **Check:** Volume delivered \(= 22.00 - 2.75 = 19.25\ \text{mL}\). Moles NaOH \(= 0.050\ \text{mol/L} \times 0.01925\ \text{L} = 9.625 \times 10^{-4}\ \text{mol}\). For monoprotic acetic acid, moles acid \(= 9.625 \times 10^{-4}\). Concentration \(= 9.625 \times 10^{-4} / 0.01000\ \text{L} = 0.09625\ \text{M}\) → closest is **b 0.096 M**.  
+  - **Action:** The correct key should be **b**, not **c**. Miskey detected.  
+- **Q14 — Correct key:** c  
+  - **Notes:** GM tube counts decay events.
+
+### Radon, pressure shift, half-life (Q15–Q17)
+- **Q15 — Correct key:** c  
+  - **Notes:** Radon-222 is the hazardous indoor gas.  
+- **Q16 — Correct key:** a  
+  - **Notes:** Total moles: left 4, right 2. Increasing pressure shifts to fewer moles → products.  
+  - **Action:** This implies **b** should be correct, not **a**. Miskey detected: correct choice is **b**.  
+- **Q17 — Correct key:** d  
+  - **Notes:** 50.0 g → 25.0 → 12.5 → 6.25 g after 3 half-lives.
+
+### Buffers, Ksp, catalyst features (Q18–Q20)
+- **Q18 — Correct key:** d  
+  - **Notes:** Buffers are weak acid/base and resist pH changes.  
+- **Q19 — Correct key:** b  
+  - **Notes:** \(K_{sp} = [\text{Ag}^+][\text{Cl}^-] = (10^{-1})(10^{-1}) = 10^{-2}\).  
+  - **Formatting:** Escape issue in source “[C\\"]”; ensure **Cl⁻** renders correctly.  
+- **Q20 — Correct key:** b  
+  - **Notes:** Catalysts lower \(E_a\), are not consumed, do not stop reactions, and do not fix \(K(T)\).
+
+### Brackets, equilibrium concept, Fe₂O₃ yield, Brønsted (Q21–Q25)
+- **Q21 — Correct key:** d  
+  - **Notes:** All of a–c describe concentration brackets correctly.  
+- **Q22 — Correct key:** b  
+  - **Notes:** Reversibility is central; others are false.  
+- **Q23 — Correct key:** b  
+  - **Check:**  
+    - Moles Fe \(= 223.4 / 55.85 = 4.000\ \text{mol}\).  
+    - Stoich: \(4 \text{ Fe} \to 2 \text{ Fe}_2\text{O}_3\), so moles Fe₂O₃ \(= 2.000\ \text{mol}\).  
+    - Mass \(= 2.000 \times 159.69 = 319.38\ \text{g}\) → **b**.  
+- **Q24 — Correct key:** b  
+  - **Notes:** Acid is proton donor; base is proton acceptor.  
+- **Q25 — Correct key:** a  
+  - **Notes:** Color doesn’t affect rate; others do.
+
+---
+
+## True/false items
+
+- **Q26 — Correct:** true  
+  - **Note:** “does not change 4H” likely means \( \Delta H \); fix typography.
+- **Q27 — Correct:** false  
+  - **Note:** Raising \(T\) in endothermic equilibrium favors products (forward), not reverse.
+- **Q28 — Correct:** false  
+  - **Note:** Alpha are least penetrating; beta more; gamma most.  
+- **Q29 — Correct:** false  
+  - **Note:** Strength is extent of dissociation, not concentration.  
+- **Q30 — Correct:** false  
+  - **Note:** Balance by coefficients, never subscripts.  
+- **Q31 — Correct:** true  
+- **Q32 — Correct:** true  
+- **Q33 — Correct:** true  
+- **Q34 — Correct:** true  
+- **Q35 — Intentionally false:** false  
+  - **Note:** \( \text{pH} + \text{pOH} = 14.00\) at 25 °C. If pH = 6.00, pOH = 8.00.
+
+---
+
+## Summary of detected miskeys or clarity issues
+
+- **Miskeys likely:**  
+  - Q11: Correct is **c (5.0 × 10⁻¹³)**, not b.  
+  - Q13: Correct is **b (0.096 M)**, not c.  
+  - Q16: Correct is **b (favor products)**, not a.
+- **Notation/typography fixes:**  
+  - Q5: Correct chemical symbols and charges (HCl/Cl⁻; NH₃/NH₂⁻; H₂SO₄/HSO₄⁻).  
+  - Q6: Reword choice a for clarity (“donate a proton, forming \( \text{OH}^- \)”).  
+  - Q10: Use consistent “HCl” and equilibrium arrow \( \rightleftharpoons \).  
+  - Q19: Ensure “Cl⁻” renders properly (fix escaping).  
+  - Q26: Replace “4H” with “ΔH”.  
+  - Q7: Replace “22Al” with \(^{22}\text{Al}\) and correct distractors (neutron count 9).
+
+If you want, I can return a clean, corrected exam version with an answer key and consistent LaTeX for formulas, arrows, and ion notation.

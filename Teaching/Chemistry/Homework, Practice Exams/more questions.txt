@@ -1,0 +1,83 @@
+
+Identify each as a strong acid or a weak acid. Assume aqueous solutions.
+HF
+HCl
+HC2O4
+
+Identify each as a strong base or a weak base. Assume aqueous solutions.
+NaOH
+
+Al(OH)3
+
+C4H9NH2
+
+Write a chemical equation for the ionization of each acid and indicate whether it proceeds 100% to products or not.
+
+HNO3
+
+HNO2
+
+HI3
+
+Write a chemical equation for the ionization of each base and indicate whether it proceeds 100% to products or not.
+NH3
+
+(CH3)3N
+
+Mg(OH)2
+
+Write the balanced chemical equation for the reaction of each acid and base pair.
+
+HCl + C5H5N
+
+H2C2O4 + NH3
+
+HNO2 + C7H9N
+
+Write the balanced chemical equation for the reaction of each acid and base pair.
+
+H3C5H5O7 + Mg(OH)2
+
+HC3H3O3 + (CH3)3N
+
+HBr + Fe(OH)3
+
+Write the hydrolysis reaction that occurs, if any, when each salt dissolves in water.
+
+K2SO3
+
+KI
+
+NH4ClO3
+
+Which of the reactions below correctly shows the dissolution of NaNO3 in water?
+
+When NH4NO2 dissolves in H2O, both ions hydrolyze. Write chemical equations for both reactions. Can you tell if the solution will be acidic or basic overall?
+When pyridinium acetate (C5H5NHC2H3O2) dissolves in H2O, both ions hydrolyze. Write chemical equations for both reactions. Can you tell if the solution will be acidic or basic overall?
+
+
+13. 
+What is the relationship between the Ksp expressions for a chemical reaction and its reverse chemical reaction?
+
+
+What is the relationship between the Kw value for H2O and its reverse chemical reaction?
+For the equilibrium
+
+list four stresses that serve to increase the amount of PCl5.
+For the equilibrium
+
+list four stresses that serve to increase the amount of NO2.
+Does a very large Keq favor the reactants or the products? Explain your answer.
+Is the Keq for reactions that favor reactants large or small? Explain your answer.
+Write the Equilibrium Constant Expression for the following
+N2 (g) + 3 H2 (g)  ⇌ 2 NH3 (g)
+
+ 
+Write the equation for NaCl dissolving in water.
+Write the equilibrium constant expression for NaCl dissolving in water. (Remember to leave out things that are not mixed or whose concentration remains constants- In this case, solids or liquids in the chemical equation.)
+Solve for the solubility equilibrium constant of NaCl if the concentrations of a saturated solution are [Na+] = 6.14 M  and [Cl-] = 6.14 M
+
+
+List at least five organs that can be imaged using radioactive isotopes.
+Which radioactive emissions can be used therapeutically?
+Which isotope is used in therapeutics primarily for its gamma ray emissions?

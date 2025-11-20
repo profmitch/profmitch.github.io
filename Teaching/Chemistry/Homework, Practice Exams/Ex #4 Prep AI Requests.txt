@@ -17,3 +17,98 @@ I have four chapters to cover. I am showing a study guide below with the backtic
 • What’s a thermochemical equation and the meaning of the energy value on the left and right side of the reaction arrow.
 • Changes in the energy value of thermochemical equation when stoichiometry changes: if X is energy for 1 mole of reactant, then 2X is the energy for 2 moles of reactant
 ```
+
+I had earlier mentioned I would be doing an midterm exam and would like ten questions
+determined in this manner:
+- at least four choices a,b,c,d, possibly one or two questions that justify use of five choices a,b,c,d,e.
+- At least two, possibly three of the questions should involve calculation questions within the concepts, and the others are not calculations.
+- Feel free to consult any testbanks you have access to.
+
+This is study guide I have the students on a particular chapters
+
+```
+=== CHAPTER 12: Acids and Bases: Acid-Base Chemistry  ===
+•	General properties of acids
+•	Specific acids: structure, names,  a few features of specific acid
+•	Strong and weak acid concept
+•	Monoprotic vs diprotic vs polyprotic
+•	General properties of bases
+•	Specific bases: structure, names,  a few features of specific base
+•	Strong and weak base concept, same as for acid
+•	Bronsted-Lowry definition of acid and base: proton donor, proton acceptor
+•	What is the hydronium ion? What is relationship of [H+] to [H3O+]? Why is [H3O+] preferred and not [H+]?
+•	What is the conjugate base and conjugate acid?  If you have an acid of the form HAn, what would its conjugate base look like. If you had a base of form An, what would its conjugate acid look like?
+•	What are the two reactions specified that acids and bases can undergo? (i) neutralization and reaction with active metals to produce H2 gas
+•	What are strong and weak acids? What’s the essential difference between them? You are given a compound formula: what helps you distinguish between it being a strong or weak acids?
+•	What makes H2O both an acid and a base?
+•	H2O can undergo an acid-base reaction with another H2O molecule.
+•	Know what Kw is (how it’s defined), and [H3O+] and [OH–] in pure water, and their product: 1.0 x 10-14. If a strong acid is added to water, and concentration of [H3O+] is given, know how to calculate [OH–] and also the converse: calculate [H3O+] from given [OH–]
+•	Know what pH is, how it is calculated from knowing [H3O+] or even from [OH–]. Know how to calculate pOH from pH or [H3O+] or [OH–]. Know how to calculate any four of those things from knowing another of the four.
+•	Know the concepts around buffers: what compounds make good buffers, how buffers work (by resisting changes to pH).
+```
+
+This is Chapter 13. 10 questions please. Same format. If you can find calculation questions, that would be good too
+```
+=== CHAPTER 13: Chemical Kinetics and Equilibrium ===
+	Collision Theory: what two things make for a successful chemical reaction, or reactants to products
+	What is a potential energy (PE) diagram: plot of Potential Energy vs Reaction Progress
+	What is the reaction progress curve (RPC)?
+	Recognize a visually rendered or verbally described RPC in which the PE of the reactants or products is higher or lower relative to each other, and if this indicates whether DH is negative (energy released, with PE of products lower than reactants) or positive (energy absorbed or required, with PE of project higher than reactants). Know if the reaction in those cases are endothermic or exothermic
+	Know the additional feature of the RPC which is the “hump” called the activation energy, symbolized Ea, Know whether how the Ea magnitude (“hump size”) can determine whether a reaction proceeds in one direction (forward) quickly or slowly.
+	Understand what the activated complex is, which is represented as a state of transition that is an energetically excited structure of a reactant that will proceed toward product formation.
+	Reaction rates: 3 factors are collision frequency, collision energy, geometric orientation
+	Collision frequency and energy affected by temperature. Temperature affects kinetic energy
+	Concentration affects reaction rates: reactant particles at higher concentrations are more densely packed and create a higher probability of collisions leading to rapid product formation. If the concentration of reactants, the reaction rate can at least double
+	Catalysis: catalysis increases the rate of a chemical reaction through the ability of a substance, the catalyst, lowering the activation energy for the reaction. It does not change the potential energy of the reactants or products (or the change in enthalpy). By lowering activation energy, reactions proceed more quickly to formation of products. Catalysts are not part of the chemical reaction, so they achieved this effect by not being consumed.
+	Chemical Equilibrium: chemical reactions have been shown to proceed so far in only one direction, the forward direction from reactants to products. But many reactions are reversible: that is, they go in the reverse direction, with products actually becoming reactants and the reactants becoming products in that reverse direction
+	When reactants are the only compounds present in the initial state, with no products present, the forward direction (reactants  products) will proceed at the rate determined by all the factors mentioned in chemical kinetics. When products build up, the forward reaction can slow or appear to come to a stop. There are still reactants present (that is the reaction did not drive to completion) and there are products present as well. What is happening though is that the forward reaction continues to form products but a competing reverse reaction turns products back into reactants, which means that products become reactants for the reverse direction. The reaction is in equilibrium
+	Colorless gas dinitrogen tetroxide (N2O4) was used an example of this phenomenon in its decomposition and combination reaction to form and to form from reddish-brown nitrogen dioxide (NO2). The shift in equilibrium from reactants toward products from lower to higher temperatures was visually understood in shifting from colorless contained gas to reddish brown gas mixture.
+	The definition of the equilibrium constant K and its expression as a mathematical calculation of multiplied product concentrations (pressures, for gases, is also possible) divided by multiplied reactant concentrations was shown. Calculations of example reactions must be made.
+	Being able to study how K changes with temperature T is also important.
+	Le Chatelier’s Principle is about the perturbation or disturbance of the system that is the chemical reaction: the response to this stress is for the system to restore equilibrium of the reaction.
+	Some “stresses” were identified by which the equilibrium is perturbed
+	The stresses include “concentration”: changing the amounts (as concentrations [moles per volume], either increasing or decreasing one or more of the reactants or of one or more of the products of the reaction will cause either the forward or reverse direction of the reaction to occur until equilibrium is restored. This is an obvious “stress”
+	Temperature stress can alter equilibrium according to the thermochemical equation: higher temperatures would favor the direction where compound(s) have a higher enthalpy (DH). Thus endothermic reactions would be favored. Lowering the temperature would probably favor a shift to exothermic reactions (where DH) is lower). The effect of temperature is seen as direct effect on changing the equilibrium constant K.
+	Pressure stress related with gaseous reactants and products is another kind of stress. With higher pressure, the side of the reaction having the few total moles of gas is favored, and with lower pressure, a reaction accommodating more moles of gas would be favored.
+	Acid-base reactions are equilibrium reactions. All of these reactions involve proton (hydrogen ion, H+) transfer between compounds, with a reactant acid donating the proton, and a reactant base accepting it. The reaction yields a product conjugate base (from the reactant acid) and a product conjugate acid (from the reactant base), and now the product conjugate acid will be the proton donator in the reverse reaction and the product conjugate base is the proton acceptor.
+	An important understanding is that the proton acceptor can be a compound/species having any ionic charge magnitude (0, ±1, ±2. etc), but in the acid-base reaction, any base will be changed by a +1 charge and any acid will be changed by –1 charge.
+	If an acid is HAn, where H+ is the proton and An– is the conjugate base, the expression for Ka, and equilibrium constant that is the acid dissociation constant, will be as for all K constants, the multiplication of the concentration of all products divided by the multiplication of the concentration of all reactants. For an acid, the reactants are HAn and H2O, and the products H3O+ and An-. So the K_a=([〖H_3 O〗^+ ][An^-])⁄([HAn]). H2O is omitted from the expression because like solids, it is a liquid and not part of an equilibrium constant expression. The equilibrium reaction for a base is An (aq) + H2O (l) ⇌  HAn+ (aq) + OH– (aq)  and the constant equation is K_b=([HAn^+ ][OH^-])⁄([An]).  If one multiplies Ka and Kb, the result is Kw:  Kw = KaKb
+	In the previous unit, it was shown that H2O as both a weak acid and weak base can react with another H2O in pure water: H2O + H2O ⇌ H3O+ + OH–. The concentration of H3O+, that is [H3O+], and concentration of OH, that is [OH], are both equal at
+1.0 x 10–7 M. The equilibrium constant is Kw, and its expression is [H3O+] [OH]. There is no denominator since both reactants are H2O.
+	Precipitation reactions are not actually one way: Mix BaCl2 with Na2SO4 to produce a BaSO4 (and spectator compound NaCl) does not have a rightward reaction arrow that produce the solid in aqueous solution. In fact, you can take out the BaSO4 solid, dry it fully (in a low oven), then put it in a beaker of distilled (pure) water and stir it around to try to dissolve. Yes, much of it will remain undissolved as small clumps of dispersed solid matter in the bottom of the beaker, but take a sample of the solution with the solids settled or filtered out, and Ba2+ and SO42– can be detected in the aqueous phase (instruments/methods detecting very low concentrations are required). What this means is that solids (precipitates) are actually in equilibrium with the ions they form:  BaSO4  (s) ⇌ Ba2+ (aq) + SO42- (aq). The equilibrium constant equation is Ksp = [Ba2+][SO42-], which is called the solubility product. Learn how to do calculations with this equation.
+```
+
+
+```
+=== CHAPTER 14: Radioactivity and Nuclear Chemistry ===
+•	History of radioactivity: X-rays expose film, uranium salts in rock exposed photographic film. The element radium was discovered to have radioactivity
+•	Nuclear binding energy: the “glue” that holds protons and neutrons together in the atomic nucleus. When numbers of protons and neutrons not in correct ratio, the nucleus is unstable and decay occurs
+•	Decay events are alpha and beta particles and gamma rays (photons). Alpha particles are helim-4 nuclei that are the most damaging but not penetrating. Beta particles are energetic electrons from neutron decay (too many neutrons in nucleus) less damaging (ionizing) than alpha particles but more penetrating. Gamma rays are not particles (have no mass) but are still ionizing and very penetrating. See the table on what penetrating means in terms of shielding against these types of radiation.
+•	Decay events always should a conservation of mass and charge on both sides of the nuclear decay right arrow. Since dealing with isotopes (radioactive isotopes = radioisotopes), learn to recognize the element symbol and the mass (A) and atomic (Z) numbers
+•	Half-life is the period of time it takes for a radioactive amount or mass to lose 50% (half) of its initial mass/amount. Half lives of radioisotopes can vary from nanoseconds (a billionth of a second) to billions of years (U-238, K-40). Understand how to interpret a plot of percent radioisotope amount versus time, often divided in number of half-lives.
+•	Detecting radioactivity: Geiger-Muller tube design principle
+•	Radiometric dating: purpose, how it works especially for looking at fossils
+•	Principle of atomic fission in a reactor using U-235. And fusion in the sun, and how it differs from the isotopes humans are using to try to achieve sustained fusion.
+•	What is a fission chain reaction? It is U-235 releasing neutrons to strike more U-235 isotopes to create more fission
+•	How is electrical power obtained in a nuclear power plant: the heat from nuclear disintegration boils water to make steam that turns steam turbines (which have an axle with fins/blades turned by the steam and the axle has coils of wire that get turned within permanent magnets which generate electric current (and thus electric power) using Faraday’s principle of electromagnetic induction
+•	Understand how nuclear reactors are designed to control fission so it does not lead to nuclear explosions or out-of-control fission events, by controlling the release neutrons with special materials in control rods to capture the neutrons emitted from the fuel rods that contain ENRICHED uranium
+•	Know that scientists are working on designing reactors to create sustained fusion one day in the future, which involve spinning the particles in a torus contained by magnetic fields with fusion requiring millions of degrees in temperature (mimicking the sun).
+•	Radiation can adversely affect living organisms, damaging DNA. In humans, these events can lead to formation of sporadic cancers in which tumors are formed. Radiation is in form of ionizing radiation causing biomolecular damage (biomolecules include DNA) directly and indirectly, where H2O molecules themselves can have an electron knocked away from an O atom which becomes positively charged have cause a very damaging chemical reaction
+•	Radon (in the form of radioisotope Rn-222) has been shown to accumulate in damaging ways in home interiors (especially with homes of certain design that not aerate a home very well, and the residents can breathe in the concentrated levels and are at risk of nonsmoking related lung cancers.
+•	Devices and system like the Geiger-Muller tube as well as scintillation and multiple dosimetry products making use of various engineered technologies can be used to measure/count radioactivity. This is useful in medical diagnostics and well as to determine exposure to humans (dosimetry). There are measurement units for radioactivity
+o	becquerel (Bq) – 1 disintegration per second (1 dps)
+o	curie (Ci) – 3.7 x 1010 dps (Bq). In research this quantity is so large that  microcurie (µCi) and millicurie (mCi) are used
+o	gray (Gy) – energy of radiation in a mass of tissue – 1 Gy = 1 J/kg tissue
+o	radiation absorbed dose (rad) – this is one-hundredth (1%) of Gy = 0.01 J/kg tissue
+o	sievert (Sv) – combines several factors (called relative biological effectiveness or RBE) including energy dose to assess tissue damage by radiation:   Sv = RBE x Gy
+o	roentgen equivalent in man (rem) – this is one-hundredth of Sv:  rem = RBE x rad
+•	Understand that damage to living organisms (humans) from radiation can be the result of the type (alpha, beta, gamma, etc) of radiation, the energy (in J/kJ) associated with the radiation, the distance from the source to the affected organism (feet? Yards? Miles?) since the effectiveness of radiation drops off by the square of the distance, and the time of exposure (more damage with more exposure time)
+•	Nuclear medicine: some radioisotopes are used both in diagnosis and in therapy. Because thyroid gland uniquely produces iodine-containing hormones that control metabolism, using radioisotopic iodine can be used to target only thyroid tissues that may become diseased (such as cancers) as the radiation within proximity
+•	Positron emission tomography (PET) scanning is a way to image and locate and event test (metabolic) function of tissues and organs. Isotopes are among the shortest of half-lives and labeled compounds have to be prepared on-site and immediately used
+•	External beam radiation is used in the therapy of those usually with cancerous tumors or other diseases that can be treated by radiation. It combines advanced diagnostic tools and techniques (e.g. CT) to attempt to limit treatment to affected areas and not to normally functioning systems and organs.
+```
+
+
+	
+
+For the equilibrium reaction H2 (g) + Cl2 (g) ⇌ 2 HCl  (g), and [H2] = 0.0001 M, [Cl2] = 0.0001 M, and [HCl] = 2500 M, which of the values below is the value of K?
