@@ -1,0 +1,66 @@
+$cationlist[0] = array('Na',1,'sodium','','s') //common
+$cationlist[1] = array('K',1,'potassium','','s')//common
+$cationlist[2] = array('Sn',4,'tin (IV)','stannic','pv') //common
+$cationlist[3] = array('Li',1,'lithium','','s') //common
+$cationlist[4] = array('Al',3,'aluminum','','s') //common
+$cationlist[5] = array('Ca',2,'calcium','','s') //common
+$cationlist[6] = array('Cr',3,'chromium (III)','chromic','pv') //common
+$cationlist[7] = array('Mg',2,'magnesium','','s') //common
+$cationlist[8] = array('Fe',3,'iron (III)','ferric','pv') //common
+$cationlist[9] = array('Fe',2,'iron (II)','ferrous','pv') //common
+$cationlist[10] = array('Cu',2,'copper (II)','cupric','pv') //common	
+$cationlist[11] = array('Cu',1,'copper (I)','cuprous','pv') //common
+$cationlist[12] = array('Ni',2,'nickel (II)','nickelous','pv') //common
+$cationlist[13] = array('Ag',1,'silver','','s') //common
+$cationlist[14] = array('Zn',2,'zinc','','s') //common
+$cationlist[15] = array('Co',2,'cobalt (II)','cobaltous','pv') //common
+$cationlist[16] = array('Cs',1,'cesium','','s') //common
+$cationlist[17] = array('Rb',1,'rubidium','','s') //common
+$cationlist[18] = array('N H_4',1,'ammonium','','pa') //common  13
+$cationlist[19] = array('Ba',2,'barium','','s') //common
+
+//list of random anions
+$anionlist[0] = array('H_2 P O_4',1,'dihydrogen phosphate','','pa') //common
+$anionlist[1] = array('Cr_2 O_7',2,'dichromate','','pa') //common
+$anionlist[2] = array('H C O_3',1,'hydrogen carbonate','bicarbonate','pa') //common
+$anionlist[3] = array('Br',1,'bromide','','s') //common
+$anionlist[4] = array('Cr O_4',2,'chromate','','pa') //common
+$anionlist[5] = array('C O_3',2,'carbonate','','pa') //common
+$anionlist[6] = array('Cl',1,'chloride','','s') //common
+$anionlist[7] = array('S O_3',2,'sulfite','','pa') //common
+$anionlist[8] = array('N',3,'nitride','','s') //common
+$anionlist[9] = array('F',1,'fluoride','','s') //common 0
+$anionlist[10] = array('N O_2',1,'nitrite','','pa') //common
+$anionlist[11] = array('H P O_4',2,'hydrogen phosphate','','pa') //common
+$anionlist[12] = array('N O_3',1,'nitrate','','pa') //common
+$anionlist[13] = array('H S O_4',1,'hydrogen sulfate','bisulfate','pa') //common
+$anionlist[14] = array('I',1,'iodide','','s') //common
+$anionlist[15] = array('O H',1,'hydroxide','','pa') //common
+$anionlist[16] = array('O',2,'oxide','','s') //common
+$anionlist[17] = array('P O_4',3,'phosphate','','pa') //common 36
+$anionlist[18] = array('Mn O_4',1,'permanganate','','pa') //common
+$anionlist[19] = array('S',2,'sulfide','','s') //common
+
+
+$anionlist[0] = array('S',2,'hydrosulfuric acid','','s') //common
+$anionlist[1] = array('F',1,'hydrofluoric acid','','s') //common
+$anionlist[2] = array('Cl',1,'hydrochloric acid','','s') //common
+$anionlist[3] = array('Br',1,'hydrobromic acid','','s') //common
+$anionlist[4] = array('I',1,'hydroiodic acid','','s') //common
+
+$anionlist[5] = array('Cr_2 O_7',2,'dichromic acid','','pa')
+$anionlist[6] = array('Cr O_4',2,'chromic acid','','pa')
+$anionlist[7] = array('C O_3',2,'carbonic acid','','pa') //common
+$anionlist[8] = array('S O_3',2,'sulfurous acid','','pa') //common
+$anionlist[9] = array('N O_2',1,'nitrous acid','','pa') //common
+$anionlist[10] = array('N O_3',1,'nitric acid','','pa') //common
+$anionlist[11] = array('P O_4',3,'phosphoric acid','','pa') 
+$anionlist[12] = array('Mn O_4',1,'permanganic acid','','pa')
+$anionlist[13] = array('C_2 O_4',2,'oxalic acid','','pa') //common
+$anionlist[14] = array('C_2 H_3 O_2',1,'acetic acid','','pa')
+$anionlist[15] = array('Cl O',1,'hypochlorous acid','','pa')
+$anionlist[16] = array('Cl O_2',1,'chlorous acid','','pa')
+$anionlist[17] = array('Cl O_3',1,'chloric acid','','pa')
+$anionlist[18] = array('Cl O_4',1,'perchloric acid','','pa')
+$anionlist[19] = array('S O_4',2,'sulfuric acid','','pa')
+

@@ -1,0 +1,41 @@
+@media print {
+   @page {
+        /* Set page margins for the entire document */
+        margin-top: 1cm;
+        margin-bottom: 1cm;
+        margin-left: 1.5cm;
+        margin-right: 1.5cm;
+    }
+    
+    /* You can also define special margins for the first page */
+    /*@page :first {
+        margin-top: 3cm; /* Extra space for a title 
+    }*/
+    .keep-together {
+        /* Prevents the element itself from being split by a page break */
+        page-break-inside: avoid;
+    }
+    
+    /* Useful for headings: ensures the heading stays with the content below it */
+    h2, h3 {
+        page-break-after: avoid; 
+    }
+    .keep-together-bordered {
+        /* Reset any fixed widths or max-widths */
+        width: auto !important; 
+        max-width: 100% !important;
+
+        /* Ensure standard print-friendly units for padding/margin */
+        margin: 0.5cm 0;
+        padding: 0.5cm;
+        border: 1px solid #333;
+
+        /* Crucial for keeping the entire box together */
+        page-break-inside: avoid; 
+    }
+    p {
+        /* Ensures at least 3 lines of a paragraph stay together */
+        orphans: 3; 
+        widows: 3;
+    }
+}

@@ -1,8 +1,0 @@
-﻿node_modules/
-build/compiledset
-**/*.js.map
-.vscode/
-**/src/GenLib/
-**/src/GenLib
-.vscode
-test/

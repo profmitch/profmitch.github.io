@@ -1,0 +1,365 @@
+Canvas Snippets
+
+Assigment Expt 1a
+
+For Experiment 1a, I want you to take images of your report: pages 23, 24, and 25 in your manual, bind them into a PDF (this is required, and I just put a separate Announcement about how to do it), and then upload the PDF to this Assignment.
+
+Specific points you should pay attention to:
+
+page 23 is the "DATA" area of your report. This is a "clean area" where you basically just record your observations and uncalculated measurements. You are NOT JUST RECORDING NUMBERS HERE: if it is measurement, a quantity, then these are NUMBER with UNITS:   23.3934 g (grams).  49.0 mL
+KNOW YOUR INSTRUMENT, KNOW YOUR DEVICE and the information it gives you
+If the division marks on your 100 mL graduated cylinder correspond to 1 mL, then if you see the water level at 49 mL on the cylinder, remember that the precision on the cylinder is one-tenth of the division mark. So your volume is really "49.0 mL" and not "49 mL". That properly gives you more significant digits
+A buret is even more precise: those 25 mL burets you worked with in the previous experiment have division marks of 0.1 mL, not 1 mL like the graduated cylinder. That means if you have a reading of "13.6 mL", apply the one-tenth rule, and it is really "13.60 mL"
+It is important to be mindful of your device, your instrument, what it measures and just how precisely and accurately it measures.
+Pages 24 and 25 are your RESULTS and DISCUSSION areas: these involve using that raw data from p 23 and making calculations, and recording thoughts about calculations or describing one or more things that come in your mind that explain data or a calculation. Questions 7, 8, 9, 11 and 12 are just about you doing calculations. A good Ph.D. chemist will not just write the calculated result in the space of those questions, but will write out the full and complete mathematical expression to the left of the equal sign--with conversion factors, use of natural constants (from the reference books), and the recorded quantities/measurements--and then put the one result (quantity--numbers with units!) on the right side of the equal sign. That is good and excellent form. And yes, Ph.D. chemists write those expressions out so they don't just look at a single quantity some time later and say, "where did that come from?". The detailed mathematical expression to the left side of the equal sign reminds them of how they got that result
+Questions 10 and 13
+with Question 10, you are guided about how to explain in words the results you are seeing, in order to demonstrate your understanding of what is happening. You don't have to write a book, but just explain to another as concisely as possible what you understand about what is going on.
+Question 13 gives you a table of metals with known densities, and you are asked to compare the density you calculated for your metal bar/cylinder to those in the table and make a best guess as to the identity of your metal object.
+I will get back to you all on the real identity of the metal bar/cylinder you analyzed. Apparently the codes are on a system the Department uses called "OpenMath" and I am working on getting an instructor's account
+
+I hope to give feedback on all your reports quickly. This feedback is on how you can improve upon your presentation of your report.
+
+Grading on this: generally you have been guided by me during the laboratory session about how to properly fill out a report. What I am looking for is a sincere effort to produce good work, not a work of art. You will not get zero if you failed to correctly identify the metal object you analyzed. Doing laboratory work involves being meticulous to a degree, but I don't have the expectations of perfection that I would have for a Ph.D. scientist compared to someone being introduced to how to work in a lab and prepare reports.
+
+---------
+
+Assignment Prelab quiz Expt 9a
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Lab Experiment 10a Report Submission
+
+---------I put a note on Practice Set for Exam #3 at the bottom of this text. Please read it
+
+================
+
+
+BEFORE YOU SUBMIT YOUR REPORT, take note of the following
+
+While this lab has no numerical calculations, you have to take note of the following
+
+1. The space called Observations. You should have written your observations during the laboratory session.
+
+2. Reaction Type Scheme 1:  and  Scheme 2: use the information in the intro to the experiment and from lecture to indicate the two schemes
+
+3. Balanced equation and product determination. You are given the reactants without all or some of the products. In addition, you are not given the coefficients, which is used actually to balance the reaction. In additon, you should also indicate the phase:  (s), (l), (g), or (aq)   Be careful
+
+4. a) In the Balanced Molecular Reaction Equation, you basically re-write what you have determined in #3
+b) In the Complete Ionic Reaction Equation, do what was stated in lecture: do ions form in aqueous phase? Be sure to write the phase. FAILURE TO BE CAREFUL IN WRITING THIS EQUATION WILL INCUR HEAVY PENALTIES IN POINTS.  IF YOU DON'T KNOW WHAT TO DO, COMMUNICATE WITH ME!!!
+c. For the Net Ionic Reaction Equation, the same instruction is as for 4b. If no care is taken in writing this equation, there is a heavy penalty in points.
+
+QUESTIONS on page 112:  1 a-f:  your answers should be one of "salt", "acid", "base" or "hydrocarbon" 
+2. Those blanks have coefficients, some chemical formula, and some phase indicators. It is easy to lose points by not being careful
+IF YOUR HANDWRITING IS NOT LEGIBLE AND I CANNOT UNDERSTAND WHAT YOU ARE WRITING, IT WILL NOT BE CONSIDERED CORRECT. If handwriting is a problem for you, create a text document that you attach with the lab report and indicate what part of your text document is 
+I will post a rubric for the 200 points of this lab by the weekend
+
+==================
+
+On the Practice Exam Questions, #61 was a chemical equation balancing problem
+
+image.png
+
+The indicated correct answer was wrong. (This should be an indicator that A.I. gets it wrong and horribly, as this was an A.I.-generated question that was not properly vetted--I have to take responsibility for that.)
+
+This is the thinking process for balancing:
+
+(i) Start with balancing N atoms. There is one of the left (of the arrow). There is one on the right. Good so far. Move on to the next atom.
+(ii) Proceed to the H atom. Why? Because you are always better off when you start balancing compounds that have few presence on each side of the arrow. The O atom is present in 3 compounds, one on the left, two on the right. The H atom is seen in only two compounds, one of the left, one on the right. Use that logic.
+So there are 3 H atoms on the left and 2 H atoms on the right. Time to go to work. With that kind of imbalance, you do something like the criss-cross technique for subscripts of compounds. OK: Put a 2 on the left for NH3, put a 3 on the right for H2O. That creates 6 H atoms on both sides. (See the trick?)
+(iii) Because you added coefficients, you now have to go back to Step (i) where you evaluated N atoms, because you changed those. You created 2 N atoms on the left, so now have to put 2 N atoms on the right. Let's write our equation so far:
+  2 NH3 +  __ O2 --> 2 NO + 3 H2O
+(iv) N and H atom counts on both sides look good. Now to the O atoms
+(v) You have 2 O atoms on left and 2 + 3 = 5 O atoms on right.  The best approach is to deal with the compound with the ODD NUMBER of O atoms, which is H2O.
+(vi) Multiply by 2 the H2O -->  2 NH3 + __ O2 --> 2 NO + 6 H2O
+(vii) Adjust now for NH3 to balance its 6 H atoms to the 12 atoms of H2O on right:   4 NH3 + __ O2  --> 2 NO + 6 H2O
+(viii) Now adjust for the change of N atoms on the left to the NO molecules on the right:  4 NH3 + __O2 --> 4 NO + 6 H2O
+(ix) Everything on the N and H atoms looks balanced now. It only remains to check the O atoms. Remember at step (v) we were faced with an ODD NUMBER of O atoms: do we have them now?  There are 4 + 6 O atoms on the right. Great!! An even number, which we can balance on the left with the O2 molecule, which is 5 O2 molecules!
+Final balanced equation:    4 NH3 + 5 O2 -->  4 NO + 6 H2O.  The answer choice SHOULD have been   4, 5, 4, 6. 
+
+Keep in mind that 94.2% of chemical equation balancing logic operations are not so complicated. This was obviously chosen to be complicated and test your logic
+
+But you would have figured that out.
+
+ 
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ Lab Experiment 6a Report Submissions
+ 
+ 
+ I am sending comments for those who need to clean up their lab reports. Make sure you set notifications to receive these comments at least daily, if not immediately.
+
+I will often submit Assignment Comments without scoring/grading because I want to give you a chance to clean up and replace your report upload before scoring. Getting a report right is more important than just giving a report a marked-down score without you having a chance to fix it and learn.
+
+-------
+
+About #18 on page 79, for the structure C3H4
+
+This structure has three possible isomers (that is structural possibilities which I show below
+
+1. propyne or methylacetylene was one that at least one of you showed
+
+2. propadiene or allene is one that most of you showed
+
+3. cyclopropene is another 
+
+image.png
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Lab Experiment 7a Report Submissions
+
+I put up the PowerPoint as PDF of this week's Laboratory Experiment 7a on Calorimetry.
+
+Review it carefully since it contains an example of how you should do your lab report. It shows how to calculate and also how to make sure your numerical values have the correct significant digits!
+
+If you give an energy (q) value of 1348.3 J  or 0.93499 kJ, something is wrong. Your temperature difference values alone will narrow your precision to two, and at most three significant digits. If you have a temp difference of say –2,3°C, that's only two significant digits. If you have a temp difference of say 12.7°C, that's only 3 sig digits. Those energy values for 1300 J or 0.935 kJ or even 0.94 kJ are much more reasonable. No energy calculation is THAT precise where it has 5 or 8 digits (!!)
+
+REPORT SUBMISSION: You will use this Assignment for uploading your PDF. Some of you are having issues producing a PDF that is readable, and also one that is NOT a one-page PDF containing three small images of your phone camera images. I have that page on Canvas about how to product a good PDF with one page each of your phone camera images, and using software to do that whether you have an iPhone or Android. Do you know about it?
+
+DUE DATE: normally I make it due at midnight Tuesday, but I put it  off until 12 hours later because someone said something about Monday being a holiday, although I believe it is not a holiday for the College
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Laboratory Experiment 4A Reports Submission
+
+READ ALL OF THIS CAREFULLY BEFORE SUBMITTING YOUR REPORT
+FAILURE TO READ AND UNDERSTAND THIS WILL BE POINTS LOST ON THE REPORT
+
+GENERAL RULES for ALL LAB REPORTS
+
+1. Mass: whenever you are asked for a mass value, on the DATA sheet, you asked to record the stabilized number that is shown on electronic balance. All the numbers. Not the numbers you think should be rounded off. ALL the numbers. And after the number, you put the units: "g" for grams
+
+2. Volumes: if using rulers to measure, understand that a centimeter ruler with millimeter marks is said to be precise to "1 mm times 10%" = 0.1 mm (or 0.01 cm). So your number should "3.00 cm" or "5.70 cm" for using such a ruler.
+
+        For 100 mL graduated cylinders with 1 mL finest division marks, the precision will be "1 mL x 10%" = 0.1 mL, so it is NOT "30 mL" but "30.0 mL" or NOT "57 mL" but "57.0 mL"
+
+3. Measured Quantity? Numbers PLUS UNITS. Lab reports get marked DOWN for any failure to show numbers with units, if those numbers have units, whether a (measured) quantity or even a natural constant or conversion factor. (Remember, conversion factors have a numerator/denominator style when used a factor in calculating a product.)
+
+4. Making a calculation in a report?  Show your calculation (write expressions!), not just the final answer. Writing out the calculation--on a separate scratch paper sheet if it helps you compose it--can actually help you detect potential errors.
+
+5. Significant figures/digits and decimal places: Are you doing math operations? What are they? Multiplication and division, where significant digits can affect your final answer? Addition and subtraction, where decimal places can also affect the final answer? You don't need to do any intermediate rounding in calculations, but keep in mind how they affect the final answer.
+
+6. PARTNER. You should have a PARTNER name going forward. In case you were in the situation of a group of three, then PARTNERS. Points will be taken for not showing a partner name (for doing any work alone).
+
+ 
+
+SPECIFIC FOR this Experiment 4a
+
+1. Check your mass values. Do they report the digits of the stabilized reading of the electronic balance, ALL OF THE DIGITS?
+
+2. CALCULATIONS: in that table, you were given the way in which to calculate the top four rows of the table. Did you apply them? The 1st and 4th rows are identical...the same: are they in your report?  For "sulfur reacted" and "excess sulfur", I put up a slide for example of calculations.  (see the slide images below)
+
+        "1. Mass Ratio of 'copper / sulfur' reacted based on your data (Divide)"
+
+Make sure of your calculations. The units? If you are careful in what you are learning, they should be "xxx g Cu/g S" or "xxx g copper per g sulfur". They should NOT have a "g" in the units. I am also allows dimensionless (no units) values as well. So long as you understand what your units should be in any final result of a calculation
+
+ON THE QUESTIONS PART, make this Question 3:
+
+3. The theoretical value for the mass ratio should be "3.96" (3.96 g Cu/g S; see the slide). If your computed value is off by more or less than 10-fold, why do you think that result could have occurred?
+
+ALSO ON THE QUESTIONS PART, be very thoughtful on answering questions 1 and 2. In question 2 for another chemistry course for the majors, I would ask that the theoretical value calculation be shown. 
+
+image.png  image.png
+
+The image on the board for Tuesday's lab is on the left or top, for Thursday's lab on the right or bottom. Check your values in your table:
+
+image.png          image.png
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Laboratory Experiment 5A Reports Submission
+
+I put up a PowerPoint as PDF of this week's Laboratory Experiment 5a which is about empirical formula.
+
+Take a look at it before laboratory this week. LAB SAFETY will be enforced (googles, lab coat). You will be cautioned that this involves glove use. Additionally you are cautioned about potential flashing brightness that could affect your vision if you stare at it too long.
+
+This is about making magnesium oxide from the burning of magnesium to form its oxide.  The equipment and procedure are very similar to the copper (I) sulfide experiment.
+
+I have also made available the My Open Math form created for 5A (not by me) which can guide/hint/coach you to checking your results/calculations; I tried to disable any grading feature in this, but don't worry if it is pushing itself on the system for the moment: after the report is submitted, I can take out any affect on grading it might have.
+
+This is not required, but I suggest you view this 2-min YT video.Links to an external site. Several decades ago, photographers produced flashing light usually by the burning of magnesium filaments, shavings, or turning with a burning caused by a chemical or electrical ignition system. THIS IS WHY THERE IS A CAUTION/WARNING to you in being careful in watching the burning of this reaction, because the light is bright and potentially blinding.
+
+RUBRIC:  I added a rubric--number of points for each item and question in your report generally--to this experiment. A rubric should also more or less tell you how to get the maximum points (full scoring, full credit) to be successful. I realize I could do better by putting a long amount of text on that, but I think you know what you need to do to give your best effort.  The Rubric I think calculates to 46 points though the lab report is worth 50 points, and so those other 4 points are just for showing up and submitting your report in whatever form and you being a very nice person.
+
+REPORT SUBMISSION: You will use this Assignment for uploading your PDF. Some of you are having issues producing a PDF that is readable, and also one that is NOT a one-page PDF containing three small images of your phone camera images. I have that page on Canvas about how to product a good PDF with one page each of your phone camera images, and using software to do that whether you have an iPhone or Android. Do you know about it?
+
+  
+RUBRIC
+Criteria	Ratings	Pts
+This criterion is linked to a Learning OutcomePartner Name
+Record the name of your partner(s). At least one, but not more than two
+12 pts
+Full Marks
+0 pts
+No Marks
+12 pts
+This criterion is linked to a Learning OutcomeDATA Section
+All the raw data in section: 1 pt each for the masses of the empty crucible, adding Mg, weighing twice the product of the reaction
+16 pts
+Full Marks
+0 pts
+No Marks
+16 pts
+This criterion is linked to a Learning OutcomeRESULTS Section: Calculated Masses
+Calculation of masses: Mg used, Mg_x O_y compound produced, and calculation of oxygen. Each is 2 points: 1 point for calculation and 1 point for the correct precision (significant digits, decimal places)
+24 pts
+Full Marks
+0 pts
+No Marks
+24 pts
+This criterion is linked to a Learning OutcomeRESULTS Section: Empirical Formula
+There are entries for 6 things: moles Mg initially present, moles O in the Mg_x Mg_y compound, mole ratio of Mg and O without reducing, and the simplified mole ratio of Mg and O. These are 2 pts each for calculation and precision
+48 pts
+Full Marks
+0 pts
+No Marks
+48 pts
+This criterion is linked to a Learning OutcomeRESULTS section: Percent Composition
+Two things to determine here, each worth 2 pts for total 4 pts
+16 pts
+Full Marks
+0 pts
+No Marks
+16 pts
+This criterion is linked to a Learning OutcomePOST-LAB Questions
+There are 5 blanks in Question 1 at start: 1 pt each;
+1(a), 1(b): 1 pt for each element to be named;
+1(c), 1(d), Q2, Q3: 2 pt each
+68 pts
+Full Marks
+0 pts
+No Marks
+68 pts
+Total Points: 184
+
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Problem Set #5 on Gases (Chap 8)
+
+This homework requires you to show your work to demonstrate your learning and understanding. Recording just the answer/solution will not be given full points.
+
+These questions have been covered in Chapter 8 slides and book on gases
+
+This homework is provided as a PDF and Word file.  You can print it and do it by hand, or work the solution digitally using Word file entries or PDF writing tools.
+
+Node the due date. Submit the homework as PDF, whether solution is digitally entered or imaged from a printed page.
+
+The point value for each question are below
+
+#1, #2, #3, #5 - 10 pt each
+#4 - 15 pt, #6 - 20 pt
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Week 1 -- Problem Set 1
+
+This is a sheet that has been used in this department in previous years, and I would like to see how you do it.
+
+THIS IS A HOMEWORK ASSIGNMENT:  Problem Set 1
+
+It is important that you apply yourself to come up with the answer, and not let A.I. compose your answer. There will be no A.I. on an exam to help, so develop this skill now. You have Study Groups now, and you are free to get together and talk to each other about these problems and work on them together
+
+There will be a followup Problem Set 2 put on Canvas some time later today, with three times the number of problems
+
+This is all due on Monday 18 Aug at 11:59 pm.
+
+HOW TO SUBMIT: You can print this PDF out, and use it to develop your answers. Or if you don't have a printer or printer access, you can get a blank sheet of paper, write the problem number with a big circle around it, then develop your answer on the paper. It is IMPORTANT that you show your work as to how you get the answer/result, and NOT write the answer/result alone.
+
+Of course you may want to develop your answer on another piece of paper as you work out the problem and will likely decide you won't be showing an effort that leads to nowhere.
+
+When you are done, you can scan this to make a PDF or you can take CLEAR phone camera images of your pages and put them into a PDF. You will upload to this assignment the image of your work. If you have questions about the assignment or process of submitting email me, and I may answer individually or if it seems a question by many, make an announcement instead.
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Week 1 -- Problem Set 2
+
+THIS IS A HOMEWORK ASSIGNMENT:  Problem Set 2
+
+I mentioned in the previous assignment that I would add this set of problems.
+
+Please complete this and submit by Monday 18 Aug at 11:59 pm
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Week 5 -- Problem Set #3 (NOT GRADED/NOT SCORED)--Practice
+
+This problem set is NOT GRADED, NOT SCORED. This is to get you to understand the concepts and problem-solving. 
+
+You are not required to do this at all. You are not required to do all of the problems, if you understand well some problems but not others.
+
+You can elect to do all or some of the problems, then submit them to me for review/response. I will provide my answer key a bit later. 
+
+This problem set is the show-your-work type of assignment, not a multiple-choice type. Use the space you need--it could be on space beyond what I have provided--to show the answer and how you arrived at it. Make sure any response with quantities have the correct significant digits and/or decimal places.
+
+There is no due date on this practice set of problems
+
+You have the following options:
+
+RECOMMENDED:  I am providing this in PDF for those of you who can/want to print it and solve problems by handwriting on paper.
+
+PDF format
+
+ALTERNATIVE: I am providing the Word (docx) document of the problem set. If you want to put the answer by typing it in and/or using the Equation Editor of Word to compose the answer, and you are good at it, feel free to do that.
+
+Word format
+
+SUBMISSIONS: Upload your submissions as PDF. This can be photos of the printed PDF where you handwrite your responses or if you use the Word doc to compose your response, save it as a PDF and upload that.
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ 💬 Join our Discord Channel
+ 
+ Orientation Our Class Discord Server
+Have you ever used Discord before? Heard of it?
+
+What is Discord?
+It has, in the past, been mostly used by people who play video games as a way of communicating while playing. Communities have formed and it has become a wonderful social platform. Bonus: It uses less internet bandwidth and battery power than Zoom!
+
+According to the makers of Discord, "Discord is the easiest way to talk over voice, video, and text. Talk, chat, hang out, and stay close with your friends and communities."
+
+I have made an invite only space called a "Server" for our class to use to chat throughout this semester. It has multiple kinds of "channels" inside of it. A channel is a chat space within a server.
+
+How will we use it in this class?
+Build Community
+I hope that whenever you are working on this class, you will pop into the Discord server (see button on the left) and see who else is currently working on it too. You can:
+
+Ask and answer questions in the homework text channels
+Join a voice channel to sort of be in a virtual study room (like a phone call, no camera required)
+Participate in fun off topic chats too! I love seeing students share memes and good news etc.
+Ask me questions/chat if I am in my virtual "office". 
+Be aware that Discord is open to students in both of Chem 3A sections, giving you a wider network of support. You all have lecture together, but lab separate. Some due-dates vary. You may use an alias on Discord. This assignment will allow you to inform me of your name on Discord so that if it differs from Canvas, I can still put you in touch with your assigned team. If you sign up on Discord using your real name, you consent to students in the other section knowing your real identity (you may edit it later)
+
+Team Meetings and Group Chat
+You aren't in a team just yet, but you will be soon!
+
+I have made a private text channel for each team in Discord. You will use this as a way of "texting" each other. (You're going to want the phone app!)
+
+There are Team Meeting Voice Channels available for your regular team meetings while working on team projects/assignments. 
+
+ 
+
+Join Now!
+Get StartedLinks to an external site. (create an account, download the app if you want) by following the instructions on that support page.
+Once you have set up your account, click this invite link to join our Discord Server!
+Read the welcome message from me in Discord!
+Update your NicknameLinks to an external site. in the server so we can identify you. 
+Turn in this Canvas assignment by listing your Nickname in Discord so I know you joined, AND, I know what name you are using in Discord.
+Navigate to the General channel and say hi or ask a question!
+React to the messages as we get to know one another.
+Check and see if I am in my "office". Feel free to come say hi if you see me!
+In the future, you can click on the Discord - Chat option in the course navigation bar to the left to open the web version of Discord!
+
+How To Guides
+Beginners Guide to DiscordLinks to an external site. -
+Try the How to Talk and Hang out in your ServerLinks to an external site. section!
+How to Send MessagesLinks to an external site.
+Account CustomizationLinks to an external site.
+Discord Mobile AppLinks to an external site.
+Voice and Video TroubleshootingLinks to an external site.
+Notification SettingsLinks to an external site. - There are many options and this one can be confusing. Let me know if you would like help!
+Tips and Tricks
+Want to make sure someone gets notified about your message in Discord? Add an "at symbol" @ and their name to your message. 
+
+In Discord, you can tag me @DrU! You may have heard in the past, "don't @ me" as a way of saying don't come at me and blow up my notifications by tagging me. In this class, the opposite is true, let me know how I can help! I am here to support you. 
+
+Example: 
+
+@DrU Where do I sign the lab safety contract?
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ 
+ 
+ 

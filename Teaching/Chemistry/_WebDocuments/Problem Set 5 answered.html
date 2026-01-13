@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Problem Set 5 answered</title>
+    <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <link rel="stylesheet" href="./css/std.css">
+    <link rel="stylesheet" href="./css/chem.css">
+    <link rel="stylesheet" href="./css/homework.css">
+    <link rel="stylesheet" href="./css/print.css" media="print">
+    <style>
+      .red {color:red;}
+      .brown {color: brown;}
+      .keyword {color: brown; font-weight:bold;}
+      .symbol {color: rgb(6, 66, 41); font-weight:bold; font-style:italic ;}
+    </style>
+</head>
+<body>
+<p id="title">
+Problem Set 5 answered
+</p>
+<div class="container" style="width:45em;font-size:20px;">
+<p class="question keep-together-bordered">
+A gas at <span class="quant">1.00 atm</span> in a volume of 
+<span class="quant">100.0 L</span> is compressed to <span class="quant">5.000 L</span> 
+volume. What is the pressure in the smaller volume?
+</p>
+<div class="answer">
+<p>
+The problem uses gas, Pressure and Volume, which should identify it as an application of
+Boyle's Law \((PV = k)\),
+</p>
+<p class="math">
+\[ P_1V_1 = P_2V_2 \]
+\[  P_2 = \frac{P_1V_1}{V_2} \]
+\[ P_2 = \frac{1.00 \text{ atm} \times 100.0 \text{ L}}{5.000 \text{ L}} = 
+\frac{1.00 \text{ atm} \times 100.0 \cancel{\text{ L}}}{5.000 \cancel{\text{ L}}}
+= 20.0 \text{ atm}\]
+</p>
+</div>
+
+<!-- ===================================================================== -->
+
+<p class="question">
+<span class="quant">10.0 mol</span> argon (Ar) at <span class="quant">400 K</span> in a 
+volume of <span class="quant">5.00 L</span> will have a pressure of how many 
+<span class="units">atmospheres</span> (<span class="units">atm</span>)?
+</p>
+<div class="answer">
+The problem mentions <span class="brown"><b>argon</b></span>, a gas, 
+an amount in <span class="brown"><b>moles</b></span>, a 
+<span class="brown"><b>Volume (<i>V</i>)</b></span> in <span class="brown"><b>liters (L)</b></span>, 
+a <span class="brown"><b>Temperature (<i>T</i>)</b></span> in 
+<span class="brown"><b>Kelvin (K)</b></span> and it requests the calculation 
+for a <span class="brown"><b>Pressure (<i>P</i>)</b></span>. It provides values 
+for <span class="brown"><b><i>V</i></b></span>, 
+<span class="brown"><b><i>T</i></b></span>, and <span class="brown"><b><i>n</i></b></span>.
+This is recognized as an application of the <span class="brown"><b>Ideal Gas Law</b></span> 
+and the equation is known.
+<p>It also requires selection of the <span class="brown"><b>gas constant <i>R</i></b></span>
+with the correct units to be able to calculate. The value 
+<span class="brown"><b><i>n</i></b></span> should be <b>moles</b>, and the value given 
+is in moles. If the amount (as a mass) was given in <b>grams</b>, a conversion to moles 
+using the <b>molar mass</b> of the gas substance would be necessary. The value for 
+<b>temperature</b> must be given in <b>K (Kelvin)</b>, which is given. If it were in another
+scale like Celsius (&deg;C), a conversion \( K = °C + 273 \) would be necessary. Finally a 
+volume <i>V</i> is given and should be in liters (L) for use of the constant R. A couverion
+would be required if not in liters. So \( R = 0.08205 \text{ L atm/mol K}\) will be used which
+should cancel the units \( \text{L, mol, K}\) and leave units of \( \text{atm} \)
+</p>
+<p class="math">
+\[ PV = nRT \]
+\[  P = \frac{nRT}{V} \]
+\[ P = \left(\frac{\left(10.0 \text{ mol}\right)\left(400 \text{ K}\right)}{5.00 \text{ L}}\right)
+ \left(\frac{0.08205  \text{ L atm}}{\text{mol K}}\right) = \]
+ <br>
+ \[ \left(\frac{\left(10.0 \cancel{\text{ mol}}\right)\left(400 \cancel{\text{ K}}\right)}
+ {5.00 \cancel{\text{ L}}}\right)
+ \left(\frac{0.08205  \text{ atm}\cancel{\text{ L}}}{\cancel{\text{mol}} \cancel{\text{K}}}\right) = 65.6 \text{ atm}
+ \]
+</p>
+</div>
+
+<!-- ===================================================================== -->
+
+<p class="question">
+Helium (He) in a balloon of <span class="quant">2.00 L</span> volume on a 
+cold (<span class="quant">10°C</span>) day is brought 
+into a room at room temperature (<span class="quant">25°C</span>) and the balloon 
+expands. What is the new volume?
+</p>
+<div class="answer">
+<p>The keywords of this question are 
+<span class="keyword">helium</span>,
+<span class="keyword">volume</span> (<span class="symbol">V</span>), and
+<span class="keyword">temperature</span> (<span class="symbol">T</span>). 
+Because helium is a gas, the properties indicated lead one to understand
+that Charles' Law applies, where volume is directly proportional to temperature
+<span class="math-inline">\((V = kT)\)</span>. Using algebra, this states
+that <span class="math-inline"> \( \frac{V}{T} = k \)</span>, and the constant 
+indicates that <span class="math-inline"> \( \frac{V_1}{T_1} = \frac{V_2}{T_2} \)</span>
+to relate two conditions, an initial \(V_1, T_1\) and a \(V_2, T_2\) final condition. 
+There is one constraint to using the Charles' Law equation: temperatures must be 
+on the absolute (Kelvin) scale, so Celsis temperatures must be converted in the 
+process of the calculation.
+It only remains to substitute the values and do the math.
+</p>
+<p class="math">
+\[ \frac{V_1}{T_1} = \frac{V_2}{T_2} \]
+\[  V_2 = \frac{(V_1)(T_2)}{T_1} \]
+\[  V_2 = \frac{(2.00 \text{ L})((25 + 273) \text{ K})}{(10 + 273) \text{ K}} =
+\frac{(2.00 \text{ L})(298 \cancel{\text{ K}})}{283 \cancel{\text{ K}}} = 2.11 \text{ L}
+ \]
+</p>
+</div>
+
+<!-- ===================================================================== -->
+
+<p class="question">
+From the previous problem, the mass of helium is <span class="quant">10.00 g</span>. 
+What is the pressure of  the gas at the initial conditions of <span class="quant">10°C</span>?
+</p>
+<div class="answer">
+<p>
+This problem refers back to problem #3, to its intial conditons of 
+volume \((V = 2.00 \text{ L})\) and temperature \((T = 10^{\circ}\text{C})\).
+It adds the information of the mass of helium 
+\((m = 10.00 g)\), and then it asks for a pressure <span class="symbol">P</span>.
+After brief thought, it is clearly asking to solve this with the 
+ideal gas law equation \((PV = nRT)\), because all the values are provided.
+The constraints on the parameters are that temperature must be on absolute
+(Kelvin) scale, the amount <span class="symbol">n</span> should be in moles.
+This is not seen: the mass of He in grams is given, so the molar mass 
+(= 4.003 g/mol) of the element will be used in conversion.
+No units are specified for pressure <span class="symbol">P</span>, 
+which can be converted with no problem. Volume <span class="symbol">V</span> would be convienently 
+converted to liters (L) temporarily for calculation, but can be converted
+to and from the liters dimension easily.
+</p>
+<p class="math" style="margin:0 0 0 -2em">
+\[ PV = nRT \]
+\[  P = \frac{nRT}{V} \]
+\[  P = \frac{(10.00 \text{ g He}) (\frac{1 \text{ mol He}}{4.003 \text{ g He}})
+   (\frac{0.08205 \text{ L atm}}{\text{mol K}})((273 + 10) \text{K})}{2.00 \text{ L}} 
+ \]
+\[  P = \frac{(10.00 \cancel{\text{ g He}}) (\frac{1 \cancel{\text{ mol He}}}{4.003 \cancel{\text{ g He}}})
+   (\frac{0.08205 \cancel{\text{ L}} \text{ atm}}{\cancel{\text{mol}} \cancel{\text{ K}}})((273 + 10) \cancel{\text{K}})}
+   {2.00 \cancel{\text{ L}}} = 29.0 \text{ atm}
+ \]
+</p>   
+</div>
+
+<!-- ===================================================================== -->
+
+<p class="question">
+A gas at a temperature of <span class="quant">100°C</span> has a pressure of 
+<span class="quant">1.0 atm</span>. The temperature 
+is brought way down to <span class="quant">–20°C</span>. What is the pressure now?
+</p>
+<div class="answer">
+<p>
+The keywords of this question are 
+<span class="keyword">volume</span> (<span class="symbol">V</span>), and
+<span class="keyword">temperature</span> (<span class="symbol">T</span>). 
+This is an application of Gay-Lussac's Law.  where pressure is directly proportional to temperature
+<span class="math-inline">\((P = kT)\)</span>. Using algebra, this states
+that <span class="math-inline"> \( \frac{P}{T} = k \)</span>, and the constant 
+indicates that <span class="math-inline"> \( \frac{P_1}{T_1} = \frac{P_2}{T_2} \)</span>
+to relate two conditions, an initial \(P_1, T_1\) and a \(P_2, T_2\) final condition. 
+There is one constraint: temperatures must be 
+on the absolute (Kelvin) scale, so Celsis temperatures must be converted in the 
+process of the calculation.
+</p>
+<p class="math">
+\[ \frac{P_1}{T_1} = \frac{P_2}{T_2} \]
+\[  P_2 = \frac{(P_1)(T_2)}{T_1} \]
+\[  P_2 = \frac{(1.0 \text{ atm})((–20 + 273) \text{ K})}{(100 + 273) \text{ K}} =
+\frac{(1.0 \text{ atm})(253 \cancel{\text{ K}})}{373 \cancel{\text{ K}}} = 0.678 \text{ atm}
+ \]
+</p>
+</div>
+
+<!-- ===================================================================== -->
+
+<div class="question">
+<span class="quant">50.0 g</span> of potassium chlorate is heated in a 
+<span class="quant">20.0 L</span> sealed container, 
+and produces diatomic oxygen (O<sub>2</sub>) according to the reaction below. If the 
+temperature after reaction is at <span class="quant">25°C</span>, what is the pressure in the flask? 
+Use any units for the pressure you want.
+<p class="chemical-equation">
+2 KClO<sub>3</sub> (<i>s</i>) 
+<span class="reaction-arrow">&srarr;</span>
+2 KCl (<i>aq</i>) + 3 O<sub>2</sub> (<i>g</i>)
+</p>
+</div>
+<div class="answer">
+<p>
+This is one of these questions where the amount of a compound in grams or moles 
+that is a gas is NOT given directly. Instead it is to be calculated as the formation 
+or production of the gaseous substance by a chemical reaction occurring, with the 
+assumption that the reaction goes to 100% completion and the matter is conserved.
+</p>
+<p>
+The extra step required is to know how to write the chemical reaction equation and 
+to be careful about the stoichiometry.  The chemical reaction is given. KClO<sub>3</sub>
+is the reactant whose mass is given. 2 moles of the chlorate will produce 3 moles 
+of oxygen (O<sub>2</sub>) gas, which is the focus. This acts like a conversion factor actually
+\[ \frac{3 \text{ mol O}_2}{2 \text{ mol KClO}_3} \]
+This will be applied in setting up the calculation. It will be necessary to convert the grams 
+of KClO<sub>3</sub> to mole (molar mass = 122.55 g/mol). The target quantity is pressure (any units are okay), the rest of the 
+inputs include volume <span class="symbol">V</span> and 
+temperature <span class="symbol">T</span>. These are all the values used for an 
+<span class="keyword">ideal gas law equation</span> calculation.
+</p>
+<p class="math" style="margin:0 0 0 -2em;width:100%;">
+\[ PV = nRT \]
+\[  P = \frac{nRT}{V} \]
+\[  P = \frac{(50.00 \text{ g KClO}_3) (\frac{1 \text{ mol KClO}_3}{122.55 \text{ g KClO}_3})
+   (\frac{3 \text{ mol O}_2}{2 \text{ mol KClO}_3})
+   (\frac{0.08205 \text{ L atm}}{(1 \text{mol O}_2) \text{(K)}})((273 + 25) \text{K})}{20.0 \text{ L}} 
+ \]
+\[  P = \frac{(50.00 \cancel{\text{ g KClO}_3}) (\frac{1 \cancel{\text{ mol KClO}_3}}{122.55 
+   \cancel{\text{ g KClO}_3}})
+   (\frac{3 \cancel{\text{ mol O}_2}}{2 \cancel{\text{ mol KClO}_3}})
+   (\frac{0.08205 \cancel{\text{ L}} \text{ atm}}{\cancel{\text{mol}} 
+   \cancel{\text{ K}}})(298 \cancel{\text{K}})} {20.0 \cancel{\text{ L}}}
+ \]
+ \( = 0.748 \text{ atm} \)
+</p>
+</div>
+
+</div>
+</body>
+</html>

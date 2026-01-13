@@ -1,0 +1,581 @@
+Title: Introductory General Chemistry - (CHEM-3A)
+Section #: 35438 - Units: 4.00
+Instructor: Nicholas Corsepius
+Meeting Days/Times: MW 4:30PM-5:45PM
+W 6:00PM-8:50PM
+Start Date: 08/08/2022 - End Date: 12/09/2022
+Term: 2022FA
+Room: FH 103
+S 250
+Census Date: 08/29/2022
+PreRequisites/CoRequisites and Advisories
+Prerequisite
+
+See the section at the end of this syllabus for some detail about the level 
+of mathematics you should know for this course.
+
+Welcome Message
+
+Welcome to Chemistry 3A:
+
+I am excited to have you in my class this semester. Chemistry course is 
+cumulative in that concepts build on each other. Based on my experience 
+teaching the course, I recommend that you remain on top of the material 
+covered daily. This is a 4-credit hour course, you are therefore expected
+to spend 8 hours outside classroom every day reviewing notes, prepping for
+class/lab, working on homework/worksheet etc.
+
+A normal part of learning is forgetting and making mistake. I have structured
+this course to give you opportunities for practice as we progress
+through the course. All I ask is that you try to learn from your mistakes and
+never be afraid to ask questions.
+
+The "Lecture" component of the course will consist of in-person lectures and
+a mix of in-person and online assignments. Each week, new material will be 
+delivered and a series of formative assignments assigned to help you practice 
+the material. Each unit will be concluded with a summative exam consisting 
+of about 3-4 chapters worth of material.
+
+The "Lab" component of the course will consist of in-person hands-on laboratory
+experiments and inperson worksheet assignments. There will be a lab practical
+at the end of the semester that tests your hands-on laboratory abilities.
+
+The Final Exam for the course will be a nationally standardized ACS Final Exam.
+If applied, the curve for the Final Exam will be based on the national rankings
+of student performance.
+
+The course structure is subject to change.
+
+Research shows that students with a growth mindset are more likely to reach
+their academic goals. Therefore, seek out opportunities to improve your grades.
+That means seeking out to learn more from peers through study groups, attending
+office hours, taking advantage of college programs. Below is a list
+of opportunity available to you:
+
+ETC Sessions - ETC Session schedule will be established at the beginning of
+the semester.
+Tutoring Center: Tutorial center provides peer assisted learning on a number of courses
+including Chemistry through ZOOM.
+GRASP - Every Friday from 8am - 2pm there is open office hours staffed by Chemistry Faculty
+in S-220.
+
+Lecture material posted is intended to help you understand key concepts, 
+but if it is your first exposure to course material, you will likely not 
+absorb much of what is covered because learning takes many cycles.
+Attend lectures and take notes.
+
+Complete Canvas lecture assignments.
+
+Watch posted lecture videos to help review problematic concepts.
+
+Use your textbook as a reference when you need an alternative explanation of
+the material.
+
+The index is the most important part of any textbook. Skim through provided
+lecture notes posted on Canvas relating to each lecture assignment.
+
+Redo worked examples in handout notes and attempt practice problems
+in textbook. Make note of what doesn’t make sense and visit Office Hours.
+
+Work on more practice problems from the textbook.
+
+Complete online homework assignments.
+
+Instructor
+Name: Nicholas Corsepius
+Email address: nicholas.corsepius@fresnocitycollege.edu
+Phone: 559-442-8031
+Comments
+If you cannot meet during normal office hours, send me an email and we can arrange to meet outside
+of office hours. I strive to make myself widely available over Zoom.
+
+Office Hours for Students
+Office Hours
+Monday - 2:30 pm - 4:30 pm in T-110B
+Friday - 12:00 pm - 2:00 pm in S-220
+
+Course Description
+Chemistry for applied science and non-science majors. The scientific method; chemical computations; composition of
+matter, energy, and physical and chemical changes; fundamental laws and principles; atomic and molecular structure;
+bonding; inorganic nomenclature, kinetic molecular theory, gas laws, solutions, acid-base theories, oxidation-reduction,
+equilibrium, nuclear chemistry, and qualitative and quantitative theories and techniques.
+
+Course Objectives
+1. Identify and apply the steps of the scientific method.
+2. Use and estimate the magnitude of units in the metric system.
+3. Perform chemical computations and apply dimensional analysis.
+4. Use and interpret the periodic table.
+5. Apply nomenclature to naming and writing of chemical formulas of common ions and compounds.
+6. Classify elements, common ions, and compounds given the name or the chemical formula.
+7. Classify and construct balanced chemical reaction equations.
+8. Use fundamental laws, principles, and theories to predict and evaluate the structure and properties of elements, compounds, and ions.
+9. Apply dynamic equilibrium concepts to evaluate the equilibrium distribution of reactants and products in chemical equilibrium reactions and perform equilibrium calculations.
+10. Use atomic theory and radioactivity concepts to evaluate properties of elements and their isotopes. 
+11. Operate safely in a laboratory environment and use basic equipment to make measurements and collect data for processing.
+
+
+Student Learning Outcomes
+1. Apply appropriate theories and techniques to solve quantitative problems.
+2. Apply appropriate theories and techniques to solve qualitative problems.
+3. Collect, record, organize, and analyze experimental data, and recognize the limitations of
+ measurements.
+Required Texts/Materials
+
+Introductory Chemistry
+9781264246243
+Burdge
+McGraw-Hill
+2nd
+Optional Text/Materials
+
+Calculator
+Any scientific calculator is acceptable as long as it DOES NOT have graphing and/or programmable
+capabilities. Try to learn and practice how to use an actual scientific calculator in the first week of the
+session.
+
+
+Attendance Policy
+Attendance is mandatory to lecture and lab. Attendance will be taken at the start of each class.
+
+Excused Absences
+Absences may be excused if: 1) you notify me within 24 hours of the absence, 
+2) the absence is short term, 3) there is a serious and compelling reason for 
+missing the class, and 4) documentation is provided proving the absence is 
+serious and compelling. Simply stating you have a "family emergency" or 
+"don't feel well" is not grounds for an excused absence. You must provide
+documentation, such as a doctors note, covid test, or some other proof of 
+your serious and compelling reason for missing class.
+
+Lecture Absences
+Lecture attendance is considered mandatory. Despite lecture videos being 
+posted, these are not meant to be a substitute for attending lecture. 
+You are responsible for all material delivered during lecture, regardless 
+of whether or not there is a corresponding lecture video. You do not need to
+provide documentation for an excused absence to missed lectures. Students 
+are responsible for all material and assignments covered during their absence.
+
+Exam Absences
+Exam attendance is mandatory. In order to have an absence excused on an exam
+day, you must follow the rules listed above under Excused Absences. Exams 
+cannot be taken online. They may be made-up as agreed upon with your instructor. 
+Your instructor may, at their discretion, decided to instead replace your 
+exam grade by an average of your other three lecture exam scores and ACS
+Final. Unexcused absences will result in a zero for the exam score.
+
+Final Exam Absences
+Final Exam attendance is mandatory. You cannot pass the class without
+completing the Final Exam.
+
+Lab Absences
+Lab attendance is mandatory. In order to have a lab absence excused, you
+must follow the rules listed above under Excused Absences. Worksheets 
+missed due to an excused absence must be made up before a negotiated due 
+date with the instructor. These must be made up during Office Hours or GRASP.
+Lab attendance is mandatory. In order to have a lab absence excused, 
+you must follow the rules listed above under Excused Absences. Hands-on 
+experiments missed due to Excused Absences cannot be made-up. Instead, 
+there will be a blanket policy of excusing your lowest two scoring lab 
+assignments. If you do miss an experiment, you are still required to 
+complete the Lab Notebook assignment or you will earn a zero. Note that due 
+to CID guidelines, laboratory experiments are a required component of the
+course. You must complete a minimum of 8 laboratory experiments in-person
+to pass the course. Failure to complete 8 experiments will result in a
+failing grade for the course. See Class Outline for a list of all
+laboratory experiments. Instead of excusing absences from experiments,
+there will be a blanket policy of excusing your two lowest scoring experiments
+at the end of the semester. Students are responsible
+for all material covered during their absence.
+
+Drop Policy & Deadlines
+Drop Policy:
+
+You may be dropped from the course if you do not attend the first day of
+class. You may be dropped from the course if you do not attend class for
+2 consecutive weeks. Anyone registered for the class
+after the Drop with a W date will receive a letter grade in the course.
+
+Deadlines:
+Census Date: 08/29/2022
+1. Fee reversal/refund - 8/19/2022
+2. Add or drop in person to avoid W - 8/28/2022
+3. Add or drop using WebAdvisor to avoid W - 8/28/2022
+4. Drop with a ‘W’ in person or on WebAdvisor (to avoid a letter grade) - 10/7/2022
+
+Holidays
+9/5/2022 - Labor Day
+11/11/2022 - Veterans Day
+11/24/2022 - 11/25/2022 - Thanksgiving Break
+See the official Fall 2022 important Dates page for a complete list.
+
+Participation and Engagement
+
+Chemistry is a difficult subject. That makes your participation with in-class
+and online discussions, quizzes, and homework even more important. These are
+explained in more detail in the Assignments section of the syllabus.
+Additionally, I will constantly be making myself available for questions and
+further explanation of topics. I am very responsive over email, and am always
+happy to hop on Zoom and go over a lecture topic in further detail with you
+upon request.
+
+Class Outline/Calendar
+Please note that this Schedule is subject to change at the instructor's discretion. Please see
+the Schedule page on Canvas for the most up-to-date Lecture, Lab, and Exam schedule.
+Lecture Schedule
+Week Date Chapter Lecture 1 Lecture 2
+Week 1 8-Aug 1 Course Introduction Isotopes and Atomic Mass
+Week 2 15-Aug 3 Ionic Compounds Covalent Compounds
+Week 3 22-Aug 4 Significant Figures Unit Conversions
+Week 4 29-Aug 5 The Mole Molar Mass
+Week 5 5-Sep Review Exam 1
+Week 6 12-Sep 7 Lewis Structures VSEPR
+Week 7 19-Sep 8 Ideal Gas Law Alternative Gas Laws
+Week 8 26-Sep 9 Concentration of Solutions Dilutions
+Week 9 3-Oct Review Exam 2
+Week 10 10-Oct 10 Balancing Chemical Equations Types of Reactions
+Week 11 17-Oct 11 
+Reaction Stoichiometry
+Aqueous and Gaseous
+Reactions
+Week 12 24-Oct 11 & 13 Stoichiometry Practice Chemical Equilibria
+Week 13 31-Oct Review Exam 3
+Week 14 7-Nov 12 Solids and Liquids Specific Heat
+Week 15 14-Nov 6
+Introduction to Acids and
+Bases pH Scale
+Week 16 21-Nov 2 & 16 
+Electron Configurations Periodic Trends/ Nuclear
+Week 17 28-Nov Review Exam 4
+Week 18 5-Dec Finals Week Finals Week
+
+Lab Schedule
+Monday Tuesday Wednesday Thursday
+8-Aug
+Course
+Introduction 9-Aug
+Course
+Introduction 10-Aug
+Course
+Introduction 11-Aug
+Course
+Introduction
+15-Aug
+Atoms and
+Elements
+Worksheet 16-Aug
+Atoms and
+Elements
+Worksheet 17-Aug
+Atoms and
+Elements
+Worksheet 18-Aug
+Atoms and
+Elements
+Worksheet
+22-Aug
+Naming
+Worksheet 23-Aug
+Naming
+Worksheet 24-Aug
+Naming
+Worksheet 25-Aug
+Naming
+Worksheet
+29-Aug Making
+Measurements
+30-Aug Making
+Measurements
+31-Aug Making
+Measurements
+1-Sep Making
+Measurements
+1 1 1 1
+5-Sep Holiday 6-Sep
+Making
+Measurements
+2 7-Sep
+Making
+Measurements
+2 8-Sep
+Making
+Measurements
+2
+12-Sep
+Empirical
+Formulas 13-Sep
+Empirical
+Formulas 14-Sep
+Empirical
+Formulas 15-Sep
+Empirical
+Formulas
+19-Sep
+Lewis
+Structures 20-Sep
+Lewis
+Structures 21-Sep
+Lewis
+Structures 22-Sep
+Lewis
+Structures
+26-Sep
+Making
+Measurements
+2 27-Sep
+Gases
+Worksheet 28-Sep
+Gases
+Worksheet 29-Sep
+Gases
+Worksheet
+3-Oct
+NaCl Standard
+Curve 4-Oct
+NaCl Standard
+Curve 5-Oct
+NaCl Standard
+Curve 6-Oct
+NaCl Standard
+Curve
+10-Oct
+Chemical
+Reactions
+Worksheet 11-Oct
+Chemical
+Reactions
+Worksheet 12-Oct
+Chemical
+Reactions
+Worksheet 13-Oct
+Chemical
+Reactions
+Worksheet
+17-Oct
+Types of
+Reactions 18-Oct
+Types of
+Reactions 19-Oct
+Types of
+Reactions 20-Oct
+Types of
+Reactions
+24-Oct
+Stoichiometry
+Worksheet 25-Oct
+Stoichiometry
+Worksheet 26-Oct
+Stoichiometry
+Worksheet 27-Oct
+Stoichiometry
+Worksheet
+31-Oct
+Stoichiometric
+Gas
+Production 1-Nov
+Stoichiometric
+Gas
+Production 2-Nov
+Stoichiometric
+Gas
+Production 3-Nov
+Stoichiometric
+Gas
+Production
+7-Nov
+Determination
+of Citric Acid in
+Soda 8-Nov
+Determination
+of Citric Acid in
+Soda 9-Nov
+Determination
+of Citric Acid in
+Soda 10-Nov
+Determination
+of Citric Acid in
+Soda
+14-Nov Calorimetry 15-Nov Calorimetry 16-Nov Calorimetry 17-Nov Calorimetry
+21-Nov Practical 22-Nov Practical 23-Nov Practical 24-Nov Holiday
+28-Nov ACS Practice 29-Nov ACS Practice 30-Nov ACS Practice 1-Dec Practical
+5-Dec
+Finals Week -
+No Lab 6-Dec
+Finals Week -
+No Lab 7-Dec
+Finals Week -
+No Lab 8-Dec
+Finals Week -
+No Lab
+
+Exams and Assignments
+Each week, you will have some combination of the following assignments. 
+The point value associated with each assignment is approximate and subject 
+to change at the instructors discretion. The Canvas grade book will be kept 
+up-to-date with your current grade before or at the end of each unit.
+Lecture Assignments - 5 pts/lecture - Each lecture will have some 
+associated assignment integrated into Canvas or ALEKS that will serve as 
+practice for that material.
+
+ALEKS Homework - 10 pts/chapter - Each chapter will have an associated ALEKS
+assignment. These will be worth 10 points. Please ignore the ALEKS internal
+grade book and only pay attention to you Canvas grade book.
+
+Lab Experiments - 20-25 pts each - Each week will have a laboratory component.
+Most weeks these will be hands-on laboratory experiments. These experiments 
+will consist of pre-lab and post-lab assignments. Make sure to read the 
+Attendance Policy regarding laboratory experiments. 
+Worksheets - 20 pts each - Some labs will be dedicated to completing 
+worksheets that cover lecture
+material. Make sure to read the attendance policy regarding worksheets.
+Lab Practicals - 50 pts - At the end of the semester, there will be a Lab 
+Practical testing your knowledge and technique of previously performed labs.
+
+Exams - 100 pts each - There will be four exams given throughout the
+semester. Each exam will cover 3-4 chapters.
+
+Final Exam - 200 pts - There will be an in-person ACS Final exam given
+at the end of the semester and will be cumulative for the entire course.
+
+Accommodation for Students with Disabilities
+Fresno City College is committed to creating accessible learning environments
+consistent with federal and state law. To obtain academic adjustments or 
+auxiliary aids, students must be registered with the DSP&S office on campus.
+DSP&S can be reached at (559) 442-8237 and is located in Building A. All
+information is kept confidential. If you are already registered with the
+DSP&S office, please provide your Notice of Accommodation form to me as
+soon as possible, preferably during the first two weeks of class.
+
+Your success is important to me. If your accommodation includes taking the
+tests in the DSP&S office, it is your responsibility to make an appointment
+to take the test on or before the day and time of the in-class test and to
+inform me of the appointment.
+Please contact me as soon as possible if you have any questions.
+
+Grading Scale
+The following grade breakdown is subject to change at the instructor's
+discretion.
+The grading scale will be based on a straight percentage:
+A=90% - 100%
+B=80% - 89%
+C=70% - 79%
+D=60% - 69%
+F=0%- 59%
+
+Note: an 89.5% will round up to a 90%, but an 89.4% rounds down to 89%
+
+The final grade breakdown is approximately:
+10% Lecture Assignments
+10% ALEKS
+32% Lab Assignments (Pre-Lab, Post-Lab, and Lab Practical)
+32% Exams
+16% Final Exam
+
+These grade breakdowns are an approximation based on my estimation of the points offered in
+each category. These percentages are not fixed and subject to change.
+
+Make Up
+Any in-class assignment cannot be made up. If you have an Excused Absence 
+(see Absences section) a reasonable accommodation will be made for you 
+to complete the assignment. Take-home Lecture Assignments and Lab Assignments 
+may be made-up but are considered late. The window of time available to turn 
+in assignments late varies from assignment to assignment. The close date 
+for each assignment will be clearly posted. Work will not be accepted after
+the close date. See Late Work section of the syllabus for an explanation.
+Laboratory experiments cannot be made-up. Instead, your lowest scoring
+two labs will be dropped at the end of the semester.
+
+Worksheets can be made up if there is an excused absence during a worksheet
+lab period. The worksheet must be made up during Office Hours or some other 
+negotiated in-person meeting.
+Exams cannot be taken online. They may be made-up as agreed upon with your
+instructor. Your instructor may, at their discretion, decided to instead replace your exam grade by an average of your
+other three lecture exam scores. Unexcused absences will result in a zero for the exam score.
+Missing more than one exams will result in an automatic 0 for the missed exams.
+The Final Exam cannot be made-up or rescheduled. You cannot pass the class if you miss the Final
+Exam.
+
+No work, be it late, extra credit, or otherwise, will be accepted during Finals week.
+
+Late Work
+All in-class assignments cannot be turned in late.
+
+Take-home lecture and lab assignments may be made-up but are considered late. Late work will
+automatically receive a 10% penalty per day late. This penalty is built into Canvas and will not be
+waived no matter the excuse. Late work will not be accepted more than 3 days after the assignment is
+due. The window of time available to turn in assignments late varies from assignment to assignment.
+The close date for each assignment will be clearly posted. Work will not be accepted after the close
+date. No late work will be accepted during finals week.
+ALEKS Objective assignments cannot be submitted late due to limitations in the ALEKS online
+system. Lecture assignments through ALEKS can be turned in 1 day late with a 10% penalty.
+
+Extra Credit
+Extra credit may be offered throughout the semester at the instructors discretion. Extra credit
+assignments are not available upon request. Generally speaking, there is no extra credit offered
+during a normal semester.
+
+Class Norms
+This course is very rewarding, but also extremely challenging. There is a large amount of material
+covered, and each concept builds off of previously learned material. Your commitment to success is of
+the utmost importance. It is my job to teach you chemistry, but I cannot do so without your full
+investment. My expectations are that you will dedicate the requisite time and energy each week, over
+the next 18 weeks, to this course.
+A college course is a marathon, not a sprint.
+
+
+Academic Dishonesty Policy
+Students at Fresno City College are entitled to the best education that the college can make available
+to them, and they, their instructors, and their fellow students share the responsibility to ensure that this
+education is honestly attained. Because cheating, plagiarism, and collusion in dishonest activities
+erode the integrity of the college, each student is expected to exert an entirely honest effort in all
+academic endeavors. Academic dishonesty in any form is a very serious offense and will incur serious
+consequences.
+
+Cheating
+Cheating is the act or attempted act of taking an examination or performing an assigned, evaluated
+task in a fraudulent or deceptive manner, such as having improper access to answers, in an attempt
+to gain an unearned academic advantage. Cheating may include, but is not limited to, copying from
+another’s work, supplying one’s work to another, giving or receiving copies of examinations without an
+instructor’s permission, using or displaying notes or devices inappropriate to the conditions of the
+examination, allowing someone other than the officially enrolled student to represent the student, or
+failing to disclose research results completely.
+
+Plagiarism
+Plagiarism is a specific form of cheating and is the use of another’s words or ideas without identifying
+them as such or giving credit to the source. Plagiarism may include, but is not limited to, failing to
+provide complete citations and references for all work that draws on the ideas, words, or work of
+others, failing to identify the contributors to work done in collaboration, submitting duplicate work to be
+evaluated in different courses without the knowledge and consent of the instructors involved, or
+encouraging, permitting, or assisting another to do any act that could subject him or her to discipline.
+Incidents of cheating and plagiarism may result in a variety of sanctions and penalties that may range
+from a failing grade on the particular examination, paper, project, or assignment in question to a failing
+grade in the course, at the discretion of the instructor and depending on the severity and frequency of
+the incidents.
+
+Support Services
+Services available to students:
+Health Services web site
+Tutorial Services web site
+Psychological Services web site
+RAM Pantry web site
+Final Exam Date
+Final Exam
+Section 35433 - Tuesday 12/6/2022 at 4:00 pm
+Section 35434 - Tuesday 12/6/2022 at 4:00 pm
+Section 35436 - Monday 12/5/2022 at 4:00 pm
+Section 35438 - Monday 12/5/2022 at 4:00 pm
+See the Fall 2022 Final Exam Schedule for details.
+
+
+-------------
+Mathematics for Chemistry 3A
+
+While the College's Math 3A or Math 103 courses are given as a prerequisite for this course
+and you should have successfully completed it, in case you are an exception in that your
+course work was not recent or is transferred, I have looked at a freely available
+Online Educational Resource text used by one of the Math 103 instructors. 
+This resource is on the OpenStax web site which provides 
+
+https://openstax.org/books/intermediate-algebra-2e/pages/1-introduction
+
+You should review the following chapters and section and do the practice
+problems ("exercises") in the resource: all of 1.1-1.5, 2.1 - 2.3, 3.1 - 3.3, 3.5-3.6, 6.1, 7.1-7.5, 10.1-10.5
+

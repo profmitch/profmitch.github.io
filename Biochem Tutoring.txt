@@ -1,0 +1,49 @@
+Biochemistry Tutoring
+1. Biomolecule structure/function 
+2. Enzyme kinetics/mechanisms
+3. Metabolic pathways & regulation
+4. Techniques: PCR, sequencing, cloning
+
+Check recent reviews:
+1. CRISPR / genome editing
+2. metabolomics, proteomics, structural biology
+3. drug discovery and computational biology
+4. PubMed review
+5. Coursewar like MIT, Khan Academy
+
+Diagnotic Tools
+1. online quizzes / tests
+2. r/biochemistry or Research Gate
+3. Latest Lehninger or Berg's Biochemistryt
+4. flashcards, apps (Quizlet)
+5. Know PyMOL
+
+
+https://doi.org/10.1515/hsz-2020-0214
+Unity of biochemistry -- what is true of E coli must be true of elephants 
+when it comes to biochemistry (J. Monod) based on Kluyver's content that 
+core metabolic pathwyas are conserved between all life forms. Glycolysis,
+TCA, carbon fixation might be same for higher eukaryotes, but not other 
+organisms. Particularly for microorganisms there is great diversity with 
+respect to carbon pathways.
+Genetic redundancy -- paralogs of gene-encoding enzymes with distinct 
+functions that can arise from gene duplication (hemoglobin and myoglobin)
+functional degeneracy -- structural and evolutionarily distinct metabolic 
+pathways conferring same function
+
+Carbon fixation was thought to be done with CBB (formerly Calvin) Cycle but
+both genetic and functional redundancy is identified in microbial autotrophy.
+Genetic redundancy is seen with RubisCO that does the actual fixation step.
+RubisCO can accept both CO2 and oxygen (latter is photorespiration). 
+RubisCO does a tradeoff between CO2 fixation (for "speed") and "specificity"
+to resolve and electrophile (CO2 or O2), set optimally for certain 
+environmental conditions. Where bacteria have fluctating CO2 and O2, there
+are RubisCO isoenzyme types (I: slow and specific) and II (fast and not
+specific) that may enable expansion of the ecological niche. There is a 
+type III transaldolase variant postulated for Thermodesulfobium acidiphilum.
+
+Genetic redundancy is seen in a rTCA (reverse of TCA cycle), which is 
+functionally redundant to CBB cycle.  Ferredoxin-dependent carboxylases
+(oxygen-sensitive) means rTCA occurs in anaerobic habitats. Hydrogenobacter
+thermophilus TK-6 has 2 isoforms of oxoglutarate:ferredoxin oxidoreductase
+(the analog in higher eukaryotes is alpha-ketoglutarate, using NAD+)

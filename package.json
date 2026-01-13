@@ -1,5 +1,6 @@
 {
 	"dependencies": {
-		"@types/node": "^24.8.1"
+		"glob": "^13.0.0",
+		"js-yaml": "^4.1.1"
 	}
 }
