@@ -1,0 +1,11 @@
+@access_token = ya29.a0AS3H6Nzrjno9aFUbeUcu_NJV7DTSdVow_6TSGWBH5j4mj3t8G_fzykpR4oj-ANXOXf0692QWUxe3CI5lV6dQanT1IIgx7gm6b2m_DAlzeVfZY1PznQqcYied_C4Up5O1li3x11sEueXDo0WLbc5JbTrwY_9Z_irnJumIGFjLaCgYKAYMSARYSFQHGX2MiGB2BaFSgsY1CVwmnPvCMYw0175
+
+GET https://www.googleapis.com//drive/v3/files/1-6K3syue8HLMs7mqHqghb7n4Ct9IYJaY
+Authorization: Bearer {{access_token}}
+
+###
+
+POST https://oauth2.googleapis.com/revoke
+Content-Type: application/x-www-form-urlencoded
+
+token={{access_token}}

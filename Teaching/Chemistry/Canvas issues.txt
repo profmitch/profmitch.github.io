@@ -1,5 +1,0 @@
-Canvas issues
-
--- confusion about course name with cross-listed sections
--- Attendance allows for roster to be checked only once a day
--- unsaved work on quizzes is lost with no warning

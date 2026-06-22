@@ -7,6 +7,8 @@
 **/ChemDoodle
 **/Ketcher
 **/PowerPoint Talks--Libraries
+*.7z
+*.zip
 *.js.map
 bfg.jar
 pdfs/
@@ -17,16 +19,6 @@ Reference/UPhoenix
 docs/Teaching/Chemistry/css/
 **/__NotesToWorkOn
 
-Teaching/src/GoogleDriveApiFileRetrieve.ts
-Teaching/src/GoogleDriveFileListing\[Node].ts
-request.rest
-DriveAPIcredentials.json
-mavigozler.github.io-mirror.git/
-
-IMathAS/
-Simple Attendance/
+profmitch.github.io-mirror.git/
 docs/Teaching/Chemistry/FlashCard/
-text2qti/
-exam-question-generator/
 HTTPCert-DNS/acme-dns
-Teaching/Chemistry/OpenStax Chemistry2e-WEB.pdf

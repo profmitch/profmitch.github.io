@@ -1,0 +1,40 @@
+destpath: "D:/ProfMitch GitHub/profmitch.github.io/docs"
+items:
+  - src: "D:/ProfMitch GitHub/profmitch.github.io/Teaching/Chemistry/_WebDocuments"
+    reldest: "./webdocs"
+    option: tree
+  - src: "D:/ProfMitch GitHub/profmitch.github.io/css/*"
+    reldest: "./css"
+    option: tree
+  - src: "D:/ProfMitch GitHub/profmitch.github.io/Teaching/Chemistry/Lecture Slides/*.pptx"
+    reldest: "./Lectures"
+    templateRef: 1
+  - src: "D:/ProfMitch GitHub/profmitch.github.io/Teaching/Chemistry/Labs/*.pptx"
+    reldest: "./Labs"
+    templateRef: 2
+courseFiles:
+  templates:
+    - name: instructor
+      in: "D:/ProfMitch GitHub/profmitch.github.io/Teaching/Chemistry/courseFiles-template.html"
+      out: "./courseFiles.html"
+      sections:
+        - section: "$$LectureFiles$$"
+          ref: 1
+          input: "\\d\\-([^\\.]+).pptx"
+          output: "ul,a,$1"  
+        - section: "$$LabIntros$$"
+          ref: 2
+          input: "(Expt [^\\.]+).pptx"
+          output: "ul,a,$1"  
+    - name: student
+      in: "D:/ProfMitch GitHub/profmitch.github.io/Teaching/Chemistry/courseFiles (Students)-template.html"
+      out: "./courseFiles (Students).html"
+      sections:
+        - section: "$$LectureFiles$$"
+          ref: 1
+          input: "\\d\\-([^\\.]+).pptx"
+          output: "ul,a,$1"  
+        - section: "$$LabIntros$$"
+          ref: 2
+          input: "(Expt [^\\.]+).pptx"
+          output: "ul,a,$1"  
