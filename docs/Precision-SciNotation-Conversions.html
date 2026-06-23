@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Measured Quantities, Scientific Notation, Significant Digits, Decimal Places, Conversions</title>
+   <link rel="stylesheet" href="../../css/std.css">
+   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+<body>
+   <p id="title">Measured Quantities, Scientific Notation,<br> 
+      Significant Digits, Decimal Places, Conversions</p>
+<div class="container">
+<h1>Measured Quantities</h1>
+<p>
+In making quantitative observations in chemistry, you will be determining 
+a (measured) <mark>quantity</mark>
+</p>
+<p>
+The quantity will have a <mark>number</mark> (numerical value) and <mark>units</mark> associated with it, 
+creating a dimension. Whenever you report data in your laboratory notebook, you are almost always 100% 
+reporting a measured quantity that requires that number with its units. Failure to properly record 
+that number with units creates problems at the professional level of laboratory science, and it's 
+points off on scoring at the student level.
+
+
+<h1>Significant Digits</h1>
+<p>
+   Also called <mark>significant figures</mark>, the significant digits of a value are
+   <em>at least</em> the number of digits that extend from the first nonzero number to the
+   last nonzero number, with all the zero digits that are in between as well. "123.45" has 
+   five significant digits.
+</p>
+<p>
+   Digits which are zeroes between a non-zero digit to the left and a non-zero digit on 
+   the right are called <q>sandwich zeroes</q> and are always significant. For example, 
+   the number "1005" has four significant digits.
+</p>
+<p>
+   Digits having a zero <i>to the left</i> of the first nonzero digit are not
+   significant, whether they come after the decimal point or not.  "0.0075" has two 
+   significant digits.
+</p>
+<p>
+   Digits having a zero to the right of the last nonzero digits <em>are</em>
+   significant if they come after the decimal point, or when there is a
+   decimal point indicated in an integer number.
+   <br><b>1200</b> has two significant digits.
+   <br><b>1200.</b> has four significant digits (note the decimal point).
+   <br><b>1200.00</b> has six significant digits.
+</p>
+<p>
+   Most do not consider the zeroes to the right of the last nonzero digit
+   of an integer as significant (see the use of scientific notation in
+   helping decide what digits are significant).
+</p>
+<h2>Examples</h2>
+<p>
+   These examples will be presented in tabular form with explanations.
+</p>
+<table>
+   <tbody>
+   <tr>
+      <th>Number</th>
+      <th>Number of Significant Digits</th>
+      <th>Explanation</th>
+   </tr>
+   <tr>
+      <td>2084.307</td>
+      <td class="center">7</td>
+      <td class="left smaller">
+         The first and last digits are both nonzero, so by the rules, all
+         digits in between are significant, including zeroes. The decimal
+         point is not a factor here in evaluating significance
+      </td>
+   </tr>
+   <tr>
+      <td>200,000</td>
+      <td class="center">1</td>
+      <td class="left smaller">
+         The trailing zeroes are not included as significant digits to
+         the right of the last nonzero digits (which is also the first
+         nonzero digit, "2")
+      </td>
+   </tr>
+   <tr>
+      <td>200,000.</td>
+      <td class="center">6</td>
+      <td class="left smaller">
+         The inclusion of the decimal point implies that the number
+         200,000 is accurate all the way to the 10<sup>0</sup> (one's) digit
+      </td>
+   </tr>
+   <tr>
+      <td>200,000.0000</td>
+      <td class="center">10</td>
+      <td class="left smaller">
+         The inclusion of zeroes past the decimal point indicates the number 
+         has a true value that is accurate to ten-thousandths of the number
+      </td>
+   </tr>
+   <tr>
+      <td>0.000009043</td>
+      <td class="center">4</td>
+      <td class="left smaller">
+         The zeroes to the left of the first nonzero digit ("9") to the
+         decimal point are not considered significant. The count of
+         digits from the first to last nonzero digit are 4, including the
+         <q>captive zero.</q>
+      </td>
+   </tr>
+   <tr>
+      <td>0.0000090430000</td>
+      <td class="center">8</td>
+      <td class="left smaller">
+         The addition of zeroes to the right of the last nonzero
+         <em>after the decimal point is intended to indicate just how true
+         the value is, even down to 10<sup>−13</sup> digit
+         </em>
+      </td>
+   </tr>
+   <tr>
+      <td>230.0000090430000</td>
+      <td class="center">16</td>
+      <td class="left smaller">
+         Changing the value to left of decimal point to alter which is
+         the first nonzero digit (was "9," now "2") means all digits in
+         between, including zeroes that were not significant in previous
+         value, are now significant
+      </td>
+   </tr>
+   </tbody>
+</table>
+
+
+<p>
+   Here's another way that helps you to determine significant digits:
+   converting the value to scientific notation. The list below takes the
+   numbers in the table above and converts them to scientific notation:
+</p>
+<ul class="no-space">
+   <li>2.084307 &times; 10<sup>2</sup></li>
+   <li>2 &times; 10<sup>5</sup></li>
+   <li>2.00000 &times; 10<sup>5</sup></li>
+   <li>2.000000000 &times; 10<sup>5</sup></li>
+   <li>9.043 &times; 10<sup>−6</sup></li>
+   <li>9.0430000 &times; 10<sup>−6</sup></li>
+   <li>2.300000090430000 &times; 10<sup>2</sup></li>
+</ul>
+<p>
+   Numbers in scientific notation have two components: the <mark>significand</mark>
+   (formerly called the <b>mantissa</b>), which is a number between 1 and 10 with a 
+   digits after a decimal point, and the <mark>exponent</mark>, which is 
+   a power of 10 (it has format with a 10<sup><i>n</i></sup> value).
+</p>
+<p>
+   The significand part requires that the number be written exactly
+   according to the significant digits of the number. Notice has the
+   significand is written for the numbers that are all equal to 200,000: the
+   zeroes that become signficant must be expressed to their accuracy in
+   the significand. Thus converting a number to scientific notation forces
+   one to think about just what the significant digits are.
+</p>
+<h2>Exact Numbers</h2>
+<p>
+   These quantities, such as constants and conversion factors, are not 
+   measured quantities and are exact numbers. This means they have an infinite
+   number of significant digits. Examples include:
+</p>
+<ul>
+   <li>Numbers obtained by counting discrete objects: 12 eggs, 5 students.
+      There is no uncertainty in this determination which requires indicating 
+      a level of precision</li>
+   <li>Conversion factors: these are exact numbers that should not be treated
+      as measured quantities for purposes of determining precision (significant 
+      digits, decimal places)
+   </li>
+</ul>
+<h2>Rounding Numbers</h2>
+<p>
+   Before getting into this important subject of showing results of
+   operations, a reminder on <b>rounding off</b> numbers.
+</p>
+<p>
+   <b>Rule: when the digit used to determine rounding off is between 0 and 4, 
+   one rounds <em>down</em>; when it is between 5 and 9, one rounds
+   <em>up</em></b>. Rounding down is equivalent to just truncating (lopping off) the
+   digts from the rounding digit to the right. Rounding up is the equivalent of 
+   truncating the numbers as well, but adding 1 to the digit to the left of the rounding digit.
+</p>
+<p>
+   Suppose the number 8.49918365107 is to be rounded off to a certain digit.
+</p>
+<p>
+   Suppose the number is to have the format x.xxxxxxx, that is 7 digits after 
+   the decimal point. This means that the 8<sup>th</sup> digit after the decimal point, 
+   the number "5," is to be used in rounding off. Since "5" indicates 
+   that rounding up occurs on the 7<sup>th</sup> digit, which is "6," 
+   then the value becomes 8.4991837 when rounding up and truncation occur.
+</p>
+<p>
+   Now suppose that number will have format x.xx, or 2 digits after the
+   decimal point. This means that the 3rd digit after decimal point, or
+   "9," will lead to a rounding up of the number to be formatted: 8.50.
+   This was a tricky round up in fact, because 1 was added to the 9 in
+   the 2nd digit after the decimal point, which then carries a one to the
+   9 in the 1st digit after the decimal point, and so there were multiple
+   changes of the digits as a result of these digits valued at "9."
+</p>
+<h2>Significant Digits of the Results of Operations On Numbers</h2>
+<p>
+   The first principle involving determining the number of significant
+   digits of the result of a binary operation is that the result will
+   have the same number of significant digits as the number involved in
+   the operation that has the least significant digits.
+</p>
+<p>
+   Here's an example. Evaluate and give the result with the correct
+   number of significant digits the operation:
+   \[ 9.7 \times 12.35 = ? \]
+</p>
+<p>
+   If one merely enters the values into the calculator and writes down
+   all the digits reported by the calculator, the result is:
+   \[ 9.7 \times 12.35 = 119.795 \]
+</p>
+<p>
+   However, as a scientific result, this is not correct. For example, if
+   the number 9.7 were a volume in milliliters (ml), and 12.35 were a
+   concentration in micromole per milliter (which is millimolar, or mM),
+   then the result is a number of micromoles, which is 119.795 micromoles
+   (µmol). No scienist believes that the mass is that accurate. Since the
+   number 9.7 has 2 significant digits, and 12.35 has 4 significant
+   digits, the result will have signficant digits that are the least of
+   the significant digits of one of the two numbers, namely 2 digits.
+   Thus the result is rounded to 120 µmole, which is the answer:
+   \[ 9.7 \times 12.35 = 120 \]
+</p>
+<p>
+   The same is true if we had divided numbers, for example:
+   \[ \frac{35.155}{250} = 0.14062 = 0.14 \]
+</p>
+<p>
+   That result was rounded off to 2 significant digits because the
+   denominator 250 only had 2 significant digits by the rules, even
+   though the numerator had 5 significant digits.
+</p>
+<h2>Addition and Subtraction Operations</h2>
+<p>
+   Addition and subtraction of numbers work on the same principle.
+   Suppose the addition of 6.55, 8.235, and 10.95. Perform the addition
+   operation and do the rounding:
+</p>
+<h2>Intermediate Result Determinations on Combined Operations</h2>
+<h1>Setting Up A Calculation: The Numerator-Denominator Principle in the 
+   Use of Conversion Factors</h1>
+<p>
+   A calculation is really an <b>equation</b>, and an equation must 
+   have an equal sign in standard mathematics.
+</p>
+<p>
+   On one side of the equal sign is the <b>answer</b>, the
+   <b>result of the calculation</b> (usually on the right side of 
+   the equation for people who think left-to-right).
+</p>
+<p>
+   On the other side of the equation are the <b>factors</b>: all 
+   the numeric values that will be used to make the calculation. By
+   definition, factors are multiplied to one another, and that is the
+   case for pretty much 99.9% of all calculations in this setup. In rare
+   cases, you will use algebra where you set up numbers that are added or
+   subtracted from one another, but they become quantities (values
+   enclosed in parentheses) either in the numerator or denominator of a factor.
+</p>
+<p>
+   All the factors will be represented in a numerator or denominator
+   fashion. That is, if a factor is used in a division operation, then it
+   will appear as its inverted value (that is, if value <i>x</i>
+   is used to divide the factors in the calculation, it will be
+   represented as 1 / <i>x</i> and multiplied to all factors).
+</p>
+<p>
+   The equation will then have the form that looks much like this:
+   \[  \frac{w \text{ dim1}}{\text{dim2}} \times 
+   \frac{x \text{ dim2}}{\text{dim3}} \times 
+   \frac{\text{dim3}}{y \text{ dim4}} \times 
+   \frac{z \text{ dim4}}{1} = a \text{ dim1} \text{ [1]} \]
+</p>
+<p>
+   The
+   <span style="font-size: 83%; font-weight: bold">dim <i>n</i></span>, where
+   <i>n</i> = 1, 2, 3, …, actually refers to the name of a dimension or unit, 
+   such <b>mg</b> (milligram) or <b>µl</b> (microliter). The values <i>w</i>,
+   <i>x</i>, <i>y</i>, <i>z</i>
+   are numbers expressed in any form (real or floating point or decimal;
+   integers; scientific notation); they are the factors in this product.
+   The product itself is the value <i>a</i>. Note that the value of
+   <i>y</i> is in the denominator, that is the factor is 1/<i>y</i>.
+</p>
+<p>
+   But what is important here is not the values <i>w</i>, <i>x</i>, etc. 
+   It is the dimensions <span style="font-size: 83%; font-weight: bold">dim
+   <i>n</i></span>. The values were merely arranged in this style in order 
+   to arrange the dimension to produce the desired final dimension with its value.
+   Note how <span style="font-size: 83%; font-weight: bold">dim2</span>,
+   <span style="font-size: 83%; font-weight: bold">dim3</span>, and
+   <span style="font-size: 83%; font-weight: bold">dim4</span> all cross out, 
+   leaving <span style="font-size: 83%; font-weight: bold">dim1</span>
+   in the final answer. One can remove the dimensions and then just be
+   left with multiplying all numbers in the numerator, then multiplying
+   all in the denominator, and finally dividing the product in the
+   numerator by the product in the denominator to get the final answer.
+</p>
+<p>In constructing the equation (calculation):</p>
+<ul>
+   <li>It is essential to know what one really wants as the answer, which
+   is a value and possibly a dimension. For instance, if a volume is
+   asked for, then the dimension must be in units that represent a
+   volume (µl, ml, L). If the target answer is a mass, then it should
+   be in some form of grams (mg, g) or possibly moles. For concentrations, 
+   this is really solution density, or mass units per volume units.</li>
+   <li>Write down all the factors available, even if they will not be used
+   in the final calculation.</li>
+   <li>The missing factors in a calculation are typically <b>conversion units</b>. 
+   That is, the conversion of one expression of the volume into
+   another. Thus there are 1000 µliters (µl) in 1 milliliter (ml), and
+   1000 milliliters in 1 liter (L). Know your conversion units by
+   reflex. Note that these are not <b>constants</b>: a constant is 
+   value reflecting a fundamental physical or chemical property in nature 
+   or the universe. Planck’s constant is 6.62 &times; 10<sup>−34</sup> J s, 
+   and not a conversion of one value into another form.</li>
+   <li><b>Constants</b>. A typical constant in solution density determinations is the
+   molecular or atomic weight of a substance, which is the amount of
+   grams in one mole of the substance. This is typical missing factor
+   whenever one factor is expressed in grams and the answer sought in
+   some form of moles.</li>
+</ul>
+<p>
+   In setting up the final equation which is the product of these
+   factors, the solution is arrived at by doing what is called a
+   <b>dimensional analysis</b>, which was the process described above.
+</p>
+<p style="margin-top:5em;">
+   <small>&mdash;&mdash; <i>S. M. Halloran</i></small>
+</p>
+</div>
+
+</body>
+</html>
