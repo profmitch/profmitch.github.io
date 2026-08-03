@@ -1,6 +1,6 @@
 destpath: "D:/ProfMitch GitHub/profmitch.github.io/docs"
 items:
-  - src: "D:/ProfMitch GitHub/profmitch.github.io/Teaching/Chemistry/_WebDocuments"
+  - src: "D:/ProfMitch GitHub/profmitch.github.io/Teaching/Chemistry/WebDocuments"
     reldest: "./webdocs"
     option: tree
   - src: "D:/ProfMitch GitHub/profmitch.github.io/css/*"
