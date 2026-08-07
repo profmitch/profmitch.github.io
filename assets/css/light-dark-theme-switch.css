@@ -1,0 +1,29 @@
+/* 💡 Default Light Theme design tokens */
+html[data-theme="light"] {
+    --bg-color: #ffffff;
+    --text-color: #1a1a1a;
+    --accent-color: #3b82f6;
+}
+
+/* 💡 Dark Theme design overrides */
+html[data-theme="dark"] {
+    --bg-color: #121212;
+    --text-color: #f3f4f6;
+    --accent-color: #60a5fa;
+}
+
+/* 💡 Structural styles remain 100% untouched */
+body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    transition: background-color 0.3s ease, color 0.3s ease;
+    font-family: system-ui, sans-serif;
+}
+
+button {
+    background-color: var(--accent-color);
+    color: var(--bg-color);
+    border: none;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+}
