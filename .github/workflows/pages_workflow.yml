@@ -17,6 +17,9 @@ jobs:
     steps:
       - name: Checkout source
         uses: actions/checkout@v4
+        with:
+          submodules: false
+          fetch-depth: 1
 
       #- name: Setup environment (e.g., node, build steps, if needed)
         # Add any necessary steps here (e.g., npm install, npm run build)
@@ -40,7 +43,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           # This MUST point to the root directory of your finished static files
-          path: ./docs 
+          path: ./final_static_content
 
   # ---
   
