@@ -1,6 +1,18 @@
 {
+	"name": "profmitchGitHubIOPages",
+  "version": "1.0.0",
+  "description": "repo for GitHub IO Pages for ProfMitch account",
+  "scripts": {
+    "___READ_ME_____": " ALL SCRIPTS SHOULD BE RUN IN 'CMD.EXE' SHELL AND BE COMPATIBLE FOR THIS  ",
+    "compileAll": "tsc -p tsconfig.json && tsc -p tsconfig.node.json && pnpm run compileHTML",
+    "compileNode": "tsc -p tsconfig.node.json && tsc -p tsconfig.json",
+    "compileHTML": "tsc -p tsconfig.html.json && move .\\docs\\js\\html\\* .\\docs\\js\\ && rmdir .\\docs\\js\\html"
+  },
 	"dependencies": {
 		"glob": "^13.0.0",
 		"js-yaml": "^4.1.1"
+	},
+	"devDependencies": {
+		"@types/js-yaml": "^4.0.9"
 	}
 }

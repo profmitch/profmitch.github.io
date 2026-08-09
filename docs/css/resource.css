@@ -1,0 +1,15 @@
+.files-lists {
+   width: 25em;
+}
+#lists-select {
+   font-style: italic;
+   color:blue;
+}
+.selected-option {
+   color: blue;
+   font-weight: bold;
+   background-color: #d0d0ff;
+}
+#pdf-viewing {
+   display: none;
+}

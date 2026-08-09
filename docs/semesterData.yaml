@@ -1,0 +1,19 @@
+  semesterFullName: "Fall Semester 2026"
+  firstSemesterDay: "8/10/2026"
+  censusDate: "8/31/2026"
+  sections:
+    - section: 25810
+      lectureDays: TTh
+      lectureTimes: "5:00 pm - 6:20 pm"
+      lectureLocation: "NS 101"
+      labDay: T
+      labTime: "6:30 pm - 9:35 pm"
+      labLocation: "NS 339"
+
+    - section: 25811
+      lectureDays: TTh
+      lectureTimes: "5:00 pm - 6:20 pm"
+      lectureLocation: "NS 101"
+      labDay: Th
+      labTime: "6:30 pm - 9:35 pm"
+      labLocation: "NS 339"

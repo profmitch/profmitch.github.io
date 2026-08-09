@@ -31,14 +31,3 @@ img.center {
     font-weight: bold;
     color: #d32f2f; /* Red for emphasis */
 }
-
-/* styling used for course syllabus */
-span.tabdates {
-    color:black;
-    display:block;
-    font: normal 10pt Arial,sans-serif;
-}
-td.week {
-    color:blue;
-    font: bold 10pt 'Arial Black',sans-serif;
-}
