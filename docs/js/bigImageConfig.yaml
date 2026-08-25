@@ -1,0 +1,17 @@
+docwide:
+  width: 1920
+  widthdim: px
+  margin: 10px
+imgContain:   # img container DIV in code
+  style-display: "inline-block"
+  className: "img-container"
+  style-margin: 0
+  style-borderWidth: "1px"
+  style-borderStyle: solid 
+  style-textAlign: center
+promptSpan:  # selector '.prompt-span'
+  display: "inline-block"
+  color: blue
+  font: "bold 9pt Tahoma,sans-serif"
+  margin: "0.25em 0 0.5em 0.5em"
+  float: left
