@@ -42,8 +42,8 @@
 		/* Use a modern, readable font stack */
 		font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; 
    		/* Reset top margin on the first heading of a section */
-   	margin-top: 1.5em; 
-   	margin-bottom: 0.5em;
+   	margin-top: 1.2em; 
+   	margin-bottom: 0.4em;
 	   /* Inherit the primary color by default */
 		color: var(--color-primary); 
 	}

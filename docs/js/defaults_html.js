@@ -1,4 +1,10 @@
 document.addEventListener("DOMContentLoaded", () => {
+    const scriptUrl = document.currentScript?.getAttribute("src") ?? null;
+    if (!scriptUrl) {
+        console.error("Unable to obtain a path for determining locations of default files");
+        return;
+    }
+    console.log(`Base script path is '${scriptUrl}'`);
     document.getElementById("title").appendChild(document.createTextNode(document.querySelector('title').textContent));
     const linkElemAttributes = [
         { rel: "icon", type: "image/x-icon", href: "favicon.ico" },
