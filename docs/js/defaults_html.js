@@ -61,3 +61,4 @@ async function checkPath(relativePath) {
         return false; // network or browser security error
     }
 }
+
