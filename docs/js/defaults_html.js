@@ -14,12 +14,12 @@ document.addEventListener("DOMContentLoaded", () => {
     // CSS path check
     (async () => {
         let testPath, CSS;
-        testPath = "./css/std.css";
-        if (await checkPath(testPath) == true)
+        testPath = "./css";
+        if (await checkPath(`${testPath}/std.css`) == true)
             CSS = testPath;
         else {
-            testPath = "../css/std.css";
-            if (await checkPath(testPath) == true)
+            testPath = "../css";
+            if (await checkPath(`${testPath}/std.css`) == true)
                 CSS = testPath;
             else {
                 console.log("need to report error");
