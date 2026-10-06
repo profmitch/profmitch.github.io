@@ -14,12 +14,12 @@ document.addEventListener("DOMContentLoaded", () => {
     // CSS path check
     (async () => {
         let testPath, CSS;
-        testPath = "./css";
+        testPath = "./css/std.css";
         if (await checkPath(testPath) == true)
             CSS = testPath;
         else {
-            testPath = "../css";
-            if (await checkPath("../css") == true)
+            testPath = "../css/std.css";
+            if (await checkPath(testPath) == true)
                 CSS = testPath;
             else {
                 console.log("need to report error");
@@ -61,3 +61,4 @@ async function checkPath(relativePath) {
         return false; // network or browser security error
     }
 }
+export {};
