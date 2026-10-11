@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Notes on Experiment 7a: Calorimetry</title>
+
+<script src="../js/defaults_html.js"></script>
+
+<script>
+   window.MathJax = {
+      tex: {
+         inlineMath: [['$','$'], ['\\(','\\)']],
+         displayMath: [['$$','$$'], ['\\[','\\]']]
+      },
+      chtml: {
+         displayAlign: 'left',
+         displayIndent: '3em',
+
+      }
+   };
+</script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<style>
+   .container { width: 600px;}
+   mjx-container {
+      color: blue;
+   }
+   mjx-container[display="true"] {
+      font-size: 16pt !important;
+   }
+   .explain {
+      margin:1em 5%;color:#555;font:normal 90% Verdana,sans-serif;
+   }
+   .answer {
+      margin:1em 2%;color:rgb(218, 29, 16);font:bolder 105% "Times New Roman","Times Roman",Times, serif;
+   }
+</style>
+</head>
+<body>
+<p id="title"></p>
+<div class="container">
+<h1>Lab Report Questions</h1>
+<p>
+The report for this lab experiment has a couple of questions. In order to answer these very knowledgeably, we need to go over the concepts of the <b>universe</b>, the <b>system</b>, the <b>surroundings</b>, and how a <b>calorimeter</b> defines these. I will be referring to an excellent chemistry text <i>OpenStax Chemistry 2e</i> whose pages are online (has a web view). <a href="https://openstax.org/books/chemistry-2e/pages/5-2-calorimetry">Chapter 5.2</a> on Calorimetry will be referenced for this purpose.
+</p>
+<p>Figure 5.11 in the chapter (shown in image below) shows a calorimeter which is actually an insulator against heat energy transfer. One might make the assumption when it comes to a calorimeter that the <em>surroundings</em>
+ are <b>outside</b> the walls of the cup while the <em>system</em> is <b>inside</b> the cup walls.</p>
+<iframe src="https://openstax.org/books/chemistry-2e/pages/5-2-calorimetry#CNX_Chem_05_02_HeatMeas" width="100%" height="550px" title="OpenStax Chemistry 2e - Calorimetry"></iframe>
+<p>
+   But this is not the case. The universe for understanding energy conservation is where the surroundings and system must have an energy transfer or exchange, and this is not supposed to happen with something that is heat insulating.
+</p>
+<p>
+In Part I of the experiment, a solid substance (either <i>citric acid</i> or <i>sodium carbonate</i>) is added to the cup filled with a measured amount of <i>water</i>. The process to be monitored is the energy changes or transfer related to <i><b>dissolution</b></i>, which is the process of a solid (a <b>solute</b>) dissolving in an (aqueous) <b>solvent</b>. (We learn later that a <b>solution</b> has two components, a <b>solute</b> and a <b>solvent</b>).
+</p>
+<p>
+For the universe of this process, the system is the solid (solute) and the surroundings is the water (solvent).  Energy will be transferred either from the surroundings (water) to the system (the solid) or to the surroundings (water) from the system (the solid).
+</p>
+<p>
+When citric acid solid dissolved in the water, there are molecular level processes in which hydrogen bonds between citric acid molecules in the solute and those between water molecules in the solvent are broken, and this is then followed by the formation of hydrogen bonds between citric acid molecules and the water molecules. The net energy of these molecular level processes is such that more energy is stored in the hydrogen bonds that form the product interactions, so the universe (the solution) feels colder (lowers the temperature). Thus this reaction is an <b>endothermic</b> reaction.
+</p>
+<p>
+In contrast, sodium carbonate are ionic compounds (not solids formed by strong intermolecular forces like hydrogen bonds) and so they form a crystal lattice. When ionic compounds are dissolved in a water solvent (that is, put into the aqueous phase).
+</p>
+
+In Part II, ice is added to liquid water. Unlike Part I, this is not a solute dissolving in a solvent, but rather a phase change of a pure substance ($\text{H}_2\text{O}(s) \rightarrow \text{H}_2\text{O}(l)$).System: The solid ice cubes ($\text{H}_2\text{O}(s)$).Surroundings: The liquid water ($\text{H}_2\text{O}(l)$) inside the calorimeter.In solid ice, water molecules are locked into a rigid crystalline lattice held together by extensive intermolecular hydrogen bonds. To melt the ice, energy must be supplied to overcome these hydrogen bonds.This energy is drawn directly from the surrounding liquid water in the form of heat ($q$). As the liquid water surroundings lose thermal energy ($q_{\text{water}} < 0$), its temperature drops. The ice system absorbs this energy ($q_{\text{ice}} > 0$) to break the crystal lattice. Because heat is absorbed by the system from the surroundings, ice melting is an endothermic process.Assuming a well-insulated calorimeter:
+
+$$q_{\text{system}} + q_{\text{surroundings}} = 0$$
+$$q_{\text{ice}} + q_{\text{water}} = 0 \implies q_{\text{ice}} = -q_{\text{water}}$$
+
+
+<h2>The Questions</h2>
+<ol>
+<li>Is ice melting endothermic or exothermic? Provide data or results from this experiment to support
+your claim.
+<div class="explain">
+   The data to be used to answer this is the change in temperature data: the initial $ T_{initial}$ and final $ T_{final} $ temperature is used to the calculate the change in temperature result $\Delta T$, the math being $ T_{final} - T_{initial} $
+   <p>Suppose for answering this question, the data is $ T_{initial} = 22.3\text{°C}$ and that $ T_{final} = 14.7\text{°C}$</p>
+</div>
+<p class="answer">
+Even before the student put ice cubes in the water, the experience of the student was that putting ice in water (or other liquid) is intended to cool it, meaning the initial warmer temperature should result in a final cooler temperature. In the case of the example data, the final temperature is less than the initial temperature, supporting that experience. In the figure above, it can be seen that this type of reaction is endothermic, where the heat energy of the water (as <i>surroundings</i>) flows into the ice (as <i>system</i>) to promote the melting (phase change)
+</p>
+</li>
+<p>Was energy conserved (i.e. is $ q_{water} + q_{ice} = 0$)? If not, provide at least one error specific to your experiment that could account for the difference.
+<p class="explain">
+   Look at your data for $ q_{water}$ and $q_{ice}$ for this. Note that one of those values is less than zero, which means there was a loss of energy. That value was for the water, not the ice: energy from the water was used to melt the ice. The ice should have received the energy for the melt, which supports the conservation of energy principle.
+</p>
+<p class="answer">
+While $ q_{ice} + q_{water} $ should equal zero, it usually won't although it may be close to zero. Look first at the magnitudes of $ q_{ice} $ and $ q_{water} $ alone. Perhaps they are in the 3000 J (joule) range. Now what is the magnitude of the evaluation of $ q_{ice} - q_{water} $? Divide that by either $ q_{ice} $ or $ q_{water} $ (then multiply by 100%) and if the value is less than 10% or even 5%, that is actually a good demonstration of the conservation of energy
+<br><br>
+So why isn't the sum a perfect zero?</p>
+<ol class="answer">
+   <li>Was the ice fully melted? The experiment will not work if the ice does not fully melt before the final temperature is taken. If too much ice was used, the full melting would take longer and might not be complete if the thermometer was read (impatiently) before the melt is complete.</li>
+   <li>The universe (system + surroundings) is the coffee cup calorimeter and its contents. We expect the energy of that universe to remain constant and contained. But the fact is that the coffee cup is not perfectly insulated: thermal energy crosses that boundary to contain the universe, and this accounts for why it is not perfectly zero. Even with the most expensive calorimeter ever built in the history of science it will have these slight imperfections that prevent showing $ q_{ice} + q_{water} = 0 $</li>
+</ol>
+<p>
+   The student really doesnt have to write these for answers. A minimal effort to show some understanding is expected.
+</p>
+</li>
+</ol>
+</div>
+<p id="lastpara"></p>
+</body>
+</html>
