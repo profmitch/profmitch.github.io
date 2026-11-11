@@ -1,0 +1,163 @@
+Text: Atomic Theory, Scientific Method, Waves, EM Spectrum, Electrons in The Atom
+
+30. Which step of the scientific method involves a tentative explanation to be tested?
+a) Observation
+*b) Hypothesis  
+c) Theory  
+d) Law
+
+31. Which statement is part of Dalton’s atomic theory?
+a) Atoms can be divided into protons and neutrons.
+b) Electrons orbit the nucleus in fixed paths.
+c) Atoms of different elements have the same mass.  
+*d) Atoms of the same element have identical properties.
+
+32. The speed of a wave is 3.00 × 10⁸ m/s and its wavelength is 600 nm. What is the frequency?
+*a) \(5.0 \times 10^{14}\) Hz  
+b) \(2.0 \times 10^{6}\) Hz  
+c) \(1.8 \times 10^{12}\) Hz  
+d) \(3.0 \times 10^{8}\) Hz  
+
+33. Which statement is part of Dalton’s atomic theory?
+*a) Atoms of the same element have identical properties.  
+b) Atoms contain electrons.  
+c) Atoms can be created or destroyed.  
+d) Atoms of different elements have the same mass.
+
+34. Which principle states that electrons occupy orbitals singly before pairing?
+a) Pauli exclusion principle  
+*b) Hund’s rule  
+c) Aufbau principle  
+d) Dalton’s rule
+
+35. Which region of the electromagnetic spectrum has the highest energy?
+a) infrared  
+b) visible  
+c) ultraviolet
+*d) Gamma rays  
+
+36. In Bohr’s model, when an electron moves from a higher energy level to a lower one, it:
+a) absorbs energy  
+*b) emits a photon  
+c) splits into two particles  
+d) stops moving
+
+37. Which orbital type has three orientations?
+a) s  
+*b) p  
+c) d  
+d) f
+
+38. How many electrons can occupy a single orbital?
+a) 1  
+*b) 2 with opposite spins  
+c) 2 with same spin  
+d) 4
+
+39. Which principle states that electrons fill the lowest‑energy orbitals first?
+a) Hund’s rule  
+b) Pauli exclusion principle  
+*c) Aufbau principle  
+d) Dalton’s rule
+
+40. Which step of the scientific method involves a tested, well‑supported explanation?
+a). Hypothesis  
+*b) Theory  
+c) Law  
+d) Observation
+
+41. Which orbital type contains five orbitals?
+a) s  
+b) p  
+*c) d  
+d) f
+
+42. In the formula $c = \lambda \times \nu$, what does the symbol $\nu$ represent?
+a) wavelength
+b) speed of light
+*c) frequency 
+d) amplitude
+
+43. Which of the following is the correct unit for the mass of subatomic particles?
+a) grams
+b) mL
+*c) amu 
+d) Newtons
+
+44. Which scientist used the "gold foil experiment" to discover that atoms have a dense, positive nucleus?
+a) Dalton
+b) Thomson
+*c) Rutherford 
+d) Bohr
+
+45. Which statement about electrons is correct?
+a) They have a mass of about 1 amu.  
+b) They are found in the nucleus.  
+*c) They have a negative charge.  
+d) They determine the atomic number.
+
+46. Which of the following best describes a law in science?
+a) a tested explanation  
+*b) a summary of observed behavior  
+*c) a guess  
+d) a model of atomic structure
+
+47. Which region of the electromagnetic spectrum has the lowest energy?
+a) gamma rays  
+b) Ultraviolet  
+*c) infrared  
+d) X‑rays
+
+48. In Bohr’s model, electrons moving from low to high energy levels:
+a) emit a photon  
+*b) absorb energy  
+c) lose energy  
+d) become ions  
+
+49. A wave has a frequency of \(6.0 \times 10^{14}\) Hz and travels at \(3.00 \times 10^{8}\) m/s. What is its wavelength?
+a) 2.0 m  
+b) 200 nm  
+*c) 500 nm  
+d) \(5.0 \times 10^{-6}\) m
+
+50. Which orbital type has a bilobed or dumbbell shape
+a) s  
+*b) p  
+c) d  
+d) f
+
+51. Which region of the electromagnetic spectrum has the highest frequency and most energy?
+a) visible light
+b) infrared
+c) radio waves
+*d) gamma rays 
+
+52. The color of visible light with the longest wavelength and lowest frequency is:
+a) violet
+b) green
+*c) red 
+d) blue
+
+53. What is the maximum number of electrons that can occupy a single  orbital?
+*a) 2 
+b) 3
+c) 6
+d) 10
+
+54. According to the Aufbau Principle ($n+l$ rule), which orbital fills immediately after the $4s$ orbital?
+a) $3p$
+*b) $3d$ 
+c) $4p$
+d) $5s$
+
+55. Which rule states that electrons will occupy empty orbitals of the same energy individually before pairing up?
+a) Pauli Exclusion Principle
+b) Aufbau Principle
+*c) Hund's Rule 
+d) Dalton’s Law
+
+56. Which of the following is the correct electron configuration for Carbon ($Z=6$)?
+*a) $1s^2 2s^2 2p^2$
+b) $1s^2 2s^4$
+c) $1s^2 2s^1 2p^3$
+d) $1s^6$

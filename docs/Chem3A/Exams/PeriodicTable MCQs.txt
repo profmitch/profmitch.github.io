@@ -1,0 +1,103 @@
+Text: Periodic Table Understanding 
+
+13. An element has an atomic number ($Z$) of 11 and a mass number ($A$) of 23. How many neutrons are in the nucleus?
+a) 11
+*b) 12 
+c) 23
+d) 34
+
+14. The atomic number (Z) of an element is the number of:
+*a) Protons  
+b) Neutrons  
+c) Electrons only  
+d) Protons + neutrons  
+
+15. Isotopes of an element differ in their:
+a) number of protons  
+b) number of electrons  
+*c) number of neutrons  
+d) chemical properties
+
+16. Which element has the largest atomic radius?
+a) F  
+b) O  
+c) Li  
+*d) Na
+
+17. Ionization energy generally:
+a). increases down a group  
+b) decreases across a period  
+*c) decreases down a group  
+d) is the same for all elements
+
+18. A cation is formed when an atom:
+a) gains electrons  
+*b) loses electrons  
+c) gains neutrons  
+d) splits into ions
+
+19. Which of the following is a metalloid?
+a) carbon  
+b) sodium  
+*c) silicon  
+d) neon
+
+20. Which statement about isotopes is correct?
+a) They differ in proton number.  
+*b) They differ in neutron number.  
+c) They differ in electron number.  
+d) They have different chemical properties.
+
+21. Which element has the smallest atomic radius?
+a) Na  
+*b) F  
+c) Li  
+d) C
+
+22. The atomic number (Z) represents the number of:
+a) neutrons  
+b) protons  
+c) electrons + neutrons  
+d) Protons + neutrons
+
+23. A cation is formed when an atom:
+a) Gains electrons  
+*b) Loses electrons  
+c) Gains neutrons  
+d) Splits into ions  
+
+24. Isotopes of the same element have:
+*a) The same number of protons but different number of neutrons 
+b) Different chemical properties
+c) Different atomic numbers ($Z$)
+d) Both (a) and (b)
+
+25. Elements in Group 17 of the Periodic Table are known as:
+a) alkali metals
+b) noble gases
+*c) halogens 
+d) alkaline earth metals
+
+26. An atom that loses an electron and acquires a positive charge is called a(n):
+a) anion
+b) isotope
+*c) cation 
+d) nucleus
+
+27. As you move from right to left and DOWN the periodic table, atomic radius generally:
+a) decreases
+b) stays the same
+*c) increases 
+d) becomes zero
+
+28. Why are Noble Gases (Group 18) generally unreactive?
+a) they have very low mass
+*b) they have complete valence shells 
+c) they are all liquids
+d) they have no protons
+
+29. Which of the following statements about subatomic particles is true?
+a) electrons are much heavier than protons
+*b) protons and neutrons are found in the nucleus 
+c) neutrons have a negative charge
+d) all of the above

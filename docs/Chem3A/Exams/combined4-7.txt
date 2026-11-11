@@ -1,0 +1,870 @@
+Text: Lecture Set 4-7 Practice Exam Questions
+
+12. What is a TRUE characteristic of the Type I ion?
+a) it is negatively charged
+*b) the metal cations of Group I and Group II elements are classic examples of these ions
+c) it is an element that can ionize to more than one charge state (for example, it can be +1, +2, +3, and even -1, -2, etc)
+d) it only applies to charge states of element oxygen (O)
+e) the element's name in a compound requires the use of a roman numeral (the Stock system)
+
+13. What is FALSE about the characteristics of a Type II ion?
+a) it is positively charged
+b) the metal cations of Group I and Group II elements are classic examples of these ions
+c) it is an element that can ionize to more than one charge state (for example, it can be +1, +2, +3, and even -1, -2, etc)
+*d) it only applies to charge states of element oxygen (O)
+e) the element's name in a compound requires the use of a roman numeral (the Stock system)
+
+14. What is the chemical formula for calcium sulfate?
+a) \\(  \ce{CaSO3}  \\)
+*b) \\(  \ce{CaSO4}  \\)
+c) \\(  \ce{Ca(SO3)2}  \\)
+d) \\(  \ce{Ca(SO4)2}  \\)
+e) \\(  \ce{Ca4S3}  \\)
+
+15. What is the chemical formula for hydrochloric acid?
+a) \\(  \ce{NCl3}  \\)
+b) HF
+*c) HCl
+d) \\(  \ce{HPOCl2}  \\)
+e) \\(  \ce{HCl2}  \\)
+
+16. What is the name of the compound with chemical formula KCl?
+a) potassium carbon lithium
+b) potassium chlorate
+c) potassium(I) perchlorate
+d) potassium chlorous acid 
+*e) potassium chloride
+
+17. What is the correct and complete name of this compound you made in lab with chemical formula \\( \ce{Cu2S} \\)?
+a) copper sulfate
+b) copper sulfide
+*c) copper(I) sulfide
+d) copper(II) sulfide
+e) cuprous(II) sulfite
+
+18. What is the chemical formula of the molecule dinitrogen tetraoxide?
+a) \\(  \ce{NO3}  \\)
+*b) \\(  \ce{N2O4}  \\)
+c) \\(  \ce{(NO2)4}  \\)
+d) \\(  \ce{NO{24}}  \\)
+e) \\(  \ce{2(N4O)}  \\)
+
+1. Which of the following is an example of a diatomic molecular element in its pure natural state? 
+a) Sodium (Na)
+b) Gold (Au)
+*c) Nitrogen (\\( \ce{N2} \\))
+d) Sulfur (S)
+
+2. When naming a compound using the Stock system, what does the Roman numeral represent? 
+a) The number of atoms in the molecule
+*b) The magnitude of the positive charge on the cation
+c) The number of electrons in the valence shell
+d) The atomic number of the element
+
+3. Which method is used to determine the subscripts of cations and anions when forming an ionic compound? 
+a) The T43 Method
+*b) The Criss-cross method
+c) Distillation
+d) The Dalton Rule
+
+4. Which of these is considered a Type II cation? 
+a) Sodium ( \\( \ce{Na^+} \\) )
+b) Calcium ( \\( \ce{Ca^2+} \\) )
+*c) Lead ( \\( \ce{Pb^{2+}} \\) )
+d) Aluminum ( \\( \ce{Al^{3+}} \\) )
+
+5. What is the formula for the polyatomic ion known as "carbonate"? 
+*a) \\(  \ce{CO3^{2-}}  \\)
+b) \\(  \ce{NO3^-}  \\)
+c) \\(  \ce{PO4^{3-}}  \\)
+d) \\(  \ce{SO4^{2-}}  \\)
+
+6. A compound consists entirely of nonmetal elements (e.g., \\( \ce{CO2, NH3} \\)). What is its likely classification? 
+a) Ionic compound
+*b) Likely NOT ionic
+c) A polyatomic cation
+d) A Stock system metal
+
+7. What happens in the formation of an ionic compound like KCl? 
+a) Atoms share electrons equally
+*b) Potassium gives up an electron to chlorine
+c) Chlorine gives up an electron to potassium
+d) Both atoms become positively charged
+
+8. Which type of formula represents the simplest whole-number ratio of atoms in a compound? 
+a) Molecular formula
+*b) Empirical formula
+c) Chemical formula
+d) Structural formula
+
+9. Which of the following is a common polyatomic cation? 
+a) Nitrate (\\(  \ce{NO3^-}  \\))
+b) Phosphate (\\(  \ce{PO4^{3-}}  \\))
+*c) Ammonium (\\( \ce{NH4^+} \\))
+d) Sulfate (\\(  \ce{SO4^{2-}}  \\))
+
+10. In the name "Copper(II) bromide", what does the (II) indicate? 
+a) There are two copper atoms in the formula
+*b) The copper ion has a 2+ charge
+c) There are two bromine atoms in the formula
+d) The atomic mass of copper is doubled
+
+11. Which of these terms refers to a mixture that is uniform throughout? 
+a) Heterogeneous
+*b) Homogeneous
+c) Compound
+d) Distillation
+
+12. Which set of nonmetals contains only diatomic elements? 
+*a) H, N, O, F, Cl, Br, I
+b) He, Ne, Ar, Kr
+c) S, P, C, B
+d) Au, Ag, Cu, Fe
+
+13. According to the Law of Conservation of Mass, what is the relationship between reactants and products? 
+a) The mass of products is always greater
+*b) The mass of reactants equals the mass of products
+c) Some mass is always converted into energy
+d) The number of molecules must stay the same
+
+14. What is the correct suffix used when naming the nonmetal anion in a simple binary ionic compound? 
+a) -ate
+*b) -ide
+c) -ite
+d) -ous
+
+15. The T43 Method helps determine properties of which group? 
+a) Transition metals
+b) Diatomic elements
+*c) Polyatomic ions
+d) Noble gases
+
+16. Molecular elements like sulfur and phosphorus exist in polyatomic arrangements rather than individual atoms. 
+*a) true
+b) false
+
+17. An empirical formula always shows the exact number of atoms of each element present in a molecule. 
+a) true
+*b) false
+
+18. In an ionic compound, atoms bond electrostatically due to the transfer of electrons. 
+*a) true
+b) false
+
+19. The cation in an ionic compound is typically a nonmetal element. 
+a) true
+*b) false
+
+20. Calcium (\\( \ce{Ca^{2+}} \\)) is a Type II cation because its charge can vary depending on the reaction. 
+a) true
+*b) false
+
+21. Polyatomic ions are groups of atoms bonded together that act as a single unit with a stable charge. 
+*a) true
+b) false
+
+22. Distillation and filtration are examples of chemical properties of matter. 
+a) true
+*b) false
+
+23. A formula unit is the simplest collection of atoms from which an ionic compound's formula can be established. 
+*a) true
+b) false
+
+24. The Stock system uses Roman numerals to name compounds where the metal only has one potential ionic state. 
+a) true
+*b) false
+
+25. In a chemical formula, the subscript "1" is always written to show there is one atom of that element. 
+a) true
+*b) false
+
+26. Which of the following is a chemical property of matter?  
+*a) Flammability
+b) Boiling point
+c) Density
+d) Melting point
+
+27. Which term describes the process of a liquid changing to a gas?  
+*a) Vaporization
+b) Precipitation
+c) Freezing
+d) Condensation
+
+28. Which separation technique relies on differences in boiling points?  
+a) Chromatography
+b) Filtration
+c) Solvent extraction
+*d) Distillation
+
+29. A homogeneous mixture is best described as:  
+*a) A mixture with uniform composition throughout
+b) A mixture with visibly different parts
+c) A compound containing metals only
+d) A pure substance
+
+30. Which statement correctly defines a compound?  
+a) A pure element in its natural state
+b) A mixture of two or more elements
+c) A heterogeneous mixture
+*d) A substance made of two or more elements chemically bonded
+
+31. Which formula type shows the simplest whole‑number ratio of atoms?  
+a) Chemical formula
+b) Molecular formula
+*c) Empirical formula
+d) Structural formula
+
+32. Which of the following is a diatomic molecular element?  
+a) Phosphorus
+b) Carbon
+c) Sulfur
+*d) Chlorine
+
+33. Which statement best describes an ionic compound?  
+*a) Formed by transfer of electrons between a metal and a nonmetal
+b) Always contains only metals
+c) Always contains only nonmetals
+d) Formed by sharing electrons between nonmetals
+
+34. What is the charge on the calcium ion in \\( \ce{CaF2} \\)?  
+a) (1)+
+*b) 2+
+c) (1)-
+d) 2-
+
+35. Which metal requires a Roman numeral when naming its ionic compounds?  
+*a) Iron
+b) Aluminum
+c) Sodium
+d) Calcium
+
+36. What is the correct name for CuBr₂?  
+a) Copper bromide
+b) Copper(I) bromide
+c) Dicopper bromide
+*d) Copper(II) bromide
+
+37. Which of the following is a polyatomic ion?  
+*a) \\(  \ce{NO2^-}  \\)
+b) \\( \ce{Na^+} \\)
+c) \\( \ce{F^-} \\)
+d) \\(  \ce{Cl^-}  \\)
+
+38. Which compound is most likely NOT ionic?  
+a) \\(  \ce{Ca(NO3)2}  \\)
+b) \\(  \ce{Na2SO4}  \\)
+c) \\(  \ce{NH4Cl}  \\)
+*d) \\(  \ce{CO2}  \\)
+
+39. Which statement about Type I cations is correct?  
+a) They have multiple possible charges.
+b) They require Roman numerals in names.
+c) They are always transition metals.
+*d) They have only one possible charge.
+
+40. Which of the following is the correct formula for ammonium sulfate?  
+a) \\(  \ce{NH4SO4}  \\)
+*b) \\(  \ce{(NH4)2SO4}  \\)
+c) \\(  \ce{NH4_{\;2}SO4}  \\)
+d) \\(  \ce{(NH4)3SO4}  \\)
+
+41. A physical property can be observed without changing the chemical identity of a substance.
+*a) true
+b) false
+
+42. Condensation is the process of a solid turning directly into a gas.
+a) true
+*b) false
+
+43. The law of conservation of mass states that mass is neither created nor destroyed in a chemical reaction.
+*a) true
+b) false
+
+44. A heterogeneous mixture has a uniform composition throughout.
+a) true
+*b) false
+
+45. Diatomic elements include \\( \ce{H2, N2, O2, F2, Cl2, Br2} \\), and \\( \ce{I2} \\).
+*a) true
+b) false
+
+46. Ionic compounds are formed by sharing electrons between atoms.
+a) true
+*b) false
+
+47. Type II metals require Roman numerals in compound names.
+*a) true
+b) false
+
+48. Polyatomic ions contain more than one atom bonded together.
+*a) true
+b) false
+
+49. \\( \ce{CO2} \\) is an ionic compound.
+a) true
+*b) false
+
+50. A formula unit refers to the simplest ratio of ions in an ionic compound.
+*a) true
+b) false
+
+6. Hydrogen gas (\\( \ce{H2} \\)) and oxygen gas (\ce{O2}) react to produce \\( \ce{H2O} \\) in a reaction that is \\( \ce{2 H2 + O2 -> 2 H2O} \\). 50.0 g \\( \ce{H2O} \\) is produced. What is the percent composition by mass of hydrogen (H) in the water produced?
+a) 33.33%
+b) 88.81%
+c) 50.00%
+d) 66.67%
+*e) 11.19%
+
+7. What is the percent composition by mass of oxygen (O) in the water produced in the previous question?
+a) 33.33%
+*b) 88.81%
+c) 50.00%
+d) 66.67%
+e) 11.19%
+
+8. What is the percent composition of carbon (C) in carbon dioxide ( \\( \ce{CO2} \\) ) from the chemical formula?
+*a) 27.29%
+b) 100%
+c) 72.71%
+d) 33.33%
+e) 0%
+
+9. What is the percent by mass of water ( \\( \ce{H2O} \\) ) in copper(II) sulfate pentahydrate ( \\( \ce{CuSO_4 * 5 H2O} \\) )?
+a) 90.08%
+b) 63.92%
+c) 50.00%
+*d) 36.08%
+e) 10.33%
+
+18. If you have a compound with molecular formula \\( \ce{C3H9O3} \\), what would you expect its empirical formula to be?
+a) \\(  \ce{C3H9O3}  \\)
+*b) \\(  \ce{CH3O}  \\)
+c) \\(  \ce{C2H4O2}  \\)
+d) \\(  \ce{CHO}  \\)
+e) \\(  \ce{CH2O}  \\)
+
+19. A lab report had just a number 105.5 with the units (!). It was supposed to be a molar mass. What units should it have had?
+a) g
+b) mol
+*c) g/mol
+d) (number of) molecules 
+e) mol/g 
+
+1. You have a mass of 12.0 amu. That is also a mass of 12.0 grams.
+a) True
+*b) False
+
+2. You have 2.0 moles of sodium (Na). That is also 2.0 grams of sodium.
+a) True
+*b) False
+
+3. You have 1 mol of sodium and 1 mol of potassium (K). You have equal numbers of Na and K atoms.
+*a) True
+b) False
+
+4. There are more molecules in 0.5 mol of \\( \ce{Cl2} \\) than in 0.5 mol of \\( \ce{H2} \\).
+a) True
+*b) False
+
+5. One mole of \\( \ce{H2} \\) has \\( 6.022 \times 10^{23} \\) hydrogen atoms.
+*a) True
+b) False
+
+6. The molecular mass of \\( \ce{H2O} \\) is 18.0 amu.
+*a) True
+b) False
+
+7. The formula mass of benzene \\( \ce{C6H6} \\) is 78 amu.
+*a) True
+b) False
+
+8. What is the molar mass of the element oxygen?
+a) 12.01 g/mol
+b) 12.01 g
+c) 15.99 g
+d) 15.99 mol
+*e) 15.99 g/mol
+
+9. What is the molar mass of the compound potassium chloride (KCl)?
+a) 39.10 g
+b) 35.45 g
+c) 74.55 g
+*d) 74.55 g/mol
+e) 39.10 g/mol
+
+9. What is the molar mass of the compound potassium oxide \\( \ce{K2O} \\)?
+a) 94.2 g
+b) 94.2 mol
+*c) 94.2 g/mol
+d) 16.0 mol
+e) 16.0 g/mol
+
+10. What is the molar mass of the compound sodium cyanide (NaCN)?
+a) 26.01 g
+b) 14.01 g/mol
+c) 22.9 g
+*d) 49.01 g/mol 
+e) 22.99 g/mol
+
+11. What is the molar mass of the compound aluminum nitrate [\\( \ce{Al(NO3)3} \\)?
+a) 26.01 g
+b) 14.01 g/mol
+c) 22.9 g
+*d) 49.01 g/mol 
+e) 22.99 g/mol
+
+12. What is the correct number of formula units of \\( 5.00 \times 10^{2} \\) g calcium oxide (CaO)?
+*a) \\(  5.37 \times 10^{24}  \\) 
+b) 5.37
+c) \\(  6.022 \times 10^{23}  \\)
+d) 40.08
+e) \\(  4.008 \times 10^{23}  \\)
+
+13. What is the correct number of molecules of \\( 5.00 \times 10^{2} \\) g carbon dioxide (\\() \ce{CO2} \\))?
+a) \\(  6.022 \times 10^{23}  \\)
+*b) \\(  6.84 \times 10^{24}  \\)
+c) 6.022 \times 10^{-23}
+d) 6.84
+e) -\( 6.84 \times 10^{23} \\(
+
+14. Calculate the mass in grams of 0.520 mol \\( \ce{N2O4} \\)
+a) 14.01 g
+b) 64.0 g/mol
+c) 47.9 mol
+*d) 47.9 g
+e) 24.18 g
+
+15. Calculate the mass in grams 4.62 mol of \\( \ce{(NH4)2SO3} \\)
+a) 98.1 g
+b) 116 g
+c) 4.62 g
+*d) 537 g
+e) 537 g/mol
+
+16. What is the total number of molecules in 2.48 g of HBr
+a) 2.48
+b) \\(  3.69 \times 10^{22}  \\)
+*c) \\(  1.85 \times 10^{22}  \\)
+d) \\(  6.022 \times 10^{23}  \\)
+e) \\(  1.49 \times 10^{24}  \\)
+
+17. What is the total number of atoms in the mass of HBr in the previous question?
+a) 2.48
+*b) \\(  3.69 \times 10^{22}  \\)
+c) \\(  1.85 \times 10^{22}  \\)
+d) \\(  6.022 \times 10^{23}  \\)
+e) \\(  1.49 \times 10^{24}  \\)
+
+18. What is the total number of formula units in 1.89 g of NaOH?
+*a) \\(  2.84 \times 10^{22}  \\)
+b) \\(  8.54 \times 10^{22}  \\)
+c) \\(  4.72 \times 10^{23}  \\)
+d) 40.00
+e) 2.84
+
+19. What is the total number of atoms in the mass of NaOH in the previous question?
+a) \\(  2.84 \times 10^{22}  \\)
+*b) \\(  8.54 \times 10^{22}  \\)
+c) \\(  4.72 \times 10^{23}  \\)
+d) 40.00
+e) 2.84
+
+14. How many moles are in 18.0 g of \\( \ce{H2O} \\) (molar mass = 18.0 g/mol)
+a) 0.50 mol  
+b) 18 mol  
+c) 9.0 mol  
+*d) 1.0 mol
+
+15. How many grams are in 2.00 mol of NaCl? (molar mass = 58.44 g/mol)
+a) 29.2 g  
+b) 116.9 g  
+*c) 117 g  
+d) 58.4 g
+
+16. How many molecules are in 0.25 mol of \\( \ce{CO2} \\)?
+*a) \\(1.51 \times 10^{23}\\)  
+b) \\(6.02 \times 10^{23}\\)  
+c) \\(3.01 \times 10^{23}\\)  
+d) \\(2.50 \times 10^{23}\\)  
+
+17. Convert \\(3.01 \times 10^{23}\\) molecules of \\( \ce{O2} \\) to moles.  
+a) 0.25 mol  
+*b) 0.50 mol  
+c) 1.0 mol  
+d) 2.0 mol  
+
+18. How many atoms are in 2.00 mol of Al?  
+*a) \\(1.20 \times 10^{24}\\)  
+b) \\(6.02 \times 10^{23}\\)  
+c) \\(3.01 \times 10^{23}\\)  
+d) \\(2.00 \times 10^{23}\\)
+
+19. How many grams are in \\(1.20 \times 10^{24}\\) molecules of \\(  \ce{H2O}  \\)?  - Moles = \\( 1.20 \times 10^{24} / 6.02 \times 10^{23} \\) approx 2.0 mol  - Mass = \\( 2.0 \times 18.0 \\) = 36.0 g  
+a) 18.0 g  
+*b) 36.0 g  
+c) 9.0 g  
+d) 180 g  
+
+20. Convert 10.0 g of C (molar mass = 12.0 g/mol) to atoms  - Moles = 10.0 / 12.0 ≈ 0.833 mol   - Atoms = \\( 0.833 \times 6.02 \times 10^{23} ≈ 5.02 \times 10^{23}\\)  
+*a) \\(5.02 \times 10^{23}\\)
+b) \\(8.33 \times 10^{23}\\)  
+c) \\(6.02 \times 10^{23}\\)  
+d) \\(1.20 \times 10^{24}\\)  
+
+56. How many moles are in 18.0 g of \\( \ce{H2O} \\)?
+a) \\(  1.0 \times 10^{-1}  \\)
+b) 0.18
+*c) 1.00 mol
+d) 18 mol
+
+57. How many grams are in 2.0 mol of NaCl? (molar mass = 58.5 g/mol)
+a) 29.25 g
+*b) 120 g
+c) 58.5 g
+d) 116 g
+
+58. How many molecules are in 3.0 mol of \\( \ce{CO2} \\)?
+a) \\(  1.0 \times 10^{24}  \\)
+*b) \\(  1.81 \times 10^{24}  \\)
+c) \\(  6.02 \times 10^{23}  \\)
+d) \\(  3.0 \times 10^{23}  \\)
+
+59. Convert \\( 1.50 \times 10^{23} \\)  molecules of  \\() \ce{H2O} \\) to moles
+a) 0.250 mol
+*b) 0.249 mol
+c) 2.49 mol
+d) 0.0249 mol
+
+60. How many atoms are in 2.00 mol of helium?
+*a) \\(  1.20 \times 10^{24}  \\)
+b) \\(  3.01 \times 10^{23}  \\)
+c) \\(  6.02 \times 10^{23}  \\)
+d) \\(  2.40 \times 10^{24}  \\)
+
+61. How many grams are in 0.75 mol of \\( \ce{CO2}  \\)? (molar mass = 44.0 g/mol)
+*a) 33.0 g
+b) 30.0 g
+c) 34.0 g
+d) 32.0 g
+
+62. How many moles are in 12.0 g of carbon? (molar mass = 12.0 g/mol)
+a) \\(  1.0 \times 10^{23}  \\)
+*b) 1.00 mol
+c) 12 mol
+d) 0.10 mol
+
+63. How many molecules are in 0.20 mol of \\(\ce{N2}\\)?
+a) \\(  3.01 \times 10^{23}  \\)
+b) \\(  1.20 \times 10^{24}  \\)
+*c) \\(  1.20 \times 10^{23}  \\)
+d) \\( 6.02 \times 10^{22} \\)
+
+64. Convert \\( 9.03 \times 10^{23} \\)  molecules of  \\() \ce{H2O} \\) to moles
+*a) 1.50 mol
+b) 0.150 mol
+c) 15.0 mol
+d) 9.0 mol
+
+65. Convert 0.25 mol of \\( \ce{O2}\\) to number of molecules
+a) \\(  3.01 \times 10^{23}  \\)
+b) \\(  6.02 \times 10^{23}  \\)
+c) \\(  1.50 \times 10^{24}  \\)
+*d) \\(  1.51 \times 10^{23}  \\)
+
+66. Convert 16.0 g of \\( \ce{O2}  \\) to moles. (molar mass = 32.0 g/mol)
+a) 0.250 mol
+b) 0.050 mol
+*c) 0.500 mol
+d) 1.0 mol
+
+67. How many atoms are in 0.25 mol of \\( \ce{O2} \\)?
+a) \\(  1.50 \times 10^{23}  \\)
+*b) \\\(  3.01 \times 10^{23}  \\) (since 2 atoms per molecule)
+c) \\(  6.02 \times 10^{23}  \\)
+d) \\(  1.50 \times 10^{24}  \\)
+
+68. How many grams are in \\( 5.0 \times 10^{23} \\)  molecules of  \\( \ce{H2O} \\)? (molar mass = 18.0 g/mol)
+*a) 15.0 g
+b) 9.0 g
+c) 1.5 g
+d) 0.15 g
+
+69. How many molecules are in 36.0 g of \\( \ce{H2O} \\)? (molar mass = 18.0 g/mol)
+a) \\(  6.02 \times 10^{23}  \\)
+*b) \\(  1.20 \times 10^{24}  \\)
+c) \\(  3.01 \times 10^{23}  \\)
+d) \\(  2.00 \times 10^{24}  \\)
+
+70. Convert 2.00 mol of Fe atoms to number of atoms.
+a) \\(  3.01 \times 10^{23}  \\)
+b) \\(  6.02 \times 10^{23}  \\)
+c) \\(  2.00 \times 10^{25}  \\)
+*d) \\(  1.20 \times 10^{24}  \\)
+
+
+56. How many moles are in 18.0 g of \\( \ce{H2O} \\)? (molar mass = 18.0 g/mol)
+a) \\(  1.0 \times 10^{-1}  \\)
+b) 0.18
+*c) 1.00 mol
+d) 18 mol
+
+10. Na (sodium) will get an electron from Cl (chlorine) to form a compound sodium chloride (NaCl). What choice(s) are true about this
+a) Both atoms are losing or gaining electrons according to the octet rule
+b) an ionic compound will form
+c) sodium gets an electron to become an anion
+*d) both (a) and (b)
+e) (a), (b) and (c) are true
+
+11. What is a Lewis structure?
+a) a table of special temperatures
+b) another name for the Periodic Table
+*c) a representation of an atom, molecule or any chemical compound with its electrons shown as dots
+d) a special name for the water molecule in the gaseous state
+e) it refers to a crystalline solid of carbon dioxide (CO2)
+
+12. What is the first step one must do in making Lewis structures?
+a) compute the molar mass of the compound 
+*b) Get the total number of valence electrons of all atoms
+c) know the boiling point of the compound
+d) find the heat capacity of the compound
+e) determine if the compound is a hydrate
+
+13. You have an element composed of atoms that will form cations which will cause a sea of mobile electrons to form a solid that is an excellent electrical conductor.
+    What kind of bonding is involved with this solid?
+a) ionic
+b) covalent network
+*c) metallic
+d) molecular
+e) hydrogen
+
+14. What is true about London Dispersion Forces as an intermolecular force?
+a) An instantaneous but temporary dipole forms from the normal random motion of electrons in atoms
+b) they account for a theory of how nonpolar molecules interact to form liquids 
+c) they are the weakest of intermolecular forces compared to dipole-dipole and hydrogen bonding
+*d) all of the above
+e) none of the above
+
+15. Of the following intermolecular forces dipole-dipole (D-D), hydrogen bonding (H-B), London Dispersion Forces (LDF), which choice shows the order of strength of interaction?
+    (LDF > H-B means LDF is stronger than H-B)
+a) LDF > H-B > D-D
+*b) H-B > D-D > LDF
+c) H-B > LDF > D-D
+d) D-D > H-B > LDF
+
+16. What is true of dipole-dipole interactions as intermolecular forces?
+a) the dipoles are a permanent property of the molecules (they are not temporary in time)
+b) in a liquid, molecules will orient themselves with neighboring molecules to maximize attractions and minimize repulsions
+c) the existence of a dipole in a molecular requires the molecule to be polar
+*d) all of the above
+e) none of the above
+
+17. What is true of hydrogen bonding between molecules
+a) these only happen in nonpolar organic molecules, molecules made of carbon and hydrogen
+b) this only applies to the diatomic hydrogen molecule (H2)
+*c) hydrogen forming an interaction ("bond") with a lone electron pair on another molecule is typical
+d) this only happens in ionic compounds
+e) the noble gas element neon (Ne) is required for the interaction
+
+19. In drawing a Lewis structure for the carbonate (CO3)2- ion, you have placed the octet around the three oxygen (O) atoms, but you see the central carbon (C) atom has only six electrons (3 bonding pairs) to the oxygen atoms. You have no electrons remaining to add in your inventory. What step do you need to do?
+a) Nothing: your Lewis structure is ready and complete
+b) Use Avogadro's Number at an earlier step
+c) Add a hydrogen atom to the molecule
+*d) A lone pair from one of the oxygen (O) atoms will have to be used to create a double bond with the central carbon
+e) The noble gas argon (Ar) must provide a single electron to complete this structure
+
+20. What is FALSE in the formation of the ionic compound magnesium oxide (MgO) from magnesium metal (Mg) and oxygen (O)?
+a) the Group 2 metal Mg atom has two valence electrons it will give to the Group 16 nonmetal oxygen (O) atom
+b) this transfer of electrons from Mg to O is about achieving the stability of a noble gas electron configuration
+*c) Magnesium (Mg) will take electrons from oxygen (O) to form the ionic compound MgO
+d) Magnesium will become a Mg2+ cation and oxygen will become an O2- anion during ionization
+e) The Lewis structure of the O atom will have four pairs of dots around it 
+
+21. What statement(s) is/are TRUE concerning the concept of "formal charge"?
+a) it represents the charge of a molecule after counting all electrons against the protons of all atoms
+*b) it represents the hypothetical charge on an atom in a molecule based on the valence electrons it possesses
+c) it is used to determine how many hydrogen atoms are missing in a molecule
+d) it helps to estimate the neutrons in the atom's nucleus
+e) the term refers ONLY to boron trifluoride have trigonal pyramidal geometry
+
+22. A molecule has four terminal electron groups around a central atom. Its molecular geometry is:
+a) linear
+b) trigonal planar
+c) bent
+d) trigonal pyramidal
+*e) tetrahedral
+
+23. What is/are TRUE statements about a bond dipole?
+*a) the dipole moment exists because of electronegativity differences between the two atoms
+b) the bond dipole can be shown in a structure using the crossed arrow symbol
+c) the term "bond dipole" and "molecular dipole" are the same 
+d) (a) and (b) are true
+e) (a), (b), and (c) are true
+
+24. What is a FALSE statement about the concept of the molecular dipole?
+a) the molecular dipole is a result of all the individual bond dipoles in the molecule
+b) molecular dipoles are very likely when atoms in the whole molecular structure show asymmetry 
+*c) the presence of lone pairs in the central atom of a molecule are not important in molecule having a dipole
+d) it is possible for a molecule to have no (zero) molecular dipole despite numerous bond dipoles
+
+25. Carbon and hydrogen have very little difference in their electronegativity. What kind of bond will they form?
+a) ionic 
+b) metallic 
+*c) covalent 
+d) polar covalent 
+e) fluidic 
+
+26. When atoms like cesium and fluorine have the largest differences in electronegativity, what kind of bond will they form?
+*a) ionic 
+b) metallic 
+c) covalent 
+d) polar covalent 
+e) covalent-ionic
+
+
+28. Diatomic element molecules like Cl2 are polar molecules because they have a single polar covalent bond.
+a) true
+*b) false
+
+29. A molecule that is trigonal planar in geometry has three electron groups with 120° bond angles
+*a) true
+b) false
+
+30. A molecule has a central atom with two nonbonding (lone) electron pairs and two terminal atoms will have a trigonal pyramidal molecular geometry
+a) true 
+*b) false
+
+31. Valence Shell Electron Pair Repulsion explains why nonbonding (lone) electron pairs in a central atom can crowd out and narrow the angle of terminal atoms or electron groups in a molecule
+*a) true 
+b) false
+
+32. The H2O molecule going from steam (gas phase) to ice (solid phase) is an exothermic process
+*a) true
+b) false
+
+33. The burning of gasoline is an endothermic reaction
+a) true
+*b) false
+
+34. The formation of ice on a pond is an exothermic process
+*a) true 
+b) false
+
+35. The boiling of water is an endothermic process
+*a) true
+b) false
+
+
+27. A "formula unit" is a term that applies to ionic compound solids like sodium chloride (NaCl)
+*a) true
+b) false 
+
+20. Viscosity is
+a) the description of the shape of a meniscus (convex, concave) in a capillary
+*b) a measure of the resistance to flow of a fluid/liquid 
+c) decreased if a compound has hydroxyls (chemical groups like -OH) added to its structure
+d) all about boiling points
+e) just another term for the mass in grams of a substance
+
+21. Which of the following are forms of energy?
+a) heat, represented by symbol "q"
+b) work, which is a force that is applied through a distance
+c) mole, which is an amount
+*d) (a) and (b)
+e) choices (a), (b), (c)
+
+22. Which of the following represents a change in energy in a substance that is being melted?
+a) \\(  \Delta H_{vap}  \\)
+b) \\(  \Delta H_{sub}  \\)
+*c) \\(  \Delta H_{fus}  \\)
+d) \\(  \Delta H_{melt}  \\)
+
+23. The symbol \\( \Delta H_{sub} \\) means what?
+*a) change in enthalpy of sublimation
+b) change in enthalpy of fusion
+c) change in enthalpy of vaporization
+d) change in enthapy of substitution
+
+24. Potential energy is the same as kinetic energy
+a) True
+*b) False
+
+25. Methane \\( (\ce{CH4}) can be burned by oxygen  (\ce{O2}) \\) in a flame. The bonds in methane represent chemical potential energy
+*a) true
+b) false
+
+
+2. What general term is used to describe molecules of the same kind have a force or attraction to each other?
+a) heat capacity
+b) liquid
+c) adhesion
+*d) cohesion
+e) enthalpy
+
+
+3. What is true about the water, the liquid phase of \\( \ce{H2O} \\)?
+a) It is nonpolar
+b) It is considered a universal solvent
+c) Compared to metal solids like steel, it can absorb heat energy without large changes in temperature
+*d) choices (b) and (c)
+e) choices (a), (b), (c)
+
+4. Which of these terms describes the ability of water to form a compact, spherical droplet on a surface?
+a) viscosity
+b) heat capacity
+*c) surface tension
+d) capillary action
+e) none of the above
+
+5. Which of these crystalline solids will be the best choice for a electrical conductor?
+a) the sodium chloride ionic crystal
+b) the molecular solid of dry ice (carbon dioxide, \\( C\ce{O2} \\))
+c) the covalent network solid of carbon, the diamond
+*d) the metallic solid which is a bar of gold (Au)
+
+6. What is the term used to describe the production of a gaseous state from a liquid state?
+*a) boiling 
+b) freezing
+c) condensation
+d) sublimation
+
+9. Assume specific heat capacity of cadmium (Cd) is 0.25 J/(g °C). A 5.00 g piece of cadmium metal is heated from 20°C to 40°C. How many joules of heat energy were transferred to the metal?
+a) 400 J
+*b) 25 J
+c) 1.0 J
+d) 0.063 J
+
+10. Assume \\( \ce{H2O} \\) as a liquid (water) has a specific heat capacity of 4.184 J/(g °C). You used 500.0 calories (cal) of heat a mass of water from 20° C to 40°C. What is the volume of water in milliliters (mL) that you have? (Hint: you will use two conversion factors given to you for calculating this)
+a) 500.0 mL
+b) 2092 mL
+*c) 25.00 mL
+d) 20.00 mL
+
+11. Calculate the specific heat capacity of \\( \ce{H2O} \\) in J/(g °C) as a solid (ice) if a 1.000 kilogram (kg) block of ice is heated from -20°C to -5°C using 30.0 kJ of heat. You will have to use two conversion factors in getting the answer
+a) 1.00 J
+*b) 2.00 J/(g °C)
+c) 30.0 J/(g °C)
+d) 200 J/(g °C)
+e) 30.0 g
+
+1. Which of these types of matter will have a definite volume but not a definite shape?
+a) gas
+*b) liquid
+c) solid
+d) London Dispersion Force
+e) all of the above
+
+
+
+7. What is the term used to describe the production of a gaseous state directly from a solid state?
+a) boiling 
+b) vaporization
+c) condensation
+*d) sublimation
+
+
+
+32. The \\( \ce{H2O} \\) molecule going from steam (gas phase) to ice (solid phase) is an exothermic process
+*a) true
+b) false
+

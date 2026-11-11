@@ -1,0 +1,310 @@
+Text: Matter, Compounds-Ionic & Molecular, Formula Writing, Naming, Acids
+
+12. What is a TRUE characteristic of the Type I ion?
+a) it is negatively charged
+*b) the metal cations of Group I and Group II elements are classic examples of these ions
+c) it is an element that can ionize to more than one charge state (for example, it can be +1, +2, +3, and even -1, -2, etc)
+d) it only applies to charge states of element oxygen (O)
+e) the element's name in a compound requires the use of a roman numeral (the Stock system)
+
+13. What is FALSE about the characteristics of a Type II ion?
+a) it is positively charged
+b) the metal cations of Group I and Group II elements are classic examples of these ions
+c) it is an element that can ionize to more than one charge state (for example, it can be +1, +2, +3, and even -1, -2, etc)
+*d) it only applies to charge states of element oxygen (O)
+e) the element's name in a compound requires the use of a roman numeral (the Stock system)
+
+14. What is the chemical formula for calcium sulfate?
+a) $$ \ce{CaSO3} $$
+*b) $$ \ce{CaSO4} $$
+c) $$ \ce{Ca(SO3)2} $$
+d) $$ \ce{Ca(SO4)2} $$
+e) $$ \ce{Ca4S3} $$
+
+15. What is the chemical formula for hydrochloric acid?
+a) $$ \ce{NCl3} $$
+b) HF
+*c) HCl
+d) $$ \ce{HPOCl2} $$
+e) $$ \ce{HCl2} $$
+
+16. What is the name of the compound with chemical formula KCl?
+a) potassium carbon lithium
+b) potassium chlorate
+c) potassium(I) perchlorate
+d) potassium chlorous acid 
+*e) potassium chloride
+
+17. What is the correct and complete name of this compound you made in lab with chemical formula Cu2S?
+a) copper sulfate
+b) copper sulfide
+*c) copper(I) sulfide
+d) copper(II) sulfide
+e) cuprous(II) sulfite
+
+18. What is the chemical formula of the molecule dinitrogen tetraoxide?
+a) $$ \ce{NO3} $$
+*b) $$ \ce{N2O4} $$
+c) $$ \ce{(NO2)4} $$
+d) $$ NO2 4 $$
+e) $$ \ce{2(N4O)} $$
+
+1. Which of the following is an example of a diatomic molecular element in its pure natural state? 
+a) Sodium (Na)
+b) Gold (Au)
+*c) Nitrogen ($$ \ce{N2} $$)
+d) Sulfur (S)
+
+2. When naming a compound using the Stock system, what does the Roman numeral represent? 
+a) The number of atoms in the molecule
+*b) The magnitude of the positive charge on the cation
+c) The number of electrons in the valence shell
+d) The atomic number of the element
+
+3. Which method is used to determine the subscripts of cations and anions when forming an ionic compound? 
+a) The T43 Method
+*b) The Criss-cross method
+c) Distillation
+d) The Dalton Rule
+
+4. Which of these is considered a Type II cation? 
+a) Sodium ($$ Na^+ $$)
+b) Calcium ($$ Ca^{2+} $$)
+*c) Lead ($$ Pb^{2+} $$ or $$ Pb^{4+} $$)
+d) Aluminum ($$ Al^{3+} $$)
+
+5. What is the formula for the polyatomic ion known as "carbonate"? 
+*a) $$ \ce{CO3^{2-}} $$
+b) $$ \ce{NO3^-} $$
+c) $$ \ce{PO4^{3-}} $$
+d) $$ \ce{SO4^{2-}} $$
+
+6. A compound consists entirely of nonmetal elements (e.g., $$ \ce{CO2, NH3} $$). What is its likely classification? 
+a) Ionic compound
+*b) Likely NOT ionic
+c) A polyatomic cation
+d) A Stock system metal
+
+7. What happens in the formation of an ionic compound like KCl? 
+a) Atoms share electrons equally
+*b) Potassium gives up an electron to chlorine
+c) Chlorine gives up an electron to potassium
+d) Both atoms become positively charged
+
+8. Which type of formula represents the simplest whole-number ratio of atoms in a compound? 
+a) Molecular formula
+*b) Empirical formula
+c) Chemical formula
+d) Structural formula
+
+9. Which of the following is a common polyatomic cation? 
+a) Nitrate ($$ \ce{NO3^-} $$)
+b) Phosphate ($$ \ce{PO4^{3-}} $$)
+*c) Ammonium ($$ \ce{NH4^+} $$)
+d) Sulfate ($$ \ce{SO4^{2-}} $$)
+
+10. In the name "Copper(II) bromide", what does the (II) indicate? 
+a) There are two copper atoms in the formula
+*b) The copper ion has a 2+ charge
+c) There are two bromine atoms in the formula
+d) The atomic mass of copper is doubled
+
+11. Which of these terms refers to a mixture that is uniform throughout? 
+a) Heterogeneous
+*b) Homogeneous
+c) Compound
+d) Distillation
+
+12. Which set of nonmetals contains only diatomic elements? 
+*a) H, N, O, F, Cl, Br, I
+b) He, Ne, Ar, Kr
+c) S, P, C, B
+d) Au, Ag, Cu, Fe
+
+13. According to the Law of Conservation of Mass, what is the relationship between reactants and products? 
+a) The mass of products is always greater
+*b) The mass of reactants equals the mass of products
+c) Some mass is always converted into energy
+d) The number of molecules must stay the same
+
+14. What is the correct suffix used when naming the nonmetal anion in a simple binary ionic compound? 
+a) -ate
+*b) -ide
+c) -ite
+d) -ous
+
+15. The T43 Method helps determine properties of which group? 
+a) Transition metals
+b) Diatomic elements
+*c) Polyatomic ions
+d) Noble gases
+
+16. Molecular elements like sulfur and phosphorus exist in polyatomic arrangements rather than individual atoms. 
+*a) true
+b) false
+
+17. An empirical formula always shows the exact number of atoms of each element present in a molecule. 
+a) true
+*b) false
+
+18. In an ionic compound, atoms bond electrostatically due to the transfer of electrons. 
+*a) true
+b) false
+
+19. The cation in an ionic compound is typically a nonmetal element. 
+a) true
+*b) false
+
+20. Calcium ($$ Ca^{2+} $$) is a Type II cation because its charge can vary depending on the reaction. 
+a) true
+*b) false
+
+21. Polyatomic ions are groups of atoms bonded together that act as a single unit with a stable charge. 
+*a) true
+b) false
+
+22. Distillation and filtration are examples of chemical properties of matter. 
+a) true
+*b) false
+
+23. A formula unit is the simplest collection of atoms from which an ionic compound's formula can be established. 
+*a) true
+b) false
+
+24. The Stock system uses Roman numerals to name compounds where the metal only has one potential ionic state. 
+a) true
+*b) false
+
+25. In a chemical formula, the subscript "1" is always written to show there is one atom of that element. 
+a) true
+*b) false
+
+26. Which of the following is a chemical property of matter?  
+*a) Flammability
+b) Boiling point
+c) Density
+d) Melting point
+
+27. Which term describes the process of a liquid changing to a gas?  
+*a) Vaporization
+b) Precipitation
+c) Freezing
+d) Condensation
+
+28. Which separation technique relies on differences in boiling points?  
+a) Chromatography
+b) Filtration
+c) Solvent extraction
+*d) Distillation
+
+29. A homogeneous mixture is best described as:  
+*a) A mixture with uniform composition throughout
+b) A mixture with visibly different parts
+c) A compound containing metals only
+d) A pure substance
+
+30. Which statement correctly defines a compound?  
+a) A pure element in its natural state
+b) A mixture of two or more elements
+c) A heterogeneous mixture
+*d) A substance made of two or more elements chemically bonded
+
+31. Which formula type shows the simplest whole‑number ratio of atoms?  
+a) Chemical formula
+b) Molecular formula
+*c) Empirical formula
+d) Structural formula
+
+32. Which of the following is a diatomic molecular element?  
+a) Phosphorus
+b) Carbon
+c) Sulfur
+*d) Chlorine
+
+33. Which statement best describes an ionic compound?  
+*a) Formed by transfer of electrons between a metal and a nonmetal
+b) Always contains only metals
+c) Always contains only nonmetals
+d) Formed by sharing electrons between nonmetals
+
+34. What is the charge on the calcium ion in $$ \ce{CaF2} $$?  
+a) (1)+
+*b) 2+
+c) (1)-
+d) 2-
+
+35. Which metal requires a Roman numeral when naming its ionic compounds?  
+*a) Iron
+b) Aluminum
+c) Sodium
+d) Calcium
+
+36. What is the correct name for CuBr₂?  
+a) Copper bromide
+b) Copper(I) bromide
+c) Dicopper bromide
+*d) Copper(II) bromide
+
+37. Which of the following is a polyatomic ion?  
+*a) $$ \ce{NO2^-} $$
+b) $$ \ce{Na^+} $$
+c) $$ \ce{F^-} $$
+d) $$ \ce{Cl^-} $$
+
+38. Which compound is most likely NOT ionic?  
+a) $$ \ce{Ca(NO3)2)} $$
+b) $$ \ce{Na2SO4} $$
+c) $$ \ce{NH4Cl} $$
+*d) $$ \ce{CO2} $$
+
+39. Which statement about Type I cations is correct?  
+a) They have multiple possible charges.
+b) They require Roman numerals in names.
+c) They are always transition metals.
+*d) They have only one possible charge.
+
+40. Which of the following is the correct formula for ammonium sulfate?  
+a) $$ \ce{NH4SO4} $$
+*b) $$ \ce{(NH4)2SO4} $$
+c) $$ \ce{NH4 2 SO4} $$
+d) $$ \ce{(NH4)3SO4} $$
+
+41. A physical property can be observed without changing the chemical identity of a substance.
+*a) true
+b) false
+
+42. Condensation is the process of a solid turning directly into a gas.
+a) true
+*b) false
+
+43. The law of conservation of mass states that mass is neither created nor destroyed in a chemical reaction.
+*a) true
+b) false
+
+44. A heterogeneous mixture has a uniform composition throughout.
+a) true
+*b) false
+
+45. Diatomic elements include $$ \ce{H2, N2, O2, F2, Cl2, Br2} $$, and $$ \ce{I2} $$.
+*a) true
+b) false
+
+46. Ionic compounds are formed by sharing electrons between atoms.
+a) true
+*b) false
+
+47. Type II metals require Roman numerals in compound names.
+*a) true
+b) false
+
+48. Polyatomic ions contain more than one atom bonded together.
+*a) true
+b) false
+
+49. CO₂ is an ionic compound.
+a) true
+*b) false
+
+50. A formula unit refers to the simplest ratio of ions in an ionic compound.
+*a) true
+b) false

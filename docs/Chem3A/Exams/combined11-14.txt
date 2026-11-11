@@ -1,0 +1,778 @@
+
+1. How many moles of \\( \ce{CO2 are produced when **14.00 mol of \\( \ce{O2** react completely in the reaction:  \\( \ce{2 C2H6 + 7 O2 -> 4 CO2 + 6 H2O} \\)
+a) 2.00 mol  
+b) 4.00 mol  
+c) 6.00 mol
+*d) 8.00 mol  
+
+2. How many grams of NH3 are produced from **5.00 g of H2**?  \\( \ce{N2 + 3 H2 -> 2 NH3} \\) (Molar masses: \\( \ce{H2} \\) = 2.02 g/mol, \\( \ce{NH3} \\) = 17.03 g/mol)  
+a) 14.1 g  
+*b) 28.1 g  
+c) 42.3 g  
+d) 85.0 g  
+
+3. A solution contains **0.250 M HCl**. What volume (in mL) contains **0.0500 mol** of HCl?  
+a) 20.0 mL  
+b) 50.0 mL  
+c) 100.0 mL  
+*d) 200.0 mL  
+
+4. In the reaction  \\( \ce{2 Al + 3 Cl2 -> 2 AlCl3} \\), if 5.00 mol Al react with 5.00 mol \\( \ce{Cl2} \\), which is the limiting reactant?  
+a) Al  
+*b) \\( \ce{Cl2  
+c) Neither; they react in perfect ratio  
+d) Cannot be determined  
+
+5. A reaction has a theoretical yield of **12.0 g** but produces **9.00 g** of product.  What is the percent yield?  
+a) 25.0%  
+b) 60.0%  
+*c) 75.0%  
+d) 133%  
+
+6. The thermochemical equation is:  \\( \ce{2 H2 + O2 -> 2 H2O} \\) ΔH = –572 kJ. What is ΔH when **1.00 mol** of \\( \ce{H2} \\) reacts?  
+a) –143 kJ  
+*b) –286 kJ  
+c) –572 kJ  
+d) –1144 kJ  
+
+7. A titration requires **22.5 mL** of **0.100 M NaOH** to neutralize an HCl sample.  How many moles of HCl were present?  
+*a) 0.00225 mol  
+b) 0.0225 mol  
+c) 0.225 mol  
+d) 2.25 mol  
+
+8. At STP, what volume does **2.50 mol** of an ideal gas occupy?  
+a) 11.2 L  
+b) 22.4 L  
+c) 44.8 L  
+*d) 56.0 L  
+
+9. A reaction mixture contains 10.0 g of A and 10.0 g of B.  The limiting reactant produces **6.00 g** of product.  If the actual yield is **4.50 g**, what is the percent yield?  
+a) 45.0%  
+b) 60.0%  
+*c) 75.0%  
+d) 133%  
+
+1. How many moles of \\( \ce{H2O are produced when **3.00 mol of \\( \ce{O2** react completely?  \\( \ce{2 H2 + O2 -> 2 H2O} \\)  
+a) 1.50 mol  
+b) 3.00 mol  
+c) 4.00 mol  
+*d) 6.00 mol  
+
+2. How many grams of CO2 form from **10.0 g of C2H6**?  \\( \ce{2 C2H6 + 7 O2 -> 4 CO2 + 6 H2O} \\)  (Molar masses: \\( \ce{C2H6} \\) = 30.07 g/mol, \\( \ce{CO2} \\) = 44.01 g/mol)  
+*a) 14.6 g  
+b) 29.2 g  
+c) 58.4 g  
+d) 87.6 g  
+
+3. A solution contains **0.150 M NaOH**.  How many mL contain **0.0300 mol** NaOH?
+a) 50.0 mL  
+b) 100.0 mL  
+c) 150.0 mL  
+*d) 200.0 mL  
+
+4. In the reaction  \\( \ce{4 Fe + 3 O2 -> 2 Fe2O3} \\)  If 8.00 mol Fe react with 4.00 mol \\( \ce{O2} \\), the limiting reactant is:  
+a) Fe  
+*b) \\( \ce{O2  
+c) Neither  
+d) Cannot be determined  
+
+5. A reaction has a theoretical yield of **25.0 g** and an actual yield of **20.0 g**.  What is the percent yield?  
+a) 50.0%  
+*b) 80.0%  
+c) 125%  
+d) 500%  
+
+6. The thermochemical equation is:  \\( \ce{N2 + 3 H2 -> 2 NH3} \\) ΔH = –92 kJ   What is ΔH for producing **1.00 mol \\( \ce{NH3**?  
+a) –23 kJ  
+*b) –46 kJ  
+c) –92 kJ  
+d) –184 kJ  
+
+7. A titration requires **35.0 mL** of **0.200 M HCl** to neutralize NaOH.  How many moles of HCl were used?  
+a) 0.00350 mol  
+*b) 0.00700 mol  
+c) 0.0350 mol  
+d) 0.0700 mol  
+
+8. At STP, what volume does **0.750 mol** of an ideal gas occupy?  
+a) 11.2 L  
+*b) 16.8 L  
+c) 22.4 L  
+d) 44.8 L  
+
+9. A reaction produces **12.0 g** of product but the theoretical yield is **15.0 g**.  What is the percent yield?  
+a) 20.0%  
+b) 60.0%  
+*c) 80.0%  
+d) 125%  
+
+1. How many moles of \\( \ce{O2} \\) are required to completely react with **4.00 mol of H2**?   \\( \ce{2 H2 + O2 -> 2 H2O} \\)  
+a) 1.00 mol  
+*b) 2.00 mol  
+c) 4.00 mol  
+d) 8.00 mol  
+
+2. How many grams of \\( \ce{H2O are produced from **6.00 g of \\( \ce{H2**?   \\( \ce{2 H2 + O2 -> 2 H2O} \\)   (Molar masses: \\( \ce{H2} \\) = 2.02 g/mol, \\( \ce{H2O} \\) = 18.02 g/mol)  
+a) 18.0 g  
+b) 26.7 g  
+*c) 53.5 g  
+d) 108 g  
+
+3. A solution contains **0.300 M \\( \ce{HNO3} \\)**.  How many mL contain **0.0600 mol** \\( \ce{HNO3} \\)?  
+a) 50.0 mL  
+b) 100.0 mL  
+c) 150.0 mL  
+*d) 200.0 mL  
+
+4. In the reaction  \\( \ce{2 K + Cl2 -> 2 KCl} \\)   If 5.00 mol K react with 2.00 mol \\( \ce{Cl2} \\), the limiting reactant is:  
+a) K  
+*b) Cl2  
+c) Neither  
+d) Cannot be determined  
+
+5. A reaction has a theoretical yield of **40.0 g** and an actual yield of **30.0 g**.   What is the percent yield?  
+a) 50.0%  
+b) 66.7%  
+*c) 75.0%  
+d) 133%  
+
+6. The thermochemical equation is:  \\( \ce{C + O2 -> CO2} \\) ΔH = –394 kJ   What is ΔH for producing **2.00 mol \\( \ce{CO2} \\)**?  
+a) –197 kJ  
+b) –394 kJ  
+*c) –788 kJ  
+d) –1576 kJ  
+
+7. A titration requires **18.0 mL** of **0.250 M NaOH** to neutralize HCl.  How many moles of NaOH were used?  
+a) 0.00225 mol  
+*b) 0.00450 mol  
+c) 0.0180 mol  
+d) 0.0450 mol  
+
+8. At STP, what volume does **1.80 mol** of an ideal gas occupy?  
+a) 22.4 L  
+b) 33.6 L  
+*c) 40.3 L  
+d) 50.4 L  
+
+9. A reaction produces **9.00 g** of product but the theoretical yield is **12.0 g**.  What is the percent yield?  
+a) 25.0%  
+b) 50.0%  
+*c) 75.0%  
+d) 133%  
+
+1. In any balanced chemical reaction, the mole ratio between reactants and products comes directly from the coefficients in the balanced equation.  
+*a) true
+b) false
+
+2. In stoichiometry, converting grams -> moles -> grams always requires the molar mass of at least one compound.  
+*a) true
+b) false
+
+3. In solution stoichiometry, the relationship “moles = molarity \times volume (in liters)” is always valid.  
+*a) true
+b) false
+
+4. A limiting reactant is the reactant that is present in the smallest mass.  
+a) true
+*b) false
+
+5. Percent yield can never exceed 100%.  
+a) true
+*b) false
+(Note: While theoretically true, in a lab setting contamination or incomplete drying can lead to values >100%, making "never" scientifically false.)
+
+6. A thermochemical equation shows the enthalpy change (ΔH) for the reaction as written, including the specific mole amounts.  
+*a) true
+b) false
+
+7. If ΔH is negative, the reaction is exothermic and releases heat to the surroundings.  
+*a) true
+b) false
+
+8. At STP, 1 mole of any ideal gas occupies 22.4 L.  
+*a) true
+b) false
+
+9. In titration, the equivalence point is reached when moles of acid equal moles of base according to the reaction ratio.  
+*a) true
+b) false
+
+10. A reaction with a large negative ΔH always proceeds quickly.  
+a) true
+*b) false
+
+10. Which of the following is a **strong acid**?
+a) HF
+b) \( \ce{H2CO3} \)
+*c) HCl
+d) \( \ce{CH3COOH} \)
+
+11. According to the Brønsted–Lowry definition, a base is a:
+a) proton donor
+*b) proton acceptor
+c) hydroxide producer
+d) hydronium producer
+
+12. What is the conjugate base of **\( \ce{H2SO4} \)**?
+a) \( \ce{SO42-} \)
+*b) \( \ce{HSO4-} \)
+c) \( \ce{H3SO4+} \)
+d) \( \ce{H2SO3} \)
+
+13. A solution has [\( \ce{H3O+} \)] = \( 1.0 \times 10^{-5} \) M.  What is the pH?
+a) 3.00
+*b) 5.00
+c) 7.00
+d) 9.00
+
+14. A solution has pH = 3.00.  What is [\( \ce{OH-} \)]?
+a) \( 1.0 \times 10^{-3} \) M
+b) \( 1.0 \times 10^{-7} \) M
+*c) \( 1.0 \times 10^{-11} \) M
+d) \( 1.0 \times 10^{-14} \) M
+
+15. Which pair can form a **buffer**?
+a) HCl and NaCl
+b) \( \ce{HNO3} \) and \( \ce{KNO3} \)
+*c) HF and NaF
+d) \( \ce{H2SO4} \) and \( \ce{Na2SO4} \)
+ 
+10. Which of the following is a **strong base**?
+a) \( \ce{NH3} \)
+*b) \( \ce{Ca(OH)2} \)
+c) HF
+d) \( \ce{H2CO3} \)
+
+11. According to Brønsted–Lowry, an acid is a:
+*a) proton donor
+b) proton acceptor
+c) hydroxide producer
+d) hydronium producer
+
+12. What is the conjugate acid of **\( \ce{NH2-} \)**?
+*a) \( \ce{NH3} \)
+b) \( \ce{NH2+} \)
+c) \( \ce{NH4+} \)
+d) \( \ce{N3-} \)
+
+13. A solution has [\( \ce{OH-} \)] = \( 1.0 \times 10^{-9} \) M.  What is the pH?
+*a) 5.00
+b) 7.00
+c) 9.00
+d) 14.00
+
+14. A solution has pH = 11.00.   What is [\( \ce{H3O+} \)]?
+a) \( 1.0 \times 10^{-3} \) M
+b) \( 1.0 \times 10^{-5} \) M
+c) \( 1.0 \times 10^{-9} \) M
+*d) \( 1.0 \times 10^{-11} \) M
+
+15. Which pair **cannot** form a buffer?
+a) HCN and NaCN
+*b) HCl and NaCl
+c) \( \ce{H2CO3} \) and \( \ce{NaHCO3} \)
+d) \( \ce{CH3COOH} \) and CH3COONa
+
+10. Which of the following is a **weak acid**?
+a) HCl
+b) \( \ce{HNO3} \)
+*c) HF
+d) HBr
+
+11. According to Brønsted–Lowry, a base is a:
+a) proton donor
+*b) proton acceptor
+c) hydroxide producer
+d) hydronium producer
+
+12. What is the conjugate base of **\( \ce{H2CO3} \)**?
+a) \( \ce{CO32-} \)
+*b) \( \ce{HCO3-} \)
+c) \( \ce{H2CO2} \)
+d) \( \ce{H2CO3+} \)
+
+13. A solution has [\( \ce{H3O+} \)] = \( 1.0 \times 10^{-8} \) M.  What is the pH?
+a) 4.00
+b) 6.00
+*c) 8.00
+d) 10.00
+
+14. A solution has pH = 2.00.  What is [\( \ce{OH-} \)]?
+a) \( 1.0 \times 10^{-2} \) M
+b) \( 1.0 \times 10^{-6} \) M
+*c) \( 1.0 \times 10^{-12} \) M
+d) \( 1.0 \times 10^{-14} \) M
+
+15. Which pair can form a **buffer**?
+a) HCl and NaCl
+b) \( \ce{HNO3} \) and \( \ce{KNO3} \)
+*c) \( \ce{CH3COOH} \) and CH3COONa
+d) \( \ce{H2SO4} \) and \( \ce{Na2SO4} \)
+
+11. A Brønsted–Lowry acid is a proton donor.
+*a) true
+b) false
+
+12. A Brønsted–Lowry base is a proton acceptor.
+*a) true
+b) false
+
+13. Strong acids dissociate completely in water, while weak acids dissociate only partially.
+*a) true
+b) false
+
+14. The conjugate base of an acid always has one fewer hydrogen and one more negative charge.
+*a) true
+b) false
+
+15. Water (\( \ce{H2O} \)) can act as both an acid and a base depending on the reaction.
+*a) true
+b) false
+
+16. In pure water at 25 °C, [\( \ce{H3O+} \)] = [\( \ce{OH-} \)] = \( 1.0 \times 10^{-7} \) M.
+*a) true
+b) false
+
+17. The product of [\( \ce{H3O+} \)] and [\( \ce{OH-} \)] in any aqueous solution at 25 °C is \( 1.0 \times 10^{-14} \).
+*a) true
+b) false
+
+18. A solution with pH = 3.00 is ten times more acidic than a solution with pH = 4.00.
+*a) true
+b) false
+
+19. A buffer solution resists changes in pH when small amounts of acid or base are added.
+*a) true
+b) false
+
+20. A mixture of a strong acid and its salt (e.g., HCl + NaCl) forms a buffer.
+a) true
+*b) falseReactionRates, Equilibrium, pH, Kw
+
+56. Which of the following stresses would shift equilibrium according to Le Chatelier’s Principle?
+a) Changing concentration of reactants or products
+b) Changing temperature  
+c) Changing pressure (for gases)  
+*d) All of the above  
+... All three stresses can perturb equilibrium, prompting the system to restore balance.
+
+57. For the equilibrium reaction N2O4 (g) \rightleftharpoons 2 NO2 (g), the equilibrium constant expression is:
+a) \( \ce{*K* = [N2O4]/[NO2]^2} \)
+*b) \( \ce{*K* = [NO2]^2/[N2O4]} \)
+c) \( \ce{*K* = [NO2]/[N2O4]^2} \)
+d) \( \ce{*K* = [N2O4][NO2]^2  } \)
+... Products over reactants, with coefficients as exponents.
+
+58. At equilibrium, \( \ce{[N2O4] = 0.20 M} \) and \( \ce{[NO2] = 0.40 M} \). What is K?
+a) 0.80  
+b) 0.40  
+c) 0.80/0.20 = 4.0  
+*d) (0.40)^2 / 0.20 = 0.80  
+... \( \ce{*K* = [NO2]^2/[N2O4] = (0.40)^2 / 0.20 = 0.16 / 0.20 = 0.80.
+
+59. For \( \ce{BaSO₄ (s) \rightleftharpoons Ba^{2+} (aq) + SO₄^{2-} (aq)} \), if \([Ba^{2+}] = 1.0 \times 10^{-5} M and \([SO₄^{2-}] = 1.0 \times 10^{-5} M, what is \( *K*_{sp}?
+*a) 1.0 \times 10⁻¹⁰  
+b) 1.0 \times 10^{-5}  
+c) 1.0 \times 10⁻²⁰  
+d) 2.0 \times 10^{-5}  
+... \(*K*_{sp} = [Ba^{2+}][SO₄^{2-}] = (1.0 \times 10^{-5})(1.0 \times 10^{-5}) = 1.0 \times 10⁻¹⁰.
+
+60. For the acid dissociation \( \ce{HA \rightleftharpoons H⁺ + A⁻} \), if \( [HA] = 0.10 M, [H⁺] = 1.0 \times 10^{-3} M, and \([A^-] = 1.0 \times 10^{-3} M, what is \( K_a \)?  
+a) 1.0 \times 10⁻²  
+b) 1.0 \times 10^{-3}  
+*c) 1.0 \times 10^{-5}  
+d) 1.0 \times 10^{-6}  
+... \(K_a = [H⁺][A⁻]/[HA] = (1.0 \times 10^{-3})(1.0 \times 10^{-3})/(0.10) = 1.0 \times 10^{-6} / 0.10 = 1.0 \times 10^{-5}.
+
+16. According to Collision Theory, which two conditions are required for a reaction?  
+*a) Correct orientation and sufficient energy  
+b) High pressure and low temperature  
+c) Catalyst present and high concentration  
+d) Low activation energy and low temperature 
+
+17. In a potential energy diagram, the “hump” represents:  
+a) enthalpy change  
+b) reaction rate  
+c) equilibrium constant  
+*d) activation energy  
+
+18. A reaction has *ΔH* < 0. This means the reaction is:  
+*a) exothermic  
+b) endothermic  
+c) non‑spontaneous  
+d) at equilibrium 
+
+19. Increasing the concentration of reactants will:  
+*a) increase reaction rate  
+b) decrease reaction rate  
+c) have no effect  
+d) stop the reaction 
+
+20. For the equilibrium:  \( \ce{N2O4(g) \rightleftharpoons 2 NO2(g)} \)  Increasing temperature causes the mixture to turn darker brown.  This means the forward reaction is:  
+a) non‑spontaneous  
+b) exothermic  
+*c) endothermic  
+d) unaffected by temperature 
+
+21. For the reaction:  \( \ce{H2 (g) + I2(g) \rightleftharpoons 2 HI(g)} \)  Adding more \( \ce{H2} \) will:  
+a) shift equilibrium left  
+*b) shift equilibrium right  
+c) decrease [HI]  
+d) stop the reaction 
+
+22. For the equilibrium:  \( \ce{2 SO2(g) + O2(g) \rightleftharpoons 2 SO3(g)} \)  Increasing pressure favors the side with:  
+a) more moles of gas  
+*b) fewer moles of gas  
+c) equal moles of gas  
+d) no effect 
+
+16. Increasing temperature generally:  
+a) has no effect  
+b) stops the reaction  
+c) decreases reaction rate  
+*d) increases reaction rate 
+
+17. A catalyst works by:  
+*a) lowering activation energy  
+b) increasing ΔH  
+c) increasing product energy  
+d) increasing reactant energy 
+
+18. A reaction with products lower in energy than reactants is:  
+a) impossible  
+b) endothermic  
+*c) exothermic  
+d) non‑spontaneous 
+
+19. For the equilibrium  \( \ce{2 NO2(g) \rightleftharpoons N2O4(g)} \)  Decreasing temperature causes the mixture to become less brown.  This means the forward reaction is:  
+a) endothermic  
+*b) exothermic  
+c) unaffected by temperature  
+d) non‑spontaneous 
+... (Note: Forward reaction is exothermic; heat acts as a product, so cooling shifts it right toward N2O4.)
+
+20. For the equilibrium  \( \ce{H2 (g) + Cl2(g) \rightleftharpoons 2 HCl(g)} \)  Adding more Cl2 will:  
+a) stop the reaction  
+b) shift equilibrium left  
+*c) shift equilibrium right  
+d) decrease [HCl] 
+
+21. For the reaction  \( \ce{N2(g) + 3 H2 (g) \rightleftharpoons 2 NH3(g)} \)  Increasing pressure favors the side with:  
+a) equal moles of gas  
+b) no effect  
+c) more moles of gas  
+*d) fewer moles of gas 
+
+16. Increasing temperature generally:  
+a) decreases reaction rate  
+*b) increases reaction rate  
+c) has no effect  
+d) stops the reaction 
+
+17. A catalyst works by:  
+a) increasing ΔH  
+*b) lowering activation energy  
+c) increasing product energy  
+d) increasing reactant energy 
+
+18. A reaction with products higher in energy than reactants is:  
+*a) endothermic  
+b) exothermic  
+c) spontaneous  
+d) impossible 
+
+19. For the equilibrium  \( \ce{N₂(g) + O2(g) \rightleftharpoons 2 NO(g)} \)  Increasing temperature increases [NO].   This means the forward reaction is:  
+*a) endothermic  
+b) exothermic  
+c) unaffected by temperature  
+d) non‑spontaneous  
+
+20. For the equilibrium  \( \ce{CO(g) + H2O(g) \rightleftharpoons CO2(g) + H2(g) } \) Removing CO2 will:  
+a) shift equilibrium left  
+*b) shift equilibrium right  
+c) decrease \( \ce{H2} \)  
+d) stop the reaction 
+
+21. For the reaction  \( \ce{ 2 SO2(g) + O2(g) \rightleftharpoons 2 SO3(g)} \)  Increasing pressure favors the side with:  
+a) more moles of gas  
+*b) fewer moles of gas  
+c) equal moles of gas  
+d) no effect 
+
+21. According to Collision Theory, molecules must collide with sufficient energy and proper orientation to react.  
+*a) true
+b) false
+
+22. Increasing temperature increases the average kinetic energy of molecules.  
+*a) true
+b) false
+
+23. A catalyst increases the rate of a reaction by lowering the activation energy.  
+*a) true
+b) false
+
+24. A catalyst is consumed during the reaction it speeds up.  
+a) true
+*b) false
+
+25. At equilibrium, the concentrations of reactants and products are equal.  
+a) true
+*b) false
+... (Note: Rates are equal, not necessarily concentrations.)
+
+26. At equilibrium, the forward and reverse reaction rates are equal.  
+*a) true
+b) false
+
+27. For an endothermic reaction, increasing temperature shifts the equilibrium toward products.  
+*a) true
+b) false
+
+28. Increasing pressure favors the side of a gaseous equilibrium with fewer total moles of gas.  
+*a) true
+b) false
+
+
+61. The isotope $\text{Lead}-210$ ($^{210}_{82}\text{Pb}$) undergoes beta ($\beta$) decay. What is the resulting daughter nucleus?
+a) $^{210}_{81}\text{Tl}$ (Thallium)
+b) $^{206}_{80}\text{Hg}$ (Mercury)
+*c) $^{210}_{83}\text{Bi}$ (Bismuth)
+d) $^{211}_{82}\text{Pb}$ (Lead)
+... $^{210}_{83}\text{Bi}$ (Bismuth)**. In $\beta$ decay, a neutron converts to a proton and an electron. The mass number (A) remains the same, but the atomic number (Z) increases by one ($82 + 1 = 83$).
+
+62. A medical dose contains $80.0\text{ mg}$ of the radioisotope $\text{Technetium}-99\text{m}$ ($^{99\text{m}}_{43}\text{Tc}$), which has a half-life of $6.0$ hours. What mass of the radioisotope will remain after $24.0$ hours?
+a) $20.0\text{ mg}$
+b) $10.0\text{ mg}$
+*c) $5.00\text{ mg}$
+d) $2.50\text{ mg}$
+... $5.00\text{ mg}$**. The number of half-lives ($n$) is $24.0\text{ hr} / 6.0\text{ hr} = 4$. The remaining mass is $80.0\text{ mg} \times (1/2)^4 = 5.00\text{ mg}$.
+
+63. Which of the following ranks the three main types of radiation in order of **increasing penetrating power** (from least penetrating to most penetrating)?
+a) Gamma ($\gamma$), Beta ($\beta$), Alpha ($\alpha$)
+b) Alpha ($\alpha$), Gamma ($\gamma$), Beta ($\beta$)
+c) Beta ($\beta$), Alpha ($\alpha$), Gamma ($\gamma$)
+*d) Alpha ($\alpha$), Beta ($\beta$), Gamma ($\gamma$)
+e) Beta ($\beta$), Gamma ($\gamma$), Alpha ($\alpha$)
+... Alpha ($\alpha$), Beta ($\beta$), Gamma ($\gamma$)**. Alpha particles, being massive and charged, are the least penetrating. Gamma rays are highly energetic photons and are the most penetrating. 
+   [Image of shielding requirements for alpha, beta, and gamma radiation]
+64. In a nuclear fission reactor using $\text{U}-235$ as fuel, what is the primary function of the **control rods**?
+a) To increase the energy of the neutrons to speed up the fission reaction.
+b) To serve as the fuel source that sustains the chain reaction.
+*c) To absorb excess **neutrons** to prevent an out-of-control fission event (nuclear explosion).
+d) To boil water and convert it into steam for the turbines.
+
+65. To absorb excess neutrons to prevent an out-of-control fission event (nuclear explosion)**. Control rods contain materials (like cadmium or boron) that are excellent neutron absorbers, thereby regulating the rate of the chain reaction.
+    How is electrical power ultimately generated in a conventional nuclear power plant?
+a) Neutrons from the fission reaction are directly converted into an electric current.
+b) The potential energy of the control rods is converted into electrical energy.
+*c) The heat from the nuclear disintegration is used to **boil water**, creating steam that turns a turbine connected to a generator.
+d) Gamma rays are captured and immediately converted into direct current (DC) electricity.
+... The heat from the nuclear disintegration is used to boil water, creating steam that turns a turbine connected to a generator**. The nuclear reaction's heat is used to generate steam, which drives a conventional electric turbine.
+
+66. Ionizing radiation can damage biomolecules like $\text{DNA}$ in living organisms. Which process represents the **indirect** damage mechanism of this radiation?
+a) The high-energy radiation particle directly colliding with and breaking the $\text{DNA}$ backbone.
+*b) The radiation knocking an electron off a nearby water ($\text{H}_2\text{O}$) molecule, creating highly reactive, damaging chemical species.
+c) The heat generated by the radiation increasing the temperature of the tissue.
+d) Neutrons being absorbed by the $\text{DNA}$ molecule, making it radioactive.
+... The radiation knocking an electron off a nearby water ($\text{H}_2\text{O}$) molecule, creating highly reactive, damaging chemical species**. Indirect damage occurs when radiation ionizes surrounding water, which then chemically attacks the $\text{DNA}$.
+
+67. A scientist measures a sample and finds it has absorbed $0.05\text{ J}$ of radiation energy per kilogram of tissue mass. What is this dose in terms of **rad**?
+a) $50\text{ rad}$
+*b) $5\text{ rad}$
+c) $0.05\text{ rad}$
+d) $0.5\text{ rad}$
+... $5\text{ rad}$**. The dose is $0.05\text{ J/kg}$, which equals $0.05\text{ Gy}$ (Gray). Since $1\text{ rad} = 0.01\text{ Gy}$, the dose is $0.05\text{ Gy} / 0.01\text{ Gy/rad} = 5\text{ rad}$.
+
+68. The primary cause of an unstable atomic nucleus undergoing radioactive decay is related to which fundamental concept?
+a) The $\text{pH}$ of the surrounding solution.
+*b) The lack of sufficient **nuclear binding energy** (the 'glue') to hold the protons and neutrons together in the correct ratio.
+c) The loss of electrons from the outer valence shell.
+d) The surrounding temperature, which lowers the activation energy for decay.
+... The lack of sufficient nuclear binding energy (the 'glue') to hold the protons and neutrons together in the correct ratio**. Unstable nuclei decay because the ratio of protons to neutrons is incorrect, resulting in insufficient binding energy.
+
+69. What is the principle behind using **radiometric dating** to determine the age of a fossil or ancient artifact?
+a) Measuring the total number of protons in the sample and comparing it to modern standards.
+b) Calculating the time it takes for an atom to fuse with another atom.
+*c) Determining the ratio of a parent radioisotope to its stable daughter product, using the radioisotope's known **half-life**.
+d) Exposing the sample to $\text{X-rays}$ to observe how the energy affects the photographic film.
+... Determining the ratio of a parent radioisotope to its stable daughter product, using the radioisotope's known half-life**. The constant rate of decay (half-life) allows scientists to calculate the time since the radioactive material was fixed within the sample.
+
+70. Which statement correctly describes a key difference between **nuclear fission** (used in current power plants) and **nuclear fusion** (the process in the sun)?
+a) Fission involves light nuclei combining, while fusion involves heavy nuclei splitting.
+b) Fission is controlled by magnetic fields, while fusion uses mechanical control rods.
+*c) Fusion requires incredibly high temperatures (millions of degrees), whereas fission operates at or near room temperature.
+d) Fission produces less radioactive waste than fusion.
+e) Fusion is currently used globally for commercial electricity generation, while fission remains experimental.
+... Fusion requires incredibly high temperatures (millions of degrees), whereas fission operates at or near room temperature**. Fusion requires millions of degrees Celsius to overcome the electrostatic repulsion of the positive nuclei.
+
+103. Nuclear power plants generate energy through atomic fusion reactions
+a) true
+*b) false
+
+71. Which scientist’s work first revealed that uranium salts could expose photographic film, leading to the discovery of radioactivity?
+a) Wilhelm Röntgen  
+*b) Henri Becquerel  
+c) Marie Curie  
+d) Ernest Rutherford  
+... Becquerel discovered radioactivity when uranium salts fogged photographic plates.
+
+72. Which type of radiation is most damaging biologically but least penetrating?
+*a) Alpha particles
+b) Beta particles  
+c) Gamma rays  
+d) Neutrons  
+... Alpha particles are highly ionizing but can be stopped by paper or skin.
+
+73. Which principle ensures that nuclear decay equations are correctly balanced?
+a) Conservation of energy  
+*b) Conservation of mass and charge  
+c) Conservation of momentum  
+d) Conservation of binding energy  
+... Both atomic number (charge) and mass number must balance across the decay arrow.
+
+74. Which device is commonly used to detect radioactivity by counting ionizing events?
+a) Mass spectrometer  
+*b) Geiger-Müller tube  
+c) Calorimeter  
+d) Electroscope  
+... The Geiger-Müller tube detects radiation by ionization pulses.
+
+75. Which nuclear process powers the Sun?
+a) Fission of U-235  
+*b) Fusion of hydrogen isotopes  
+c) Fusion of uranium isotopes  
+d) Chain reaction of neutrons  
+... The Sun’s energy comes from hydrogen nuclei fusing into helium.
+
+76. Which radioactive gas can accumulate in homes and increase lung cancer risk?
+*a) Radon-222  
+b) Krypton-85  
+c) Xenon-133  
+d) Carbon-14  
+... Radon-222 is a naturally occurring radioactive gas that can accumulate indoors.
+
+77. A sample of a radioisotope has a half-life of 10 years. If the initial mass is 80 g, how much remains after 30 years?
+a) 40 g  
+b) 20 g  
+*c) 10 g  
+d) 5 g  
+... 30 years = 3 half-lives → 80 g → 40 g → 20 g → 10 g.
+
+104. The use of enriched uranium-235 isotope is a good example of a fusion chain reaction
+a) true
+*b) false
+
+78. Convert 2.0 Gy of radiation dose into rad
+*a) 200 rad  
+b) 20 rad  
+c) 2 rad  
+d) 0.02 rad  
+... 1 Gy = 100 rad → 2 Gy = 200 rad.
+
+79. If a tissue absorbs 0.5 Gy of radiation with RBE = 2, what is the dose in sieverts (Sv)?
+a) 0.25 Sv  
+b) 0.5 Sv  
+*c) 1.0 Sv  
+d) 2.0 Sv  
+... Sv = RBE \times Gy = 2 \times 0.5 = 1.0 Sv.
+
+80. Carbon-14 has a half-life of 5730 years. A fossil bone contains 25% of its original C-14. Approximately how old is the fossil?
+a) 5730 years  
+*b) 11,460 years  
+c) 17,190 years  
+d) 22,920 years  
+... 25% = 2 half-lives → 2 \times 5730 = 11,460 years.
+
+
+23. Which particle has the **highest penetrating power**?  
+a) alpha  
+b) beta  
+*c) gamma  
+d) neutron  
+
+
+24. Which decay mode increases the atomic number by 1?  
+a) alpha  
+*b) beta  
+c) gamma  
+d) positron emission  
+
+
+25. A radioactive isotope has a half‑life of 10 years.  If you start with 80 g, how much remains after 30 years?  
+a) 10 g  
+*b) 20 g  
+c) 40 g  
+d) 80 g  
+
+
+22. Which radiation has the **lowest penetrating power**?  
+*a) alpha  
+b) beta  
+c) gamma  
+d) neutron  
+
+
+23. Which decay mode decreases the atomic number by 2?  
+*a) alpha  
+b) beta  
+c) gamma  
+d) positron emission  
+
+101. The sun generates energy through atomic fission reactions
+a) true
+*b) false
+
+24. A radioactive isotope has a half‑life of 5 years.  How much remains after 15 years if you start with 40 g?  
+*a) 5 g  
+b) 10 g  
+c) 20 g  
+d) 40 g  
+
+
+25. Which unit measures **biological damage** from radiation?  
+a) becquerel (Bq)  
+b) curie (Ci)  
+c) gray (Gy)  
+*d) sievert (Sv)  
+
+22. Which radiation has the **highest ionizing power**?  
+a) alpha  
+b) beta  
+*c) gamma  
+d) neutron  
+
+
+23. Which decay mode does **not** change the atomic number?  
+a) alpha  
+b) beta  
+*c) gamma  
+d) positron emission  
+
+
+24. A radioactive isotope has a half‑life of 12 years.  How much remains after 36 years if you start with 64 g?  
+*a) 8 g  
+b) 16 g  
+c) 32 g  
+d) 64 g  
+
+
+25. Which unit measures **radioactivity (decays per second)**?  
+a) sievert (Sv)  
+b) gray (Gy)  
+*c) becquerel (Bq)  
+d) rem  
+
+29. Alpha particles have low penetration but high ionizing power.  
+*a) true
+b) false
+
+30. In beta decay, the atomic number of the nucleus increases by one.  
+*a) true
+b) false
+
+
+102. Nuclear power plants generate energy through atomic fission reactions
+*a) true
+b) false
+

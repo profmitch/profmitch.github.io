@@ -1,0 +1,1367 @@
+#NOshuffle
+Quiz title: Midterm Examination #3 - Gases, Solutions, Chemical reactions
+Quiz description: Use the Green and Yellow Sheets as references. Be careful of precision (significant digits, decimal places) in operations
+shuffle answers: false
+
+174. A 1.00 mol sample of Gas X at 25°C and 1.0 atm has a volume of 22.4 L. If pressure is changed to 85.7 mmHg, how many milliliters does the gas occupy?
+-  Use Boyle's Law
+a) 22,400 mL 
+*b) 198,700 mL
+c) 1,000 mL
+d) 85.7 mL
+e) 760 mL
+
+176. The pressure of Gas X is increased to 25.3 atm. What is the temperature in degrees Celsius?
+-  Use Gay-Lussac's Law
+a) 273°C
+b) 1,000°C
+*c) 7,270°C
+d) 300°C
+e) 25.3°C
+
+177. Gas X is heated to 50°C, what is the volume in liters?
+-  Use Charle's Law
+a) 11.2 L
+b) 20.7 L
+c) 22.4 L
+*d) 24.3 L
+e) 44.8 L
+
+1. Which of these is LEAST LIKELY to dissolve in water?
+a) \\(\ce{CH3CH2OH}\\) (ethanol)
+*b) \\(\ce{CH3CH2CH2CH3}\\) (n-butane)
+c) \\(\ce{C6H_{12}O6}\\) (glucose)
+d) \\(\ce{NH3}\\) (ammonia)
+
+2. Which of these describes the units of **molarity**?
+a) Number of grams per mole per liter (g/mol/L)
+b) Number of liters per mole
+*c) Number of moles per liter
+d) Number of mole-grams per liter
+e) Number of gram-moles per liter
+
+3. Zinc sulfate is to be dissolved in water. What is its chemical formula?
+*a) \\(\ce{ZnSO4}\\)
+b) \\(\ce{ZnSO3}\\)
+c) \\(\ce{ZnS}\\)
+d) \\(\ce{ZrSO3}\\)
+e) \\(\ce{ZrSO4}\\)
+
+4. What is the molar mass of zinc sulfate?
+*a) 161.45 g/mol
+b) 145.45 g/mol
+c) 97.45 g/mol
+d) 187.28 g/mol
+
+5. If zinc sulfate has a solubility of 57.7 g per 100 g water at 25°C, what is the molarity of a zinc sulfate solution at saturation at that temperature? Assume that the solute does not contribute to the volume and only the solvent does.
+a) 0.357 M
+b) 1.61 M
+*c) 3.57 M
+d) 5.77 M
+e) 0.100 M
+
+6. A sample of gas occupies 6.0 L at 750 mmHg. What volume will it occupy at 500 mmHg, assuming constant temperature?
+a) 4.0 L
+b) 6.0 L
+*c) 9.0 L
+d) 12.0 L
+e) 7.5 L
+
+7. A gas has a volume of 0.025 L at 300 K. What will its volume in milliliters be at 360 K if pressure and moles remain constant?
+a) 25.0 mL
+b) 3.00 L
+*c) 30.0 mL
+d) 36.0 mL
+e) 0.030 mL
+
+8. Which of these will dissolve in water: (i) A polar molecule with hydrogen bonding; (ii) a non-polar molecule; (iii) an ionic compound
+a) (i)
+b) (ii)
+c) (iii)
+d) (i), (ii)
+*e) (i), (iii)
+
+9. Which of these will be soluble in water? (i) \\(\ce{NaCl}\\), (ii) \\(\ce{BaCO_3}\\), (iii) \\(\ce{Al_2S_3}\\)
+*a) (i)
+b) (ii)
+c) (iii)
+d) (i), (ii)
+e) all of them
+
+10. Which of these will be soluble in water? (i) \\(\ce{Al(NO_3)_3}\\), (ii) \\(\ce{(NH_4)_3PO_4}\\), (iii) \\(\ce{MgF_2}\\)
+a) (i)
+b) (ii)
+c) (iii)
+d) (i), (ii)
+*e) all of them
+
+11. Which of these will be soluble in water? (i) \\(\ce{Al(OH)_3}\\), (ii) \\(\ce{ZnO}\\), (iii) \\(\ce{NaF}\\)
+a) (i)
+b) (ii)
+*c) (iii)
+d) (i), (ii)
+e) all of them
+
+12. Which of these will be soluble in water? (i) \\(\ce{CaC_2O_4}\\), (ii) \\(\ce{BaO}\\), (iii) \\(\ce{BaSO_4}\\)
+a) (i)
+*b) (ii)
+c) (iii)
+d) (i), (ii)
+e) (ii), (iii)
+
+13. Which of these is a strong electrolyte? (i) \\(\ce{NaCl}\\), (ii) \\(\ce{NaOH}\\), (iii) \\(\ce{CH_3OH}\\)
+a) (i)
+b) (ii)
+c) (iii)
+*d) (i), (ii)
+e) all of them
+
+14. Which of these is a weak electrolyte? (i) \\(\ce{HCl}\\), (ii) \\(\ce{NaOH}\\), (iii) \\(\ce{CH_3COOH}\\) (acetic acid)
+a) (i)
+b) (ii)
+*c) (iii)
+d) all of them
+e) none of them
+
+15. A solution of \\(\ce{SrCl_2}\\) is 0.664 M. What are the molarities of \\(\ce{Sr^{2+}}\\) and \\(\ce{Cl-}\\)?
+a) 0.332 M \\(\ce{Sr2+}\), 0.332 M \\(\ce{Cl-}\)
+b) 0.664 M \\(\ce{Sr2+}\), 0.664 M \\(\ce{Cl-}\)
+*c) 0.664 M \\(\ce{Sr2+}\), 1.33 M \\(\ce{Cl-}\)
+d) 1.33 M \\(\ce{Sr2+}\), 1.33 M \\(\ce{Cl-}\)
+
+16. A 50 mL solution of 0.500 M NaCl gets 200.0 mL of distilled water added to it. What is the concentration of NaCl now?
+a) 0.0500 M NaCl
+b) 0.0200 M NaCl
+*c) 0.100 M NaCl
+d) 0.250 M NaCl
+e) 0.500 M NaCl
+
+17. 80.00 g NaOH is dissolved in 1.00 L water. What is the molarity of the solution?
+a) 0.100 M NaOH
+b) 0.200 M NaOH
+c) 0.500 M NaOH
+d) 1.00 M NaOH
+*e) 2.00 M NaOH
+
+18. A 50.0 mL solution of 0.75 M sulfuric acid is has to be diluted to 0.50 M sulfuric acid. What will be the final volume?
+a) \\(50.\\) mL
+*b) \\(75.\\) mL
+c) 500 mL
+d) 750 mL
+e) 5 L
+
+19. If a 1.00 L 0.00555 M LiOH solution is boiled down to 164 mL, what is the new concentration?
+a) 0.00555 M LiOH
+b) 0.0111 M LiOH
+c) 0.0155 M LiOH
+*d) 0.0338 M LiOH
+e) 0.0555 M LiOH
+
+20. How much water is to be added to 100.0 mL of a 0.375 M \\(\ce{FeCl_3}\\) to reduce its concentration to 0.100 M?
+a) 0.00555 M LiOH
+b) 0.0111 M LiOH
+c) 0.0155 M LiOH
+*d) 0.0338 M LiOH
+e) 0.0555 M LiOH
+
+21. Determine the number of moles solute in 4.65 L of 0.600 M \\(\ce{CaCl_2}\\)
+a) 0.279 mol
+*b) 2.79 mol
+c) 7.75 mol
+d) 0.600 mol
+e) 4.65 mol
+
+22. How many grams of \\(\ce{MgSO_4}\\) are necessary to prepare a 500.0 mL solution of 2.00 M \\(\ce{MgSO_4}\\)?
+a) 60.2 g
+*b) 120.4 g
+c) 240.7 g
+d) 100.0 g
+e) 80.3 g
+
+23. How many moles is 125.0 g \\(\ce{Zn(NO_3)_2}\\)?
+a) 0.330 mol
+*b) 0.660 mol
+c) 1.25 mol 
+d) 2.00 mol
+e) 0.189 mol
+
+24. 90.5 g of \\(\ce{CoCl_2}\\) is dissolved in 310.0 mL water. What is the concentration?
+a) 0.70 M
+b) 1.50 M
+*c) 2.25 M
+d) 3.00 M
+e) 0.31 M
+
+25. 50 mL of 0.125 M KOH is to be neutralized with 0.500 M HCl. What volume HCl is needed?
+a) 6.25 mL
+b) 25.0 mL
+*c) 12.5 mL
+d) 50.0 mL
+e) 100.0 mL
+
+26. Which of the following statements best describes a gas at the molecular level?
+a) Molecules are tightly packed and vibrate in place
+b) Molecules are loosely arranged and slide past each other
+*c) Molecules are far apart and move randomly at high speeds
+d) Molecules are fixed in a rigid lattice
+e) Molecules are bonded in pairs and rotate slowly
+
+27. What does Dalton’s Law of Partial Pressures state?
+a) The pressure of a gas is inversely proportional to its volume
+*b) The total pressure of a gas mixture equals the sum of the partial pressures of each gas
+c) The pressure of a gas increases with temperature
+d) The pressure of a gas depends only on its molar mass
+e) The pressure of a gas is constant at STP
+
+28. Which condition defines Standard Temperature and Pressure (STP)?
+a) 0°C and 1 atm
+b) 25°C and 1 atm
+c) 273 K and 760 mmHg
+*d) Both (a) and (c)
+e) None of the above
+
+29. What type of solute dissolves best in a polar solvent like water?
+a) Nonpolar molecules
+*b) Ionic compounds
+c) Noble gases
+d) Metallic solids
+e) Hydrocarbons (compounds with nothing but -C-H bonds)
+
+30. What is the primary reason ionic compounds conduct electricity in aqueous solution?
+a) They form covalent bonds with water
+b) They release electrons into the solution
+*c) They dissociate into mobile ions
+d) They increase the temperature of the solution
+e) They form precipitates
+
+31. Which statement correctly describes a saturated solution?
+a) It contains no solute
+b) It can dissolve more solute
+*c) It has reached the maximum solute concentration at a given temperature
+d) It contains only solvent
+e) It is always a solid
+
+32. What happens to the solubility of most gases in water as temperature increases?
+a) It increases
+*b) It decreases
+c) It remains constant
+d) It fluctuates randomly
+e) It depends on pressure only
+
+33. Which of the following best describes a strong electrolyte?
+a) A compound that dissolves but does not ionize
+b) A compound that partially ionizes in solution
+*c) A compound that fully dissociates into ions in solution
+d) A compound that forms a precipitate
+e) A compound that reacts with water to form a gas
+
+34. What is the role of a sacrificial anode in corrosion prevention?
+a) It strengthens steel structures
+b) It absorbs water to prevent rust
+*c) It oxidizes more easily than iron, protecting it from corrosion
+d) It reduces oxygen concentration in water
+e) It forms a protective coating over iron
+
+35. Which of the following is a correct statement about oxidation?
+a) It involves gaining electrons
+b) It occurs only in acidic solutions
+*c) It is the loss of electrons
+d) It always produces a gas
+e) It is unrelated to electronegativity
+
+36. What is the primary factor that determines whether a solute will dissolve in a solvent?
+a) The solute’s color
+b) The solvent’s boiling point
+*c) The polarity of both solute and solvent
+d) The solute’s melting point
+e) The solvent’s density
+
+37. Which of the following compounds is most likely to form ions in aqueous solution?
+a) Glucose (\\(\ce{C6H12O6}\\))
+b) Ethanol (\\(\ce{C2H5OH}\\))
+*c) Sodium chloride (\\(\ce{NaCl}\\))
+d) Methane (\\(\ce{CH4}\\))
+e) Acetone (\\(\ce{CH3(C=O)CH3}\\))
+
+38. What is the effect of adding a solute to a solvent on its boiling point?
+a) It lowers the boiling point
+*b) It raises the boiling point
+c) It has no effect
+d) It depends on the solute’s color
+e) It makes the solvent evaporate faster
+
+39. Which solution has the highest effective particle **molality**?
+a) 1.0 m NaCl
+b) 1.0 m glucose
+*c) 1.0 m \\(\ce{CaCl_2}\\)
+d) 1.0 m ethanol
+e) 1.0 m \\(\ce{MgSO_4}\\)
+
+40. What is the net ionic equation for the reaction between HCl and NaOH?
+a) \\(\ce{HCl + NaOH -> NaCl + H2O}\\)
+*b) \\(\ce{H^+ + OH^- -> H2O}\\)
+c) \\(\ce{Na^+ + Cl^- -> NaCl}\\)
+d) \\(\ce{H^+ + Cl^- -> HCl}\\)
+e) \\(\ce{Na^+ + OH^- -> NaOH}\\)
+
+41. Which of the following reactions is a double replacement reaction?
+a) \\(\ce{Zn + CuSO4 -> Cu + ZnSO4}\\)
+*b) \\(\ce{HCl + NaOH -> NaCl + H2O}\\)
+c) \\(\ce{CH4 + O2 -> CO2 + H2O}\\)
+d) \\(\ce{CaCO3 -> CaO +  CO2}\\)
+e) \\(\ce{2 Mg + O2 -> 2 MgO}\\)
+
+42. What is the role of water molecules in dissolving ionic compounds?
+a) They break covalent bonds
+b) They form hydrogen bonds with ions
+*c) They surround ions via ion-dipole interactions
+d) They evaporate quickly
+e) They reduce the solute’s temperature
+
+43. Which of the following best describes a precipitate?
+a) A gas formed in a reaction
+b) A soluble compound
+*c) An insoluble solid formed in solution
+d) A weak acid
+e) A strong base
+
+44. What type of reaction is represented by:  \\(\ce{2 KClO_3 -> 2 KCl + 3 O_2}\\)
+a) Combination
+b) Single replacement
+*c) Decomposition
+d) Double replacement
+e) Combustion
+
+45. Which of the following statements about freezing point depression is true?
+a) It occurs only with nonpolar solutes
+b) It is independent of solute concentration
+*c) It increases with the number of dissolved particles
+d) It raises the freezing point
+e) It only applies to gases
+
+61. Why does a balloon shrink when placed in a freezer?
+a) The gas molecules escape
+b) The pressure inside increases
+*c) The temperature drop reduces molecular motion, decreasing volume
+d) The balloon material contracts
+e) The gas condenses into a liquid
+
+62. Which of the following best explains why ionic compounds dissolve in water?
+a) Water molecules form covalent bonds with ions
+b) Water’s nonpolar nature attracts ions
+*c) Water’s polarity allows ion-dipole interactions
+d) Water molecules donate electrons to ions
+e) Water molecules break ionic bonds by hydrolysis
+
+63. What distinguishes a weak electrolyte from a strong one?
+a) Weak electrolytes do not dissolve in water
+b) Weak electrolytes conduct electricity better
+*c) Weak electrolytes partially dissociate into ions
+d) Weak electrolytes are always organic compounds
+e) Weak electrolytes form precipitates
+
+64. Which of the following is true about the boiling point of a solution compared to pure solvent?
+a) It is lower due to solute interference
+b) It is higher due to increased vapor pressure
+*c) It is higher due to solute particles reducing vapor pressure
+d) It remains unchanged
+e) It depends only on the solute’s identity
+
+65. What is the main reason gases are compressible?
+a) Gas molecules are heavy
+b) Gas molecules are close together
+*c) Gas molecules occupy negligible volume and are far apart
+d) Gas molecules are bonded
+e) Gas molecules are polar
+
+66. Which of the following reactions is classified as a combustion reaction?
+a) \\(\ce{2 Na + Cl2 -> 2 NaCl}\\)
+*b) \\(\ce{CH4 + 2 O2 ->  CO2  + 2 H2O}\\)
+c) \\(\ce{CaCO3 -> CaO +  CO2} \\)
+d) \\(\ce{HCl + NaOH -> NaCl + H2O}\\)
+e) \\(\ce{Zn + CuSO4 -> Cu + ZnSO4}\\)
+
+67. What is the role of spectator ions in a chemical reaction?
+a) They form precipitates
+b) They participate in redox reactions
+*c) They remain unchanged and do not participate
+d) They neutralize acids
+e) They change oxidation states
+
+68. Which statement best describes **molality**?
+a) Moles of solute per liter of solution
+*b) Moles of solute per kilogram of solvent
+c) Grams of solute per liter of solution
+d) Moles of solvent per liter of solution
+e) Moles of solute per milliliter of solvent
+
+69. What does the equation \\(C_1V_1 = C_2V_2\\) represent?
+a) Gas expansion
+b) Solubility equilibrium
+*c) Dilution of solutions
+d) Freezing point depression
+e) Electrolyte strength
+
+70. Why do ionic compounds affect colligative properties more than molecular compounds?
+a) They are heavier
+b) They dissolve more slowly
+*c) They produce more particles in solution
+d) They are less soluble
+e) They evaporate faster
+
+71. Which of the following best describes the behavior of gas molecules at STP?
+a) They are tightly packed and vibrate in place
+b) They move slowly and form clusters
+*c) They are far apart and move randomly
+d) They are bonded to each other
+e) They are stationary unless heated
+
+72. What happens to the pressure of a gas if its volume is halved at constant temperature?
+*a) It doubles
+b) It halves
+c) It stays the same
+d) It becomes zero
+e) It quadruples
+
+73. Which of the following compounds is a strong electrolyte?
+a) Glucose
+b) Ethanol
+*c) NaCl
+d)  \\(  \ce{CO2}  \\)
+e)  \\(  \ce{CH4}  \\)
+
+74. What is the molarity of a solution containing 1.00 mol of solute in 1.00 kg of solvent?
+a) 1.00 M
+b) 0.50 M
+c) 1.00 m
+d) 0.50 m
+*e) Cannot be determined
+
+75. Which of the following correctly describes a net ionic equation?
+a) It includes all ions present in solution
+*b) It shows only the ions that change during the reaction
+c) It includes spectator ions
+d) It shows the molecular formula of all reactants
+e) It omits water
+
+76. What is the oxidation number of oxygen in most compounds?
+a) +2
+b) –1
+*c) –2
+d) 0
+e) +1
+
+77. Which statement about boiling point elevation is correct?
+a) It depends on the identity of the solute
+b) It decreases with more solute particles
+*c) It increases with the number of dissolved particles
+d) It only applies to ionic compounds
+e) It is unrelated to concentration
+
+78. What is the correct interpretation of the equation *PV = nRT*?
+*a) Pressure and volume are inversely related
+b) Temperature and pressure are unrelated
+c) Volume and moles are inversely related
+d) Pressure and temperature are directly related
+e) Volume and temperature are inversely related
+
+79. Which of the following is true about a saturated solution?
+a) It can still dissolve more solute
+b) It contains only solvent
+*c) It has reached the maximum solute concentration
+d) It is always a solid
+e) It is unstable
+
+80. What happens when a metal strip is placed in a solution and a more reactive metal is present?
+a) No reaction occurs
+*b) The less reactive metal dissolves
+c) The more reactive metal precipitates
+d) The solution becomes neutral
+e) The metal strip gains electrons
+
+81. What is the volume of 0.500 mol of gas at STP?
+*a) 11.2 L
+b) 22.4 L
+c) 44.8 L
+d) 0.500 L
+e) 1.00 L
+
+82. How many moles are in 25.0 g of NaCl? (Molar mass = 58.44 g/mol)
+a) 2.34 mol
+*b) 0.427 mol
+c) 1.00 mol
+d) 0.234 mol
+e) 0.584 mol
+
+83. A solution contains 0.250 mol of solute in 500.0 mL of solution. What is the molarity?
+a) 0.125 M
+b) 2.00 M
+*c) 0.500 M
+d) 0.250 M
+e) 1.00 M
+
+84. What is the pressure exerted by 2.00 mol of gas in a 10.0 L container at 300 K? (Use *R* = 0.082058)
+*a) 4.92 atm
+b) 0.492 atm
+c) 0.820 atm
+d) 49.2 atm
+e) 1.64 atm
+
+85. What is the mass of 0.750 mol of \\(\ce{CaCl2}\\)? (Molar mass = 110.98 g/mol)
+*a) 83.2 g
+b) 110.98 g
+c) 0.750 g
+d) 147.97 g
+e) 55.49 g
+
+86. A student dilutes 100.0 mL of 2.00 M solution to 500.0 mL. What is the final concentration?
+*a) 0.400 M
+b) 1.00 M
+c) 0.500 M
+d) 2.00 M
+e) 5.00 M
+
+87. What is the freezing point depression for a 1.00 m NaCl solution? (\\( k_f = 1.86°\text{C·kg/mol} \\))
+a) 1.86°C
+*b) 3.72°C
+c) 0.93°C
+d) 2.79°C
+e) 0.00°C
+
+88. What is the partial pressure of \\(  \ce{O2}  \\) in a mixture where total pressure is 760 mmHg and \\(  \ce{O2}  \\) makes up 21% of the mixture?
+*a) 159.6 mmHg
+b) 21.0 mmHg
+c) 738.9 mmHg
+d) 210 mmHg
+e) 600 mmHg
+
+89. How many particles are in 0.500 mol of a compound?
+a) \( 3.01 \times 10^{23} \)
+b) \( 6.02 \times 10^{23} \)
+c) \( 1.00 \times 10^{23} \)
+d) \( 1.20 \times 10^{24} \)
+*e) \( 2.50 \times 10^{23} \)
+
+90. What is the **molality** of a solution containing 0.200 mol of solute in 400.0 g of water?
+*a) 0.500 m
+b) 0.800 m
+c) 0.200 m
+d) 2.00 m
+e) 0.050 m
+
+91. Which of the following is a decomposition reaction?
+a) \\(\ce{H2 + Cl2 -> 2 HCl}\\)
+*b) \\(\ce{CaCO3 -> CaO + CO2} \\)
+c) \\(\ce{NaOH + HCl -> NaCl + H2O}\\)
+d) \\(\ce{Zn + CuSO4 -> Cu + ZnSO4} \\)
+e) \\(\ce{CH4 + 2 O2 -> CO2 + 2 H2O} \\)
+
+92. What type of reaction is represented by:  \\(\ce{2 K + Cl2 -> 2 KCl} \\)
+*a) Combination
+b) Decomposition
+c) Single replacement
+d) Double replacement
+e) Combustion
+
+93. Which reaction is a single replacement?
+a) \\(\ce{BaCl2 + Na2SO4 -> BaSO4 + 2 NaCl}\\)
+b) \\(\ce{2 Mg + O2 -> 2 MgO}\\)
+*c) \\(\ce{Zn + 2HCl -> ZnCl2 + H2}\\)
+d) \\(\ce{H_O -> H2 + O2}\\)
+e)  \\(\ce{CH4 + O2 -> CO2 + H2O}\\)
+
+94. What type of reaction is:  \\(\ce{AgNO₃ + NaCl -> AgCl + NaNO3}\\)
+a) Combination
+b) Decomposition
+c) Single replacement
+*d) Double replacement
+e) Combustion
+
+95. Which of the following reactions is a combustion reaction?
+*a) \\(\ce{C3H8 + 5 O2 -> 3 CO2 + 4 H2O}\\)
+b) \\(\ce{Na + H2O -> NaOH + H2}\\)
+c) \\(\ce{CaCO3 -> CaO +  CO2}\\)
+d) \\(\ce{HCl + NaOH -> NaCl + H2O}\\)
+e) \\(\ce{Fe + CuSO_4 -> Cu + FeSO_4}\\)
+
+96. Which reaction is an example of acid-base neutralization?
+a) \\(\ce{H2 + Cl2 -> 2 HCl}\\)
+*b) \\(\ce{HNO3 + KOH -> KNO₃ + H_2O}\\)
+c) \\(\ce{Ca + 2H_2O -> Ca(OH)_2 + H_2}\\)
+d) \\(\ce{NH_4Cl -> NH₃ + HCl}\\)
+e) \\(\ce{Na + Cl_2 -> NaCl}\\)
+
+97. What type of reaction is:  \\(\ce{2Al + 3 CuCl2 -> 3 Cu + 2 AlCl3}\\)
+a) Combination
+b) Decomposition
+*c) Single replacement
+d) Double replacement
+e) Combustion
+
+98. Which of the following reactions produces a precipitate?
+a) \\(\ce{NaOH + HCl -> NaCl + H_2O}\\)
+*b) \\(\ce{BaCl_2 + Na_2SO_4 -> BaSO_4 + 2NaCl}\\)
+c)  \\(\ce{CH4 + O2 -> CO2 + H_2O}\\)
+d) \\(\ce{Zn + HCl -> ZnCl_2 + H_2}\\)
+e) \\(\ce{CaCO_3 -> CaO +  CO2} \\)
+
+99. Which reaction is a gas-evolving reaction?
+*a) \\(\ce{Na_2CO₃ + HCl ->  CO2 + H_2O + NaCl}\\)
+b) \\(\ce{NaOH + HCl -> NaCl + H_2O}\\)
+c) \\(\ce{Ca + Cl2 -> CaCl_2}\\)
+d) \\(\ce{NH_4NO₃ -> N2 + H_2O}\\)
+e) \\(\ce{CuSO_4 + Zn -> ZnSO_4 + Cu}\\)
+
+100. What type of reaction is:  \\(\ce{2 Fe + 3 Cl_2 -> 2 FeCl3}\\)
+*a) Combination
+b) Decomposition
+c) Single replacement
+d) Double replacement
+e) Combustion
+
+101. Which of the following compounds is always soluble in water?
+a) \\(\ce{AgCl}\\)
+b) \\(\ce{PbSO_4}\\)
+*c) \\(\ce{NaNO3}\\)
+d) \\(\ce{BaSO_4}\\)
+e) \\(\ce{CaCO_3}\\)
+
+102. Which compound will form a precipitate when mixed with \\(\ce{Na2SO4}\\)?
+a) \\(\ce{KCl}\\)
+*b) \\(\ce{Ba(NO3)2}\\)
+c) \\(\ce{NH_4OH}\\)
+d) \\(\ce{NaNO3}\\)
+e) \\(\ce{Li2CO3}\\)
+
+103. Which of the following ions typically forms insoluble compounds with \\(\ce{Cl^-}\\)?
+a) \\(\ce{Na^+}\\)
+b) \\(\ce{K+}\\)
+*c) \\(\ce{Ag+}\\)
+d) \\(\ce{NH4+}\\)
+e) \\(\ce{Li+}\\)
+
+104. What happens when solutions of \\(\ce{Pb(NO3)2}\\) and KI are mixed?
+a) No reaction occurs
+b) A gas is formed
+*c) A precipitate of \\(\ce{PbI2}\\) forms
+d) The solution becomes acidic
+e) The solution turns basic
+
+105. Which of the following compounds is soluble in water?
+a) \\(\ce{CaCO3}\\)
+b) \\(\ce{AgBr}\\)
+*c) \\(\ce{Na2SO4}\\)
+d) \\(\ce{PbCl2}\\)
+e) \\(\ce{BaSO4}\\)
+
+106. Which rule explains why \\(\ce{NH4Cl}\\) is soluble in water?
+a) All chlorides are insoluble
+*b) Ammonium salts are always soluble
+c) Only transition metal salts are soluble
+d) Chlorides are soluble except with alkali metals
+e) Nitrates are always insoluble
+
+107. Which of the following combinations will produce a precipitate?
+a) \\(\ce{NaOH + HNO3}\\)
+*b) \\(\ce{K2SO4 + BaCl2}\\)
+c) \\(\ce{NH4NO3 + NaCl}\\)
+d) \\(\ce{LiBr + Na2CO3}\\)
+e) \\(\ce{NaCl + KNO3}\\)
+
+108. Which of the following is a soluble hydroxide?
+a) \\(\ce{Fe(OH)_2}\\)
+b) \\(\ce{Mg(OH)_2}\\)
+*c) \\(\ce{NaOH}\\)
+d) \\(\ce{Al(OH)_3}\\)
+e) \\(\ce{Cu(OH)_2}\\)
+
+109. Which of the following compounds is insoluble in water?
+a) \\(\ce{KNO3}\\)
+b) \\(\ce{NH4Cl}\\)
+c) \\(\ce{Na2CO3}\\)
+*d) \\(\ce{Ag2SO4}\\)
+e) \\(\ce{LiOH}\\)
+
+110. What is the solubility behavior of most carbonates (\\(\ce{CO3^{2-}}\\))?
+a) Always soluble
+b) Soluble only with transition metals
+*c) Insoluble except with alkali metals and NH4+
+d) Soluble only in acidic solutions
+e) Insoluble unless heated
+
+111. What is the balanced form of:  \\(\ce{__ H2 + __ O2 -> __ H2O}\\)
+a) 1, 1, 1
+*b) 2, 1, 2
+c) 2, 2, 2
+d) 1, 2, 2
+e) 1, 1, 2
+
+112. Which coefficient balances the equation:  \\(\ce{__ Al + __ Cl_2 -> __ AlCl3}\\)
+a) 1, 1, 1
+*b) 2, 3, 2
+c) 1, 3, 1
+d) 2, 2, 2
+e) 3, 2, 3
+
+113. What is the balanced form of: \\(\ce{__ Fe + __ O2 -> __ Fe2O3}\\)
+a) 2, 3, 2
+*b) 4, 3, 2
+c) 3, 2, 1
+d) 1, 1, 1
+e) 2, 2, 2
+
+114. Which of the following equations is correctly balanced?
+a) \\(\ce{Na + Cl2 -> NaCl}\\)
+*b) \\(\ce{2Na + Cl2 -> 2NaCl}\\)
+c) \\(\ce{Na2 + Cl2 -> 2NaCl}\\)
+d) \\(\ce{Na + 2Cl -> NaCl2}\\)
+e) \\(\ce{2Na + 2Cl -> 2NaCl}\\)
+
+115. What is the balanced form of: \\(\ce{__ C₃H₈ + __ O2 -> __  CO2 + __ H2O}\\)
+a) 1, 3, 3, 4
+*b) 1, 5, 3, 4
+c) 2, 7, 6, 8
+d) 1, 4, 3, 3
+e) 1, 2, 2, 2
+
+116. What is the purpose of balancing a chemical equation?
+a) To make the reaction faster
+b) To ensure equal mass of reactants and products
+*c) To follow the law of conservation of mass
+d) To reduce the number of reactants
+e) To simplify the reaction
+
+117. Which of the following is the balanced equation for: \\(\ce{__ Zn + __ HCl -> __ ZnCl_2 + __ H_2}\\)
+*a) 1, 2, 1, 1
+b) 2, 2, 2, 1
+c) 1, 1, 1, 2
+d) 2, 1, 2, 1
+e) 1, 2, 2, 1
+
+118. What is the balanced form of: \\(\ce{__ Ca(OH)2 + __ H3PO4 -> __ Ca3(PO4)2 + __ H2O}\\)
+*a) 3, 2, 1, 6
+b) 2, 3, 1, 6
+c) 1, 1, 1, 2
+d) 3, 1, 2, 3
+e) 1, 2, 1, 3
+
+119. Which of the following is a correct strategy for balancing equations?
+a) Balance hydrogen first
+b) Balance oxygen last
+*c) Balance polyatomic ions as a unit
+d) Always start with water
+e) Use fractional coefficients
+
+120. What is the balanced form of:  \\(\ce{__ NH3 + __ O2 -> __ NO + __ H2O}\\)
+a) 2, 3, 2, 3
+*b) 4, 3, 4, 6
+c) 1, 1, 1, 1
+d) 2, 2, 2, 2
+e) 3, 2, 3, 3
+
+122. What is the oxidation number of hydrogen in \\(\ce{H2O}\\)?
+a) –1
+b) 0
+*c) +1
+d) +2
+e) –2
+
+123. What is the oxidation number of sulfur in \\(\ce{H_2SO_4}\\)?
+a) +4
+*b) +6
+c) –2
+d) 0
+e) +2
+
+124. What is the oxidation number of chlorine in \\(\ce{NaCl}\\)?
+a) +1
+*b) –1
+c) 0
+d) –2
+e) +2
+
+125. What is the oxidation number of nitrogen in \\(\ce{NO3-}\\)?
+a) +3
+*b) +5
+c) –1
+d) 0
+e) +1
+
+126. What is the oxidation number of Mn in \\(\ce{KMnO4}\\)?
+a) +2
+b) +4
+*c) +7
+d) –1
+e) +3
+
+127. What is the oxidation number of each atom in elemental \\(\ce{O2}\\)?
+a) –2
+*b) 0
+c) +2
+d) –1
+e) +1
+
+128. What is the oxidation number of Fe in \\(\ce{Fe2O3}\\)?
+a) +2
+*b) +3
+c) +1
+d) –2
+e) 0
+
+129. What is the oxidation number of Cr in \\(\ce{Cr2O7^{2-}}\\)?
+a) +3
+*b) +6
+c) +7
+d) +2
+e) –2
+
+130. What is the oxidation number of carbon in  \\(\ce{CO2}\\)?
+a) +2
+*b) +4
+c) –4
+d) 0
+e) –2
+
+131. What is a half-reaction?
+a) A reaction that occurs in half the time
+b) A reaction that involves only one reactant
+*c) A reaction showing either oxidation or reduction separately
+d) A reaction that produces half the expected products
+e) A reaction that occurs only in acidic solution
+
+132. Which of the following represents an oxidation half-reaction?
+a) \\(\ce{Fe^{3+} + 3 e^- -> Fe}\\)
+*b) \\(\ce{Cu -> Cu^{2+} + 2 e^-}\\)
+c) \\(\ce{Cl_2 + 2 e^- -> 2 Cl^-}\\)
+d) \\(\ce{H^+ + e^- -> H}\\)
+e) \\(\ce{O2  + 4 e^- -> 2 O²^-}\\)
+
+133. Which of the following represents a reduction half-reaction?
+a) \\(\ce{Zn -> Zn^{2+} + 2e^-}\\)
+b) \\(\ce{Fe -> Fe^{3+} + 3e^-}\\)
+*c) \\(\ce{Cu^{2+} + 2e^- -> Cu}\\)
+d) \\(\ce{Cl^- -> Cl_2 + 2 e^-}\\)
+e) \\(\ce{H_2 -> 2H^+ + 2 e^-}\\)
+
+134. In the redox reaction: \\(\ce{Zn + Cu^{2+} -> Zn^{2+} + Cu}\\), which species is oxidized?
+*a) \\(\ce{Zn}\\)
+b) \\(\ce{Cu^{2+}}\\)
+c) \\(\ce{Cu}\\)
+d) \\(\ce{Zn^{2+}}\\)
+e) \\(\ce{H2O}\\)
+
+135. In the same reaction, which species is reduced?
+a) \\(\ce{Zn}\\)
+*b) \\(\ce{Cu^{2+}}\\)
+c) \\(\ce{Cu}\\)
+d) \\(\ce{Zn^{2+}}\\)
+e) \\(\ce{O_2}\\)
+
+136. What is the electron change in the half-reaction:  \\(\ce{Fe^{2+} -> Fe^{3+} + e^-}\\)
+a) Gain of 1 electron
+*b) Loss of 1 electron
+c) Gain of 2 electrons
+d) Loss of 2 electrons
+e) No electron change
+
+137. Which of the following is true about redox reactions?
+a) Only oxidation occurs
+b) Only reduction occurs
+*c) Oxidation and reduction occur simultaneously
+d) No electrons are transferred
+e) They only occur in basic solutions
+
+138. What is the reducing agent in the reaction: \\(\ce{Mg + 2 HCl -> MgCl2 + H2}\\)
+*a) \\(\ce{Mg}\\)
+b) \\(\ce{HCl}\\)
+c) \\(\ce{MgCl2}\\)
+d) \\(\ce{H2}\\)
+e) \\(\ce{Cl^-}\\)
+
+139. What is the oxidizing agent in the same reaction?
+a) \\(\ce{Mg}\\)
+b) \\(\ce{HCl}\\)
+c) \\(\ce{MgCl2}\\)
+*d) \\(\ce{H^+}\\)
+e) \\(\ce{Cl^-}\\)
+
+140. Which of the following is a correct balanced half-reaction in acidic solution?
+a) \\(\ce{MnO4^- -> Mn^{2+} + 4e^-}\\)
+*b) \\(\ce{MnO4^- + 8H^+ + 5e^- -> Mn^{2+} + 4 H2O}\\)
+c) \\(\ce{MnO4^- + 4e^- -> MnO2}\\)
+d) \\(\ce{MnO4^- -> MnO2 + 2 e^-}\\)
+e) \\(\ce{MnO4^- + 2H^+ -> Mn^{2+} + H2O}\\)
+
+141. Which of the following reactions is a redox reaction?
+a) \\(\ce{HCl + NaOH -> NaCl + H_2O}\\)
+b) \\(\ce{AgNO3 + NaCl -> AgCl + NaNO3}\\)
+*c) \\(\ce{Zn + CuSO4 -> ZnSO4 + Cu}\\)
+d) \\(\ce{BaCl2 + Na2SO4 -> BaSO4 + NaCl}\\)
+e) \\(\ce{CaCO3 -> CaO + CO2}\\)
+
+142. In the reaction: \\(\ce{2 Na + Cl_2 -> 2NaCl}\\), which element is oxidized?
+*a) \\(\ce{Na}\\)
+b) \\(\ce{Cl}\\)
+c) \\(\ce{NaCl}\\)
+d) \\(\ce{Cl_2}\\)
+e) Both Na and Cl
+
+143. Which species is reduced in the reaction:  \\(\ce{Fe + Cu^{2+} -> Fe^{2+} + Cu}\\)
+a) \\(\ce{Fe}\\)
+*b) \\(\ce{Cu^{2+}}\\)
+c) \\(\ce{Cu}\\)
+d) \\(\ce{Fe^{2+}}\\)
+e) \\(\ce{O2}\\)
+
+144. What is the oxidizing agent in the reaction:  \\(\ce{Mg + 2 HCl -> MgCl2 + H2}\\)
+a) \\(\ce{Mg}\\)
+*b) \\(\ce{HCl}\\)
+c) \\(\ce{Cl^-}\\)
+d) \\(\ce{H2}\\)
+e) \\(\ce{MgCl2}\\)
+
+145. Which of the following reactions does NOT involve a redox process?
+a)  \\(\ce{CH4 + 2 O_2 ->  CO2 + 2 H_2O}\\)
+b) \\(\ce{Zn + 2 HCl -> ZnCl_2 + H_2}\\)
+*c) \\(\ce{NaOH + HCl -> NaCl + H_2O}\\)
+d) \\(\ce{2 Fe + 3 Cl_2 -> 2 FeCl3}\\)
+e) \\(\ce{Cu + 2AgNO3 -> Cu(NO3)2 + 2 Ag}\\)
+
+146. In the reaction:  \\(\ce{2Fe^{3+} + 2 I^- -> 2Fe^{2+} + I2}\\), which species is oxidized?
+a) \\(\ce{Fe^{3+}}\\)
+b) \\(\ce{Fe^{2+}}\\)
+*c) \\(\ce{I^-}\\)
+d) \\(\ce{I2}\\)
+e) None
+
+147. Which of the following is the reducing agent in:  \\(\ce{2 Al + 3 Cu^{2+} -> 2 Al^{3+} + 3 Cu}\\)
+a) \\(\ce{Cu^{2+}}\\)
+*b) \\(\ce{Al}\\)
+c) \\(\ce{Cu}\\)
+d) \\(\ce{Al^{3+}}\\)
+e) \\(\ce{O2}\\)
+
+148. What change occurs to the oxidation number of nitrogen in: \\(\ce{NO2^- -> NO3^-}\\)
+a) Decreases
+*b) Increases
+c) Stays the same
+d) Becomes zero
+e) Cannot be determined
+
+149. Which of the following reactions involves both oxidation and reduction?
+a) \\(\ce{H2O -> H^+ + OH^-}\\)
+b) \\(\ce{NaCl -> Na^+ + Cl^-}\\)
+*c) \\(\ce{2 K + Br_2 -> 2 KBr}\\)
+d) \\(\ce{CaCO3 -> CaO + CO2}\\)
+e) \\(\ce{NH4Cl -> NH3 + HCl}\\)
+
+150. In the reaction:  \\(\ce{Cl2 + 2 Br^- -> 2 Cl^- + Br2}\\), which halogen is reduced?
+*a) \\(\ce{Cl2}\\)
+b) \\(\ce{Br^-}\\)
+c) \\(\ce{Cl^-}\\)
+d) \\(\ce{Br2}\\)
+e) None
+
+151. In a galvanic (voltaic) cell, which electrode is the site of oxidation?
+a) Cathode
+*b) Anode
+c) Salt bridge
+d) Electrolyte
+e) Wire
+
+152. What is the direction of electron flow in a galvanic cell?
+a) From cathode to anode
+*b) From anode to cathode
+c) From salt bridge to anode
+d) From electrolyte to cathode
+e) From cathode to electrolyte
+
+153. Which of the following is reduced in a dry cell battery?
+a) \\(\ce{Zn}\\)
+*b) \\(\ce{MnO2}\\)
+c) \\(\ce{NH4+}\\)
+d) \\(\ce{Cl2}\\)
+e) \\(\ce{Cu}\\)
+
+154. What is the role of the salt bridge in a galvanic cell?
+a) Supplies electrons
+b) Prevents oxidation
+*c) Maintains charge balance by allowing ion flow
+d) Generates voltage
+e) Acts as a reducing agent
+
+155. In a lead-acid battery, what is oxidized during discharge?
+a) \\(\ce{PbO2}\\)
+*b) \\(\ce{Pb}\\)
+c) \\(\ce{H2SO_4}\\)
+d) \\(\ce{SO4^{2-}}\\)
+e) \\(\ce{H2O}\\)
+
+156. What is the overall reaction in a hydrogen fuel cell?
+*a) \\(\ce{H2 + O2 -> H2O}\\)
+b) \\(\ce{H2 -> 2 H^+ + 2 e^-}\\)
+c) \\(\ce{O2 + 4 e^- -> 2 O^{2-}}\\)
+d) \\(\ce{H2O -> H2 + O2}\\)
+e) \\(\ce{H2 + Cl2 -> 2 HCl}\\)
+
+157. Which of the following batteries is rechargeable?
+a) Alkaline dry cell
+*b) Lead-acid battery
+c) Zinc-carbon battery
+d) Silver oxide battery
+e) Mercury cell
+
+158. In a galvanic cell, the cathode is:
+a) Where oxidation occurs
+b) Negatively charged
+*c) Where reduction occurs
+d) Always made of copper
+e) The source of electrons
+
+159. What is the oxidizing agent in a hydrogen fuel cell?
+a) \\(\ce{H2}\\)
+*b) \\(\ce{O2}\\)
+c) \\(\ce{H2O}\\)
+d) Pt electrode
+e) \\(\ce{H^+}\\)
+
+160. What happens to the voltage of a battery as it discharges?
+a) It increases
+b) It remains constant
+*c) It decreases
+d) It fluctuates randomly
+e) It reverses polarity
+
+161. In an electrochemical cell, what occurs at the anode?
+a) Reduction
+*b) Oxidation
+c) Electron gain
+d) Ion migration
+e) Precipitation
+
+162. What is the function of the salt bridge in a galvanic cell?
+a) Supplies electrons
+b) Prevents oxidation
+*c) Maintains charge balance by allowing ion flow
+d) Acts as a reducing agent
+e) Generates voltage
+
+163. In a galvanic cell, electrons flow:
+a) From cathode to anode
+*b) From anode to cathode
+c) From salt bridge to anode
+d) From electrolyte to cathode
+e) From cathode to electrolyte
+
+164. Which of the following is reduced in a Cu-Zn galvanic cell?
+a) \\(\ce{Zn}\\)
+*b) \\(\ce{Cu^{2+}}\\)
+c) \\(\ce{Cu}\\)
+d) \\(\ce{Zn^{2+}}\\)
+e) \\(\ce{SO_4^{2-}}\\)
+
+165. What is the oxidizing agent in a galvanic cell using Zn and Cu electrodes?
+a) \\(\ce{Zn}\\)
+b) \\(\ce{Cu}\\)
+*c) \\(\ce{Cu^{2+}}\\)
+d) \\(\ce{Zn^{2+}}\\)
+e) \\(\ce{H_2O}\\)
+
+166. Which electrode gains mass during operation of a galvanic cell?
+a) Anode
+*b) Cathode
+c) Salt bridge
+d) Electrolyte
+e) None
+
+167. What happens to the anode in a galvanic cell?
+a) It gains electrons
+*b) It loses mass
+c) It becomes positively charged
+d) It precipitates ions
+e) It remains unchanged
+
+168. Which of the following is true about the cathode in a galvanic cell?
+a) It is the site of oxidation
+b) It loses electrons
+c) It attracts cations
+d) It is negatively charged
+*e) It is where reduction occurs
+
+169. What is the overall cell reaction in a Zn-Cu galvanic cell?
+a) \\(\ce{Zn^{2+} + Cu -> Zn + Cu^{2+}}\\)
+*b) \\(\ce{Zn + Cu^{2+} -> Zn^{2+} + Cu}\\)
+c) \\(\ce{Cu^{2+} + Zn^{2+} -> Cu + Zn}\\)
+d) \\(\ce{Zn + Cu -> Zn^{2+} + Cu^{2+}}\\)
+e) \\(\ce{Zn + Cu -> Zn + Cu}\\)
+
+170. Which of the following correctly describes the role of the electrolyte?
+a) It supplies electrons
+b) It prevents ion flow
+*c) It allows ion migration to complete the circuit
+d) It reduces metal ions
+e) It oxidizes the anode
+
+171. A sample of gas occupies 1.20 L at 27 °C. If the gas is heated to 127 °C at constant pressure, what is the new volume?
+a) 1.44 L
+b) 2.40 L
+*c) 1.60 L
+d) 0.90 L
+e) 3.20 L
+
+172. A gas sample has a pressure of 1.20 atm at 300 K. What will the pressure be if the temperature is raised to 360 K, assuming volume and moles remain constant?
+a) 1.20 atm
+b) 1.36 atm
+*c) 1.44 atm
+d) 1.60 atm
+e) 2.00 atm
+
+173. A sealed container of gas has a pressure of 2.50 atm at 27 °C. If the container is heated to 127 °C, what is the new pressure in torr?
+a) 3.33 atm
+b) 1,900 torr
+*c) 2,533 torr
+d) 3,800 torr
+e) 760 torr
+
+179. What is the final temperature of a gas whose initial conditions are 1.3 L, 400 torr, and 40°C and whose final volume and pressure are 0.950 L and 5.00 atm, respectively? Assume the amount remains constant.
+a) 313 K
+b) 760 K
+*c) 2,170 K
+d) 950 K
+e) 1,300 K
+
+180. What is the final pressure of a gas whose initial conditions are 1.407 L, 2.06 atm, and −67°C and whose final volume and temperature are 608 mL and 449 K, respectively? Assume the amount remains constant.
+a) 2.06 atm
+b) 4.50 atm
+*c) 10.3 atm
+d) 608 atm
+e) 449 atm
+
+48. A strong electrolyte completely dissociates into ions in aqueous solution.
+*a) true
+b) false
+
+50. In a chemical reaction, the substances that undergo change are called **reactants**.
+*a) true
+b) false
+
+51. The molarity of a solution is expressed in units of **mol/kg**.
+a) true
+*b) false
+
+53. The equation *PV=nRT* is known as the Ideal Gas Law equation.
+*a) true
+b) false
+
+56. In a redox reaction, oxidation and reduction occur independently of each other.
+a) true
+*b) false
+
+60. The boiling point elevation of a solution depends only on the identity of the solute, not the number of particles.
+a) true
+*b) false
+
+
+1. Which of these is important for gases to be considered ideal, and for the ideal gas law equation to work?
+a) the gas molecules must be packed closely together
+b) intermolecular attractions are very important for the molecules
+*c) gases should be able to easily fill a container
+d) kinetic energy or the energy dependent on motion is not a consideration for understanding gases
+
+2. Which of the following is true about pressure as related to gases?
+*a) Pressure is the force exerted by gas molecules colliding with a surface over a given area \\(P = \frac{\text{Force}}{\text{Area}} \\)
+b) Pressure is always (only) measured in units of atmospheres (atm)
+c) Pressure is defined as the number of moles of gas present in a container
+d) Pressure is a measure of the total energy of gas molecules in a container
+
+3. Convert a pressure of **595 torr** to atmospheres (**atm**)
+*a) 0.783 atm
+b) 1.28 atm
+c) 0.0595 atm
+d) 7.83 atm
+
+4. Which of these gas laws says that pressure and volume are inversely related, that is, *PV=k*?
+*a) Boyle's Law
+b) Charles' Law
+c) Gay-Lussac's Law
+d) Avogadro's Law
+e) Ideal Gas Law
+
+5. A gas has an initial pressure \\(P_1\\) = 10.0 atm and volume \\(V_1\\) = 1.00 L. In order to reduce the pressure to \\(P_2\\) = 1.00 atm, what must the new volume in liters (L) be?
+a) 0.100 L
+b) 11.0 L
+*c) 10.0 L
+d) 1.00 L
+
+6. A gas is put into a balloon at \\(T_1\\) = 0.0°C and the volume \\(V_1\\) = 0.50 L. The room is brought to a temperature \\(T_2\\) = 150°C. What is the new volume \\(V_2\\)of the balloon?
+a) 0.28 L
+*b) 0.77 L
+c) 2.5 L
+d) 38 L
+
+7. A gas container is taken from a freezer set at \\(T_1\\) = –80°C and a pressure \\(P_1\\) = 100 mmHg. The temperature is is raised to \\(T_2\\) = 25°C, What is the new pressure?
+a) 64.8 mmHg
+b) 31.25 mmHg
+*c) 154 mmHg
+d) 7.86 x 10² mmHg
+
+8. A \\(V_1\\) = 1.00 L container has \\(n_1\\) = 1.00 mol of helium gas. More helium is added and now the number of moles is \\(n_2\\) = 5.00 mol He. If the temperature and pressure are held constant, what should the volume be changed to?
+a) 0.200 L
+b) 4.00 L
+*c) 5.00 L
+d) 6.00 L
+
+9. An ideal gas of *n* = 1.00 mol at a temperature *T* = 313 K is contained in a volume *V* = 100.0 L. What is the pressure in atmosphere (**atm**)?
+*a) 0.257 atm
+b) 2.57 atm
+c) 7.60 atm
+d) 25.7 atm
+
+10. An aqueous solution of sodium sulfate (\\(\ce{Na2SO4}\\)) is prepared. Which of these is a true statement about this solution?
+a) Sodium sulfate (\\(\ce{Na2SO4}\\)) is the solvent and water (\\(\ce{H2}\\)) is the solute
+b) It is impossible to dissolve sodium sulfate in water because water will not dissolve ionic compounds
+c) Sodium sulfate will form a precipitate and precipitates are not visible in solutions
+*d) In nonsaturating aqueous solutions, sodium sulfate dissolves fully to form ions \\(\ce{Na+}\\) and \\(\ce{SO4^{2-}}\\)
+
+11. Which of the statements below is a true statment regarding *electrolytes*?
+a) The ionic solute dissolving will make a very good conductor of electric current
+b) The ionic compounds that dissolve in solution do so (almost) entirely
+c) They also make good nonelectrolyte solutions
+*d) Both (a) and (b)
+
+12. Which of the statements below refer to the meaning of "like dissolves like"?
+a) It refers to combustion reactions with oxygen in the atmosphere
+b) It means that the compound calcium fluoride (\\(\ce{CaF2}\\)) will dissolve in a nonpolar solvent like octane (\\(\ce{C8H18}\\))
+*c) It means polar solutes will dissolve in polar solvents
+d) It means that gases whose volume is reduced by half will see their pressures reduced by half
+
+13. What is the osmotic pressure of a solution in **atm** for a 1.00 *M* (**mol/L**) glucose solution at *T* = 300 K?
+a) 2.46 atm
+b) 4.92 atm
+*c) 24.6 atm
+d) 49.2 atm
+
+14. Which of these solutes will have a greater effect on elevating the boiling point temperature of a solvent given they completely dissolve?
+*a) \\(\ce{(NH4)2SO4}\\)
+b) \\(\ce{NaCl}\\)NaCl
+c) glucose
+d) ethanol
+
+15. A dilution of a \\(C_1\\)= = 1.00 M NaCl stock solution was used to make a \\(V_2\\) = 500 mL of a \\(C_2\\) = 0.1 M NaCl solution. What volume aliquot \\(V_1\\) was used.
+a) 5.0 mL
+*b) 50 mL
+c) 100 mL
+d) 5000 mL
+
+16. Which of the statements below are true about written chemical reactions?
+a) The number and type of atoms on both sides of the reaction arrow (\\(\ce{->}\\)) might NOT be equal
+*b) The chemical compounds to the left of the arrow are called "reactants"
+c) The chemical compounds to the left of the arrow are called "products"
+d) Conservation of mass is not a consideration in the balancing of chemical reactions 
+
+17. In written chemical reaction equations, which of these symbols refers to a liquid phase?
+a) (s)
+*b) (l)
+c) (g)
+d) (aq)
+e) none of these
+
+18. Precipitation reaction \\(\ec{Pb(NO3)2 (aq) + NaCl (aq) -> PbCl2 (s) + NaNO3 (aq)}\\) is shown. What is true about balancing this reaction?
+a) Balancing requires changing the chemical formula of \\(\ce{NaCl}\\) to \\(\ce{NaCl_2}\\)
+b) Removing NaCl from the reactants would make the equation balanced
+*c) The reaction equation should only ever be balanced by adjusting the whole-number coefficients of the compounds
+d) Balancing requires changing PbCl<sub>2</s> from solid (s) to aqueous (aq) to match other products
+
+19. Which of these reaction types shows the pattern that is decomposition, like \\(\ce{2 HgO (s) -> 2 Hg (l) + O2 (g)}\\)?
+a) A + B -> AB
+*b) AB -> A + B
+c) AB + CD -> AC + BD
+d) A + BC -> AC + B
+
+20. Which reaction below shows a **halogen replacement** (single replacement) reaction type?
+a) \\(\ce{Mg (s) + Cu(NO_3)_2 (aq) -> Mg(NO_3)_2 (aq) + Cu (s)}\\)
+b) \\(\ce{Zn (s) + 2 HCl (aq) -> ZnCl_2 (aq) + H_2 (g)}\\)
+*c) \\(\ce{Cl_2 (g) + 2 NaBr (aq) -> 2 NaCl (aq) + Br_2 (l)}\\)
+d) \\(\ce{H_2O (l) -> H_2 (g) + 2 O_2 (g)}\\)
+
+21. Which of these reactions of barium chloride (\\(\ce{BaCl2}\\)) and sodium sulfate (\\(\ce{Na2SO4}\\)) shows the **net ionic equation**?
+a) \\(\ce{BaCl_2 (aq) + Na2SO4 (aq) -> BaSO4 (s) + NaCl (aq)}\\)
+b) \\(\ce{Ba^{2+} (aq) + 2 Cl^- (aq) + 2 Na^+ (aq) + SO_4^{2–} (aq) -> BaSO4 (s) + 2 Cl^- (aq) + 2 Na^+ (aq) }\\)
+*c) \\(\ce{Ba^{2+} (aq) + SO_4^{2–} (aq) -> BaSO4 (s)}\\)
+d) all of them show the form called the **net ionic equation**
+
+22. What statements are true concerning the **oxidation number** of the molecule carbon dioxide (\\(\ce{CO2}\\))?
+a) The oxidation number of **oxygen** (O atoms) is –2
+b) The oxygen atoms in the molecule are more **electronegative** than for carbon
+c) The oxidation number of **carbon** (the C atom) is +4
+*d) statements (a), (b) and (c) are all true
+e) none of the statements above are true
+
+23. This is written on the whiteboard: \\(\ce{Mg -> Mg^{2+} + 2 e-}\\). What is true about what is written?
+a) This shows a reduction half-reaction because Mg is gaining electrons
+b) This shows is a gas as a product of the reaction
+*c) This shows an oxidation half-reaction because Mg went from a zero charge state to a +2 charge state
+d) The number of protons should be shown on the left side of the half-reaction
+
+24. 100.0 g of ammonium chloride (\\(\ce{NH4Cl}\\)) [molar mass = 53.50 g/mol] is dissolved in final 2.00 L water. What is the concentration of the \\(\ce{NH4Cl}\\) solution?
+a) 0.0374 M
+*b) 0.935 M
+c) 1.07 M
+d) 2.68 M
+
+24. 3.00 mol of potassium chloride (KCl) [molar mass = 74.55 g/mol] is dissolved in final 3.00 kg water. What is the **molality** of the KCl solution?
+a) 0.500 m
+*b) 1.00 m
+c) 2.24 m
+d) 99.4 m
+
+25. Which statement is the LEAST relevant or is INCORRECT regarding the colligative properties of a solution?
+a) These properties depend only on the **number** of solute particles dissolved in the solvent.
+b) **Molality** (*m*) is the required unit of concentration for calculating freezing and boiling point changes.
+c) A solution's change in boiling point and freezing point are examples of colligative properties
+*d) To understand the effect of the solute, you must know the **oxidation numbers** of the atoms in the compound.
+
+26. Lithium (Li) metal will react explosively with cold water in a vigorous redox reaction. Which of the reactions below is correctly balanced and shows what occurs?
+*a) \\(\ce{2 Li (s) + 2 H2O (l) -> H2 (g) + 2 LiOH (aq)}\\)
+b) \\(\ce{Li (s) + 3 H2O (l) -> H2 (g) + LiOH (aq)}\\)
+c) \\(\ce{Li (s) + H2O (l) -> O2 (g) + LiOH (aq)}\\)
+d) \\(\ce{2 Li (s) + 2 H2O (l) -> 2 O2 (g) + 3 LiOH (aq)}\\)
+
+47. Boyle’s Law states that the pressure of a gas is directly proportional to its volume at constant temperature.
+a) true
+*b) false
+
+52. A precipitate is a soluble compound that remains dissolved in solution.
+a) true
+*b) false
+
+54. Electronegativity is unrelated to an element’s tendency to gain or lose electrons.
+a) true
+*b) false
+
+58. The oxidation number of a pure element is always zero.
+*a) true
+b) false
+
+
+46. At Standard Temperature and Pressure (STP), the temperature is 0°C and the pressure is 1 atm.
+*a) true
+b) false
+
+49. Water molecules are nonpolar and therefore do not interact with ionic compounds.
+a) true
+*b) false
+
+55. A decomposition reaction involves a single compound breaking down into two or more simpler substances.
+*a) true
+b) false
+
+57. The freezing point of a solution increases when solute is added.
+a) true
+*b) false
+
+59. A solution that contains less solute than the saturation point is called **unsaturated**.
+*a) true
+b) false
+
+

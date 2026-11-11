@@ -1,0 +1,16 @@
+Below is the markup of the Canvas page I have related with a weekly module.
+
+At the end of the markup I have two iframe elements that refer to a part of an Excel sheet that I have set up as a class schedule for the semester.
+```
+<p><img role="presentation" src="https://scccd.instructure.com/courses/144529/files/36784331/preview" alt="" data-api-endpoint="https://scccd.instructure.com/api/v1/courses/144529/files/36784331" data-api-returntype="File" /></p>
+<h2>Weekly Outline</h2>
+<p>Exam on Tuesday (so no lecture and pre-lecture quiz for that day)</p>
+<p>Normally I would have you start with reading the lab manual, then doing the pre-lab quiz to get ready for coming experiment.</p>
+<p>But I think you should first look at Week 4 Homework even though it is not due until the end of next week. It has questions relevant to Tuesday's midterm.</p>
+<p>You should also look over the questions in Week 4 Review homework as well since there are midterm exam-relevant questions there too. I have removed the Math Review questions.&nbsp;</p>
+<p>--------<br />Start reading the coming lab Expt 2a&nbsp; manual pages.</p>
+<p>After reading, do the PreLab quiz. 5 questions. Question #3 can be answered by dividing the number of yellow balls by the total of all balls, and multiplying by 100 (%). The rest should be easy or obtained by reading.&nbsp; The lab report will be due at end of week.</p>
+<p>After your exam (or before, if you have spare time to study before), start Book reading for Thursday's lecture. Do the prelecture quiz by the new due date/time of one hour before lecture start.<br />Links to these assignments and resources are in the Excel sheet embed below</p>
+<p>&nbsp;</p>
+<p><iframe src="https://myscccd-my.sharepoint.com/personal/sh051_fresnocitycollege_edu/_layouts/15/Doc.aspx?sourcedoc=%7BB116885E-CAB4-44B0-9E44-5A5C901C4C04%7D&amp;action=embedview&amp;wdAllowInteractivity=True&amp;item=WeekdayHeaders" width="100%" height="150" loading="lazy"></iframe><iframe src="https://myscccd-my.sharepoint.com/personal/sh051_fresnocitycollege_edu/_layouts/15/Doc.aspx?sourcedoc=%7BB116885E-CAB4-44B0-9E44-5A5C901C4C04%7D&amp;action=embedview&amp;wdAllowInteractivity=True&amp;item=Week4Schedule" width="100%" height="350" loading="lazy"></iframe></p>
+```

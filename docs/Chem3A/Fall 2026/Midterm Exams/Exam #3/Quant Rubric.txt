@@ -1,0 +1,109 @@
+Here is a strategic difficulty analysis and point-value/partial-credit rubric for the **six quantitative (calculation) questions** currently embedded in your re-ordered exam (`Exam3 Ver A_3.pdf`).
+
+To recap, your exam features these 6 calculation questions in the multiple-choice section (by their current question numbers):
+
+1. **Q4:** Pressure unit conversion (380 mm Hg to atm)
+2. **Q8:** Gay-Lussac's Law temperature calculation ($1.00\text{ atm} \rightarrow 2.00\text{ atm}$)
+3. **Q9:** Solution dilution calculation ($C_1V_1 = C_2V_2$)
+4. **Q13:** Ideal Gas Law calculation ($PV = nRT$)
+5. **Q16:** Molarity calculation ($10.0\text{ g NaBr}$ in $100.0\text{ mL}$)
+6. **Q19:** Molality calculation ($2.00\text{ mol } ZnCl_2$ in $0.500\text{ kg } H_2O$)
+
+---
+
+### Recommended Point Allocation & Rubric Strategy
+
+#### **1. Question 4: Pressure Conversion (380 mm Hg to atm)**
+
+* **Assigned Total Value:** **3 Points** (2 pts for choice, +1 pt work bonus)
+* **Difficulty Level:** Low / Warm-up
+* **Why:** This is a direct 1-step conversion using $760\text{ mm Hg} = 1\text{ atm}$. It tests basic dimensional analysis rather than complex mathematical formulas.
+* **Rubric (Total: 3 pts):**
+* **2 pts:** Correct multiple-choice selection ($0.50\text{ atm}$).
+* **+1 pt Partial Credit / Work Bonus:** Clearly sets up the conversion factor (dividing 380 by 760), even if a minor arithmetic slip occurs. *Note your policy:* If they show a flawless setup leading to $0.50$ but bubble the wrong letter by accident, they still earn credit for the demonstrated calculation.
+
+
+
+---
+
+#### **2. Question 8: Gay-Lussac's Law Temperature Calculation**
+
+* **Assigned Total Value:** **4 Points** (2 pts for choice, +2 pts work breakdown)
+* **Difficulty Level:** Moderate
+* **Why:** This is a classic conceptual/math trap where students often fail to convert Celsius to Kelvin ($25.0^\circ\text{C} + 273.15 = 298.15\text{ K}$) before applying $P_1/T_1 = P_2/T_2$.
+* **Rubric (Total: 4 pts):**
+* **2 pts:** Correct multiple-choice selection ($323^\circ\text{C}$ / $596\text{ K}$ converted back).
+* **+1 pt:** Explicitly converts the initial Celsius temperature to Kelvin.
+* **+1 pt:** Correct algebraic rearrangement ($T_2 = T_1 \times (P_2 / P_1)$) and calculation execution.
+
+
+
+---
+
+#### **3. Question 9: Solution Dilution Calculation ($C_1V_1 = C_2V_2$)**
+
+* **Assigned Total Value:** **3 Points** (2 pts for choice, +1 pt work bonus)
+* **Difficulty Level:** Low-Moderate
+* **Why:** Straightforward application of the dilution formula. Most students recognize $C_1V_1 = C_2V_2$ quickly, but minor unit tracking (mL vs. L) can trip them up.
+* **Rubric (Total: 3 pts):**
+* **2 pts:** Correct multiple-choice selection ($50.0\text{ mL}$).
+* **+1 pt Partial Credit / Work Bonus:** Identifies variables ($C_1, V_2, C_2$) and shows correct algebraic isolation of $V_1$.
+
+
+
+---
+
+#### **4. Question 13: Ideal Gas Law Calculation ($PV = nRT$)**
+
+* **Assigned Total Value:** **5 Points** (2 pts for choice, +3 pts work breakdown)
+* **Difficulty Level:** High / Multi-step
+* **Why:** This requires converting temperature to Kelvin ($100.0^\circ\text{C} \rightarrow 373.15\text{ K}$), correctly plugging in the ideal gas constant ($R = 0.08206\text{ L}\cdot\text{atm}/(\text{mol}\cdot\text{K})$), and algebraically solving for $P = nRT/V$. It is one of the heavier computational items on the exam.
+* **Rubric (Total: 5 pts):**
+* **2 pts:** Correct multiple-choice selection ($3.06\text{ atm}$).
+* **+1 pt:** Correct temperature conversion to Kelvin and identification of constants ($R$) and given variables.
+* **+1 pt:** Proper algebraic setup ($P = \frac{nRT}{V}$).
+* **+1 pt:** Correct final calculation and appropriate application of significant figures.
+
+
+
+---
+
+#### **5. Question 16: Molarity Calculation ($\text{NaBr}$ solution)**
+
+* **Assigned Total Value:** **4 Points** (2 pts for choice, +2 pts work breakdown)
+* **Difficulty Level:** Moderate
+* **Why:** A two-step stoichiometry problem: students must first convert grams of $\text{NaBr}$ to moles using the molar mass ($102.89\text{ g/mol}$), and then divide by the volume in liters ($0.100\text{ L}$).
+* **Rubric (Total: 4 pts):**
+* **2 pts:** Correct multiple-choice selection ($0.486\text{ M}$).
+* **+1 pt:** Correct calculation of moles of solute (grams divided by molar mass).
+* **+1 pt:** Correct conversion of mL to L and division by volume to find molarity.
+
+
+
+---
+
+#### **6. Question 19: Molality Calculation ($ZnCl_2$ solution)**
+
+* **Assigned Total Value:** **4 Points** (2 pts for choice, +2 pts work breakdown)
+* **Difficulty Level:** Moderate-High
+* **Why:** Molality ($\text{m}$) often confuses students because the denominator is kilograms of *solvent* ($\text{kg } H_2O$), not total solution volume. The moles of solute are neatly given ($2.00\text{ mol}$), but it heavily tests conceptual precision.
+* **Rubric (Total: 4 pts):**
+* **2 pts:** Correct multiple-choice selection ($4.00\text{ m}$).
+* **+2 pts Work Breakdown:** Explicitly states the molality formula ($\text{moles of solute} / \text{kg of solvent}$), plugs in $2.00\text{ mol}$ over $0.500\text{ kg}$, and arrives at the correct units.
+
+
+
+---
+
+### Summary of Quantitative Point Weights
+
+* **Q4 (Pressure):** 3 points
+* **Q8 (Gay-Lussac):** 4 points
+* **Q9 (Dilution):** 3 points
+* **Q13 (Ideal Gas):** 5 points
+* **Q16 (Molarity):** 4 points
+* **Q19 (Molality):** 4 points
+
+This tiered weight structure properly rewards the depth and multi-step nature of the Ideal Gas Law and stoichiometry/concentration problems while giving appropriate partial credit for student work.
+
+What is the second remaining thing to do before the exam package is complete?

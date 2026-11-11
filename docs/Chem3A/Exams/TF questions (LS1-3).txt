@@ -1,0 +1,122 @@
+Text: True-False Questions
+
+
+57. Electrons have a much smaller mass than protons.
+*a) true
+b)
+
+58. The $3f$ orbital exists and can hold up to 14 electrons.
+a) true
+*b) false
+
+59. Atomic radius increases from right to left across a period.
+*a) true
+b) false
+
+60. Density is mass divided by volume.
+*a) true
+b) false
+
+61. Gamma rays have the highest frequency of all EM radiation.
+*a) true
+b) false
+
+62. A hypothesis is a tested explanation supported by evidence.
+a) true
+*b) false
+
+63. Adding electrons to an atom always forms a cation.
+a) true
+*b) false
+
+64. The mass number equals the number of protons plus neutrons.
+*a) true
+b) false
+
+65. The Kelvin scale has no negative values.
+*a) true
+b) false
+
+66. Electrons in the same orbital must have opposite spins.
+*a) true
+b) false
+
+67. Zeroes between non‑zero digits are always significant.
+*a) true
+b) false 
+
+68. A theory is a guess that has not been tested.
+a) true
+*b) false
+
+69. Electrons have much smaller mass than protons.
+*a) true
+b) false
+
+70. The mass number (A) equals the number of protons plus neutrons.
+*a) true
+b) false
+
+71. Gamma rays have lower energy than visible light.
+a) true
+*b) false
+
+72. Electrons in the same orbital must have opposite spins.
+*a) true
+b) false
+
+73. The $2d$ orbital exists and can hold up to 10 electrons.
+a) true
+*b) false
+
+74. Atomic radius increases from left to right across a period.
+a) true 
+*b) false
+
+75. Density is calculated as volume divided by mass.
+a) true
+*b) false
+
+76. Converting Celsius to Kelvin requires adding 273.
+*a) true
+b) false
+
+77. In scientific notation, the significand (coefficient) must be a number between 1 and 10.
+*a) true
+b) false 
+
+78. When multiplying numbers, the result is rounded to the same number of decimal places as the factor with the fewest decimal places.
+a) true
+*b) false
+
+79. Dalton’s Atomic Theory correctly identified the existence of isotopes.
+a) true
+*b) false
+
+80. The "mass number" ($A$) is the sum of protons and neutrons in an atom
+*a) true 
+b) false
+
+81. UV radiation, X-rays, and gamma rays are all types of "ionizing radiation."
+*a) true
+b) false
+
+82. An electron in an "excited state" has a lower energy level than an electron in the "ground state."
+a) true
+*b) false
+
+83. The d-block elements start appearing in Period 4 of the Periodic Table.
+*a) true
+b) false
+
+84. Ionization energy is the energy released when an atom takes on an electron.
+a) true
+*b) false
+
+85. It takes progressively more energy to remove a second or third electron from an atom than the first.
+*a) true 
+b) false 
+
+86. Conversion factors like  do not limit the precision of your final calculation.
+*a) true
+b) false 

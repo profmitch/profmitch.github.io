@@ -1,0 +1,149 @@
+Text: Acids and Bases and their Reactions
+
+10. Which of the following is a **strong acid**?
+a) HF
+b) \( \ce{H2CO3} \)
+*c) HCl
+d) \( \ce{CH3COOH} \)
+
+11. According to the Brønsted–Lowry definition, a base is a:
+a) proton donor
+*b) proton acceptor
+c) hydroxide producer
+d) hydronium producer
+
+12. What is the conjugate base of **\( \ce{H2SO4} \)**?
+a) \( \ce{SO42-} \)
+*b) \( \ce{HSO4-} \)
+c) \( \ce{H3SO4+} \)
+d) \( \ce{H2SO3} \)
+
+13. A solution has [\( \ce{H3O+} \)] = \( 1.0 \times 10^{-5} \) M.  What is the pH?
+a) 3.00
+*b) 5.00
+c) 7.00
+d) 9.00
+
+14. A solution has pH = 3.00.  What is [\( \ce{OH-} \)]?
+a) \( 1.0 \times 10^{-3} \) M
+b) \( 1.0 \times 10^{-7} \) M
+*c) \( 1.0 \times 10^{-11} \) M
+d) \( 1.0 \times 10^{-14} \) M
+
+15. Which pair can form a **buffer**?
+a) HCl and NaCl
+b) \( \ce{HNO3} \) and \( \ce{KNO3} \)
+*c) HF and NaF
+d) \( \ce{H2SO4} \) and \( \ce{Na2SO4} \)
+ 
+10. Which of the following is a **strong base**?
+a) \( \ce{NH3} \)
+*b) \( \ce{Ca(OH)2} \)
+c) HF
+d) \( \ce{H2CO3} \)
+
+11. According to Brønsted–Lowry, an acid is a:
+*a) proton donor
+b) proton acceptor
+c) hydroxide producer
+d) hydronium producer
+
+12. What is the conjugate acid of **\( \ce{NH2-} \)**?
+*a) \( \ce{NH3} \)
+b) \( \ce{NH2+} \)
+c) \( \ce{NH4+} \)
+d) \( \ce{N3-} \)
+
+13. A solution has [\( \ce{OH-} \)] = \( 1.0 \times 10^{-9} \) M.  What is the pH?
+*a) 5.00
+b) 7.00
+c) 9.00
+d) 14.00
+
+14. A solution has pH = 11.00.   What is [\( \ce{H3O+} \)]?
+a) \( 1.0 \times 10^{-3} \) M
+b) \( 1.0 \times 10^{-5} \) M
+c) \( 1.0 \times 10^{-9} \) M
+*d) \( 1.0 \times 10^{-11} \) M
+
+15. Which pair **cannot** form a buffer?
+a) HCN and NaCN
+*b) HCl and NaCl
+c) \( \ce{H2CO3} \) and \( \ce{NaHCO3} \)
+d) \( \ce{CH3COOH} \) and CH3COONa
+
+10. Which of the following is a **weak acid**?
+a) HCl
+b) \( \ce{HNO3} \)
+*c) HF
+d) HBr
+
+11. According to Brønsted–Lowry, a base is a:
+a) proton donor
+*b) proton acceptor
+c) hydroxide producer
+d) hydronium producer
+
+12. What is the conjugate base of **\( \ce{H2CO3} \)**?
+a) \( \ce{CO32-} \)
+*b) \( \ce{HCO3-} \)
+c) \( \ce{H2CO2} \)
+d) \( \ce{H2CO3+} \)
+
+13. A solution has [\( \ce{H3O+} \)] = \( 1.0 \times 10^{-8} \) M.  What is the pH?
+a) 4.00
+b) 6.00
+*c) 8.00
+d) 10.00
+
+14. A solution has pH = 2.00.  What is [\( \ce{OH-} \)]?
+a) \( 1.0 \times 10^{-2} \) M
+b) \( 1.0 \times 10^{-6} \) M
+*c) \( 1.0 \times 10^{-12} \) M
+d) \( 1.0 \times 10^{-14} \) M
+
+15. Which pair can form a **buffer**?
+a) HCl and NaCl
+b) \( \ce{HNO3} \) and \( \ce{KNO3} \)
+*c) \( \ce{CH3COOH} \) and CH3COONa
+d) \( \ce{H2SO4} \) and \( \ce{Na2SO4} \)
+
+11. A Brønsted–Lowry acid is a proton donor.
+*a) true
+b) false
+
+12. A Brønsted–Lowry base is a proton acceptor.
+*a) true
+b) false
+
+13. Strong acids dissociate completely in water, while weak acids dissociate only partially.
+*a) true
+b) false
+
+14. The conjugate base of an acid always has one fewer hydrogen and one more negative charge.
+*a) true
+b) false
+
+15. Water (\( \ce{H2O} \)) can act as both an acid and a base depending on the reaction.
+*a) true
+b) false
+
+16. In pure water at 25 °C, [\( \ce{H3O+} \)] = [\( \ce{OH-} \)] = \( 1.0 \times 10^{-7} \) M.
+*a) true
+b) false
+
+17. The product of [\( \ce{H3O+} \)] and [\( \ce{OH-} \)] in any aqueous solution at 25 °C is \( 1.0 \times 10^{-14} \).
+*a) true
+b) false
+
+18. A solution with pH = 3.00 is ten times more acidic than a solution with pH = 4.00.
+*a) true
+b) false
+
+19. A buffer solution resists changes in pH when small amounts of acid or base are added.
+*a) true
+b) false
+
+20. A mixture of a strong acid and its salt (e.g., HCl + NaCl) forms a buffer.
+a) true
+*b) false

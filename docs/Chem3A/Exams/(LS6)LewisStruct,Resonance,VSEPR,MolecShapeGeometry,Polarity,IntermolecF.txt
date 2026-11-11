@@ -1,0 +1,152 @@
+Text:  Lewis Structures, Resonance, VSEPR, Molecular Shape/Geometry, Polarity, Intermolecular Forces
+
+
+10. Na (sodium) will get an electron from Cl (chlorine) to form a compound sodium chloride (NaCl). What choice(s) are true about this
+a) Both atoms are losing or gaining electrons according to the octet rule
+b) an ionic compound will form
+c) sodium gets an electron to become an anion
+*d) both (a) and (b)
+e) (a), (b) and (c) are true
+
+11. What is a Lewis structure?
+a) a table of special temperatures
+b) another name for the Periodic Table
+*c) a representation of an atom, molecule or any chemical compound with its electrons shown as dots
+d) a special name for the water molecule in the gaseous state
+e) it refers to a crystalline solid of carbon dioxide (CO2)
+
+12. What is the first step one must do in making Lewis structures?
+a) compute the molar mass of the compound 
+*b) Get the total number of valence electrons of all atoms
+c) know the boiling point of the compound
+d) find the heat capacity of the compound
+e) determine if the compound is a hydrate
+
+13. You have an element composed of atoms that will form cations which will cause a sea of mobile electrons to form a solid that is an excellent electrical conductor.
+    What kind of bonding is involved with this solid?
+a) ionic
+b) covalent network
+*c) metallic
+d) molecular
+e) hydrogen
+
+14. What is true about London Dispersion Forces as an intermolecular force?
+a) An instantaneous but temporary dipole forms from the normal random motion of electrons in atoms
+b) they account for a theory of how nonpolar molecules interact to form liquids 
+c) they are the weakest of intermolecular forces compared to dipole-dipole and hydrogen bonding
+*d) all of the above
+e) none of the above
+
+15. Of the following intermolecular forces dipole-dipole (D-D), hydrogen bonding (H-B), London Dispersion Forces (LDF), which choice shows the order of strength of interaction?
+    (LDF > H-B means LDF is stronger than H-B)
+a) LDF > H-B > D-D
+*b) H-B > D-D > LDF
+c) H-B > LDF > D-D
+d) D-D > H-B > LDF
+
+16. What is true of dipole-dipole interactions as intermolecular forces?
+a) the dipoles are a permanent property of the molecules (they are not temporary in time)
+b) in a liquid, molecules will orient themselves with neighboring molecules to maximize attractions and minimize repulsions
+c) the existence of a dipole in a molecular requires the molecule to be polar
+*d) all of the above
+e) none of the above
+
+17. What is true of hydrogen bonding between molecules
+a) these only happen in nonpolar organic molecules, molecules made of carbon and hydrogen
+b) this only applies to the diatomic hydrogen molecule (H2)
+*c) hydrogen forming an interaction ("bond") with a lone electron pair on another molecule is typical
+d) this only happens in ionic compounds
+e) the noble gas element neon (Ne) is required for the interaction
+
+19. In drawing a Lewis structure for the carbonate (CO3)2- ion, you have placed the octet around the three oxygen (O) atoms, but you see the central carbon (C) atom has only six electrons (3 bonding pairs) to the oxygen atoms. You have no electrons remaining to add in your inventory. What step do you need to do?
+a) Nothing: your Lewis structure is ready and complete
+b) Use Avogadro's Number at an earlier step
+c) Add a hydrogen atom to the molecule
+*d) A lone pair from one of the oxygen (O) atoms will have to be used to create a double bond with the central carbon
+e) The noble gas argon (Ar) must provide a single electron to complete this structure
+
+20. What is FALSE in the formation of the ionic compound magnesium oxide (MgO) from magnesium metal (Mg) and oxygen (O)?
+a) the Group 2 metal Mg atom has two valence electrons it will give to the Group 16 nonmetal oxygen (O) atom
+b) this transfer of electrons from Mg to O is about achieving the stability of a noble gas electron configuration
+*c) Magnesium (Mg) will take electrons from oxygen (O) to form the ionic compound MgO
+d) Magnesium will become a Mg2+ cation and oxygen will become an O2- anion during ionization
+e) The Lewis structure of the O atom will have four pairs of dots around it 
+
+21. What statement(s) is/are TRUE concerning the concept of "formal charge"?
+a) it represents the charge of a molecule after counting all electrons against the protons of all atoms
+*b) it represents the hypothetical charge on an atom in a molecule based on the valence electrons it possesses
+c) it is used to determine how many hydrogen atoms are missing in a molecule
+d) it helps to estimate the neutrons in the atom's nucleus
+e) the term refers ONLY to boron trifluoride have trigonal pyramidal geometry
+
+22. A molecule has four terminal electron groups around a central atom. Its molecular geometry is:
+a) linear
+b) trigonal planar
+c) bent
+d) trigonal pyramidal
+*e) tetrahedral
+
+23. What is/are TRUE statements about a bond dipole?
+*a) the dipole moment exists because of electronegativity differences between the two atoms
+b) the bond dipole can be shown in a structure using the crossed arrow symbol
+c) the term "bond dipole" and "molecular dipole" are the same 
+d) (a) and (b) are true
+e) (a), (b), and (c) are true
+
+24. What is a FALSE statement about the concept of the molecular dipole?
+a) the molecular dipole is a result of all the individual bond dipoles in the molecule
+b) molecular dipoles are very likely when atoms in the whole molecular structure show asymmetry 
+*c) the presence of lone pairs in the central atom of a molecule are not important in molecule having a dipole
+d) it is possible for a molecule to have no (zero) molecular dipole despite numerous bond dipoles
+
+25. Carbon and hydrogen have very little difference in their electronegativity. What kind of bond will they form?
+a) ionic 
+b) metallic 
+*c) covalent 
+d) polar covalent 
+e) fluidic 
+
+26. When atoms like cesium and fluorine have the largest differences in electronegativity, what kind of bond will they form?
+*a) ionic 
+b) metallic 
+c) covalent 
+d) polar covalent 
+e) covalent-ionic
+
+
+28. Diatomic element molecules like Cl2 are polar molecules because they have a single polar covalent bond.
+a) true
+*b) false
+
+29. A molecule that is trigonal planar in geometry has three electron groups with 120° bond angles
+*a) true
+b) false
+
+30. A molecule has a central atom with two nonbonding (lone) electron pairs and two terminal atoms will have a trigonal pyramidal molecular geometry
+a) true 
+*b) false
+
+31. Valence Shell Electron Pair Repulsion explains why nonbonding (lone) electron pairs in a central atom can crowd out and narrow the angle of terminal atoms or electron groups in a molecule
+*a) true 
+b) false
+
+32. The H2O molecule going from steam (gas phase) to ice (solid phase) is an exothermic process
+*a) true
+b) false
+
+33. The burning of gasoline is an endothermic reaction
+a) true
+*b) false
+
+34. The formation of ice on a pond is an exothermic process
+*a) true 
+b) false
+
+35. The boiling of water is an endothermic process
+*a) true
+b) false
+
+
+27. A "formula unit" is a term that applies to ionic compound solids like sodium chloride (NaCl)
+*a) true
+b) false 

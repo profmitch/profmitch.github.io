@@ -1,0 +1,55 @@
+Things to Know:
+
+Use the Yellow and Green Sheets to answer any of the problems that requires it
+The mass of an atom, a molecule, or a forumla unit of an ionic compound is in units of 'amu'
+The molar mass of an atom, a molecule or a formula unit of an ionic compound is in units of 'grams per mole' (g/mol)
+One atom of carbon-12 (C) isotope has a mass of 12.00 amu
+One mole of carbon has a mass of 12.01 g/mol: this is the weighted average of all isotopes of carbon
+
+ALWAYS UNDERSTAND WHAT YOU ARE BEING ASKED!!!
+If you are being asked for a quantity whose units are in moles (mol), the units should be in moles (mol).
+If you are being asked for a quantity whose units are in grams (g), the units should be in grams (g).
+If you are being asked for a quantity whose units are in grams per mole (g/mol), the units should be in grams per mole (g/mol).
+If you are being asked for a quantity whose units are in NUMBERS of atoms/molecules/particles, 
+the units should be in in NUMBERS of atoms/molecules/particles.
+The choices for answers to some questions can be eliminated immediately if the wrong units are indicated!
+
+The best way to find significant digits is to first convert to scientific notation
+The correct precision in expressing numbers and the results of operations is dependent on significant digits and decimal places
+
+
+
+Things to Know:
+
+Use the Yellow and Green Sheets to answer any of the problems that requires it
+The mass of an atom, a molecule, or a forumla unit of an ionic compound is in units of 'amu'
+The molar mass of an atom, a molecule or a formula unit of an ionic compound is in units of 'grams per mole' (g/mol)
+One atom of carbon-12 (C) isotope has a mass of 12.00 amu
+One mole of carbon has a mass of 12.01 g/mol: this is the weighted average of all isotopes of carbon
+
+ALWAYS UNDERSTAND WHAT YOU ARE BEING ASKED!!!
+If you are being asked for a quantity whose units are in moles (mol), the units should be in moles (mol).
+If you are being asked for a quantity whose units are in grams (g), the units should be in grams (g).
+If you are being asked for a quantity whose units are in grams per mole (g/mol), the units should be in grams per mole (g/mol).
+If you are being asked for a quantity whose units are in NUMBERS of atoms/molecules/particles, 
+the units should be in in NUMBERS of atoms/molecules/particles.
+The choices for answers to some questions can be eliminated immediately if the wrong units are indicated!
+
+Conversion factors or constants
+Energy: 1 calorie (cal) = 4.184 joules (J)
+Avogadro's Number: 6.022 x 1023 atoms/molecules/particles = 1 mole (mol) atoms/molecules/particles
+
+The best way to find significant digits is to first convert to scientific notation
+The correct precision in expressing numbers and the results of operations is dependent on significant digits and decimal places
+
+
+
+Water (liquid): 4.184 J/(g⋅°C)
+
+Ethanol (liquid): 2.44 J/(g⋅°C)
+
+Ice (solid water): 2.03 J/(g⋅°C)
+
+Copper (solid): 0.385 J/(g⋅°C)
+
+Aluminum (solid): 0.900 J/(g⋅°C)

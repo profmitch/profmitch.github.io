@@ -1,0 +1,140 @@
+Text: Liquids/Solids Properties, Energy, Heat Capacity, Surface Tension, Viscosity, Capillary Action
+
+20. Viscosity is
+a) the description of the shape of a meniscus (convex, concave) in a capillary
+*b) a measure of the resistance to flow of a fluid/liquid 
+c) decreased if a compound has hydroxyls (chemical groups like -OH) added to its structure
+d) all about boiling points
+e) just another term for the mass in grams of a substance
+
+21. Which of the following are forms of energy?
+a) heat, represented by symbol "q"
+b) work, which is a force that is applied through a distance
+c) mole, which is an amount
+*d) (a) and (b)
+e) choices (a), (b), (c)
+
+22. Which of the following represents a change in energy in a substance that is being melted?
+a) $$ \Delta H_{vap} $$
+b) $$ \Delta H_{sub} $$
+*c) $$ \Delta H_{fus} $$
+d) $$ \Delta H_{melt} $$
+
+23. The symbol $$ \Delta H_{sub} $$ means what?
+*a) change in enthalpy of sublimation
+b) change in enthalpy of fusion
+c) change in enthalpy of vaporization
+d) change in enthapy of substitution
+
+24. Potential energy is the same as kinetic energy
+a) True
+*b) False
+
+25. Methane $$ (\ce{CH4}) $$ can be burned by oxygen $$ (\ce{O2}) $$ in a flame. The bonds in methane represent chemical potential energy
+*a) true
+b) false
+
+
+2. What general term is used to describe molecules of the same kind have a force or attraction to each other?
+a) heat capacity
+b) liquid
+c) adhesion
+*d) cohesion
+e) enthalpy
+
+
+3. What is true about the water, the liquid phase of $$ \ce{H2O} $$?
+a) It is nonpolar
+b) It is considered a universal solvent
+c) Compared to metal solids like steel, it can absorb heat energy without large changes in temperature
+*d) choices (b) and (c)
+e) choices (a), (b), (c)
+
+4. Which of these terms describes the ability of water to form a compact, spherical droplet on a surface?
+a) viscosity
+b) heat capacity
+*c) surface tension
+d) capillary action
+e) none of the above
+
+5. Which of these crystalline solids will be the best choice for a electrical conductor?
+a) the sodium chloride ionic crystal
+b) the molecular solid of dry ice (carbon dioxide, $$ C\ce{O2} $$)
+c) the covalent network solid of carbon, the diamond
+*d) the metallic solid which is a bar of gold (Au)
+
+6. What is the term used to describe the production of a gaseous state from a liquid state?
+*a) boiling 
+b) freezing
+c) condensation
+d) sublimation
+
+9. Assume specific heat capacity of cadmium (Cd) is 0.25 J/(g °C). A 5.00 g piece of cadmium metal is heated from 20°C to 40°C. How many joules of heat energy were transferred to the metal?
+a) 400 J
+*b) 25 J
+c) 1.0 J
+d) 0.063 J
+
+10. Assume $$ \ce{H2O} $$ as a liquid (water) has a specific heat capacity of 4.184 J/(g °C). You used 500.0 calories (cal) of heat a mass of water from 20° C to 40°C. What is the volume of water in milliliters (mL) that you have? (Hint: you will use two conversion factors given to you for calculating this)
+a) 500.0 mL
+b) 2092 mL
+*c) 25.00 mL
+d) 20.00 mL
+
+11. Calculate the specific heat capacity of $$ \ce{H2O} $$ in J/(g °C) as a solid (ice) if a 1.000 kilogram (kg) block of ice is heated from -20°C to -5°C using 30.0 kJ of heat. You will have to use two conversion factors in getting the answer
+a) 1.00 J
+*b) 2.00 J/(g °C)
+c) 30.0 J/(g °C)
+d) 200 J/(g °C)
+e) 30.0 g
+
+1. Which of these types of matter will have a definite volume but not a definite shape?
+a) gas
+*b) liquid
+c) solid
+d) London Dispersion Force
+e) all of the above
+
+
+
+7. What is the term used to describe the production of a gaseous state directly from a solid state?
+a) boiling 
+b) vaporization
+c) condensation
+*d) sublimation
+
+8. What is the term used to describe the production of a gaseous state from a liquid state but below its boiling point temperature?
+a) boiling 
+b) freezing
+*c) evaporation
+d) sublimation
+
+12. What is a TRUE characteristic of the Type I ion?
+a) it is negatively charged
+*b) the metal cations of Group I and Group II elements are classic examples of these ions
+c) it is an element that can ionize to more than one charge state (for example, it can be +1, +2, +3, and even -1, -2, etc)
+d) it only applies to charge states of element oxygen (O)
+e) the element's name in a compound requires the use of a roman numeral (the Stock system)
+
+13. What is FALSE about the characteristics of a Type II ion?
+a) it is positively charged
+b) the metal cations of Group I and Group II elements are classic examples of these ions
+c) it is an element that can ionize to more than one charge state (for example, it can be +1, +2, +3, and even -1, -2, etc)
+*d) it only applies to charge states of element oxygen (O)
+e) the element's name in a compound requires the use of a roman numeral (the Stock system)
+
+32. The $$ \ce{H2O} $$ molecule going from steam (gas phase) to ice (solid phase) is an exothermic process
+*a) true
+b) false
+
+33. The burning of gasoline is an endothermic reaction
+a) true
+*b) false
+
+34. The formation of ice on a pond is an exothermic process
+*a) true 
+b) false
+
+35. The boiling of water is an endothermic process
+*a) true
+b) false

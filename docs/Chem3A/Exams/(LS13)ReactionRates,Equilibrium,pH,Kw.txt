@@ -1,0 +1,184 @@
+ReactionRates, Equilibrium, pH, Kw
+
+56. Which of the following stresses would shift equilibrium according to Le Chatelier’s Principle?
+a) Changing concentration of reactants or products
+b) Changing temperature  
+c) Changing pressure (for gases)  
+*d) All of the above  
+... All three stresses can perturb equilibrium, prompting the system to restore balance.
+
+57. For the equilibrium reaction N2O4 (g) \rightleftharpoons 2 NO2 (g), the equilibrium constant expression is:
+a) \( \ce{*K* = [N2O4]/[NO2]^2} \)
+*b) \( \ce{*K* = [NO2]^2/[N2O4]} \)
+c) \( \ce{*K* = [NO2]/[N2O4]^2} \)
+d) \( \ce{*K* = [N2O4][NO2]^2  } \)
+... Products over reactants, with coefficients as exponents.
+
+58. At equilibrium, \( \ce{[N2O4] = 0.20 M} \) and \( \ce{[NO2] = 0.40 M} \). What is K?
+a) 0.80  
+b) 0.40  
+c) 0.80/0.20 = 4.0  
+*d) (0.40)^2 / 0.20 = 0.80  
+... \( \ce{*K* = [NO2]^2/[N2O4] = (0.40)^2 / 0.20 = 0.16 / 0.20 = 0.80.
+
+59. For \( \ce{BaSO₄ (s) \rightleftharpoons Ba^{2+} (aq) + SO₄^{2-} (aq)} \), if \([Ba^{2+}] = 1.0 \times 10^{-5} M and \([SO₄^{2-}] = 1.0 \times 10^{-5} M, what is \( *K*_{sp}?
+*a) 1.0 \times 10⁻¹⁰  
+b) 1.0 \times 10^{-5}  
+c) 1.0 \times 10⁻²⁰  
+d) 2.0 \times 10^{-5}  
+... \(*K*_{sp} = [Ba^{2+}][SO₄^{2-}] = (1.0 \times 10^{-5})(1.0 \times 10^{-5}) = 1.0 \times 10⁻¹⁰.
+
+60. For the acid dissociation \( \ce{HA \rightleftharpoons H⁺ + A⁻} \), if \( [HA] = 0.10 M, [H⁺] = 1.0 \times 10^{-3} M, and \([A^-] = 1.0 \times 10^{-3} M, what is \( K_a \)?  
+a) 1.0 \times 10⁻²  
+b) 1.0 \times 10^{-3}  
+*c) 1.0 \times 10^{-5}  
+d) 1.0 \times 10^{-6}  
+... \(K_a = [H⁺][A⁻]/[HA] = (1.0 \times 10^{-3})(1.0 \times 10^{-3})/(0.10) = 1.0 \times 10^{-6} / 0.10 = 1.0 \times 10^{-5}.
+
+16. According to Collision Theory, which two conditions are required for a reaction?  
+*a) Correct orientation and sufficient energy  
+b) High pressure and low temperature  
+c) Catalyst present and high concentration  
+d) Low activation energy and low temperature 
+
+17. In a potential energy diagram, the “hump” represents:  
+a) enthalpy change  
+b) reaction rate  
+c) equilibrium constant  
+*d) activation energy  
+
+18. A reaction has *ΔH* < 0. This means the reaction is:  
+*a) exothermic  
+b) endothermic  
+c) non‑spontaneous  
+d) at equilibrium 
+
+19. Increasing the concentration of reactants will:  
+*a) increase reaction rate  
+b) decrease reaction rate  
+c) have no effect  
+d) stop the reaction 
+
+20. For the equilibrium:  \( \ce{N2O4(g) \rightleftharpoons 2 NO2(g)} \)  Increasing temperature causes the mixture to turn darker brown.  This means the forward reaction is:  
+a) non‑spontaneous  
+b) exothermic  
+*c) endothermic  
+d) unaffected by temperature 
+
+21. For the reaction:  \( \ce{H2 (g) + I2(g) \rightleftharpoons 2 HI(g)} \)  Adding more \( \ce{H2} \) will:  
+a) shift equilibrium left  
+*b) shift equilibrium right  
+c) decrease [HI]  
+d) stop the reaction 
+
+22. For the equilibrium:  \( \ce{2 SO2(g) + O2(g) \rightleftharpoons 2 SO3(g)} \)  Increasing pressure favors the side with:  
+a) more moles of gas  
+*b) fewer moles of gas  
+c) equal moles of gas  
+d) no effect 
+
+16. Increasing temperature generally:  
+a) has no effect  
+b) stops the reaction  
+c) decreases reaction rate  
+*d) increases reaction rate 
+
+17. A catalyst works by:  
+*a) lowering activation energy  
+b) increasing ΔH  
+c) increasing product energy  
+d) increasing reactant energy 
+
+18. A reaction with products lower in energy than reactants is:  
+a) impossible  
+b) endothermic  
+*c) exothermic  
+d) non‑spontaneous 
+
+19. For the equilibrium  \( \ce{2 NO2(g) \rightleftharpoons N2O4(g)} \)  Decreasing temperature causes the mixture to become less brown.  This means the forward reaction is:  
+a) endothermic  
+*b) exothermic  
+c) unaffected by temperature  
+d) non‑spontaneous 
+... (Note: Forward reaction is exothermic; heat acts as a product, so cooling shifts it right toward N2O4.)
+
+20. For the equilibrium  \( \ce{H2 (g) + Cl2(g) \rightleftharpoons 2 HCl(g)} \)  Adding more Cl2 will:  
+a) stop the reaction  
+b) shift equilibrium left  
+*c) shift equilibrium right  
+d) decrease [HCl] 
+
+21. For the reaction  \( \ce{N2(g) + 3 H2 (g) \rightleftharpoons 2 NH3(g)} \)  Increasing pressure favors the side with:  
+a) equal moles of gas  
+b) no effect  
+c) more moles of gas  
+*d) fewer moles of gas 
+
+16. Increasing temperature generally:  
+a) decreases reaction rate  
+*b) increases reaction rate  
+c) has no effect  
+d) stops the reaction 
+
+17. A catalyst works by:  
+a) increasing ΔH  
+*b) lowering activation energy  
+c) increasing product energy  
+d) increasing reactant energy 
+
+18. A reaction with products higher in energy than reactants is:  
+*a) endothermic  
+b) exothermic  
+c) spontaneous  
+d) impossible 
+
+19. For the equilibrium  \( \ce{N₂(g) + O2(g) \rightleftharpoons 2 NO(g)} \)  Increasing temperature increases [NO].   This means the forward reaction is:  
+*a) endothermic  
+b) exothermic  
+c) unaffected by temperature  
+d) non‑spontaneous  
+
+20. For the equilibrium  \( \ce{CO(g) + H2O(g) \rightleftharpoons CO2(g) + H2(g) } \) Removing CO2 will:  
+a) shift equilibrium left  
+*b) shift equilibrium right  
+c) decrease \( \ce{H2} \)  
+d) stop the reaction 
+
+21. For the reaction  \( \ce{ 2 SO2(g) + O2(g) \rightleftharpoons 2 SO3(g)} \)  Increasing pressure favors the side with:  
+a) more moles of gas  
+*b) fewer moles of gas  
+c) equal moles of gas  
+d) no effect 
+
+21. According to Collision Theory, molecules must collide with sufficient energy and proper orientation to react.  
+*a) true
+b) false
+
+22. Increasing temperature increases the average kinetic energy of molecules.  
+*a) true
+b) false
+
+23. A catalyst increases the rate of a reaction by lowering the activation energy.  
+*a) true
+b) false
+
+24. A catalyst is consumed during the reaction it speeds up.  
+a) true
+*b) false
+
+25. At equilibrium, the concentrations of reactants and products are equal.  
+a) true
+*b) false
+... (Note: Rates are equal, not necessarily concentrations.)
+
+26. At equilibrium, the forward and reverse reaction rates are equal.  
+*a) true
+b) false
+
+27. For an endothermic reaction, increasing temperature shifts the equilibrium toward products.  
+*a) true
+b) false
+
+28. Increasing pressure favors the side of a gaseous equilibrium with fewer total moles of gas.  
+*a) true
+b) false

@@ -1,0 +1,51 @@
+Rosa Contreras 40
+Skye 26.7
+Alex Ruiz 39.8
+Angel Sanchez 40
+Justin Vink 40
+
+shane xiong 40
+
+=============
+
+1) always put your partner's name (first name OK). In the future you can lose 15-20% off the report by failing to put the Partner's name
+
+2) You only need to upload the form pages (p 17-18). Not the whole chapter
+
+3) I will have a class-wide document on why students see Red Xes in Part 3
+
+3. Part 2 final buret reading: the error informed you that the final number should a number greater than the initial of "0.78". The buret shows numeric values starting at zero "0" at the top and "25" (mL) at the bottom. You are expected to have a starting fluid level near 0 (usually between 0 and 3 mL) and when you complete your delivery, it should be less than the maximum value of 25 mL
+
+On all Calculations, do not show just the result, but also show the mathematical expressions/equations used to make the calculation. This is part of the grading and allows instructors to catch causes of calculation errors
+
+1) the error in Part 2 of MOM form is pointing out that your PRECISION for the buret readings was not precise enough. It should have been TWO decimal places for the mL. If you read 1.2 ml EXACTLY, then the reading should have been 1.20 mL, not "1.2 mL". This is true for all reading of the BURET and only the buret. The buret has 0.1 mL division marks, so it is precise to 0.01 mL. We will see this in Expt 1a. The graduated cylinder has 1 mL division marks, so it is precise to only 0.1 mL. 
+
+2. Why didnt you do the calculation for the final - initial buret reading? Paying attention to the form is critical!
+
+============
+
+1. It's not important at this time, but help me with the partner you worked with. I cannot locate a "Sonia" in the system.
+
+2. Part 2: MOM gave grad cylinder vol a red X. That means something is in error that you should correct. Your MOM form tells you what it expects: click inside the textbox and a tool tip pops up to tell you the entry it is expecting! After you get the green check mark saying it looks OK, then that is your guide as to what your handwritten report looks like. Your MOM form should really be identical in all quantitative respects to your handwritten form. The MOM online form was created for that purpose. Before this tool existed, students were all over the place in preparing reports. That value should have been "20.0", not "20"
+
+3. Part 2 initial buret reading: the MOM form is actually telling you what the problem is with your entered value.
+The most important part is to understand what the buret is and what it does. It is a glass column with a stopcock that informs you how much volume of a fluid you will deliver in milliliters. The volume you intend
+ the error informed you that the final number should a number greater than the initial of "0.78". The buret shows numeric values starting at zero "0" at the top and "25" (mL) at the bottom. You are expected to have a starting fluid level near 0 (usually between 0 and 3 mL) and when you complete your delivery, it should be less than the maximum value of 25 mL. You then subtract the final from the initial reading to get the final volume delivered (in mL)
+
+4. The final volume delivered calculation is missing. Had you made the calculation, you would have got a negative value (< 0) and that would have been an indication of completing the data properly
+
+5. Part 3: you were asked to scoop out about 4-6 g of NaCl (sodium chloride, table salt). You indicated a mass of "30.4924" g. Did you use that much salt?
+
+6. Calculations are things that do not require any proper use of a measuring device or instrument. They are fully within your control.
+
+The mass of stock solution you made should be the mass of the solution made AND the mass of the container you used for it (the empty flask + stopper) MINUS the mass of the empty container:  98.1556 MINUS 45.7623 = 52.3933 g
+
+The mass of the water alone that you added to it is then the mass of that stock solution you just determined MINUS the salt you added to it.
+
+52.3933 MINUS 30.4924 = 21.9009 g
+
+I somehow think you did not use 30.4924 g of NaCl or else it would not have dissolved.
+
+Because of this report, I want you to show me in a separate email your coming Lab 1a report so I can check it before you submit it. I am going to make you the perfect chemistry student or else I am not doing my job.
+
+I will be on Zoom. I strongly recommend you connecting so I can answer what I hope are the many questions you have about lab and also about chemistry in general.

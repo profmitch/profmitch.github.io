@@ -1,0 +1,89 @@
+Thanks for the clarity! I’ve reviewed both **Version A** and **Version B** of your Chemistry 3A Midterm Exam. Here's a full breakdown:
+
+---
+
+## ✅ Answer Key for Version A
+
+| Q# | Correct Answer | Topic |
+|----|----------------|-------|
+| 1  | a) 0.783 atm | Pressure conversion |
+| 2  | d) Avogadro's Law | Gas laws |
+| 3  | c) gases should be able to easily fill a container | Ideal gas behavior |
+| 4  | b) 50.0 L | Boyle’s Law |
+| 5  | b) 0.224 atm | Ideal Gas Law |
+| 6  | b) In nonsaturating aqueous solutions, Na₂SO₄ dissolves fully | Solution chemistry |
+| 7  | d) Both (a) and (b) | Electrolytes |
+| 8  | c) polar solutes will dissolve in polar solvents | Solubility |
+| 9  | b) 50 mL | Dilution |
+| 10 | a) Pressure is force per area | Pressure definition |
+| 11 | d) (NH₄)₂SO₄ | Boiling point elevation |
+| 12 | b) Reactants are on the left | Reaction terminology |
+| 13 | c) (g) | Phase symbols |
+| 14 | b) Only adjust coefficients | Balancing reactions |
+| 15 | b) AB → A + B | Decomposition |
+| 16 | a) Cl₂ + NaBr → NaCl + Br₂ | Halogen replacement |
+| 17 | c) Ba²⁺ + SO₄²⁻ → BaSO₄ | Net ionic equation |
+| 18 | d) All statements are true | Oxidation numbers |
+| 19 | c) Oxidation half-reaction | Redox |
+| 20 | c) 0.935 M | Molarity |
+| 21 | a) 1.00 m | Molality |
+| 22 | d) Oxidation numbers are irrelevant | Colligative properties |
+| 23 | c) 2 Li + 2 H₂O → H₂ + 2 LiOH | Redox reaction |
+| 24 | b) It decreases | Gas solubility |
+| 25 | e) 0.584 mol | Mole calculation |
+
+---
+
+## ✅ Answer Key for Version B
+
+Version B contains the same questions but in a different order. Here's the mapping and answer key:
+
+| Ver B Q# | Matches Ver A Q# | Correct Answer |
+|----------|------------------|----------------|
+| 1        | 6                | b) |
+| 2        | 1                | a) |
+| 3        | 2                | d) |
+| 4        | 4                | b) |
+| 5        | 3                | c) |
+| 6        | 5                | b) |
+| 7        | 7                | d) |
+| 8        | 8                | c) |
+| 9        | 9                | b) |
+| 10       | 16               | a) |
+| 11       | 10               | a) |
+| 12       | 11               | d) |
+| 13       | 13               | c) |
+| 14       | 14               | b) |
+| 15       | 15               | b) |
+| 16       | 17               | c) |
+| 17       | 12               | b) |
+| 18       | 21               | a) |
+| 19       | 23               | c) |
+| 20       | 19               | c) |
+| 21       | 25               | e) |
+| 22       | 20               | c) |
+| 23       | 18               | d) |
+| 24       | 22               | d) |
+| 25       | 24               | b) |
+
+---
+
+## ✅ True/False Answer Key (Same for Both Versions)
+
+| Q# | Correct Answer |
+|----|----------------|
+| 26 | b) false |
+| 27 | a) true |
+| 28 | a) true |
+| 29 | b) false |
+| 30 | b) false |
+| 31 | a) true |
+| 32 | a) true |
+| 33 | b) false |
+| 34 | b) false |
+| 35 | a) true |
+
+---
+
+Would you like this formatted into a printable answer sheet or exported into a spreadsheet for grading? 
+I can also help you generate distractor analysis or item statistics if you're collecting student responses.

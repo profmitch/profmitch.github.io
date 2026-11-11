@@ -1,0 +1,140 @@
+
+1. A student is asked to precisely dispense 24. 70 mL of a solution. Which item glassware could be used for this task?
+a) 50 mL beaker
+b) 50 mL buret
+c) 50 mL Erlenmeyer flask
+*d) 50 mL graduated cylinder
+2. The solubility of KClO_3 at several temperatures is shown in the accompanying diagram.
+This requires a plot here
+If a student mixes 10.0 g of KClO_3 with 45.0 g of H<sub>2O</sub> at 70°C. Which statement about the final solution is correct?
+a) It is a saturated solution.
+b) It is a supersaturated solution.
+c) It is an unsaturated solution.
+d) It is impossible to determine.
+3. Cigarette lighters are generally filled with butane. When butane burns in air, heat is given off to the surroundings. Which of the following is true?
+a) The reaction is endothermic.
+*b) The reaction is exothermic.
+c) The reaction is a precipitation reaction.
+d) The reaction is an acid-base reaction.
+4. The phase transition from solid to liquid is called
+a) condensation.
+*b) melting/fusion.
+c) evaporation.
+d) sublimation.
+5. In the Lewis structure for NH3, how many lone pairs of electrons are there?
+a) 0 
+*b) 1 
+c) 2 
+d) 4
+6. What is the concentration of nitric acid in a solution made by diluting 100 mL of a 0.200 M HNO_3 solution to a final volume of 200 mL?
+a) 0.133 M
+b) 0.150 M
+c) 0.167 M
+*d) 0.100 M
+7. Typical grocery store bags are made of polyethylene, which are linked molecules of ethylene (C_2H_4). If a bag weighs 12.4 g, how many molecules of ethylene (C_2H_4) are in this bag?
+a) 1.36 X 10^{24}
+b) 6.02 x 10^{23}
+c) 5.33 X 10^{23}
+d) 2.66 X 10^{23}
+8. A sulfide ion ( S<sup>2-</sup>) contains ...?
+a) 16 electrons
+b) 32 protons
+c) 32 neutrons
+*d) 18 electrons
+9. What is the oxidation number of Chromium in Cr(SO_4)_2?
+a) +1
+b) +2
+c) +4
+d) +6
+10. How many Liters is 122 mL?
+a) 0.122 L
+b) 1.22 X 10^{5} L
+c) 1.22 L
+d) 1.22 X 10<sup>-3</sup> L
+11. How many protons and neutrons are in ^{59}Ni?
+a) 59 protons and 47 neutrons
+b) 28 protons and 59 neutrons
+c) 59 protons and 28 neutrons
+d) 28 protons and 31 neutrons
+12. For the following reaction at equilibrium, addition of CO (<i>g</i>) would cause _.
+CO(g) + 2 H_2(g)  CH_3OH(g)
+a) a shift left (more reactants formed).
+b) a shift right (more products formed).
+c) No change.
+d) The reaction to slow down.
+13. What volume of a 1.50 M KOH solution would contain 0.750 moles of potassium?
+a) 2 L
+b) 0.250 L
+c) 500 mL
+d) 1 gal
+14. Put the following in order of increasing strength of intermolecular forces: CO, CH_3OH, H_2
+a) CO < CH_3OH < H_2
+b) CH_3OH < H_2 < CO
+*c) H_2 < CO < CH_3OH
+d) CO < H_2 < CH_3OH
+15. What is the molecular shape of phophorus in PH_3?
+a) tetrahedral
+b) trigonal planar
+*c) trigonal pyramidal
+d) linear
+16. What is the correct formula for Iron (III) Oxide?
+(A) Fe_3O
+(B) Fe_2O_3
+(C) Fe_3O_2
+(D) FeO
+17. Which of the following is the ground state electron configuration of a magnesium atom?
+(A) ls^{2}2s^{2}2p^{6}
+(B) ls^{2}2s^{2}2p^{6}3s^{2}
+(C) 2p^{6}3s^{1}
+(D) ls^{2}2s^{2}2p^{6}3s^{2}4s^{1}
+18. A sample of oxygen gas has a pressure of 1.05 atm and a volume of 22 L. What pressure would be required to compress the gas to 9.0 L?
+a) 2.6 atm
+b) 11.6 atm
+c) 0.43 atm
+d) 297 torr
+19. How many significant digits are in 0.0219 g?
+a) 2
+*b) 3
+c) 4
+d) 5
+20. What insoluble product would be formed by the following reaction?
+(NH_4)_2S (<i>aq</i>) + Pb(NO_3)_2 (<i>aq</i>)
+a) N_2H_8 (<i>s</i>)
+b) (NH_4)_2(NO_3)_2) (<i>s</i>
+*c) PbS (<i>s</i>)
+d) All products are soluble
+21. Which compound is named correctly?
+a) \\(\ce{FeC03}\\), iron carbonate
+... iron(II) carbonate
+*b) \\(\ce{K2S03}\\), potassium sulfite
+c) \\(\ce{Sr(N03)2}\\), strontium nitrite 
+... strontium **nitrate**
+d) \\(\ce{Co2(S04)3}\\), cobalt(II) sulfate
+... cobalit**(III)** sulfate
+22. In the name arsenic trichloride, the **tri-** prefix specifies:
+a) arsenic has an oxidation state of +3.
+... prefix applies to chloride
+b) the geometry of the molecule is trigonal pyramidal.
+... arsenic bonds to three chlorine atoms and has a lone pair, so it is trigonal pyramidal like ammonia
+*c) arsenic is covalently bonded to three chlorine atoms.
+... arsenic is a metalloid element, so its bonding to chlorine atoms is polar covalent.
+d) arsenic(III) is ionically bonded to three chloride ions.
+... arsenic is not a type II cation, so roman numerals do not apply
+23. What is the formula of iodic acid?
+a) \\(\ce{HIO}\\)
+... hypoiodous acid
+b) \\(\ce{HI02}\\)
+... iodous acid
+*c) \\(\ce{HI03}\\)
+d) \\(\ce{HI04}\\)
+... periodic acid
+24. Twenty irregular pieces of an unknown metal have a collective mass of 28.225 g. When carefully
+    placed in a graduated cylinder that originally contained 7.75 mL of water, the final volume read 
+    11.70 mL. What is the density of the metal?
+a) 2.41 $g/cm^{-3}$
+... 28.225 g / 11.70 not correct calculation
+b) 3.64 $g/cm^{-3}$
+... 28.225 g / 7.75 not correct calculation
+*c) 7.15 $g/cm^{-3}$
+d) 112 $g/cm^{-3}$
+... \\( 28.225 g \times (11.70 - 7.75) \\) not correct calculation

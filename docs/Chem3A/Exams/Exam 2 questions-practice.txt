@@ -1,0 +1,173 @@
+1. Which of the following is an example of a chemical change?
+a) Water freezing to form ice
+*b) Iron rusting when exposed to air and moisture
+c) Sugar dissolving in a cup of hot tea
+d) Grinding a crystal of salt into a fine powder
+
+2. Which element exists naturally as a diatomic molecular element?
+a) Helium ($\text{He}$)
+*b) Fluorine ($\text{F}_2$)
+c) Sodium ($\text{Na}$)
+d) Carbon ($\text{C}$)
+
+3. What is the correct systematic name for the compound $\text{FeCl}_3$?
+a) Iron chloride
+b) Iron(II) chloride
+*c) Iron(III) chloride
+d) Iron trichloride
+
+4. What is the molar mass of ammonium carbonate, $(\text{NH}_4)_2\text{CO}_3$?
+*(Atomic masses: $\text{N} = 14.01\text{ g/mol}$, $\text{H} = 1.008\text{ g/mol}$, $\text{C} = 12.01\text{ g/mol}$, $\text{O} = 16.00\text{ g/mol}$)*
+a) $78.05\text{ g/mol}$
+*b) $96.09\text{ g/mol}$
+c) $112.09\text{ g/mol}$
+d) $144.18\text{ g/mol}$
+
+5. A compound is analyzed and found to consist of $40.0\%\text{ C}$, $6.7\%\text{ H}$, and $53.3\%\text{ O}$ by mass. What is its empirical formula?
+a) $\text{CHO}$
+b) $\text{CH}_2\text{O}$
+c) $\text{C}_2\text{H}_4\text{O}_2$
+d) $\text{C}_6\text{H}_{12}\text{O}_6$
+
+6. How many total valence electrons should be included in the Lewis dot structure for the nitrate ion, $\text{NO}_3^-$?
+a) $22$
+b) $23$
+c) $24$
+d) $26$
+
+7. According to VSEPR theory, what are the electron group geometry and the molecular geometry of an ammonia molecule ($\text{NH}_3$)?
+a) Trigonal planar; trigonal planar
+b) Tetrahedral; trigonal pyramidal
+c) Tetrahedral; bent
+d) Trigonal pyramidal; trigonal pyramidal
+
+8. Given the electronegativity values: $\text{H} = 2.1$, $\text{C} = 2.5$, $\text{O} = 3.5$, $\text{Na} = 0.9$, $\text{Cl} = 3.0$. Which bond is classified as polar covalent?
+*(Criteria: Nonpolar $<0.5$, Polar $0.5\text{--}2.0$, Ionic $>2.0$)*
+a) $\text{C–H}$ bond
+b) $\text{O–H}$ bond
+c) $\text{Na–Cl}$ bond
+d) $\text{C–C}$ bond
+
+9. Which of the following molecules is nonpolar despite containing polar bonds due to its symmetrical molecular geometry?
+a) $\text{H}_2\text{O}$
+b) $\text{NH}_3$
+c) $\text{CCl}_4$
+d) $\text{CHCl}_3$
+
+10. What primary type of intermolecular force is responsible for the relatively high boiling point of water ($\text{H}_2\text{O}$) compared to other molecules of similar molar mass?
+a) London dispersion forces
+b) Dipole-dipole interactions
+c) Hydrogen bonding
+d) Ionic bonding
+
+11. How much heat energy ($q$) in Joules is required to raise the temperature of $50.0\text{ g}$ of liquid water from $20.0^\circ\text{C}$ to $40.0^\circ\text{C}$?
+*(Specific heat capacity of water, $c_p = 4.184\text{ J/g}^\circ\text{C}$)*
+a) $209\text{ J}$
+b) $1,046\text{ J}$
+c) $4,184\text{ J}$
+d) $8,368\text{ J}$
+
+12. Which phase change is endothermic?
+a) Condensation of water vapor into liquid water
+b) Freezing of liquid water into ice
+c) Sublimation of solid dry ice into carbon dioxide gas
+d) Deposition of water vapor into frost
+
+13. Diamond ($\text{C}$) and quartz ($\text{SiO}_2$) belong to which category of crystalline solids?
+a) Ionic solids
+b) Molecular solids
+c) Covalent network solids
+d) Metallic solids
+
+14. What happens to the temperature of a pure substance while it is undergoing melting at its normal melting point on a heating curve?
+a) The temperature increases steadily as heat is added)
+b) The temperature decreases temporarily due to heat absorption.
+c) The temperature remains constant until the phase change is complete.
+d) The temperature fluctuates depending on the rate of heating.
+
+15. Which statement best explains why liquid mercury forms a convex (curved upward) meniscus in a glass tube, whereas water forms a concave meniscus?
+a) Water has stronger cohesive forces than adhesive forces with glass.
+b) Mercury has stronger adhesive forces with glass than cohesive forces among its atoms.
+c) Water's adhesive forces to glass are stronger than its internal cohesive forces, while mercury's internal cohesive forces exceed its adhesive forces to glass.
+d) Mercury's density causes it to push away from glass walls regardless of surface forces.
+
+16. The SI-derived unit used to express the molar mass of an atom or compound is grams per mole ($\text{g/mol}$). 
+a) 
+
+* **Answer:** **True**
+
+
+2. The formula unit $\text{CaF}_2$ represents a covalent molecular compound held together by shared pairs of electrons.
+
+* **Answer:** **False** *(It is an ionic compound composed of calcium cations and fluoride anions held together by electrostatic forces.)*
+
+
+
+3. A double bond between two carbon atoms is shorter and stronger than a single bond between two carbon atoms.
+
+* **Answer:** **True**
+
+
+4. According to VSEPR theory, lone pairs (nonbonding pairs) of electrons occupy less space around a central atom than bonding electron pairs, resulting in larger bond angles between terminal atoms.
+
+* **Answer:** **False** *(Lone pairs exert greater repulsive force and occupy more space, causing the bond angles between terminal atoms to compress/decrease.)*
+
+
+
+5. London dispersion forces are instantaneous, temporary dipoles that occur in all molecules, including nonpolar molecules.
+
+* **Answer:** **True**
+
+
+6. During the complete phase transition of $1.0\text{ mole}$ of liquid water to steam at $100^\circ\text{C}$, the temperature of the sample increases by $1.0^\circ\text{C}$ for every $4.184\text{ J}$ of heat absorbed)
+
+* **Answer:** **False** *(Phase transitions are isothermal; added energy goes toward breaking intermolecular forces rather than raising the temperature.)*
+
+
+
+7. Nonmetal atoms generally gain electrons to form negatively charged anions with an electron configuration similar to the nearest noble gas.
+
+* **Answer:** **True**
+
+
+---
+
+### Answer Key for Multiple-Choice Questions
+
+1. **B**
+
+2. **B**
+
+3. **C**
+
+4. **B** *($2 \times [14.01 + 4(1.008)] + 12.01 + 3(16.00) = 96.09\text{ g/mol}$)*
+
+
+5. **B** *(Assume $100\text{ g}$: $40\text{ g C} / 12.01 = 3.33\text{ mol}$; $6.7\text{ g H} / 1.008 = 6.65\text{ mol}$; $53.3\text{ g O} / 16.00 = 3.33\text{ mol}$. Ratio: $1:2:1 \rightarrow \text{CH}_2\text{O}$)*
+
+
+6. **C** *($\text{N}(5) + 3 \times \text{O}(6) + 1\text{ charge} = 24\text{ }e^-$)*
+
+
+7. **B** *(4 electron groups $\rightarrow$ Tetrahedral $EG$; 3 bonds + 1 lone pair $\rightarrow$ Trigonal Pyramidal $MG$)*
+
+
+8. **B** *($\Delta EN = 3.5 - 2.1 = 1.4$, which falls in the range $0.5\text{--}2.0$)*
+
+
+9. **C** *(Tetrahedral geometry with four identical terminal bonds causes individual dipole vectors to cancel out)*
+
+
+10. **C**
+
+11. **D** *($q = m \cdot c_p \cdot \Delta T = 50.0\text{ g} \times 4.184\text{ J/g}^\circ\text{C} \times (40.0 - 20.0)^\circ\text{C} = 4,184\text{ J}$)*
+
+
+12. **C** *(Sublimation requires energy input to go directly from solid to gas)*
+
+
+13. **C**
+
+14. **C**
+
+15. **C**

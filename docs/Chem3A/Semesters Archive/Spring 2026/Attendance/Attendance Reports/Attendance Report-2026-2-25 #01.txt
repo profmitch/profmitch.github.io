@@ -1,0 +1,259 @@
+ATTENDANCE REPORT for Chemistry 3A
+Generated:  2/25/2026
+
+files used to generate this report
+Roster Records:
+
+Roster Files:
+   D:/ProfMitch GitHub/profmitch.github.io/Teaching/Chemistry/Spring 2026 3A/Attendance/Roster Records/Chem3a-19321 roster 20260207.prn
+   D:/ProfMitch GitHub/profmitch.github.io/Teaching/Chemistry/Spring 2026 3A/Attendance/Roster Records/Chem3a-19320 roster 20260207.prn
+
+Attendance Records:
+   Chem3A Attendance 20260205.csv
+
+======================================================================================
+Session Code: 91206TUE
+Session Date: 2/5/2026
+Session Type: Tuesday Lab
+----
+
+------ UNMATCHED PRESENT   (count = 0)
+--NONE--
+
+------ ABSENT   (count = 28)
+NAME                       STUDENTID EMAIL                          SECTION SESSIONTYPE WAITLISTPOSITION
+Alvarado Hanggi, Alexander 1043122   ACAlvaradoHanggi1@MY.SCCCD.EDU 19320   Tuesday Lab                 
+Alzamazmi, Yusef           1052687   YZAlzamazmi1@MY.SCCCD.EDU      19320   Tuesday Lab                 
+Anchondo, Leah             1012027   LMAnchondo1@MY.SCCCD.EDU       19320   Tuesday Lab                 
+Argueta, Marcos            1022835   MGArgueta1@MY.SCCCD.EDU        19320   Tuesday Lab                 
+Contreras, Rosa            0915236   RMContreras4@MY.SCCCD.EDU      19320   Tuesday Lab                 
+Cordova, Tara              0968050   TRCordova1@MY.SCCCD.EDU        19320   Tuesday Lab                 
+Corrales, Cindy            0863823   CYCorrales1@MY.SCCCD.EDU       19320   Tuesday Lab                 
+Cruz, Noah                 1044628   NJCruz3@MY.SCCCD.EDU           19320   Tuesday Lab                 
+Escareno, Shantal          1047747   SEscareno3@MY.SCCCD.EDU        19320   Tuesday Lab                 
+Garcia Calvario, Ivan      1053789   IMGarciaCalvario1@MY.SCCCD.EDU 19320   Tuesday Lab                 
+Garcia Hernandez, Evelyn   0951887   EGarciaHernandez5@MY.SCCCD.EDU 19320   Tuesday Lab                 
+Howard-Hughes, Aja         0979883   ALHowardHughes1@MY.SCCCD.EDU   19320   Tuesday Lab                 
+Kaur, Vardaanvir           1054041   VKaur12@MY.SCCCD.EDU           19320   Tuesday Lab                 
+Lopez, Ishmael             1012110   IJLopez9@MY.SCCCD.EDU          19320   Tuesday Lab                 
+Lopez, Mylissa             0638890   MLopez359@MY.SCCCD.EDU         19320   Tuesday Lab                 
+Madrigal, Maritza          1058727   MMadrigal55@MY.SCCCD.EDU       19320   Tuesday Lab                 
+Moua, Ian                  1056547   INMoua2@MY.SCCCD.EDU           19320   Tuesday Lab                 
+Ocampo, Xionaya            0972874   XAOcampo1@MY.SCCCD.EDU         19320   Tuesday Lab                 
+Perez-Rodriguez, Cristina  1090762   CAPerezRodriguez3@MY.SCCCD.EDU 19320   Tuesday Lab                 
+Ramos-Ruiz, Naomi          0870617   NPRamosRuiz1@MY.SCCCD.EDU      19320   Tuesday Lab                 
+Rana, Amir Xian Jaryl      1060870   AMRana1@MY.SCCCD.EDU           19320   Tuesday Lab                 
+Rios, Tayler               0934356   TKRios1@MY.SCCCD.EDU           19320   Tuesday Lab                 
+Romero, Alexis             0692985   ARomero102@MY.SCCCD.EDU        19320   Tuesday Lab                 
+Rullan, Brialyn            1021678   BCRullan3@MY.SCCCD.EDU         19320   Tuesday Lab                 
+Sanchez, Brianna           1065787   BJSanchez7@MY.SCCCD.EDU        19320   Tuesday Lab                 
+Sequeiros, Arely           0880073   ACSequeiros1@MY.SCCCD.EDU      19320   Tuesday Lab                 
+Sinsuan, Steffany Joy      0973521   SCSinsuan1@MY.SCCCD.EDU        19320   Tuesday Lab                 
+Villanueva, Victor         1075713   VJVillanueva2@MY.SCCCD.EDU     19320   Tuesday Lab                 
+
+------ PRESENT   (count = 1)
+NAME             STUDENTID SECTION TIMESTAMP                 SESSIONTYPE WAITLISTPOSITION
+Brar, Khushpreet 1054023   19320   2026/02/05 5:01:19 PM PST Tuesday Lab                 
+
+
+
+======================================================================================
+Session Code: 78541LEC
+Session Date: 2/5/2026
+Session Type: Lecture
+----
+
+------ UNMATCHED PRESENT   (count = 2)
+STUDENTID RECORDEDNAME           TIMESTAMP SESSIONTYPE
+0195236   Rosa Marisol Contreras           Lecture    
+0934346                                    Lecture    
+
+------ ABSENT   (count = 11)
+NAME                  STUDENTID EMAIL                        SECTION SESSIONTYPE WAITLISTPOSITION
+Contreras, Rosa       0915236   RMContreras4@MY.SCCCD.EDU    19320   Lecture                     
+Cordova, Tara         0968050   TRCordova1@MY.SCCCD.EDU      19320   Lecture                     
+Howard-Hughes, Aja    0979883   ALHowardHughes1@MY.SCCCD.EDU 19320   Lecture                     
+Lopez, Mylissa        0638890   MLopez359@MY.SCCCD.EDU       19320   Lecture                     
+Madrigal, Maritza     1058727   MMadrigal55@MY.SCCCD.EDU     19320   Lecture                     
+Ocampo, Xionaya       0972874   XAOcampo1@MY.SCCCD.EDU       19320   Lecture                     
+Rios, Tayler          0934356   TKRios1@MY.SCCCD.EDU         19320   Lecture                     
+Sinsuan, Steffany Joy 0973521   SCSinsuan1@MY.SCCCD.EDU      19320   Lecture                     
+Carrillo, Noe         0959275   NMCarrillo1@MY.SCCCD.EDU     19321   Lecture                     
+Gonzalez, Elizabeth   0663703   EGonzalez164@MY.SCCCD.EDU    19321   Lecture                     
+Lopez, Briana         1067159   BLopez128@MY.SCCCD.EDU       19321   Lecture                     
+
+------ PRESENT   (count = 48)
+NAME                       STUDENTID SECTION TIMESTAMP                 SESSIONTYPE WAITLISTPOSITION
+Alvarado Hanggi, Alexander 1043122   19320   2026/02/05 6:18:28 PM PST Lecture                     
+Alzamazmi, Yusef           1052687   19320   2026/02/05 6:17:26 PM PST Lecture                     
+Anchondo, Leah             1012027   19320   2026/02/05 6:16:10 PM PST Lecture                     
+Argueta, Marcos            1022835   19320   2026/02/05 6:16:46 PM PST Lecture                     
+Brar, Khushpreet           1054023   19320   2026/02/05 6:16:47 PM PST Lecture                     
+Corrales, Cindy            0863823   19320   2026/02/05 6:16:19 PM PST Lecture                     
+Cruz, Noah                 1044628   19320   2026/02/05 6:17:23 PM PST Lecture                     
+Escareno, Shantal          1047747   19320   2026/02/05 6:18:14 PM PST Lecture                     
+Garcia Calvario, Ivan      1053789   19320   2026/02/05 6:16:20 PM PST Lecture                     
+Garcia Hernandez, Evelyn   0951887   19320   2026/02/05 6:16:36 PM PST Lecture                     
+Kaur, Vardaanvir           1054041   19320   2026/02/05 6:16:06 PM PST Lecture                     
+Lopez, Ishmael             1012110   19320   2026/02/05 6:17:48 PM PST Lecture                     
+Moua, Ian                  1056547   19320   2026/02/05 6:16:29 PM PST Lecture                     
+Perez-Rodriguez, Cristina  1090762   19320   2026/02/05 6:16:13 PM PST Lecture                     
+Ramos-Ruiz, Naomi          0870617   19320   2026/02/05 6:17:06 PM PST Lecture                     
+Rana, Amir Xian Jaryl      1060870   19320   2026/02/05 6:16:37 PM PST Lecture                     
+Romero, Alexis             0692985   19320   2026/02/05 6:16:47 PM PST Lecture                     
+Rullan, Brialyn            1021678   19320   2026/02/05 6:24:29 PM PST Lecture                     
+Sanchez, Brianna           1065787   19320   2026/02/05 6:17:48 PM PST Lecture                     
+Sequeiros, Arely           0880073   19320   2026/02/05 6:16:11 PM PST Lecture                     
+Villanueva, Victor         1075713   19320   2026/02/05 6:17:29 PM PST Lecture                     
+Castro-James, Elijah       0862449   19321   2026/02/05 6:16:52 PM PST Lecture                     
+Cooper, Khamarri           1023112   19321   2026/02/05 6:17:01 PM PST Lecture                     
+Coronado, Jacob John       0873827   19321   2026/02/05 6:16:33 PM PST Lecture                     
+Esparza, Andrew            0897993   19321   2026/02/05 6:16:39 PM PST Lecture                     
+Estrada Hernandez, Alondra 0952999   19321   2026/02/05 6:16:09 PM PST Lecture                     
+Franco, Matthew            0914213   19321   2026/02/05 6:17:15 PM PST Lecture                     
+Hargrave, Brandon          0894716   19321   2026/02/05 6:17:51 PM PST Lecture                     
+Hernandez Zamorano, Aleyda 1065482   19321   2026/02/05 6:19:48 PM PST Lecture                     
+Jensen, Caitlen            0605357   19321   2026/02/05 6:16:28 PM PST Lecture                     
+Jones, Joshua              0395213   19321   2026/02/05 6:16:33 PM PST Lecture                     
+Leal, Emili                0940189   19321   2026/02/05 6:16:25 PM PST Lecture                     
+Lee, Ia                    0431206   19321   2026/02/05 6:17:03 PM PST Lecture                     
+Lewis, Cortney             0893445   19321   2026/02/05 6:17:47 PM PST Lecture                     
+Mendez, Mitxell            1029129   19321   2026/02/05 6:16:10 PM PST Lecture                     
+Montijo-Merancio, Taylor   0927257   19321   2026/02/05 6:16:13 PM PST Lecture                     
+Moua, Ashtyn               1031196   19321   2026/02/05 6:16:30 PM PST Lecture                     
+Mubarak, Maya              1060108   19321   2026/02/05 6:16:16 PM PST Lecture                     
+Ortiz, Nathan              1019941   19321   2026/02/05 6:18:27 PM PST Lecture                     
+Pastrana, Emily            1049326   19321   2026/02/05 6:16:17 PM PST Lecture                     
+Pereira Pedraza, Grecia    0667404   19321   2026/02/05 6:16:00 PM PST Lecture                     
+Romero, Angel              0932310   19321   2026/02/05 6:16:26 PM PST Lecture                     
+Smith, Mariam              0483202   19321   2026/02/05 6:16:22 PM PST Lecture                     
+Staton, Erica              0867505   19321   2026/02/05 6:16:10 PM PST Lecture                     
+Tapia Mendoza, Yasmin      1045370   19321   2026/02/05 6:16:35 PM PST Lecture                     
+Turna, Chetanya            1033032   19321   2026/02/05 6:16:25 PM PST Lecture                     
+Yang, Celine               1055302   19321   2026/02/05 6:16:29 PM PST Lecture                     
+Yang, Kaleen               0747932   19321   2026/02/05 6:16:22 PM PST Lecture                     
+
+
+
+======================================================================================
+Session Code: 78541LEC 
+Session Date: 2/5/2026
+Session Type: Lecture
+----
+
+------ UNMATCHED PRESENT   (count = 0)
+--NONE--
+
+------ ABSENT   (count = 58)
+NAME                       STUDENTID EMAIL                             SECTION SESSIONTYPE WAITLISTPOSITION
+Alvarado Hanggi, Alexander 1043122   ACAlvaradoHanggi1@MY.SCCCD.EDU    19320   Lecture                     
+Alzamazmi, Yusef           1052687   YZAlzamazmi1@MY.SCCCD.EDU         19320   Lecture                     
+Anchondo, Leah             1012027   LMAnchondo1@MY.SCCCD.EDU          19320   Lecture                     
+Argueta, Marcos            1022835   MGArgueta1@MY.SCCCD.EDU           19320   Lecture                     
+Brar, Khushpreet           1054023   KKBrar9@MY.SCCCD.EDU              19320   Lecture                     
+Contreras, Rosa            0915236   RMContreras4@MY.SCCCD.EDU         19320   Lecture                     
+Cordova, Tara              0968050   TRCordova1@MY.SCCCD.EDU           19320   Lecture                     
+Corrales, Cindy            0863823   CYCorrales1@MY.SCCCD.EDU          19320   Lecture                     
+Cruz, Noah                 1044628   NJCruz3@MY.SCCCD.EDU              19320   Lecture                     
+Escareno, Shantal          1047747   SEscareno3@MY.SCCCD.EDU           19320   Lecture                     
+Garcia Calvario, Ivan      1053789   IMGarciaCalvario1@MY.SCCCD.EDU    19320   Lecture                     
+Garcia Hernandez, Evelyn   0951887   EGarciaHernandez5@MY.SCCCD.EDU    19320   Lecture                     
+Howard-Hughes, Aja         0979883   ALHowardHughes1@MY.SCCCD.EDU      19320   Lecture                     
+Kaur, Vardaanvir           1054041   VKaur12@MY.SCCCD.EDU              19320   Lecture                     
+Lopez, Ishmael             1012110   IJLopez9@MY.SCCCD.EDU             19320   Lecture                     
+Lopez, Mylissa             0638890   MLopez359@MY.SCCCD.EDU            19320   Lecture                     
+Madrigal, Maritza          1058727   MMadrigal55@MY.SCCCD.EDU          19320   Lecture                     
+Moua, Ian                  1056547   INMoua2@MY.SCCCD.EDU              19320   Lecture                     
+Ocampo, Xionaya            0972874   XAOcampo1@MY.SCCCD.EDU            19320   Lecture                     
+Perez-Rodriguez, Cristina  1090762   CAPerezRodriguez3@MY.SCCCD.EDU    19320   Lecture                     
+Ramos-Ruiz, Naomi          0870617   NPRamosRuiz1@MY.SCCCD.EDU         19320   Lecture                     
+Rana, Amir Xian Jaryl      1060870   AMRana1@MY.SCCCD.EDU              19320   Lecture                     
+Rios, Tayler               0934356   TKRios1@MY.SCCCD.EDU              19320   Lecture                     
+Romero, Alexis             0692985   ARomero102@MY.SCCCD.EDU           19320   Lecture                     
+Rullan, Brialyn            1021678   BCRullan3@MY.SCCCD.EDU            19320   Lecture                     
+Sanchez, Brianna           1065787   BJSanchez7@MY.SCCCD.EDU           19320   Lecture                     
+Sequeiros, Arely           0880073   ACSequeiros1@MY.SCCCD.EDU         19320   Lecture                     
+Sinsuan, Steffany Joy      0973521   SCSinsuan1@MY.SCCCD.EDU           19320   Lecture                     
+Villanueva, Victor         1075713   VJVillanueva2@MY.SCCCD.EDU        19320   Lecture                     
+Carrillo, Noe              0959275   NMCarrillo1@MY.SCCCD.EDU          19321   Lecture                     
+Castro-James, Elijah       0862449   ENCastroJames1@MY.SCCCD.EDU       19321   Lecture                     
+Cooper, Khamarri           1023112   KFCooper1@MY.SCCCD.EDU            19321   Lecture                     
+Coronado, Jacob John       0873827   JJCoronado2@MY.SCCCD.EDU          19321   Lecture                     
+Esparza, Andrew            0897993   AAEsparza2@MY.SCCCD.EDU           19321   Lecture                     
+Estrada Hernandez, Alondra 0952999   ASEstradaHernandez1@MY.SCCCD.EDU  19321   Lecture                     
+Franco, Matthew            0914213   MHFranco3@MY.SCCCD.EDU            19321   Lecture                     
+Gonzalez, Elizabeth        0663703   EGonzalez164@MY.SCCCD.EDU         19321   Lecture                     
+Hargrave, Brandon          0894716   BWHargrave1@MY.SCCCD.EDU          19321   Lecture                     
+Hernandez Zamorano, Aleyda 1065482   AYHernandezZamorano1@MY.SCCCD.EDU 19321   Lecture                     
+Jensen, Caitlen            0605357   CAJensen1@MY.SCCCD.EDU            19321   Lecture                     
+Jones, Joshua              0395213   JRJones2@MY.SCCCD.EDU             19321   Lecture                     
+Leal, Emili                0940189   EELeal1@MY.SCCCD.EDU              19321   Lecture                     
+Lee, Ia                    0431206   IOLee1@MY.SCCCD.EDU               19321   Lecture                     
+Lewis, Cortney             0893445   CALewis5@MY.SCCCD.EDU             19321   Lecture                     
+Mendez, Mitxell            1029129   MMendez72@MY.SCCCD.EDU            19321   Lecture                     
+Montijo-Merancio, Taylor   0927257   TJMontijoMerancio1@MY.SCCCD.EDU   19321   Lecture                     
+Moua, Ashtyn               1031196   ATMoua6@MY.SCCCD.EDU              19321   Lecture                     
+Mubarak, Maya              1060108   MYMubarak1@MY.SCCCD.EDU           19321   Lecture                     
+Ortiz, Nathan              1019941   NEOrtiz2@MY.SCCCD.EDU             19321   Lecture                     
+Pastrana, Emily            1049326   EEPastrana1@MY.SCCCD.EDU          19321   Lecture                     
+Pereira Pedraza, Grecia    0667404   GPereiraPedraza1@MY.SCCCD.EDU     19321   Lecture                     
+Romero, Angel              0932310   AERomero4@MY.SCCCD.EDU            19321   Lecture                     
+Smith, Mariam              0483202   MSmith155@MY.SCCCD.EDU            19321   Lecture                     
+Staton, Erica              0867505   EAStaton1@MY.SCCCD.EDU            19321   Lecture                     
+Tapia Mendoza, Yasmin      1045370   YTapiaMendoza1@MY.SCCCD.EDU       19321   Lecture                     
+Turna, Chetanya            1033032   CTurna1@MY.SCCCD.EDU              19321   Lecture                     
+Yang, Celine               1055302   CYang363@MY.SCCCD.EDU             19321   Lecture                     
+Yang, Kaleen               0747932   KKYang6@MY.SCCCD.EDU              19321   Lecture                     
+
+------ PRESENT   (count = 1)
+NAME          STUDENTID SECTION TIMESTAMP                 SESSIONTYPE WAITLISTPOSITION
+Lopez, Briana 1067159   19321   2026/02/05 6:16:15 PM PST Lecture                     
+
+
+
+======================================================================================
+Session Code: 20839THU
+Session Date: 2/5/2026
+Session Type: Thursday Lab
+----
+
+------ UNMATCHED PRESENT   (count = 1)
+STUDENTID RECORDEDNAME TIMESTAMP SESSIONTYPE 
+0797432   Kaleen Yang            Thursday Lab
+
+------ ABSENT   (count = 3)
+NAME                    STUDENTID EMAIL                         SECTION SESSIONTYPE  WAITLISTPOSITION
+Gonzalez, Elizabeth     0663703   EGonzalez164@MY.SCCCD.EDU     19321   Thursday Lab                 
+Pereira Pedraza, Grecia 0667404   GPereiraPedraza1@MY.SCCCD.EDU 19321   Thursday Lab                 
+Yang, Kaleen            0747932   KKYang6@MY.SCCCD.EDU          19321   Thursday Lab                 
+
+------ PRESENT   (count = 27)
+NAME                       STUDENTID SECTION TIMESTAMP                 SESSIONTYPE  WAITLISTPOSITION
+Carrillo, Noe              0959275   19321   2026/02/05 7:47:46 PM PST Thursday Lab                 
+Castro-James, Elijah       0862449   19321   2026/02/05 7:53:14 PM PST Thursday Lab                 
+Cooper, Khamarri           1023112   19321   2026/02/05 7:47:35 PM PST Thursday Lab                 
+Coronado, Jacob John       0873827   19321   2026/02/05 7:47:35 PM PST Thursday Lab                 
+Esparza, Andrew            0897993   19321   2026/02/05 7:48:22 PM PST Thursday Lab                 
+Estrada Hernandez, Alondra 0952999   19321   2026/02/05 7:07:00 PM PST Thursday Lab                 
+Franco, Matthew            0914213   19321   2026/02/05 7:03:21 PM PST Thursday Lab                 
+Hargrave, Brandon          0894716   19321   2026/02/05 8:10:18 PM PST Thursday Lab                 
+Hernandez Zamorano, Aleyda 1065482   19321   2026/02/05 7:47:48 PM PST Thursday Lab                 
+Jensen, Caitlen            0605357   19321   2026/02/05 8:00:33 PM PST Thursday Lab                 
+Jones, Joshua              0395213   19321   2026/02/05 7:47:32 PM PST Thursday Lab                 
+Leal, Emili                0940189   19321   2026/02/05 7:47:34 PM PST Thursday Lab                 
+Lee, Ia                    0431206   19321   2026/02/05 7:53:23 PM PST Thursday Lab                 
+Lewis, Cortney             0893445   19321   2026/02/05 8:07:02 PM PST Thursday Lab                 
+Lopez, Briana              1067159   19321   2026/02/05 8:09:32 PM PST Thursday Lab                 
+Mendez, Mitxell            1029129   19321   2026/02/05 8:14:32 PM PST Thursday Lab                 
+Montijo-Merancio, Taylor   0927257   19321   2026/02/05 7:53:10 PM PST Thursday Lab                 
+Moua, Ashtyn               1031196   19321   2026/02/05 7:47:39 PM PST Thursday Lab                 
+Mubarak, Maya              1060108   19321   2026/02/05 7:47:19 PM PST Thursday Lab                 
+Ortiz, Nathan              1019941   19321   2026/02/05 8:09:45 PM PST Thursday Lab                 
+Pastrana, Emily            1049326   19321   2026/02/05 8:14:01 PM PST Thursday Lab                 
+Romero, Angel              0932310   19321   2026/02/05 7:40:09 PM PST Thursday Lab                 
+Smith, Mariam              0483202   19321   2026/02/05 8:04:45 PM PST Thursday Lab                 
+Staton, Erica              0867505   19321   2026/02/05 7:07:03 PM PST Thursday Lab                 
+Tapia Mendoza, Yasmin      1045370   19321   2026/02/05 8:02:52 PM PST Thursday Lab                 
+Turna, Chetanya            1033032   19321   2026/02/05 7:16:37 PM PST Thursday Lab                 
+Yang, Celine               1055302   19321   2026/02/05 8:05:45 PM PST Thursday Lab                 
+

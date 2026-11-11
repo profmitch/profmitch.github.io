@@ -1,0 +1,204 @@
+Stoichiometry,Yields,LimitingReactant,EnthalpyChanges
+
+1. How many moles of \\( \ce{CO2 are produced when **14.00 mol of \\( \ce{O2** react completely in the reaction:  \\( \ce{2 C2H6 + 7 O2 -> 4 CO2 + 6 H2O} \\)
+a) 2.00 mol  
+b) 4.00 mol  
+c) 6.00 mol
+*d) 8.00 mol  
+
+2. How many grams of NH3 are produced from **5.00 g of H2**?  \\( \ce{N2 + 3 H2 -> 2 NH3} \\) (Molar masses: \\( \ce{H2} \\) = 2.02 g/mol, \\( \ce{NH3} \\) = 17.03 g/mol)  
+a) 14.1 g  
+*b) 28.1 g  
+c) 42.3 g  
+d) 85.0 g  
+
+3. A solution contains **0.250 M HCl**. What volume (in mL) contains **0.0500 mol** of HCl?  
+a) 20.0 mL  
+b) 50.0 mL  
+c) 100.0 mL  
+*d) 200.0 mL  
+
+4. In the reaction  \\( \ce{2 Al + 3 Cl2 -> 2 AlCl3} \\), if 5.00 mol Al react with 5.00 mol \\( \ce{Cl2} \\), which is the limiting reactant?  
+a) Al  
+*b) \\( \ce{Cl2  
+c) Neither; they react in perfect ratio  
+d) Cannot be determined  
+
+5. A reaction has a theoretical yield of **12.0 g** but produces **9.00 g** of product.  What is the percent yield?  
+a) 25.0%  
+b) 60.0%  
+*c) 75.0%  
+d) 133%  
+
+6. The thermochemical equation is:  \\( \ce{2 H2 + O2 -> 2 H2O} \\) ΔH = –572 kJ. What is ΔH when **1.00 mol** of \\( \ce{H2} \\) reacts?  
+a) –143 kJ  
+*b) –286 kJ  
+c) –572 kJ  
+d) –1144 kJ  
+
+7. A titration requires **22.5 mL** of **0.100 M NaOH** to neutralize an HCl sample.  How many moles of HCl were present?  
+*a) 0.00225 mol  
+b) 0.0225 mol  
+c) 0.225 mol  
+d) 2.25 mol  
+
+8. At STP, what volume does **2.50 mol** of an ideal gas occupy?  
+a) 11.2 L  
+b) 22.4 L  
+c) 44.8 L  
+*d) 56.0 L  
+
+9. A reaction mixture contains 10.0 g of A and 10.0 g of B.  The limiting reactant produces **6.00 g** of product.  If the actual yield is **4.50 g**, what is the percent yield?  
+a) 45.0%  
+b) 60.0%  
+*c) 75.0%  
+d) 133%  
+
+1. How many moles of \\( \ce{H2O are produced when **3.00 mol of \\( \ce{O2** react completely?  \\( \ce{2 H2 + O2 -> 2 H2O} \\)  
+a) 1.50 mol  
+b) 3.00 mol  
+c) 4.00 mol  
+*d) 6.00 mol  
+
+2. How many grams of CO2 form from **10.0 g of C2H6**?  \\( \ce{2 C2H6 + 7 O2 -> 4 CO2 + 6 H2O} \\)  (Molar masses: \\( \ce{C2H6} \\) = 30.07 g/mol, \\( \ce{CO2} \\) = 44.01 g/mol)  
+*a) 14.6 g  
+b) 29.2 g  
+c) 58.4 g  
+d) 87.6 g  
+
+3. A solution contains **0.150 M NaOH**.  How many mL contain **0.0300 mol** NaOH?
+a) 50.0 mL  
+b) 100.0 mL  
+c) 150.0 mL  
+*d) 200.0 mL  
+
+4. In the reaction  \\( \ce{4 Fe + 3 O2 -> 2 Fe2O3} \\)  If 8.00 mol Fe react with 4.00 mol \\( \ce{O2} \\), the limiting reactant is:  
+a) Fe  
+*b) \\( \ce{O2  
+c) Neither  
+d) Cannot be determined  
+
+5. A reaction has a theoretical yield of **25.0 g** and an actual yield of **20.0 g**.  What is the percent yield?  
+a) 50.0%  
+*b) 80.0%  
+c) 125%  
+d) 500%  
+
+6. The thermochemical equation is:  \\( \ce{N2 + 3 H2 -> 2 NH3} \\) ΔH = –92 kJ   What is ΔH for producing **1.00 mol \\( \ce{NH3**?  
+a) –23 kJ  
+*b) –46 kJ  
+c) –92 kJ  
+d) –184 kJ  
+
+7. A titration requires **35.0 mL** of **0.200 M HCl** to neutralize NaOH.  How many moles of HCl were used?  
+a) 0.00350 mol  
+*b) 0.00700 mol  
+c) 0.0350 mol  
+d) 0.0700 mol  
+
+8. At STP, what volume does **0.750 mol** of an ideal gas occupy?  
+a) 11.2 L  
+*b) 16.8 L  
+c) 22.4 L  
+d) 44.8 L  
+
+9. A reaction produces **12.0 g** of product but the theoretical yield is **15.0 g**.  What is the percent yield?  
+a) 20.0%  
+b) 60.0%  
+*c) 80.0%  
+d) 125%  
+
+1. How many moles of \\( \ce{O2} \\) are required to completely react with **4.00 mol of H2**?   \\( \ce{2 H2 + O2 -> 2 H2O} \\)  
+a) 1.00 mol  
+*b) 2.00 mol  
+c) 4.00 mol  
+d) 8.00 mol  
+
+2. How many grams of \\( \ce{H2O are produced from **6.00 g of \\( \ce{H2**?   \\( \ce{2 H2 + O2 -> 2 H2O} \\)   (Molar masses: \\( \ce{H2} \\) = 2.02 g/mol, \\( \ce{H2O} \\) = 18.02 g/mol)  
+a) 18.0 g  
+b) 26.7 g  
+*c) 53.5 g  
+d) 108 g  
+
+3. A solution contains **0.300 M \\( \ce{HNO3} \\)**.  How many mL contain **0.0600 mol** \\( \ce{HNO3} \\)?  
+a) 50.0 mL  
+b) 100.0 mL  
+c) 150.0 mL  
+*d) 200.0 mL  
+
+4. In the reaction  \\( \ce{2 K + Cl2 -> 2 KCl} \\)   If 5.00 mol K react with 2.00 mol \\( \ce{Cl2} \\), the limiting reactant is:  
+a) K  
+*b) Cl2  
+c) Neither  
+d) Cannot be determined  
+
+5. A reaction has a theoretical yield of **40.0 g** and an actual yield of **30.0 g**.   What is the percent yield?  
+a) 50.0%  
+b) 66.7%  
+*c) 75.0%  
+d) 133%  
+
+6. The thermochemical equation is:  \\( \ce{C + O2 -> CO2} \\) ΔH = –394 kJ   What is ΔH for producing **2.00 mol \\( \ce{CO2} \\)**?  
+a) –197 kJ  
+b) –394 kJ  
+*c) –788 kJ  
+d) –1576 kJ  
+
+7. A titration requires **18.0 mL** of **0.250 M NaOH** to neutralize HCl.  How many moles of NaOH were used?  
+a) 0.00225 mol  
+*b) 0.00450 mol  
+c) 0.0180 mol  
+d) 0.0450 mol  
+
+8. At STP, what volume does **1.80 mol** of an ideal gas occupy?  
+a) 22.4 L  
+b) 33.6 L  
+*c) 40.3 L  
+d) 50.4 L  
+
+9. A reaction produces **9.00 g** of product but the theoretical yield is **12.0 g**.  What is the percent yield?  
+a) 25.0%  
+b) 50.0%  
+*c) 75.0%  
+d) 133%  
+
+1. In any balanced chemical reaction, the mole ratio between reactants and products comes directly from the coefficients in the balanced equation.  
+*a) true
+b) false
+
+2. In stoichiometry, converting grams -> moles -> grams always requires the molar mass of at least one compound.  
+*a) true
+b) false
+
+3. In solution stoichiometry, the relationship “moles = molarity \times volume (in liters)” is always valid.  
+*a) true
+b) false
+
+4. A limiting reactant is the reactant that is present in the smallest mass.  
+a) true
+*b) false
+
+5. Percent yield can never exceed 100%.  
+a) true
+*b) false
+(Note: While theoretically true, in a lab setting contamination or incomplete drying can lead to values >100%, making "never" scientifically false.)
+
+6. A thermochemical equation shows the enthalpy change (ΔH) for the reaction as written, including the specific mole amounts.  
+*a) true
+b) false
+
+7. If ΔH is negative, the reaction is exothermic and releases heat to the surroundings.  
+*a) true
+b) false
+
+8. At STP, 1 mole of any ideal gas occupies 22.4 L.  
+*a) true
+b) false
+
+9. In titration, the equivalence point is reached when moles of acid equal moles of base according to the reaction ratio.  
+*a) true
+b) false
+
+10. A reaction with a large negative ΔH always proceeds quickly.  
+a) true
+*b) false

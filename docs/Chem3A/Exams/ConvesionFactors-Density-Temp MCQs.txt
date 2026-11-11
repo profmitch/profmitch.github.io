@@ -1,0 +1,73 @@
+Text: Use of Convesion Factors, Calculating Density & Temperature
+
+1. Which expression correctly converts 65.0 miles to kilometers? (1 mile = 1.609 km)  
+a) \(65.0 \times \frac{1}{1.609}\)  
+*b) \(65.0 \times 1.609\)  
+c) \(65.0 \div 1.609\)  
+d) \(65.0 + 1.609\)
+
+2. A piece of metal has a mass of 25.0 g and a volume of 5.0 mL. What is its density?
+a) 0.20 g/mL
+b) 125 g/mL
+*c) 5.0 g/mL
+d) 5.00 g/mL
+
+3. If a substance has a temperature of 300 K, what is its temperature in Celsius?
+*a) 27 C
+b) 573 C
+c) 30 C
+d) 0 C
+
+4. A sample has a mass of 18.0 g and a volume of 12.0 mL. What is its density?
+a) 0.67 g/mL  
+b) 0.75 g/mL  
+c) 2.16 g/mL  
+*d) 1.50 g/mL
+
+5. A liquid has a density of 0.85 g/mL. What volume is occupied by 10.0 g?
+a) 8.5 mL  
+*b) 11.8 mL  
+c) 12.5 mL  
+d) 0.085 mL  
+
+6. Convert 298 K to °C.
+*a) 25 °C  
+b) 273 °C  
+c) 571 °C  
+d) –25 °C
+
+7. Convert –15 °C to Kelvin.
+a) 15 K  
+b) 200 K
+*c) 258 K  
+d) 273 K  
+
+8. Which conversion factor is considered to have "infinite" significant digits?
+*a) $1\text{ inch} = 2.54\text{ cm}$ 
+b) A mass measured on a digital scale
+c) The volume of a liquid in a graduated cylinder
+d) None of the above
+
+9. Convert $0.050\text{ kilometers (km)}$ to meters (m).
+a) $0.50\text{ m}$
+b) $5.0\text{ m}$
+*c) $50\text{ m}$ 
+d) $500\text{ m}$
+ 
+10. Convert 315 K to °C.
+*a) 42 °C  
+b) 273 °C  
+c) –42 °C  
+d) 315 °C
+
+11. Convert –30 °C to Kelvin.
+a) 303 K  
+b) 273 K  
+*c) 243 K  
+d) 30 K
+
+12. A sample has a density of 2.50 g/mL and a volume of 4.0 mL. What is its mass?
+a). 0.625 g  
+b) 1.6 g 
+c) 6.3 g 
+*d) 10.0 g

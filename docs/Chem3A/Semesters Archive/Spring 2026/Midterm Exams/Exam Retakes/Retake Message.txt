@@ -1,0 +1,35 @@
+
+```
+Hi <first-name>,
+
+You requested to retake midterm exam <midterm-exam-number>. Your exam will be ready for you on <exam-date>.
+
+If your exam is Friday 8 May, you will report to the GRASP Room in NS-127 where your exam will be administered by the full-time instructors of the Chemistry Department. They are open between 8 a.m. and 2 p.m., so you can report any time in that period, but you should be there before the 2 p.m. close with enough time that you need to take the exam. If you think you need 90 min, be there by 12:30 p.m.
+
+The staff will be informed of the conditions in which you take the exam (see below). Your exam will have your name and Student ID printed on it, so bring your FCC Student ID!!
+
+If your exam is earlier (Tuesday 5 May or Thursday 7 May) at your request, you will come to Room NS-335 where I will be there to administer your examination. You do not need to bring your student ID since I know you.
+
+======
+
+Conditions:
+• You will CIRCLE the letter of the choice among your choices directly on the exam questions page. Make sure you circle your answer clearly. DO NOT BRING a SCANTRON or 50 Q OMR sheet.
+• You will have an eraser, a proper calculator, and you are allowed to use 3 x 5 index cards as before
+
+After the exam:
+1. I will score your exam questions pages directly, record the raw score on the front page. (The raw score is not the adjusted score in the Canvas Gradebook.
+2. I will scan the pages of your exam.
+3. I will email you all individually the scan of your pages so you can see your results, and so you also can verify that the scoring is correct.  In the email, I will tell you what the adjusted score is. I will then let you know if your retake score replaces your original, or not (see item 4 below).
+4. In the Canvas Gradebook:
+IF your retake score is higher than your original score, I will have an entry showing "Midterm <exam-number> Retake" with your new score. The original score will be kept for reference, but the Canvas Gradebook will be set NOT to use your original score in grading. 
+IF your retake score is lower than your original score, your original score will be kept for course grading. Your retake score will be recorded in the Gradebook as reference, but it will not be used in course grading.
+5. You should go to the Gradebook and make sure that the retake score replaces your original, if that is the case.
+
+=======
+
+Good luck: I know that if you studied, you will do well.
+
+========
+
+If you have any questions or want to correct anything, send me a message right away.
+```

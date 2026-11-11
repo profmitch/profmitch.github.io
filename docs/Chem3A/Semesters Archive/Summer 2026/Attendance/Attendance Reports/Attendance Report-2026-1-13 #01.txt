@@ -1,0 +1,139 @@
+ATTENDANCE REPORT for Chemistry 3A
+Generated:  1/15/2026
+
+files used to generate this report at bottom of report
+
+========================
+Session Code: 38921LEC
+Session Date: 1/13/2026
+Session Type: Lecture
+----
+
+------ UNMATCHED PRESENT   (count = 4)
+STUDENTID                  RECORDEDNAME   TIMESTAMP SESSIONTYPE
+0863822                                             Lecture    
+Elizabeth Gonzalez 0663703                          Lecture    
+04031206                   Ia Lee                   Lecture    
+0969729                    Adriana Garcia           Lecture    
+
+------ ABSENT   (count = 8)
+NAME                      STUDENTID EMAIL                            SECTION SESSIONTYPE WAITLISTPOSITION
+Carrillo, Noe             0959275   NMCarrillo1@MY.SCCCD.EDU         19321   Lecture                     
+Gonzalez Martinez, Andrea 1048674   AFGonzalezMartinez1@MY.SCCCD.EDU 19321   Lecture                     
+Gonzalez, Elizabeth       0663703   EGonzalez164@MY.SCCCD.EDU        19321   Lecture                     
+Lee, Ia                   0431206   IOLee1@MY.SCCCD.EDU              19321   Lecture                     
+Ortega, Luz               0783353   LMOrtega5@MY.SCCCD.EDU           19321   Lecture                     
+Corrales, Cindy           0863823   CYCorrales1@MY.SCCCD.EDU         19320   Lecture                     
+Mendoza, Jacob            0898731   JMMendoza17@MY.SCCCD.EDU         19320   Lecture                     
+Perez-Rodriguez, Cristina 1090762   CAPerezRodriguez3@MY.SCCCD.EDU   19320   Lecture                     
+
+------ PRESENT   (count = 59)
+NAME                              STUDENTID SECTION TIMESTAMP                 SESSIONTYPE WAITLISTPOSITION
+Cooper, Khamarri                  1023112   19321   2026/01/13 5:59:10 PM PST Lecture                     
+Coronado, Jacob John              0873827   19321   2026/01/13 5:59:47 PM PST Lecture                     
+Estrada Hernandez, Alondra        0952999   19321   2026/01/13 5:59:40 PM PST Lecture                     
+Gomez, Guadalupe                  0505430   19321   2026/01/13 5:59:55 PM PST Lecture                     
+Hargrave, Brandon                 0894716   19321   2026/01/13 5:59:21 PM PST Lecture                     
+Jensen, Caitlen                   0605357   19321   2026/01/13 5:59:42 PM PST Lecture                     
+Jones, Joshua                     0395213   19321   2026/01/13 6:00:03 PM PST Lecture                     
+Leal, Emili                       0940189   19321   2026/01/13 5:59:57 PM PST Lecture                     
+Lewis, Cortney                    0893445   19321   2026/01/13 5:59:56 PM PST Lecture                     
+Lopez Hernandez, Priscila         1048684   19321   2026/01/13 5:59:46 PM PST Lecture                     
+Lopez, Briana                     1067159   19321   2026/01/13 6:00:26 PM PST Lecture                     
+Lopez, Maria                      1043026   19321   2026/01/13 6:02:45 PM PST Lecture                     
+Mendez, Mitxell                   1029129   19321   2026/01/13 5:59:30 PM PST Lecture                     
+Montijo-Merancio, Taylor          0927257   19321   2026/01/13 5:59:23 PM PST Lecture                     
+Mubarak, Maya                     1060108   19321   2026/01/13 5:59:57 PM PST Lecture                     
+Pastrana, Emily                   1049326   19321   2026/01/13 6:29:05 PM PST Lecture                     
+Romero, Angel                     0932310   19321   2026/01/13 5:59:05 PM PST Lecture                     
+Smith, Mariam                     0483202   19321   2026/01/13 6:01:06 PM PST Lecture                     
+Staton, Erica                     0867505   19321   2026/01/13 5:59:58 PM PST Lecture                     
+Tapia Mendoza, Yasmin             1045370   19321   2026/01/13 5:59:53 PM PST Lecture                     
+Yang, Celine                      1055302   19321   2026/01/13 5:59:33 PM PST Lecture                     
+Yang, Jer                         0438856   19321   2026/01/13 6:00:18 PM PST Lecture                     
+Yang, Kaleen                      0747932   19321   2026/01/13 6:00:32 PM PST Lecture                     
+Ortiz, Nathan                     1019941   19321   2026/01/13 5:59:18 PM PST Lecture     2               
+Moua, Ashtyn                      1031196   19321   2026/01/13 5:59:37 PM PST Lecture     1               
+Alvarado Hanggi, Alexander        1043122   19320   2026/01/13 5:59:32 PM PST Lecture                     
+Alzamazmi, Yusef                  1052687   19320   2026/01/13 5:59:32 PM PST Lecture                     
+Anchondo, Leah                    1012027   19320   2026/01/13 5:59:25 PM PST Lecture                     
+Argueta, Marcos                   1022835   19320   2026/01/13 5:59:37 PM PST Lecture                     
+Contreras, Rosa                   0915236   19320   2026/01/13 5:59:48 PM PST Lecture                     
+Cordova, Tara                     0968050   19320   2026/01/13 6:00:03 PM PST Lecture                     
+Cruz, Noah                        1044628   19320   2026/01/13 5:59:36 PM PST Lecture                     
+Detomal, Cherie Jade              1003499   19320   2026/01/13 5:59:33 PM PST Lecture                     
+Escareno, Shantal                 1047747   19320   2026/01/13 5:59:56 PM PST Lecture                     
+Garcia Calvario, Ivan             1053789   19320   2026/01/13 5:59:07 PM PST Lecture                     
+Garcia Hernandez, Evelyn          0951887   19320   2026/01/13 6:00:16 PM PST Lecture                     
+Howard-Hughes, Aja                0979883   19320   2026/01/13 5:59:04 PM PST Lecture                     
+Lopez, Ishmael                    1012110   19320   2026/01/13 5:59:40 PM PST Lecture                     
+Lopez, Mylissa                    0638890   19320   2026/01/13 5:59:18 PM PST Lecture                     
+Madrigal, Maritza                 1058727   19320   2026/01/13 6:04:14 PM PST Lecture                     
+Martinez Pacheco, Yanexzi Luruama 0753867   19320   2026/01/13 5:59:27 PM PST Lecture                     
+Moua, Ian                         1056547   19320   2026/01/13 5:59:25 PM PST Lecture                     
+Navarro, Rodney                   0291985   19320   2026/01/13 5:59:27 PM PST Lecture                     
+Ocampo, Xionaya                   0972874   19320   2026/01/13 5:59:49 PM PST Lecture                     
+Ramos-Ruiz, Naomi                 0870617   19320   2026/01/13 5:59:46 PM PST Lecture                     
+Rana, Amir Xian Jaryl             1060870   19320   2026/01/13 5:59:21 PM PST Lecture                     
+Romero, Alexis                    0692985   19320   2026/01/13 5:59:58 PM PST Lecture                     
+Rullan, Brialyn                   1021678   19320   2026/01/13 5:59:39 PM PST Lecture                     
+Sanchez, Brianna                  1065787   19320   2026/01/13 6:00:00 PM PST Lecture                     
+Sequeiros, Arely                  0880073   19320   2026/01/13 5:59:16 PM PST Lecture                     
+Sinsuan, Steffany Joy             0973521   19320   2026/01/13 5:59:31 PM PST Lecture                     
+Villanueva, Victor                1075713   19320   2026/01/13 5:59:39 PM PST Lecture                     
+Pereira Pedraza, Grecia           0667404   19320   2026/01/13 5:59:42 PM PST Lecture     4               
+Estrada Ortiz, Celeste            0779243   19320   2026/01/13 5:59:45 PM PST Lecture     7               
+Castro-James, Elijah              0862449   19320   2026/01/13 5:59:01 PM PST Lecture     1               
+Esparza, Andrew                   0897993   19320   2026/01/13 5:59:28 PM PST Lecture     3               
+Franco, Matthew                   0914213   19320   2026/01/13 6:00:45 PM PST Lecture     6               
+Turna, Chetanya                   1033032   19320   2026/01/13 5:59:46 PM PST Lecture     5               
+Hernandez Zamorano, Aleyda        1065482   19320   2026/01/13 6:00:52 PM PST Lecture     2               
+
+
+
+========================
+Session Code: 74605TUE
+Session Date: 1/13/2026
+Session Type: Tuesday Lab
+----
+
+------ UNMATCHED PRESENT   (count = 0)
+--NONE--
+
+------ ABSENT   (count = 7)
+NAME             STUDENTID EMAIL                    SECTION SESSIONTYPE WAITLISTPOSITION
+Anchondo, Leah   1012027   LMAnchondo1@MY.SCCCD.EDU 19320   Tuesday Lab                 
+Corrales, Cindy  0863823   CYCorrales1@MY.SCCCD.EDU 19320   Tuesday Lab                 
+Cruz, Noah       1044628   NJCruz3@MY.SCCCD.EDU     19320   Tuesday Lab                 
+Lopez, Ishmael   1012110   IJLopez9@MY.SCCCD.EDU    19320   Tuesday Lab                 
+Mendoza, Jacob   0898731   JMMendoza17@MY.SCCCD.EDU 19320   Tuesday Lab                 
+Ocampo, Xionaya  0972874   XAOcampo1@MY.SCCCD.EDU   19320   Tuesday Lab                 
+Sanchez, Brianna 1065787   BJSanchez7@MY.SCCCD.EDU  19320   Tuesday Lab                 
+
+------ PRESENT   (count = 24)
+NAME                              STUDENTID SECTION TIMESTAMP                  SESSIONTYPE WAITLISTPOSITION
+Alvarado Hanggi, Alexander        1043122   19320   2026/01/13 9:01:07 PM PST  Tuesday Lab                 
+Alzamazmi, Yusef                  1052687   19320   2026/01/13 8:52:50 PM PST  Tuesday Lab                 
+Argueta, Marcos                   1022835   19320   2026/01/13 9:08:15 PM PST  Tuesday Lab                 
+Contreras, Rosa                   0915236   19320   2026/01/13 8:53:27 PM PST  Tuesday Lab                 
+Cordova, Tara                     0968050   19320   2026/01/13 8:53:31 PM PST  Tuesday Lab                 
+Detomal, Cherie Jade              1003499   19320   2026/01/13 8:52:24 PM PST  Tuesday Lab                 
+Escareno, Shantal                 1047747   19320   2026/01/13 10:42:53 PM PST Tuesday Lab                 
+Garcia Calvario, Ivan             1053789   19320   2026/01/13 8:54:26 PM PST  Tuesday Lab                 
+Garcia Hernandez, Evelyn          0951887   19320   2026/01/13 8:59:48 PM PST  Tuesday Lab                 
+Howard-Hughes, Aja                0979883   19320   2026/01/13 8:53:55 PM PST  Tuesday Lab                 
+Lopez, Mylissa                    0638890   19320   2026/01/13 8:54:41 PM PST  Tuesday Lab                 
+Madrigal, Maritza                 1058727   19320   2026/01/13 8:53:23 PM PST  Tuesday Lab                 
+Martinez Pacheco, Yanexzi Luruama 0753867   19320   2026/01/13 8:52:54 PM PST  Tuesday Lab                 
+Moua, Ian                         1056547   19320   2026/01/13 8:52:54 PM PST  Tuesday Lab                 
+Navarro, Rodney                   0291985   19320   2026/01/13 8:52:44 PM PST  Tuesday Lab                 
+Perez-Rodriguez, Cristina         1090762   19320   2026/01/13 8:53:03 PM PST  Tuesday Lab                 
+Ramos-Ruiz, Naomi                 0870617   19320   2026/01/13 8:52:53 PM PST  Tuesday Lab                 
+Rana, Amir Xian Jaryl             1060870   19320   2026/01/13 8:53:25 PM PST  Tuesday Lab                 
+Romero, Alexis                    0692985   19320   2026/01/13 8:59:43 PM PST  Tuesday Lab                 
+Rullan, Brialyn                   1021678   19320   2026/01/13 8:53:37 PM PST  Tuesday Lab                 
+Sequeiros, Arely                  0880073   19320   2026/01/13 9:12:05 PM PST  Tuesday Lab                 
+Sinsuan, Steffany Joy             0973521   19320   2026/01/13 8:54:30 PM PST  Tuesday Lab                 
+Villanueva, Victor                1075713   19320   2026/01/13 8:52:44 PM PST  Tuesday Lab                 
+Hernandez Zamorano, Aleyda        1065482   19320   2026/01/13 9:09:41 PM PST  Tuesday Lab 2               
+

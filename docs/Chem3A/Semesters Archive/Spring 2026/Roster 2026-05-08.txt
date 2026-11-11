@@ -1,0 +1,56 @@
+
+1	Lopez, Mylissa	0638890	MLopez359@MY.SCCCD.EDU	Enrolled
+2	Romero, Alexis	0692985	ARomero102@MY.SCCCD.EDU	Enrolled
+3	Corrales, Cindy	0863823	CYCorrales1@MY.SCCCD.EDU	Enrolled
+4	Sequeiros, Arely	0880073	ACSequeiros1@MY.SCCCD.EDU	Enrolled
+5	Rios, Tayler	0934356	TKRios1@MY.SCCCD.EDU	Enrolled
+6	Garcia Hernandez, Evelyn	0951887	EGarciaHernandez5@MY.SCCCD.EDU	Enrolled
+7	Cordova, Tara	0968050	TRCordova1@MY.SCCCD.EDU	Enrolled
+8	Ocampo, Xionaya	0972874	XAOcampo1@MY.SCCCD.EDU	Enrolled
+9	Sinsuan, Steffany Joy	0973521	SCSinsuan1@MY.SCCCD.EDU	Enrolled
+10	Anchondo, Leah	1012027	LMAnchondo1@MY.SCCCD.EDU	Enrolled
+11	Lopez, Ishmael	1012110	IJLopez9@MY.SCCCD.EDU	Enrolled
+12	Rullan, Brialyn	1021678	BCRullan3@MY.SCCCD.EDU	Enrolled
+13	Argueta, Marcos	1022835	MGArgueta1@MY.SCCCD.EDU	Enrolled
+14	Alvarado Hanggi, Alexander	1043122	ACAlvaradoHanggi1@MY.SCCCD.EDU	Enrolled
+15	Cruz, Noah	1044628	NJCruz3@MY.SCCCD.EDU	Enrolled
+16	Escareno, Shantal	1047747	SEscareno3@MY.SCCCD.EDU	Enrolled
+17	Alzamazmi, Yusef	1052687	YZAlzamazmi1@MY.SCCCD.EDU	Enrolled
+18	Garcia Calvario, Ivan	1053789	IMGarciaCalvario1@MY.SCCCD.EDU	Enrolled
+19	Brar, Khushpreet	1054023	KKBrar9@MY.SCCCD.EDU	Enrolled
+20	Kaur, Vardaanvir	1054041	VKaur12@MY.SCCCD.EDU	Enrolled
+21	Moua, Ian	1056547	INMoua2@MY.SCCCD.EDU	Enrolled
+22	Madrigal, Maritza	1058727	MMadrigal55@MY.SCCCD.EDU	Enrolled
+23	Rana, Amir Xian Jaryl	1060870	AMRana1@MY.SCCCD.EDU	Enrolled
+24	Sanchez, Brianna	1065787	BJSanchez7@MY.SCCCD.EDU	Enrolled
+25	Villanueva, Victor	1075713	VJVillanueva2@MY.SCCCD.EDU	Enrolled
+26	Perez-Rodriguez, Cristina	1090762	CAPerezRodriguez3@MY.SCCCD.EDU	Enrolled
+
+1	Jones, Joshua	0395213	JRJones2@MY.SCCCD.EDU	Enrolled
+2	Lee, Ia	0431206	IOLee1@MY.SCCCD.EDU	Enrolled
+3	Smith, Mariam	0483202	MSmith155@MY.SCCCD.EDU	Enrolled
+4	Jensen, Caitlen	0605357	CAJensen1@MY.SCCCD.EDU	Enrolled
+5	Gonzalez, Elizabeth	0663703	EGonzalez164@MY.SCCCD.EDU	Enrolled
+6	Pereira Pedraza, Grecia	0667404	GPereiraPedraza1@MY.SCCCD.EDU	Enrolled
+7	Yang, Kaleen	0747932	KKYang6@MY.SCCCD.EDU	Enrolled
+8	Castro-James, Elijah	0862449	ENCastroJames1@MY.SCCCD.EDU	Enrolled
+9	Coronado, Jacob John	0873827	JJCoronado2@MY.SCCCD.EDU	Enrolled
+10	Lewis, Cortney	0893445	CALewis5@MY.SCCCD.EDU	Enrolled
+11	Hargrave, Brandon	0894716	BWHargrave1@MY.SCCCD.EDU	Enrolled
+12	Esparza, Andrew	0897993	AAEsparza2@MY.SCCCD.EDU	Enrolled
+13	Franco, Matthew	0914213	MHFranco3@MY.SCCCD.EDU	Enrolled
+14	Montijo-Merancio, Taylor	0927257	TJMontijoMerancio1@MY.SCCCD.EDU	Enrolled
+15	Leal, Emili	0940189	EELeal1@MY.SCCCD.EDU	Enrolled
+16	Estrada Hernandez, Alondra	0952999	ASEstradaHernandez1@MY.SCCCD.EDU	Enrolled
+17	Carrillo, Noe	0959275	NMCarrillo1@MY.SCCCD.EDU	Enrolled
+18	Ortiz, Nathan	1019941	NEOrtiz2@MY.SCCCD.EDU	Enrolled
+19	Cooper, Khamarri	1023112	KFCooper1@MY.SCCCD.EDU	Enrolled
+20	Mendez, Mitxell	1029129	MMendez72@MY.SCCCD.EDU	Enrolled
+21	Moua, Ashtyn	1031196	ATMoua6@MY.SCCCD.EDU	Enrolled
+22	Turna, Chetanya	1033032	CTurna1@MY.SCCCD.EDU	Enrolled
+23	Tapia Mendoza, Yasmin	1045370	YTapiaMendoza1@MY.SCCCD.EDU	Enrolled
+24	Pastrana, Emily	1049326	EEPastrana1@MY.SCCCD.EDU	Enrolled
+25	Yang, Celine	1055302	CYang363@MY.SCCCD.EDU	Enrolled
+26	Mubarak, Maya	1060108	MYMubarak1@MY.SCCCD.EDU	Enrolled
+27	Hernandez Zamorano, Aleyda	1065482	AYHernandezZamorano1@MY.SCCCD.EDU	Enrolled
+28	Lopez, Briana	1067159	BLopez128@MY.SCCCD.EDU	Enrolled
