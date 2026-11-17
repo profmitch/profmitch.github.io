@@ -1,0 +1,35 @@
+.container {
+   counter-reset: qnum;
+}
+.question {
+   color: rgb(59, 4, 4);
+   padding:0.2em 0.5em;
+   border: 2px solid black;
+   margin-top:2em;
+   counter-increment: qnum;
+}
+.question::before {
+   content: counter(qnum) ". ";
+
+   font: bold oblique 125% Tahoma,sans-serif;
+   display: inline-block;
+   color: rgb(110, 5, 5);
+   margin-right:0.3em;
+}
+/*
+.qnum {
+   font: bold oblique 125% Tahoma,sans-serif;
+   display: inline-block;
+   color: rgb(110, 5, 5);
+   margin-right:0.3em;
+} */
+.quant {
+   font:bold 100% Verdana;
+   color: blue;
+   white-space: nowrap;
+}
+.units {
+   font-weight: bold;
+   font-style: italic;
+   white-space: nowrap;
+}

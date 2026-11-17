@@ -1,0 +1,33 @@
+/* Specific styling for chemical formulas (e.g., H2O) */
+.chemical-formula {
+    font-family: 'Courier New', monospace; /* Monospace for precise alignment */
+    font-size: 0.95em;
+    vertical-align: sub; /* Subscripts are essential */
+}
+
+
+/* Styling for chemical equations */
+.chemical-equation {
+    font:bold 125% 'Courier New', monospace;
+    display: block; /* Ensures equation takes its own line */
+    margin: 0.5em 0;
+    color:blue;
+    text-align: center; /* Center align equations for better presentation */
+}
+
+/* Styling for reaction arrows */
+.reaction-arrow {
+    font-size: 2em;
+    font-weight: bold;
+    margin: 0 0.5em;
+}
+img { border: 3px solid blue;}
+img.center {
+   margin:1em auto;
+   display:block;
+}
+/* Styling for specific chemical terms or highlighted elements */
+.highlight-term {
+    font-weight: bold;
+    color: #d32f2f; /* Red for emphasis */
+}

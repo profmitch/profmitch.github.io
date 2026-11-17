@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Titrations</title>
+    <script src="../js/defaults_html.js"></script>
+    <script>
+   window.MathJax = {
+      tex: {
+         inlineMath: [['$','$'], ['\\(','\\)']],
+         displayMath: [['$$','$$'], ['\\[','\\]']]
+      },
+      chtml: {
+         displayAlign: 'left',
+         displayIndent: '0em'
+      }
+   };
+    </script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<!--
+Use of IFRAME in Canvas Pages
+
+<p><span style="color: maroon; font: bold 12pt Roboto,Tahoma,sans-serif; border: 1px solid maroon; background-color: #ffe8e8; padding: 0.2em 0.4em;">THIS PAGE CONTAINS AN EMBEDDED WEB DOCUMENT that has a scrolling window. So be careful in scrolling to ensure you see all the content.</span></p>  
+
+<p style="margin-top: 2em;"><iframe style="border: medium none currentcolor;" 
+    src="https://profmitch.github.io/IterativeSummarization.html" 
+    width="100%" height="1500px" loading="lazy"></iframe></p>
+
+-->
+</head>
+<body>
+    <p id="title"></p>
+<div class="container">
+<p>
+    The <a href="#titration">more salient details</a> of the technique can be found closer to the end of this document, if you are looking for that.
+</p>
+<h1>Preparation</h1>
+<h2>The Buret</h2>
+<h3>Stopcock Fit Check</h3>
+<p>
+The stopcock should turn easily without a loose feel to it.</p>
+<p>
+There is a locking nut on back of stopcock that controls the fit of the stopcock. Turn it clockwise to tighten, counterclockwise to loosen. Adjust the locking nut so that it does cause resistance in the turning of the stopcock but not so loose that the stopcock at all wobbles in the buret.</p>
+<h3>Rinsing/Cleaning of Buret</h3>
+<p>The rinsing/cleaning is done with the buret held by hand, not clamped to a ring stand.</p>
+<ol>
+    <li>Have a large (maybe 250 mL, better 400 mL) beaker ready to collect waste liquid</li>
+    <li>With stopcock closed, fill up buret with your purest water (double distilled or deionized (DI) water, or equivalent).</li>
+    <li>Holding buret upright over beaker, open stopcock and let it drain halfway or so.</li>
+    <li>Then invert the buret top end into the waste beaker and get the rest of the water out
+        <br><b>Note: you can always empty a buret fast by keeping stopcock open and inverting with buret top emptying into waste beaker</b>
+    </li>
+    <li>INSPECT THE BURET: the inside of the buret should not have especially visible large water droplets. If not, perform a <a href="#cleaning">cleaning operation</a>. Otherwise go to next step.
+    </li>
+    <li><b>Final rinse with titrant.</b> After the DI water rinsing, the buret should be rinsed with titrant. In most cases, with stopcock closed, the buret can be filled with titrant using the full buret volume (50 mL).</li>
+    <li>Now open the stopcock to let the titrant solution clean out the stopcock bore and the bore of the buret tip. Let it flow fully out.</li>
+    <li>Close the stopcock. Fill the buret with the titrant solution to the proper volume and continue with your <a href="#titrationtechnique">titration technique</a>.</li>
+</ol>
+    
+<h3 id="cleaning">(Extra/Special) Cleaning of The Buret</h3>
+<p>
+    This should be done only if needed. In most cases, only the rinsing is done, especially if the buret was recently used, and the same titrant was used previously.</p>
+<ol>
+    <li>For the 50 mL buret, obtain about 10-15 mL acetone. (Usually in the lab. Let instructor know if it is not.) </li>
+    <li>With stopcock closed, add the acetone to the buret.</li>
+    <li>Holding the buret almost horizontal (maybe 5-10 degrees angled up at top end), and with a gloved hand, placing your finger/thumb over the top of buret in a way to keep it closed that would prevent liquid from coming out, swish and swirl the acetone by angling the buret from horizontal with buret top end slightly up and then to slightly down, again making sure your gloved finger prevents acetone escape.</li>
+    <li>Holding the buret over waste beaker upright, open stopcock fully and let it empty. This cleans out the stopcock and the bore of the tip too.</li>
+    <li>Repeat steps (ii) to (iv) of the water rinse procedure described above. Because acetone was used, the water rinsing should be done at least twice. If no water droplets are seen (or are sufficiently reduced) in the water rinsing procedure, then the buret should be considered clean. If it looks troubling, repeat the acetone cleaning process a second time, which should be sufficient.</li>
+</ol>
+
+<h1 id="titrationtechnique">Titration Technique</h1>
+<p>
+    There are good videos to demonstrate titration. What is offered below is some text relating technique in summary and notes on experience.
+</p>
+<p>Use a clean buret (see the preparation section) when performing the technique</p>
+
+<h2>Preliminary Calculations (REQUIRED!!)</h2>
+<p>
+Titrations must be done within the volume of the buret containing the titrant. An initial and final volume readings are obtained during the titration. If the buret is a 50.00 mL buret, then the titration volume must be within 50 mL.
+</p>
+<p>The first consideration is the target concentration (molarity) of the titrant. This is determined by the calculation of the estimated amount (in moles) of titrant needed divided by the volume to be delivered by the buret and multiplied by the <b>titrant-analyte reaction ratio:</b></p>
+<p class="math" style="margin:0;">
+    $$ \text{target molarity} (M) = \left(\frac{\text{mole titrant}}{\text{max buret mL volume}}\right)\left(\frac{\text{1000 mL}}{\text{1 L}}\right)\left(\frac{x \text{ mole analyte}}{y \text{ mol titrant}}\right) $$
+</p>
+<p>
+In that equation, the last quantity is the reaction ratio. For NaOH titrant reacting with a monoprotic weak acid (like acetic acid), <i>x = 1</i> and <i>y = 1</i>. For NaOH titrant reacting with diprotic weak acid (like oxalic acid), <i>x = 2</i> and <i>y = 1</i>. For NaOH titrant a triprotic weak acid (like citric acid), <i>x = 3</i> and <i>y = 1</i>.
+</p>
+<p>
+If you are working with masses (g) in terms of the titrant or analyte, you will need to convert with molar masses (in g/mol) for either one of the two. Titrations are about either making adjustments to the titrant concentration or changing the analyte volume used (perhaps halving or doubling the volume, or even using more or less), in order to achieve the titration in one "go". Other
+</p>
+<p>
+Consider an example. 
+</p>
+<h2>Standardizing the Titrant</h2>
+<p>The <b>titrant</b> is the solution in the buret used to determine the amount of the <b>analyte</b> or <b>titrand</b> in the flask. But before that part can be done, the concentration (molarity, in units of molar <i>M</i>) needs to be determined. This process is called <b>standardization</b>. In the experiment done in Chemistry 3A course, a carefully measured mass of oxalic acid (a diprotic organic acid, meaning it has TWO H<sup>+</sup> acid ions) will be dissolved in a flask, with a couple of drops of phenolphthalein pH indicator dye added, and the titrant (sodium hydroxide, NaOH) will be added carefully to the equivalence or end point. When the volume of NaOH in mL is obtained, and with the mass of the oxalic acid analyte known, the concentration of the NaOH titrant can be calculated:</p>
+<p class="math" style="font-size:83%;margin:0;">
+    $$ \text{mass oxalic acid} \times 
+    \left( \frac{1}{\begin{aligned}&\text{oxalic acid}\\&\text{molar mass}\end{aligned}} \right) \times \frac{\text{2 mol NaOH}}{\text{1 mol oxalic acid}} \times \frac{1}{\text{NaOH vol (mL)}} \times \frac{\text{1000 mL NaOH}}{\text{1 L NaOH}} = \begin{aligned}&\text{concentration}\\&\text{NaOH} (M)\end{aligned}$$
+</p>
+<p>
+    Here's an example calculation (OAA = oxalic acid), with an initial buret volume reading of <b>2.54 mL</b> and a final buret volume reading of <b>18.85 mL</b> (be mindful of buret precision!):
+</p>
+<p class="math" style="margin:0;font-size:85%;">
+    $$ (\text{0.1049 g OAA}) \left(\frac{\text{1 mol OAA}}{\text{126.068 g OAA}}\right)
+    \left(\frac{\text{2 mol NaOH}}{\text{1 mol OAA}}\right) \left(\frac{\text{1}}{\text{18.85 mL}-\text{2.54 mL}}\right) \left(\frac{\text{1000 mL NaOH}}{\text{1 L NaOH}}\right)= 0.102\text{ M NaOH} $$
+</p>
+<p>
+    That is close to the target concentration of 0.1 <i>M</i> NaOH for the titrant.
+    Note that the precision  (significant digits) of the final calculated result was limited by the precision of the measured quantity, the "2.54 mL" buret reading.
+</p>
+
+<h2 id="titration">Determining the Unknown Amount of Analyte (Titrand)</h2>
+<ol>
+<li><b>Preliminary</b> At this point, the buret is rinsed (cleaned, if necessary) with water then titrant.</li>
+<li><b>Positioning of Ring Stand on Benchtop.</b> First and foremost, your equipment is your highest priority. That includes its placement on the bench. Your lab notebook and devices (phones, laptops) are your lowest priority as to placement in your workspace. Your ring stand base be close to the front edge of the bench top: close enough to work comfortably without the danger of falling off the bench top. Once the equipment is placed well for comfortable work, the lab notebook and devices can be placed around it without those being put at risk for spillage of any solution during maniplation.</li>
+<li><b>Vertical Positioning of Clamp on Ring Stand.</b> With a 50 mL buret, you want the target volume delivered to be in the 25-40 mL range. Hold the buret next to the ring stand, and move the clamp up to hold the buret perhaps between the 0 and 15 mL mark. That will nicely support the buret without the clamp interfering with the reading.</li>
+<li><b>Mount the Buret on Clamp</b>. The clamp rod is put on the clamp holder (the part that holds clamp to stand) so it extends the buret from the stand comfortably. Put the flask to receive the titrant on the base of the ring stand, which allows positioning of the buret over the center of the flask mouth. Adjust the clamp rod horizontally on the clamp holder to do this.</li>
+<li><b>Check The Vertical Positioning of Buret.</b> Stand away from the buret and check that it is positioned vertically. You are to check at at right angles (two dimensions): stand in front of it, then position your head to the right or left of the buret and check its verticality at the right angle. Getting it at right angles front and back and right and left requires loosening and tightening the buret clamp holder and the holder of the clamp rod on the ring stand.</li>
+<li><b>Fill The Buret with Titrant</b>.
+    <ol>
+        <li>Make sure the stopcock is closed.</li>
+        <li>Pour out titrant into a clean 50 mL beaker. You can pre-rinse the beaker with a small amount of titrant and discard before pouring the titrant in the beaker.</li>
+        <li>You can use the beaker pour spout directly to fill the buret with titrant. If you use a funnel put on in the buret top, then pre-rinse the funnel too with titrant. Fill with titrant to around (even above) the 0 mL mark.</li>
+        <li>Open the stopcock to let out just enough (usually a few mL) so that the titrant pushes out any air bubble in the tip bore below the stopcock. One scientist actually unmounts the buret and holds it at almost a horizontal angle  to do this step: it minimizes the titrant used to push the air bubble out.</li>
+        <li>Add more titrant now to the buret: The level should be below the 0 mL mark (into the measurement area) so an initial reading can be obtained. The level should not really be beyond the 2 mL mark. The level can be in between.</li>
+    </ol>
+</li>
+<li><b>Initial Reading</b>. Accurately read the titrant meniscus to record the initial reading. Be mindful of the buret precision. For a buret of up to 50 mL in capacity, the division marks are 0.1 mL, but the precision because of the gap in the marks is going to be 10% of the mark. This is 0.01 mL. So a recorded measurment of "1.52 mL" would be expected (note the two decimal places!)</li>
+<li><b>Place The Analyte In Its Container Underneath Buret</b>. The solution containing the analyte should be placed an Erlenmeyer flask, usually 125 mL, perhaps 250 mL. The geometry of the Erlenmeyer is ideal to prevent splashing of the solution from the flask while hand swirling during titration. Splashing out can even occur with gentle swirling, emphasis on gentle. Place a drop or two of pH dye indicator (like phenolphthalein) in the titrand and mix</li>
+<li><b>Rapid initial large volume delivery</b> If you know the approximate final volume to be delivered, it is possible to deliver quickly a volume which is around 5 mL less than the expected volume. For example, if the target volume is predicted to be around 30 mL, open the stopcock fully and let 25 mL be quickly delivered into the flask (without swirling/stirring), then shut off the flow with the stopcock. If it's 25 mL as the expected volume, make it 20 mL quickly delivered. At the end, mix (swirl or stir) to ensure thorough mixing.</li>
+<li><b>Drop-By-Drop Delivery.</b> This is where the technique happens. This can be done by one person who controls the stopcock with the dominant hand and swirls gently wiht the non-dominant hand. Better, if a team of two, have one do the swirling/mixing, and the other control the delivery from the stopcock. The stopcock should be controlled to do drop by drop delivery at a particular rate. Like one drop every second, or one drop every two seconds. With each drop, swirl-mix. With each drop, you are looking for the indicator dye forming where the drop hit the solution, getting darker, and the drop color close to persisting.</li>
+<li><b>Detecting the Equivalence Point (the Endpoint)</b>. Have a squirt bottle with DI water ready.As the titration proceeds drop-by-drop, be patient here. You are looking for the one drop that causes the most faint of color to persist in solution. Use the squirt bottle on the tip to deliver a small amount of water that washes in any titrant clinging to the buret tip. Now check the analyte solution again. Place a white piece of paper underneath the flask to help in color detection. When you are sure of the faint color, take a buret reading.</li>
+<li><b>One More Drop.</b> Add one more drop, being sure to wash it in from buret tip. If that color is darker (or even very dark), you can be sure of your buret reading from the previous step. Mark it as the final volume reading. If it is still faint, take another volume reading and record it below the first reading. Repeat the one more drop part.</li>
+</ol>
+<p>
+Repeat the titration. Usually these are done in triplicate (<i>n</i> = 3). Your lab book will contain a table that directs you as to how to do all tabulations and calculations
+</p>
+<hr>
+
+<div>
+<p style="margin:0 0 0 2em;float:right;">
+<a href="https://www.youtube.com/watch?v=sFpFCPTDv2w" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.youtube.com/vi/sFpFCPTDv2w/mqdefault.jpg" alt="Watch video on YouTube" width="200" height="113">  
+</a>
+</p>
+<p style="clear:left;">
+This video is tightly scripted and edited to keep the time minimal (6 and half minutes). The technique is exactly how the careful scientist will perform the titration. 
+</p>
+</div>
+
+<div style="clear:both;margin:3em 0 4em 0;padding-top:2em;">
+<p style="margin:0 0 0 2em;float:right;">
+<a href="https://www.youtube.com/watch?v=WAXPw-7aTnw" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.youtube.com/vi/WAXPw-7aTnw/mqdefault.jpg" alt="Watch video on YouTube" width="200" height="113">
+</a>
+</p>
+<p>
+This video is not so tightly scripted for time (about double the time) as the first video, but the content is good and is worth watching if you have the time just to compare technique. He has some points to make to advance your experience.
+</p>
+</div>
+</div>
+<p id="lastpara"></p>
+</body>
+</html>
+

@@ -1,0 +1,53 @@
+	body { background-color:#282848;margin:0;color:#e8ffe8;width:55em;
+	  padding:2em 5em;margin-left:auto;margin-right:auto;}
+	hr { margin:2em 10%; color:#caa;height:4px; }
+	h1 { margin:2em 0 0 0; font:bold 140% Helvetica,Arial,sans-serif;color:#9f9; }
+	h2 { margin:1.5em 0 0 0;font:bold 120% Helvetica,Arial,sans-serif;
+		font-style:oblique;color:#9ff;}
+	h3 { font:bold 110% Bookman,"Times New Roman","Times Roman",Times,serif;
+			margin:1.25em 0 0 0;color:#c8c838;}
+   h4 { font:bold italic 100% Helvetica,Arial,sans-serif;
+			margin:1.25em 0 0 0.5em;color:#88f888;}
+	table { margin:1em 0;background-color:#e8e8ff;color:black;
+		font:normal 100% Arial,Helvetica,sans-serif; }
+	th, td { padding:0.1em 0.5em; }
+	th { background-color:#ffe8e8; }
+	td { background-color:#e8ffe8; font:normal 100% Arial,sans-serif;}
+	th.supra-header {background-color:black;color:white;}
+	caption { color:yellow;background-color:navy;
+		font:bold 105% Verdana,Adana,Helvetica,sans-serif; }
+	cite {font:normal 100% "Courier New",Courier,monospace;}
+	ol ol li { list-style-type : lower-alpha ; }
+	ol ul, ul ul { list-style-type : square ; }
+	a {color:lime;text-decoration:none;}
+	a.darkonlight {color:#02d;text-decoration:none;}
+	em {font-weight:bold;}
+	strong {font-weight:bold;font-family:sans-serif;text-transform:uppercase;}
+   .note, .special-note {margin:0 1em;
+		padding:1em;background-color:#ccc;color:maroon;
+      font:normal 80% Arial,Helvetica,sans-serif;
+	}
+	.left {text-align:left;}
+	.right {text-align:right;}
+	.top {vertical-align:top;}
+	.bottom {vertical-align:bottom;}
+   blockquote {font-family:'Courier New',Courier,monospace;}
+	a:hover {color:magenta;}
+	#title {text-align:center;font:bold 200% Tahoma,Arial,sans-serif;
+		color:#fea;margin:1.5em 6%;clear:both;}
+	#subtitle {text-align:center;font:bold 160% Verdana,Arial,sans-serif;
+		color:#fae;margin:-1em 3% 2em 3%;clear:both;}
+	.essaybox {background-color:#111;text-align:justify;padding:3em 5%;
+        border:1px solid #f41;font-size:14pt;}
+		  /*
+       font:normal 100% Verdana,Arial,Helvetica;} */
+
+
+	#contentbox { margin:2em 10%;clear:both;width:45em; }
+
+	#logo-top {font:normal 70% "Times New Roman","Times Roman",Times,serif;
+	  padding:0.2em 0.5em;float:right;border:1px solid red;
+	  text-align:center;background-color:#ffe0e0;color:#244;}
+	#logo-bottom {font:normal 90% "Times New Roman","Times Roman",Times,serif;
+	  padding:0.5em 1em;border:1px solid red;margin:3em 25%;
+	  text-align:center;background-color:#e8e8f0;color:#252;}
